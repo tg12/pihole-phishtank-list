@@ -1,2 +1,4 @@
-# pihole_phishtank-_list
+# pihole_phishtank-list
 A blocklist for Pihole from PhishTank
+
+https://www.phishtank.com/
