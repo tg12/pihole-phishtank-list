@@ -11,16 +11,16 @@ https://pi-hole.net/
 
 https://old.reddit.com/r/pihole/
 
-Consider Whitelisting
+Consider Whitelisting the following domains
 
-accounts.google.com
-docs.google.com
-drive.google.com
-play.google.com
-script.google.com
-sites.google.com
-storage.cloud.google.com
-www.google.com
+* accounts.google.com
+* docs.google.com
+* drive.google.com
+* play.google.com
+* script.google.com
+* sites.google.com
+* storage.cloud.google.com
+* www.google.com
 
 [Paypal Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EV8XUGXX76UXQ&source=url)
 
