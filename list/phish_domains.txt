@@ -6,8 +6,10 @@
 018f3b18cc2962586.temporary.link
 01a-myemail-cox.webcindario.com
 02-update.billing105.com
+02-update.billing202.com
 02-update.billing205.com
 02-update.billing305.com
+02-update.billing405.com
 02348332-a85c-469a-83fe-422672475c48.htmlcomponentservice.com
 02b28863-eee4-466d-823e-f87f0a957da6.htmlcomponentservice.com
 03418f6.netsolhost.com
@@ -92,7 +94,6 @@
 2c3262d59d2716553.tempsite.link
 2cdc7e5b-7814-47db-92fb-0d2698bf3ecb.htmlcomponentservice.com
 2dehands-betaalplatform.net
-2e8e344fdd6f05997db0344462d57ed5.webredirect.org
 2fa.bthei.com
 2no.co
 3.help.uk.secure-resolveproblem.com
@@ -155,7 +156,6 @@
 623112j4j3.codesandbox.io
 64763832.weebly.com
 650vm.app.link
-654298776.weebly.com
 67-20-95-34.unifiedlayer.com
 6ebhaome.s3-website-eu-west-1.amazonaws.com
 71zhuan.com
@@ -233,6 +233,7 @@ abcd.idknet.com
 abcexpresslogistics.com
 abdullahnetwork.com
 aberdeenestateagents.com
+abilityhomefinder.com
 abinstruments.com
 ablerefrigeration.com
 abovittilians.ga
@@ -261,6 +262,7 @@ account.rakuten.co.jp.rzvewazxc.monster
 account.rakuten.co.jp.rzvewazxc.xyz
 account.rakuten.co.jp.safwbz.xyz
 accountchckecker-update-now.drpiza.com
+accountsigninpage.com
 accountspotwdfweefopuriuityur.firebaseapp.com
 accountupdateeee.weebly.com
 accountvarificationggl.000webhostapp.com
@@ -318,7 +320,6 @@ advokatsf-my.sharepoint.com
 advonationusa.com
 aecbank.net
 aegisredmedia.com
-aexkrue93.s3-sa-east-1.amazonaws.com
 affiliatewarfare.com
 affp.com.br
 afirehorse.com
@@ -348,7 +349,6 @@ ajaoawcrewkmxalgptsypljyyzeosxuwvghp-dot-gl494903049.wl.r.appspot.com
 ajmstech.com
 ajpaulolandscaping.xyz
 ak151679.000webhostapp.com
-akjskabd.weebly.com
 aklitfest.roarstudios.co
 akmaterials.net
 akob.org
@@ -369,10 +369,10 @@ alealtaseguros.com
 aleandroreis.adv.br
 alergiaalpolen.com
 alert-confrim00.gq
+alert-payeesecurity.cc
 alert-securityrisk.cc
 alertasydesbloqueo.ml
 alertasynotificacionesdesbloqueo.cf
-alerts-security.com
 alertspaqessystem.cf
 alertupgradenoties.weebly.com
 aletheasaidel.com.br
@@ -529,7 +529,6 @@ app.box.com
 app.dialoginsight.com
 app.getaccept.com
 app.mailgun.com.new-session.41923.christinewerner.net
-app.rspread.com
 app.sendgrid.com.login.2543.cifuentescortegaza.com
 app.surveymethods.com
 app44666604777.blogspot.com
@@ -652,13 +651,11 @@ atagucsea.com
 atbpro.com
 atccn3.it
 atd4y3mo457rec020.wixsite.com
-atdontrepluth.weebly.com
 atendimento.bbesmiles.com
 atendimento.livelobb.com
 atendimento.rnp.br
 athelpservice.weebly.com
 athrluckyday0003.top
-atl-connect.weebly.com
 atlantajeeps.com
 atlantatree.com
 atlantisblinds.co.uk
@@ -673,7 +670,6 @@ atpscan.global.hornetsecurity.com
 atriumlandscape-my.sharepoint.com
 att-currently-sign-in.weebly.com
 att-db.com
-att-l0ginz.weebly.com
 att-loginz.com
 att-mycsptickets.com
 att-rosy-at.weebly.com
@@ -689,31 +685,22 @@ att9tp5rfp06tyl.godaddysites.com
 attach6119bgz.myratesale.com
 attadminofficeverificationnwet.weebly.com
 attatt.godaddysites.com
-attcab.weebly.com
-attcomnetconnect.weebly.com
 attcurrentlyatt.weebly.com
-attdg.weebly.com
 attdomainfastservices.weebly.com
-attdomainverification.weebly.com
 attechgroup.sharepoint.com
 attentionverification.weebly.com
 atteverywhere.weebly.com
 attfastreply101.weebly.com
 attfastservicsupgrade.weebly.com
-attfdemal.weebly.com
 attget.weebly.com
-atthelp.weebly.com
 atthelpsolution.weebly.com
 atthii.yolasite.com
 atthome.weebly.com
 attivazione-webank.com
-attjamz.weebly.com
-attjtthhhh.weebly.com
 attlatestsignup.weebly.com
 attlife.weebly.com
 attlinkformatverification-netmailer2.weebly.com
 attlinksmail.weebly.com
-attllogin.weebly.com
 attlogg.weebly.com
 attloginpriorverification-attmailservice.weebly.com
 attloginprx-loginscreen.weebly.com
@@ -721,21 +708,16 @@ attloginscreenupdatingnewservicewebpagee.weebly.com
 attloinweb.weebly.com
 attmailslink.weebly.com
 attmailslinks.weebly.com
-attmailupgrading.weebly.com
 attmailweb.weebly.com
 attmailyahoologinverificationaccount9872domain.weebly.com
 attmanagerservicesfiles.weebly.com
 attmyworld.weebly.com
-attnetconnectnet.weebly.com
-attnetgabs.weebly.com
 attnett.yolasite.com
-attnetworkconnect.weebly.com
 attnewupdatelougn.weebly.com
 attonlinemailservice.weebly.com
 attonlineserviceupdated.weebly.com
 attonlineservicevericationupdate.weebly.com
 attonlineservicevericationupdatenow.weebly.com
-attonlineyahoomailaccountlogin.weebly.com
 attrbty0ptt56ylp.godaddysites.com
 attseracseas.weebly.com
 attservicepage.weebly.com
@@ -746,21 +728,17 @@ attsubmit.weebly.com
 attsupportservice.weebly.com
 atttlogiin.weebly.com
 atttnesyt.weebly.com
-attttttttttttttttt.weebly.com
 atttupdatemail.weebly.com
 atttupdatemaill.weebly.com
 attupgradingsite.weebly.com
 attverificationloginyahooaccountmaildomain435.weebly.com
-attverificationmailupgrade.weebly.com
 attverificationservicemail.weebly.com
-attwab.weebly.com
 attweblogin2020.weebly.com
 attwebpage123verificationonline-net.weebly.com
 attyahooconfirmation.weebly.com
 attys.yolasite.com
 atu946.ca
 atualizacaocred.com
-atualizadoagora.weebly.com
 atualizarboletovencido.com.br
 atualizarcartao.kinghost.net
 atualizaronline2020.com
@@ -804,7 +782,6 @@ avrupaestetikguzellik.com
 avsesovs.000webhostapp.com
 avtonomnoe-otoplenie.dp.ua
 awosin.gq
-axeldlowgclow.ml
 axeldlowgclow.tk
 axelhess.com
 ayjegvgm.livedrive.com
@@ -826,7 +803,6 @@ b652a2bc292984381.temporary.link
 babybreeze.ua
 backend-htz.letundra.com
 backendproject.com
-backup-twitch-tv.000webhostapp.com
 backyarddelivery.com
 badarsa.com
 badhaee.com
@@ -836,7 +812,6 @@ bahisadam.net
 bajer.info.pl
 bakerpatagonia.com
 balancasvilaarens.com.br
-balancingpigeon.com
 balconservice.ru
 balitransithotel.com
 baliyepalka.com
@@ -871,6 +846,7 @@ bankofamericaonlinesignin.elevator-love.com
 banlstmo.com
 bannerlhomeb.com
 banorte.org.mx
+banreservaspro.com
 banreservassrl.com
 banrisul.com.br
 baobulksms.com
@@ -895,7 +871,6 @@ bayanicgiyimsitesi.somee.com
 baypouya.blogspot.com
 bazdoufap.blogspot.com
 bb-smilesresgate.com
-bb.acessosappf.info
 bb.cadastrarmobile.com
 bb.cadastroappfacil.info
 bb.comeseemedia.com
@@ -1053,11 +1028,9 @@ bfbe9f00142987612.temporary.link
 bfm-berlin.de
 bfy7.hyperphp.com
 bgms.cit.net
-bgvhfnyhsgvwatt.weebly.com
 bgyv.cl
 bh068.app.link
 bhd-plataforma-participante.actualplataforma.com
-bhdhhgyegbhsa.weebly.com
 bialorus.pl
 bibliotecabayer.org.ar
 bibwebshop.com
@@ -1157,6 +1130,7 @@ br138.teste.website
 br90.teste.website
 brackishchidek.com
 bracontabil-com-br.webap02.redehost.net
+braginskycollection.ch
 brahminudyog.com
 braineyak.com
 brainsconsulting.ro
@@ -1250,7 +1224,6 @@ carewanderlust.com
 carfanstickers.com
 caringkidspreschool.com
 carkeylockout.com
-carlosfierroworks.com
 carna-nabahiagente.com
 carpetcleaning-rosevilleca.com
 carryco.com
@@ -1395,7 +1368,6 @@ cimslp-my.sharepoint.com
 cingular-oac.qpass.com
 ciowceduamazon.xyz
 circuitodesignpr.com.br
-circulooficialescaballeria.com
 cirpedal.com.ar
 citglobalaccess.com
 citibanamex.ahmreg.mx
@@ -1480,7 +1452,6 @@ columbus.shortest-route.com
 com-as.ru
 com-en.ru
 comambrioches.com.br
-comcastlogin.weebly.com
 comcastxf.weebly.com
 comercialdym.com.gt
 comercializadoratodoacero.com
@@ -1491,7 +1462,6 @@ commbank-secure.app
 commbank.global
 commbankmobile.mobi
 commbanksecure.com
-commcastt.weebly.com
 commercialinvestingcenter.com
 community-ebay-de-diskussionsforen-us1.html-5.me
 community-ebay-de-t32-diskussionsforen.rf.gd
@@ -1545,7 +1515,6 @@ corporacionplaneta.com
 corresponsive-comme.000webhostapp.com
 cort.as
 corujaodicas.com.br
-cosplay-academy.com
 costruction.dev:443
 couchpop.com
 countfund.com
@@ -1554,7 +1523,6 @@ countsingnorpeo1923.blogspot.com
 coupedeparis.f3m.free.fr
 couponhunch.com
 courgeon-immobilier.fr
-courtauction.biz
 covid-19.netent.link
 covidchamp.com
 covidmask24.com
@@ -1564,7 +1532,6 @@ cp0c7pc.du.r.appspot.com
 cpc.cx
 cpccivils-my.sharepoint.com
 cpinternational.ru
-cprodx.weebly.com
 cpssomail.adorasso.com
 cqaxz.club
 cqtev.club
@@ -1573,7 +1540,6 @@ cragged-market.000webhostapp.com
 crat86prinkk.ml
 crazyvidsx17.unaux.com
 createchsoft.com
-creationannejerome.fr
 creativechigz.co.zw
 creativecombat.com
 crediacisa.net.br
@@ -1622,6 +1588,7 @@ cupom1.motog-plus-8thgeneration.com
 cupom1.motog8-plus-ref-xt2019-2.com
 cupom2.motog-plus-8thgeneration-64gb-blue.com
 cupom2.motog-plus-8thgeneration.com
+cupom2.motog8-plus-ref-xt2019-2.com
 cupom2.smartphone-motorola-g8-plus.com
 curait.com
 currentlyattmaiiilservice.weebly.com
@@ -1629,10 +1596,7 @@ currentlyattsiqninlo.weebly.com
 currentlyattt.weebly.com
 currentlyattyah00mail.weebly.com
 currentlyattyah00mailsignin.weebly.com
-currentlyautoanswer.weebly.com
-currentlyconusers.weebly.com
 currentlymyatt.weebly.com
-currentlyupdat.weebly.com
 currentlyupdate.weebly.com
 currentupdate1111.weebly.com
 currrntlyattt.weebly.com
@@ -1727,6 +1691,7 @@ deplint013.nl
 dereamer-my.sharepoint.com
 deref-gmx.net
 deref-mail.com
+desafaddesed.com
 desbloqueio-suporte.com
 desdeelamor.com
 desentupidoraportobelo.com.br
@@ -1761,6 +1726,7 @@ dhl-express.pl
 dhl-mmmail.com.ng
 dhl.export.dns-cloud.net
 dhlexlogs.ndc.cloudns.cl
+dhlexpress-logistic.tk
 di448620c5wng.cloudfront.net
 diabetes-insight.info
 diabloiptvreseller.com
@@ -1778,7 +1744,6 @@ dijital-btk-duyurular-giris.ml
 dimolo.activehosted.com
 dincellaw-my.sharepoint.com
 dipelnet.com.br
-directattserviceformsitesloginpage-html.weebly.com
 diskussionsforen-community.html-5.me
 diskussionsforen-ebay-de-chat-ws8.html-5.me
 diskussionsforen-ebay-de-chat.html-5.me
@@ -1820,7 +1785,6 @@ docudrive.org
 document1083921.aremusbooking.com
 documentdownload.ga
 documentos.sfo2.digitaloceanspaces.com
-docusigncansignatureadmin.weebly.com
 docusignemail1com1login1dropbox9com64bae2a51a5b3dropbox7com.mybabydeck.com
 docusignsecure1com1login1dropbox9com64bae2a51a5b3dropbox7com.mybabydeck.com
 doeiso.com
@@ -1878,7 +1842,6 @@ drssilverman.com
 dsastars.org
 dsgcbeonline.com
 dspofipsdoifopsdifposidopfi.blogspot.com
-dthjfghhhhhhhhhhhhhh.weebly.com
 dtiblog.com
 dtnturztion.com
 dubailuxurypropertiess.com
@@ -2027,7 +1990,6 @@ emf-central.com
 emilyeggebraatenphotography.com
 emmagrace2009.typeform.com
 emojidictionary75d139b8243558347d778dafc4b938fe.dns-cloud.net
-empresas.co.mz
 emsi-lobo.firebaseapp.com
 en.gb-btmobile.com
 en.home.gb-bt.com
@@ -2043,12 +2005,10 @@ energynsolucoes.com.br
 eng.tni.ac.th
 engcamp.org
 enorma.is
-enquantodurar.com
 enquantodurartudo.com
 ensemblearsmundi.com
 enterppal.xyz
 entraitement978987.blogspot.com
-entretenimentopersonalizadonu.com
 entromizer.com
 envirodrilling.com
 envoyemlak.com
@@ -2062,7 +2022,6 @@ equestarianpelhamsparkway.com
 equinsight.com
 erelfragac.tk
 erh-consulting.com
-ericgoodlifejohnson.com
 eros-group.ru
 erp.dadagroup.org
 errictandalex.kenaidanceta.com
@@ -2188,7 +2147,6 @@ fastrackparents.com
 fatreipromin.tk
 fatturazione.jdevcloud.com
 faturada-vergi-iadesi.net
-faturalarda-vergiodemesi.com
 fawltorconsroc1976.blogspot.be
 fawltorconsroc1976.blogspot.com
 fax.gruppobiesse.it
@@ -2234,7 +2192,6 @@ festival-airfryer.com
 fewpauses.xyz
 fg6666.000webhostapp.com
 fgaia36.wixsite.com
-fgfgdsdgg3.weebly.com
 fggffggfff.weebly.com
 fgts-saque.org
 fgtss2020.com
@@ -2258,7 +2215,6 @@ financiallifecoaching.builderallwp.com
 financialone.com.hk
 fincomsal.com
 fintraderclub.com
-fiquepordentroagora.com.br
 firebasehostingproxy.page.link
 firebasestorage.googleapis.com
 firesidelodge.net
@@ -2275,6 +2231,7 @@ fj1gh.app.link
 fjowceduamazon.monster
 fjz.otters.dev
 fk-engineering.com
+fkgfd.weebly.com
 flagmeamor.temp.swtest.ru
 flame-burger.com
 flamingoshopping.cloudaccess.host
@@ -2286,7 +2243,6 @@ floorsdirectltd.co.uk
 fls.doubleclick.net
 fluidaccountants.co.uk
 fluidguitars.com
-fluorinemoglen.com
 fluteguards.nn.r.appspot.com
 flygfilmer.se
 flying-wings-consultants.com
@@ -2299,7 +2255,6 @@ foliar.pl
 followersgratisinstagram.unaux.com
 foma-ura-lote.firebaseapp.com
 foo.developpement.me
-food.omsoftware.org
 foodmarketplace.getdokan.com
 foodtime.us
 footzyflipflops.com
@@ -2311,7 +2266,6 @@ foregrounder4.ddns.net
 foregrounder5.ddns.net
 foregrounder6.ddns.net
 foresta-mod.firebaseapp.com
-forexgame1.co.vu
 forexgame11.co.vu
 forexgame2.co.vu
 forexgame4.co.vu
@@ -2329,7 +2283,6 @@ forum-catalan.fr
 forum.sexabout.ru
 forums.rstools.club
 fosterholiday.com
-fotkinapiec.com.pl
 fotkinapiec.net.pl
 fotoblad.com
 fountainofhope.com
@@ -2418,7 +2371,6 @@ gatetampcraez.com
 gaughrith.com
 gaws30.webwave.me
 gawvs.in
-gbellelectric.com
 gbengineeringservices.com
 gbmfg-my.sharepoint.com
 gbrecords.london
@@ -2476,7 +2428,6 @@ giftwithus.in
 gillas-first-project.webflow.io
 gilli-album-dropbox.getforge.io
 ginettelambert.com
-ginstirrup.com
 girlzempoweredsl.com
 gkelectronics.in
 gkh-psp.ru
@@ -2512,7 +2463,6 @@ goattlogin.com
 gobbojr.com.br
 godandgoddess.com
 godrejs-southestate-okhla.com
-goheelsgo.com
 golbalsbcccc.weebly.com
 gold-mail.ru
 gold-mail.ru:443
@@ -2631,7 +2581,6 @@ gvnconstructions.com
 gwenburvetemi.tk
 gwisalltrack.com
 gxsb8.csb.app
-gyee.cf
 gyheventos.cl
 gz.scvhomes411.com
 gz.vickifletcher.com
@@ -2658,7 +2607,6 @@ handle.booktobi.com
 handmadebyamber.ca
 handsonbeautysalon.co.uk
 hangsengecard.com
-hangthang.com
 hannetjiefaurie1.creatorlink.net
 haoauo.club
 haoshun-ks.com
@@ -2785,6 +2733,7 @@ hmrc.validation-panel.com
 hmrcgovuk.secure-validations.com
 hmrcgovuk.validation-panel.com
 hmrcgovuk.validation-pki.com
+hmrgovpanel.com
 hmtk.ump.ac.id
 hn-sprkasse-hsn1.cloudconnect57884.de
 hocviennongnghiep.com
@@ -2860,6 +2809,7 @@ hoyongrujak.com
 hoyongsopbuah.com
 hozaybeats.com
 hphotel-my.sharepoint.com
+hpsssbclass.000webhostapp.com
 hqcwrfoclnvaahzdzwltaitcoyalptvbbhre-dot-gl494903049.wl.r.appspot.com
 hrblocks56599.uc.r.appspot.com
 hropp.azurefd.net
@@ -2879,7 +2829,6 @@ httpsmailupbro.my-free.website
 hualish01.com
 hublaalikes.com
 humani.biz
-humput23.000webhostapp.com
 hunnybunnyschool.com
 huntersolano.com
 huntingtononline.ddns.info
@@ -2927,7 +2876,6 @@ icloud.com.support-careplus.com
 icloud.com.us-i.top
 ictservice1044.moonfruit.com
 icut.co
-id-eeukauth.ga
 id.aplle.com.3459030783429047239047893758934-resolve.account89247824862.id123e78624.bigoldfuture.com
 id837842.mixh.jp
 idea-logowanie.at
@@ -2944,7 +2892,6 @@ iforgot-applebr.com
 ift2y.csb.app
 igazszabolcs.hu
 iginstantfollowers.com
-ignin.weebly.com
 ignive.com
 igoh2o.net
 igsasso-my.sharepoint.com
@@ -3013,12 +2960,10 @@ inmobiliariabucanero.com
 inner-nuance-269123.ue.r.appspot.com
 innexinc.com
 innoaura.com
-innominate-suit.000webhostapp.com
 innopia.co.jp
 innovative-progress.com
 innovativemobilephonemarketing.com
 inoxserv.com.br
-instafollowersget.000webhostapp.com
 instagram-online.mcdir.ru.mcpre.ru
 instagram.com.login.s5df46ss21s.oficinasylocalesfiore.com
 instagram.connect-token1829192019291020301e148103kdmcm381938.com
@@ -3093,6 +3038,7 @@ itaucard-comvoce.com
 itaucard.digital
 itaucard.trocarmilha.com
 itaucardcliente.com
+itaudesbloqueio.com
 itaulimite.com
 itauunibanco.rf.gd
 itbgiso.keltron.in
@@ -3104,6 +3050,7 @@ itsididti.ga
 itsorensen.com
 itsssl.com
 itukaskstore.com
+itunes-idapp144.000webhostapp.com
 itunes-signup.performancehorizon.com
 itunesgenerator.com
 itxuye.com
@@ -3164,7 +3111,6 @@ jewishunitedstates.com
 jghtnfdvcty.weebly.com
 jgkh.xyz
 jhubgjehknme.weebly.com
-jibun-tm.com
 jibun-tn.com
 jibun-za.com
 jiibli.muhamedkhalid.com
@@ -3173,7 +3119,6 @@ jikonmusic.com
 jimryky.blogspot.com
 jimsautomotiveshop.com
 jiradiagnostics.com
-jivecomunicacoes.com.br
 jjj.snprobbx.pbz.r.de.a2ip.ru
 jklertsy.de
 jnb1u.app.link
@@ -3233,14 +3178,17 @@ jpasportsmedia.com
 jpmovinghouston.com
 jppost-ahe.top
 jppost-aho.top
+jppost-apo.top
 jppost-awo.top
+jppost-azo.top
 jppost-bdi.top
 jppost-bho.top
 jppost-bka.top
 jppost-bne.top
 jppost-bno.top
-jppost-bzu.top
+jppost-bpo.top
 jppost-cfu.top
+jppost-cgi.top
 jppost-cmo.top
 jppost-czu.top
 jrtggtrgtrjrgrd.com
@@ -3254,7 +3202,6 @@ judithleoni.com
 judysigner.cafe24.com
 juiys.my-free.website
 julhocerto-sensacional.com
-julhocertomgz.com
 julhodeferiasoba.com
 julhoincrivelvouja.com
 juliekrafchick.com
@@ -3403,6 +3350,7 @@ kvjswgnrqgkzscqxsp.top
 kwetukumenogatz.co.tz
 kwikomfi-lab.com
 kypel-vip.ru
+l-global.com.mx
 l2.brasilplaygames.com.br
 la-biquetterie.com
 laaksik1.emlnk.com
@@ -3418,7 +3366,6 @@ laesenciaradicaenelsentido.com
 laforestaincantata.dog
 lakatosfoundation.com
 lakesidebankplc.com
-lakotacurzey.com
 lakp.pl
 lamonika.com
 lamvb.czweb.org
@@ -3523,6 +3470,7 @@ lj65.com
 lletaub.com
 lloyds.bank.new-request.com
 lloyds.bank.update-application.com
+lloyds.bank.verify-request.com
 lloydsbank.tel
 lmaxhk.com
 lms.ozyegin.edu.tr
@@ -3540,6 +3488,7 @@ locatemydevice.cloud
 locflgnzdsafdynbxznjpkjrhwkezyaspmwn-dot-gl494903049.wl.r.appspot.com
 locked.appleid.apple.com.services-and-support.com
 locksmithkitchener.ca
+locksmithwaterloo.ca
 lodigmp.net
 lofon-add.firebaseapp.com
 logenlbb.dk
@@ -3629,6 +3578,7 @@ lvk.hop.ru
 lvov.arkadak.sarmo.ru
 lyckly.com
 lycroproducts-my.sharepoint.com
+lydi89a.000webhostapp.com
 lydiadance6.000webhostapp.com
 lymakra.ro
 lynkos.com.br
@@ -3681,7 +3631,6 @@ magazineliquidacao2020.com
 magazineluiza-lojaoline.com
 magazineluiza-shoploja.com
 magazineluiza.ezyro.com
-magazineluiza28.com
 magazyn.allegro.secfence.lesavik.net
 magplant.cf
 magusenergia.com.br
@@ -3738,6 +3687,7 @@ mail.poeliersbedrijfhazenbroek.nl
 mail.pubgbox13.com
 mail.pwsportal.nl
 mail.rivergovc.nl
+mail.rjhumancare.com
 mail.royagainstms.nl
 mail.schoonheidssalonlafinesse.nl
 mail.secure07-paypal-login.gleeze.com
@@ -3764,7 +3714,6 @@ mail.yasmijnwestenberg.nl
 mail01.tinyletterapp.com
 mail2.mclink.it
 mail31407.ue.r.appspot.com
-mailaccountcheckerverificationlogindomain.weebly.com
 mailgcccdeduowa.my-free.website
 mailingshipauthbox.webador.com
 mailonlineverificationattyahoologin12.weebly.com
@@ -3774,7 +3723,6 @@ mailsfuca.moonfruit.com
 mailupgrade2info.site44.com
 mailupgradeversion.weebly.com
 mailvtx.moonfruit.com
-mailyahooattaccountverificationloginnet.weebly.com
 maisplanosdesaude.com
 majlisfes.com
 makrobettgir1.blogspot.com
@@ -3823,12 +3771,12 @@ marketplace32839738419371.com
 marketplace46342557140550.com
 marketplace862848275787.com
 marketscan.ai
-markharpermemorial.co.uk
 marm0o0lak.persiangig.com
 marmantieral0672435544.usluga.me
 marsold.cl
 maruesushikan.jp
 masader.ps
+masilplas.pt
 masng.com
 masonhate.000webhostapp.com
 masoudeaumer.com
@@ -3849,7 +3797,6 @@ mavibets.blogspot.com
 mavibett1.blogspot.com
 mavibett11.blogspot.com
 maxiemarketing.com
-maximizemeasly.com
 maxinjurylawcom-my.sharepoint.com
 mayamimar.com
 mayelleguesthouse.com
@@ -3894,7 +3841,6 @@ merveyilmazericmimarlik.com
 mesdasofertasluizamagalubrasil.com
 mesdearraiaoffers2.com
 mesdosnamorados-americanas.com
-mesengger-page-recovery-ads.000webhostapp.com
 mesquecamping.es
 messagez.tk
 metallist-nk.ru
@@ -3925,7 +3871,6 @@ micro-sales.co.uk
 microfinancesoft.nn.r.appspot.com
 micrologin.netlify.app
 microsoft-excel.kr.jaleco.com
-microsoft-update.github.io
 microsoftmail.moonfruit.com
 microsoftofficerenewal.com
 microsoftswebmails.moonfruit.com
@@ -3933,6 +3878,7 @@ microsofy.creatorlink.net
 microtech-solutions.in
 microxxxxxhelpxxxxxxx.moonfruit.com
 micxxxxxdeskxxxxxx.moonfruit.com
+midasbuyyfreeucoffer.000webhostapp.com
 middleeastbeautycouncil.com
 midlandrubber.vn
 midlertidig.idesign.dk
@@ -3963,13 +3909,11 @@ mix-bom-preco.com
 miyabibar.vn
 mj7x.com
 mjgh.hyperphp.com
-mjghbcndffggbfv.weebly.com
 mjkkennel.com
 mkbcompany-my.sharepoint.com
 mkbl99.com
 mkbnetbankar-hu.surge.sh
 mkdhawan.net
-mkimages.com.au
 mktameri.com
 mlcrosoft-0nedrive-portal.el.r.appspot.com
 mlm724.ir
@@ -3990,6 +3934,7 @@ mnstuff.com
 mntruckclub.com
 mntungwa.co.za
 moatia.com
+mobigo-eg.com
 mobile-app.sytes.net:422
 mobile-ltau.serveirc.com:2020
 mobileacesso24horas.com
@@ -4044,12 +3989,12 @@ mtq.riau.go.id
 mudahpayroll.com
 mudanzassuarez.com
 muetherewallet.com
+mufg-ac.com
 muggetlogin.oa.r.appspot.com
 mughlaicuisineny.com
 multbancos.webnode.com.br
 multicarepayroll.com
 multimediamouth.com
-multservices.net.br
 mundovirtualhabbo.blogspot.com
 munjanattukudumbayogam.com
 muralsbysteve.com
@@ -4092,7 +4037,6 @@ myappleidcard.info
 mybaazar.in
 mybankicbc.com
 mybrainman212.com
-mycarshowstuff.com
 myckck.in
 mycoerver.es
 mycontact-ee.co.uk
@@ -4133,7 +4077,6 @@ mytoolsbd.osstradezone.com
 myupdates-eeservices.com
 myviralreport.com
 myvk.byethost14.com
-myworldatt.weebly.com
 mzlbupz.cluster028.hosting.ovh.net
 n26-impostazioni-sicurezza.it
 n4r7u.app.link
@@ -4152,7 +4095,6 @@ najeebalhajri.com
 nameitinvites.com
 namoridoss2entrega.com
 nandabolsas.com.br
-nansexports.com
 nashvillerealestatetrust.com
 nasih-network.com
 nataliebutka.com
@@ -4176,7 +4118,6 @@ nedisnive.ml
 nef.com.pk
 negociaraymore.com
 negociarbancopan.com
-neopics.in
 nesahejskehs.com
 nesgolftocal1939.blogspot.ro
 net-eco.fr
@@ -4257,7 +4198,6 @@ norcaltc-my.sharepoint.com
 nordcity.by
 noreply-netelle.blogspot.com
 noreply2redirect2.site44.com
-noreplysignin.weebly.com
 normzroom.com
 nortiainteriors.com.au
 nortonknatchbull-my.sharepoint.com
@@ -4350,6 +4290,7 @@ oldschool-membership.com
 oldschool.secure.com-ha.top
 oldschool.secure.com-rz.ru
 olgas.in
+olryt2.com
 omcronenergy.com
 omdream.com.br
 omeglecaptures.ihostfull.com
@@ -4384,7 +4325,6 @@ online.aapfbb.digital
 online.aappfbb.com
 online.apf-pagina-inicial2020.com
 online.jimmyjohns.com
-onlineattmaillerverificationaccountlogindomain.weebly.com
 onlinebeaupros.com
 onlinebusservice.com
 onlinehizmeti-turkeygovtr.com
@@ -4591,7 +4531,6 @@ paypal.co.uk.usertkdwcwf5rtv.settingsppup.com
 paypal.co.uk.userusau0jsescq.settingsppup.com
 paypal.co.uk.userv6a53xj6r74.settingsppup.com
 paypal.co.uk.userx6dv4s7z67t.settingsppup.com
-paypal.co.uk.vld9.ru
 paypal.com.0.confirmation.account-security.7741d16fef9571be97716a958700fe4d7741d16fef9571be97716a958700f.3233.privado.info
 paypal.com.0.security-confirmation.3408b8d8a758db7c66b435a2c13352e4.as2.2u.se
 paypal.com.0.security-confirmation.d72b69c8e37aec662e13e39d929d6e3d.as2.2u.se
@@ -4700,7 +4639,6 @@ pjcm.net
 pjuoeeaqdmfxktiszv.top
 pkhnm.ac.in
 pkk.depok.go.id
-pkktanahdatar.id
 plaboixo.com
 place.onlypeterplace.com
 planetaeco.bio
@@ -4737,8 +4675,8 @@ poligrafiapias.com
 polymachinevending.com.br
 polypropylen.sk
 pompe-a-chaleur-eco.com
+ponenspumpion.com
 pontofrio.webpremios.com.br
-poritripte.com
 pornseks.zyns.com
 portal.clientebb-especial.me
 portal.docdeliveryapp.com
@@ -4869,7 +4807,6 @@ py.pl
 pymcars.com
 pypal.init.account.justns.ru
 q4a.ir
-q692y-mais-olha-que-e-bem-top.com
 q92y-sua-para-voce-aproveita.com
 qabankofamerica.benefitcentre.com
 qida-lightlng.com
@@ -4908,9 +4845,11 @@ rajwebtechnology.com
 rakuten.co.jp-login-account.memberyourset.space:8081
 rakuten.co.jp.domainconnect.rakuton.icu
 rakuten.co.jp.dwefrzx.xyz
+rakuten.co.jp.egsit.com
 rakuten.co.jp.egwiughb3kjrgheoinisagnerasd23sidhgfe.ga
 rakuten.co.jp.egwiughb3kjrgheoinisagnerasd23sidhgfe.ml
 rakuten.co.jp.gjfghdfg23sfgsdgfsd3sdgsdfgg5gsdfg.tk
+rakuten.co.jp.i2irewghiuwhb32idgshogn43iogreoi32h.tk
 rakuten.co.jp.i5girh4kjhrg356kjgierfvriohjt4ogjhrohjtrfmddg.ga
 rakuten.co.jp.ieugiu3kuewgfiubsiuanfd14ukgfds45isahds.ga
 rakuten.co.jp.ieugiu3kuewgfiubsiuanfd14ukgfds45isahds.gq
@@ -4920,22 +4859,23 @@ rakuten.co.jp.ifeowin234ihsfomngesd1ligorejhh.gq
 rakuten.co.jp.ifeowin234ihsfomngesd1ligorejhh.ml
 rakuten.co.jp.ioeoiw35kldbfiuwe1ljfdhf.tk
 rakuten.co.jp.k9fewiouhi34hdsnoigrni64bkjewhbgkjernklsaf3fsf.ga
+rakuten.co.jp.k9fewiouhi34hdsnoigrni64bkjewhbgkjernklsaf3fsf.gq
 rakuten.co.jp.k9fewiouhi34hdsnoigrni64bkjewhbgkjernklsaf3fsf.ml
 rakuten.co.jp.khdhgs2sadfsdfg4sdgdsg56fbgfsdg.ml
 rakuten.co.jp.loginrakutenjp-help.com
+rakuten.co.jp.rakuetnsdfwewemcasmlwefasd.monster
 rakuten.co.jp.rakutenaajsdklemzdmwe.monster
-rakuten.co.jp.rakutenasdfmaksdlnwefw.icu
 rakuten.co.jp.rakutenasdfmaksdlnwefw.monster
 rakuten.co.jp.rakutenasdfmaksdlnwefw.xyz
 rakuten.co.jp.rakutenasdmfwezsdfw.icu
 rakuten.co.jp.rakutenasdmfwezsdfw.monster
 rakuten.co.jp.rakutenasdmfwezsdfw.xyz
 rakuten.co.jp.rakutensdfmwklemf.icu
-rakuten.co.jp.rakutensdfwefzxcvwwezcver.buzz
 rakuten.co.jp.rakutensdfwefzxcvwwezcver.monster
 rakuten.co.jp.rakutensdfwefzxcvwwwrfasd.monster
 rakuten.co.jp.rakutensdfwemfrzrebe.xyz
 rakuten.co.jp.ratuenlktjlkznlkrlkl.xyz
+rakuten.co.jp.sdghfdhgjrt3sdgfgfd65gsfhd5jhdghdfh.ml
 rakuten.co.jp.ui23iofhewoihgdsg3isdghukgfbsamds1ufidwhg.cf
 rakuten.co.jp.ui23iofhewoihgdsg3isdghukgfbsamds1ufidwhg.gq
 rakuten.co.jp.ui23iofhewoihgdsg3isdghukgfbsamds1ufidwhg.tk
@@ -4969,7 +4909,6 @@ re-redirection-pp-account-id98763432.blogspot.com
 re-verif.weebly.com
 react-ba2roi.stackblitz.io
 reaj-hosting.com.ve
-real-estate.fb-business.ads-498t874gy76dfy98vgd987tw6trg.com
 real-express.pro
 realchef.com.au
 realestate-page-id-6158952341.blogalice.com
@@ -5002,7 +4941,6 @@ redsam.com
 redwood-dot-skype-meeting.uc.r.appspot.com
 reebe.snprobbx.pbz.r.de.a2ip.ru
 reelaxfilms.com
-ref345.site
 rege.opriessnig.at
 regina.ninetendev.com
 regiscoyne.com
@@ -5070,7 +5008,6 @@ rimasindramayu.com
 rinnoba-aruva.jdevcloud.com
 rinnovare-accountmanager.com
 rioinformal.com
-rionstille.weebly.com
 rioverdepar.com.br
 riposte-epidemie-rdc.info
 riqvabluaz.bestserviceo.su
@@ -5200,7 +5137,6 @@ sanjeevaniprimaryschool.com
 sanjilkumar.com
 sanjoaquinvalleybrewfest.com
 sankalpnashamukti.com
-sankalpyoga.com
 sanlikala.com
 sanoltechnologies.com
 santander.byethost24.com
@@ -5257,7 +5193,6 @@ seaquestsa.com
 searalimento.com
 seasonalhostage.com
 secretyoaf.com
-secure-commbank.app
 secure-facebook.listing-id9326729-marketplace.com
 secure-fbmdn.listing-ad23454793.com
 secure-gpayment.serveirc.com
@@ -5265,6 +5200,7 @@ secure-helponline.misecure.com
 secure-info.co.uk
 secure-login-portal-outlook.el.r.appspot.com
 secure-monitor.com
+secure-paypal-service-review-dashboard2.casacam.net
 secure-runescape.com-re.icu
 secure-runescape.com-zv.ru
 secure-verify.loseyourip.com
@@ -5305,7 +5241,6 @@ secure75.securewebsession.com
 secureaccounts.moonfruit.com
 secureacnts.moonfruit.com
 secureadd.goshly.com
-securedcurrently.weebly.com
 securedowastaffsurvey.moonfruit.com
 secureduser.du.r.appspot.com
 securesquared.co.uk
@@ -5361,7 +5296,6 @@ servicabbout.blogspot.com
 service-orange-france4859654.yolasite.com
 service-proffisiinazioneel.cloudaccess.host
 service-social-media-invitation-0200001101.my.id
-serviceaccountalert.weebly.com
 servicefacture.blogspot.com
 servicemaxclean.com
 servicemazoneorder.demoparlour.com
@@ -5372,6 +5306,7 @@ services.runescape-mobile.ru
 services.runescape.as-runs.com
 services.runescape.com-as.ru
 services.runescape.com-en.ru
+services.runescape.com-eo.xyz
 services.runescape.com-memb.top
 services.runescape.com-un.ru
 services.runescape.com-vf.top
@@ -5442,7 +5377,6 @@ shuanghan3598.serveusers.com
 shutheatrearts.org
 shuvobarta.com
 si-na-logs.webnode.com
-si23ue-ta-aqui-para-voce.club
 si61oba-agora-so-venha-conferir.com
 siamtur.com
 sicherheitsservice1-wixsite-com.filesusr.com
@@ -5460,16 +5394,17 @@ sieck-kuehlsysteme.de
 sierragaragedoors.pro
 siestainterior.iisol.us
 sigaramexports.com
-siggnninattemail.weebly.com
 sigininattmailbox.weebly.com
 sigliving-my.sharepoint.com
 sigmaloyatlygroup.com
 sign-in-pay-pal.tk
 sign-in.websupport.appleid.apple.com.godgoeisinbo.com
 signdomains.in
-signin-att-com-dynamic-amlrr-lrrcontrollers.weebly.com
 signin-att.netlify.app
 signin-store-ws.frontieroption.com
+signin.azamama.com
+signin.azamimis.com
+signin.azemimi.com
 signin.ebay.de.accuo.ca
 signin.ebay.de.id67.cf
 signin.eday.co.uk.ws.edayisapi.dllsign.inusingsslpuseridcopartnerid2siteid.zdfxx949xyss1pnbh0soabfdzgdh2kppnu.reippl.com
@@ -5477,7 +5412,6 @@ signin.eday.co.uk.ws.isapi.dllsign.oxj5uxbpg75y1dhqkkpg2zmg4hv.waterbay.hu
 signin.gejijae.net
 signinatt.com.yolasite.com
 signinatt.yolasite.com
-signinattemail.weebly.com
 signinin-att-net.weebly.com
 signintoupdateyourattyahoomailtothenewestversionnow.weebly.com
 signintoupgrade.wixsite.com
@@ -5501,6 +5435,7 @@ sirdarnell.org
 siriananstock.com
 sirigyu.com
 sistema.gavadent.com
+sistemacadastral.online
 sistemafbet.com
 sistemaverde.cl
 sistemicaconsulting.com
@@ -5531,7 +5466,6 @@ sklepplay.net
 sklirisrealestate.gr
 skvartremont.ru
 slack-redir.net
-sleepingyukon.com
 slempresas.com.br
 sliver24.webnode.com
 sloaneandhyde.com
@@ -5547,6 +5481,7 @@ smartraining.org
 smartusluga.xja.pl
 smash7289eui.fastpluscheap.com
 smbc-card.com.smbccord.com
+smbc-card.com.smbccords.com
 smbc-cardd.com
 smbc-vpass.fi
 smenrocdirows.gq
@@ -5588,7 +5523,6 @@ social-media-activation-team-0083.tk
 social-media-activation-team-0085.tk
 social-media-activation-team-0091.tk
 social-media-activation-team-0097.tk
-social-media-activation-team-0098.tk
 social-media-invitation-10027450050500.my.id
 social-media-invitation-100274500505001.my.id
 social-media-invitation-100274500505002.my.id
@@ -5632,6 +5566,7 @@ soport-fasione.cloudaccess.host
 soporteacceso.com
 soportefimacrgo.com
 sorayakavir.com
+sorgoconstruction.icu
 sorprenderte.co
 soude-masi.firebaseapp.com
 sougatamitra.com
@@ -5682,7 +5617,6 @@ spropes-auntmillies-com.slite.com
 spyzlaliro.tk
 squaralpakema.tk
 srikshetraneelavara.com
-srivedamaharshiastrologicalcenter.com
 srsmedicalsystemsinc-my.sharepoint.com
 srv88690.ht-test.ru
 srv88723.ht-test.ru
@@ -5784,7 +5718,6 @@ subsapp.com
 subscribes.free.fr
 succoringevacuation.com
 sucrecube.fr
-sucrexxxxxxxxxx.weebly.com
 sucursalbancolombiapesonal.com
 sucursalipersona.webcindario.com
 sucursalpersonas-transaccionesbancolombia-daa.mypressonline.com
@@ -5826,7 +5759,6 @@ superbahisim1.blogspot.com
 superpark-my.sharepoint.com
 suport-mobile.com
 suportstone.000webhostapp.com
-suporttbcooviirtttu.atwebpages.com
 support-appleld.com.secureupdate.duilawyeryork.com
 support-myjcb.t24te.uk.com
 support-sign-in.com
@@ -6107,6 +6039,7 @@ tracylalla.com
 tradegit.top
 trademarkshell.com
 tradepointonline-my.sharepoint.com
+tradetengo.com
 trafficticketlawyeratlanta.com
 trafftraff.com
 trainingcswni.company
@@ -6144,6 +6077,7 @@ trikonsult.com
 trioeletricotwister.com.br
 trivselsdoktoren.dk
 trk-au.debbydesigns.com
+tromvilleltd.com
 trop-de-credits.be
 troystory.net
 trsresourcing-my.sharepoint.com
@@ -6191,7 +6125,6 @@ u1094869.cp.regruhosting.ru
 u14250604.ct.sendgrid.net
 u15314221.ct.sendgrid.net
 u15838okb.ha002.t.justns.ru
-u15901821.ct.sendgrid.net
 u16555450.ct.sendgrid.net
 u16678808.ct.sendgrid.net
 u17296759.ct.sendgrid.net
@@ -6224,6 +6157,7 @@ ujs612.activehosted.com
 uk.gov-tax-assessment.org
 uk0qx.codesandbox.io
 ukcare.in
+ukgovapplication.com
 ukmobile-ee.com
 ukpaypalverify.org
 ukphone.network
@@ -6279,7 +6213,6 @@ updatepaypal-services.com
 updatequota.byethost5.com
 updatespaceatt.weebly.com
 updateyahoodomains.weebly.com
-updateyourattyahoomailtoenjoythenewestfeatures.weebly.com
 updatretreive.cf
 updted-access.demopage.co
 updtowa.xf.cz
@@ -6334,7 +6267,6 @@ utcfny.org
 utechtextil.com.br
 utffunds.com
 utrackafrica.com
-uvsrvfssjhjmuafbpb.top
 uxohd.app.link
 uyuewpgggxzrhcehlkiyfnboyoharyxzikwf-dot-gl494903049.wl.r.appspot.com
 v2vtl.csb.app
@@ -6363,7 +6295,6 @@ vdcasino345.com
 vdchoco.com
 vdrop.ru
 veazieit.com
-vegashatstore.com
 velasquezhandymenservices.com
 vellingekommun-my.sharepoint.com
 veltz3d.com
@@ -6376,11 +6307,11 @@ venmofraud.com
 ventasverdevalle.com.mx
 venue-hire.net.au
 vepdz.bestservicet.su
+verano-ruralvia-grupo.com
 vergaralandscaping.com
 verif-main2d.blogspot.com
 verif-probox3.yolasite.com
 verifacountsfb0.cf
-verifatl.weebly.com
 verifedby3.com
 verifica-accessi-al-tuo-conto.com
 verifica-conto.com
@@ -6394,7 +6325,6 @@ verify-att.com
 verify-b-c-p.dns-cloud.net
 verify-your-information.paypal.com.cmfoundation.org.np
 verify.bradfewx.com
-verifyattmail.weebly.com
 verifyfbconfirm2.ga
 verifyuraccnt.com
 verifyyourwebmail.bitrix24.site
@@ -6431,7 +6361,6 @@ videoskick.com
 viettel-com-dot-c2c01-531c7.uc.r.appspot.com
 view-item.shop
 view.em.gamestop.com
-view.genial.ly
 viewitem.eday.couk.myb.sum.ws.mary.ay.gbh155985.pmjsm9r3ktjpubsnfspsv7.k9l7d5k8uutps498.rebelyell.agency
 viewitem.eday.de.ws.isapi.dllsign.inusingssl1puserid.naxpmj9pkjb2bqne4pm1piqrjpy.huesofgray.com
 viewsonpay.com
@@ -6442,7 +6371,6 @@ vikingwear.com
 vilanovacenter.com
 villashippingtradingpv-my.sharepoint.com
 vilvammatrimony.com
-vimlaoap.cloudns.asia
 vinceduchene.cnbcreative.co.uk
 vincreterfoso.tk
 vintaen.com
@@ -6537,7 +6465,6 @@ wazzpromo.com
 wbr.ly
 wcarver.freehostia.com
 wdedb.maxwelbuilds.com
-wdestaques10.a-semana-especial-chegou.com
 wdestaques10.aamericanas-produtos-em-oferta-hoje.com
 wdestaques10.ame-confiranossosmelhoresprodutos.com
 wdestaques10.americanas-super-saldao-tv-32-sony.com
@@ -6559,7 +6486,6 @@ wdestaques12.julho-mes-ferias-aproveite-grande-ofertas.com
 wdestaques12.melhor-semana-pra-liquida.com
 wdestaques12.mesespecial-eaqui.com
 wdestaques12.motog8power-ame-promo.com
-wdestaques12.sua-melhor-escolha-e-aqui.com
 wdestaques13.coomprree-ccom-amme-ddigiitall.com
 wdestaques13.hoje-ultimas-unidade-detv.com
 wdestaques13.melhorprahoje.com
@@ -6567,8 +6493,6 @@ wdestaques13.mescampeaodeprecobaixo.com
 wdestaques13.mesespecial-eaqui.com
 wdestaques13.motog8power-ame-promo.com
 wdestaques13.somentestasemanasurgente.com
-wdestaques14.aamericanas-produtos-em-oferta-hoje.com
-wdestaques14.ame-confiranossosmelhoresprodutos.com
 wdestaques14.amelhortvsmartv50.com
 wdestaques14.chegouespecialmesdejulho.com
 wdestaques14.coomprree-ccom-amme-ddigiitall.com
@@ -6601,7 +6525,6 @@ wdestaques17.mesespecial-eaqui.com
 wdestaques18.americanas-julho-mes-de-queima-total.com
 wdestaques18.aproveita-essas-ofertas-e-presenteia-sua-namorada.com
 wdestaques18.coomprree-ccom-amme-ddigiitall.com
-wdestaques18.liquidamesdejulho.com
 wdestaques18.meesdeejjlilhooccommprrommocaao.com
 wdestaques18.mesespecial-eaqui.com
 wdestaques18.vocesempreconectadoaomundo.com
@@ -6617,7 +6540,6 @@ wdestaques20.oimuitos-pra-voce.com
 wdestaques20.sua-melhor-escolha-e-aqui.com
 wdestaques21.a-melhor-ofertaeaqui.com
 wdestaques21.coomprree-ccom-amme-ddigiitall.com
-wdestaques21.mega-liquidacao-refrigerador.com
 wdestaques21.motog8power-ame-promo.com
 wdestaques21.oimuitos-pra-voce.com
 wdestaques21.sua-melhor-escolha-e-aqui.com
@@ -6632,7 +6554,6 @@ web-whatsappjoin.itsaol.com
 web.editey.com
 web1.customer-acc-support.com
 web1577.webbox444.server-home.org
-web6238.cweb04.gamingweb.de
 webank-it.com
 webank-sicurezza.com
 webank-urgente-verifica.com
@@ -6647,7 +6568,6 @@ webhost.accentuatehost.com
 webindextesting.pro
 webindia.co
 webkc.dede.go.th
-weblums.weebly.com
 webmail-123reg.app.link
 webmail-msn-live1.com.ng
 webmail.accenter.answerivecovid19.com
@@ -6689,6 +6609,7 @@ weshootcars.co.za
 wesrternsurnion.com
 westhorizonfund.com
 westrechnungonline.fi
+wetorder676.000webhostapp.com
 wetransfer-files-rfq-html-po-pdf.000webhostapp.com
 wetransferauto.000webhostapp.com
 wgiyw.brandstorey.su
@@ -6768,7 +6689,6 @@ worldativelion.my-free.website
 worldbank-pk.org
 worldmedicassist.com
 worliking.com
-worotest.weebly.com
 wow-atlantida.com
 wowskype.com
 wpcorporate.sfdevserver.com
@@ -6811,7 +6731,6 @@ www.127127.almaseraalbahera.com
 www.15percpizza.hu
 www.24-rw-in-ak-llc.net
 www.3d-icon.com
-www.3zonasegurabeta-viabcp.tk
 www.420weeds.us
 www.452901.com
 www.452933.com
@@ -6868,7 +6787,6 @@ www.am-t.by
 www.amazon.co.jp.aldrgg5-r21jh-re36g.guru
 www.amazon.co.jp.ekvs5v1e3q-0vw2vv-qv4.party
 www.amazon.co.jp.intmkt3w41enr-mt3-s2qve.run
-www.amazon.co.jp.r2fwa35tas6251i867kjfhghd143.buzz
 www.amazon.co.jp.s8u913f0fed42f3c6a45b3.net
 www.amazon.de.openid315561.acredkavil.tk
 www.amazon.de.openid315561.alhabeahal.gq
@@ -6996,6 +6914,7 @@ www.capa-cityconsultings.com
 www.capital-it.eu
 www.capovaticanocase.com
 www.carddesignstudio.com
+www.carlsarlu.com
 www.cartoriovendanova.net.br
 www.casalapin.com
 www.casasbahia-imagens.com.br.wifirouter.net
@@ -7063,7 +6982,6 @@ www.contabilidadecom.com.br
 www.contactsupportgroup.com
 www.cooperativabetania.org
 www.coperbyte.co.in
-www.coretec.com.mk
 www.corfuproperty.gr
 www.corinnakegel.com
 www.correoweu.internetbasedfamily.com
@@ -7430,7 +7348,6 @@ www.lifedive.gr
 www.lifetimeconx.com
 www.lightlink.com.cn
 www.likhopadho.com
-www.limpatudomagalu.com
 www.linea1s.com
 www.livingwagenyc.org
 www.lizlav2.lizlavendermr.com.au
@@ -7522,7 +7439,6 @@ www.myetherwalletlogin.wang
 www.myphonereviews.com
 www.mypieracci.com
 www.mysummercamps.com
-www.mysurveygizmo.com
 www.myweddingday.in
 www.n26-impostazioni-sicurezza.it
 www.nab.com.au.nab-accounts.services
@@ -7543,7 +7459,6 @@ www.netevin.com
 www.netflixfreepremium.tk
 www.netstart.ch
 www.neudorf-ole.irv.cc
-www.neverasobreruedas.com
 www.new-three-help.co.uk
 www.newjoysf.org
 www.newlifebiblechurch.org
@@ -7610,7 +7525,6 @@ www.peronaci.it
 www.personalportfolio.com.au
 www.petsittingexcellence.com
 www.pfsoftware.in
-www.pharmacyhelpcenter.com
 www.phdchiropractic.com
 www.phoenixlocksmith-az.com
 www.photos-restoration.com
@@ -7749,7 +7663,6 @@ www.sparksfirehousedeli.com
 www.spaziomicron.it
 www.spdentalclinic.com
 www.specoat.mu
-www.srivedamaharshiastrologicalcenter.com
 www.standingovationsentertainment.com
 www.standrew.co.kr
 www.stargatedesign.com
@@ -7847,7 +7760,6 @@ www.venmofraud-dept.com
 www.venue-hire.net.au
 www.veranda-spb.ru
 www.vereins.at
-www.verifica-dati-conto.com
 www.verify.chase.billing.info.igualdad.cl
 www.verify.paypalaccountlogin.com
 www.verifyspot.net
@@ -7952,7 +7864,6 @@ www13.teamopapai.com
 www14.exclusivo-melhorpravoce.com
 www14.mescampeaodeprecobaixo.com
 www14.mesdejulhocomomelhor0720.com
-www14.ofertas-imperdivel-dasemana.com
 www14.produtos-com-qualidade-aproveite.com
 www14.semanadodescontocerto.com
 www15.amelhorofertadetv2020.com
@@ -7960,7 +7871,6 @@ www15.atacado-varejo-compra-garantia.com
 www15.melhorprahoje.com
 www15.precos-produtos-com-descontos.com
 www16.expirando-ultimo-dia.com
-www16.melhorprahoje.com
 www16.ofertaparasemana.com
 www16.oimuitos-pra-voce.com
 www16.semanadeofertas15.com
@@ -7974,9 +7884,7 @@ www18.nao-saia-decasa.com
 www18.smartphonecelularssmartphone.com
 www18.vemquetemofertasdasemana.club
 www19.amelhorofertadetv2020.com
-www19.dia-de-promo-aqui-mesmo55.com
 www19.encontre-aqui-os-melhores-produto.com
-www19.hoje-ultimas-unidade-detv.com
 www19.ooferttaaunnicaaa.com
 www19.semanadodescontocerto02.com
 www19.semanasemprequente.com
@@ -7997,7 +7905,6 @@ www21.semanadodescontocerto02.com
 www21.somentehoj3.com
 www23.luiza-show-ofertas-promo.com
 www27.descontos-digitais-ofertas.com
-www3-oferta-do-dia.fraldapampers.ml
 www31.especialbrasil.com
 www33.magazin-promocao-mes-de-julho.com
 www333.magalu-melhores-ofertas.com
@@ -8045,7 +7952,6 @@ x394uirjomokf30.wm.r.appspot.com
 x69.eu
 xag42asz.appspot.com
 xanauto.pt
-xerrara.cloudns.cl
 xeynhzaoqu.brandstorey.su
 xf0nitity00.weebly.com
 xfinity.azflyer.net
@@ -8055,13 +7961,7 @@ xgadgetshub.com
 xgyul.codesandbox.io
 xh1643879264863098023.el.r.appspot.com
 xh167894743.el.r.appspot.com
-xh1ou.mjt.lu
-xh1u4.mjt.lu
 xh36954689734987348098.el.r.appspot.com
-xhl68.mjt.lu
-xhlh9.mjt.lu
-xhmnu.mjt.lu
-xhmqj.mjt.lu
 xiangmushizhi.com
 xmley.codesandbox.io
 xmz.sushmagp.com
@@ -8099,10 +7999,8 @@ y80yyxccn.df.r.appspot.com
 y9o5m.codesandbox.io
 yaahooasbccc.weebly.com
 yadadikh.com
-yahhhhmaioool.godaddysites.com
 yahoo.digitalmktg.com.hk
 yahoodesksupport.weebly.com
-yahoolkwfwywfqdq.weebly.com
 yakutcement.ru
 yamabito.main.jp
 yanniff.000webhostapp.com
@@ -8117,7 +8015,6 @@ yhffgvccklmjhnhn.weebly.com
 yiuo.godaddysites.com
 yle-news.com
 ylivestore.com
-yo.soylegal.es
 yoafco.com
 yoafintl.com
 yogonetworks.com
@@ -8157,7 +8054,6 @@ zanger-2.blogspot.com
 zanger-3.blogspot.com
 zanger-4.blogspot.com
 zanger-5.blogspot.com
-zap560105-1.plesk10.zap-webspace.com
 zapslskk.tk
 zara-shops.ru
 zaroosha.in
@@ -8176,7 +8072,6 @@ zealotsimmanences.net
 zek.se
 zemanconstruction-my.sharepoint.com
 zencarthelper.com
-zend-framework-community.634137.n4.nabble.com
 zenithautomotive.com
 zerbe-medien.com
 zesemiva.000webhostapp.com
@@ -8185,7 +8080,6 @@ ziboleq.com
 zidesliti.tk
 zimbraadmincl.weebly.com
 zimbrahomephinfo.000webhostapp.com
-zimbramailactiveadmin.weebly.com
 zipansion.com
 zipcp.com
 zipow.com
