@@ -97,7 +97,6 @@
 55dt23h664.com
 561a64443c3279181.temporary.link
 574ytw.unaux.com
-5759fd9c2fc7.ngrok.io
 5b0f6cb9-0485-4fc7-9775-eb74bb45bbf6.htmlcomponentservice.com
 5bn0j.app.link
 5cfe61ed061038.multiscreensite.com
@@ -320,7 +319,6 @@ amazon-accountupdate.uc.r.appspot.com
 amazon-co-jp-d13f1fed4d24d232f3c591.co
 amazon-ef.xyz
 amazon-mail.biz
-amazon-mail.us
 amazon.1zc.top
 amazon.automatic-security.digital
 amazon.check-mybillinfo.com
@@ -567,7 +565,6 @@ authfailed.ru
 authorcheck.com
 authorizedcompanyemail.com
 authormacchaz.com
-authsharepoint0ndqnqdanesreoo0o0othdhn.s3-ap-northeast-1.amazonaws.com
 authsupport.com
 auto-suchen-mobile.de
 auto24.email
@@ -590,7 +587,6 @@ avelingproduce.co.uk
 averyclough.com
 avestafinance.com
 avia-vip-lohovoz.cam
-aviabingo.us
 avisodesegurancaitausms.ml
 avito-mob.site
 avito-mob.site:443
@@ -641,7 +637,6 @@ bamnola.com
 bancabancolombia.webcindario.com
 bancaporinternet.interbnk.pe.peruadelante.com
 bancaporinternet.lnterbnk.pe.pe-luchaperu.com
-bancaporinternt.lnterbnk.pe.peruadelante.com
 bancaporlnternet.bbva.pe.suzyhomemakerco.com
 bancaporlnternet.lnterbnk.pe-luchaperu.com
 bancaporlnternet.lnterbnk.pe.peruadelante.com
@@ -650,7 +645,9 @@ bancodecredito-bcp.com
 bancodobrasil-app.com
 bancoestado.cl.iusm-cm.com
 bancoestado700.blogspot.com
+bancolombiaindog.webcindario.com
 bancomercantil-org.haxsecurity.org
+bancontact-ing-verzoek.com
 bancopacificologin.web.app
 banemilvy.com
 bank-of-america-secure00.dns05.com
@@ -811,7 +808,6 @@ betpergirisadresimiz.blogspot.com
 betqiuqiu.com
 betterbodynet.acemlnc.com
 bettika.com
-bevmsvujshsazuvwww.top
 bexwebmailupdate.web.app
 beyourstyleland.com
 bfcuformat.uk
@@ -920,7 +916,6 @@ botforbyks.blogspot.ru
 bots-sinergi.com
 bowmanconsultinggroup-my.sharepoint.com
 boxberryy.site
-boxberryy.site:443
 bpl.kr
 bq5t.hyperphp.com
 br622.teste.website
@@ -944,7 +939,6 @@ brighant.com
 brightbots.co.uk
 brishti.tweetw.com
 brkirhwdcphjqwjelniartjqhb-dot-triple-upgrade-293822.rj.r.appspot.com
-brkirhwdcphjqwjelniartjqhb.triple-upgrade-293822.rj.r.appspot.com
 brroduvnaatlwncbimgzuevjfqntkhnfyxlf-dot-cryptic-now-290917.ey.r.appspot.com
 bruniranches.com
 brunoalmeidanet.000webhostapp.com
@@ -1000,7 +994,6 @@ callenderpress.co.uk
 calm-jeweled-almanac.glitch.me
 calzadosiris.com
 campaignsho.com
-campoequip.com
 canhpopbbvdllruslzluzmzfrjtmqjsjvwde-dot-cryptic-now-290917.ey.r.appspot.com
 canhudocfgafefqplodulrpucaygxjaalhzs-dot-cryptic-now-290917.ey.r.appspot.com
 cannabispropertybrokers.com
@@ -1189,7 +1182,6 @@ click.cartsguru.io
 click.em32dat.eu
 click.email.office.com
 click.notice-updatesweb.com
-clickperfected.surveysparrow.com
 clicktotweet.com
 client-webhook-dot-qp-keybank-rrva-2020-04.uc.r.appspot.com
 client-webhook-dot-qp-keybenefit-rrva-2020-04.uc.r.appspot.com
@@ -1259,8 +1251,10 @@ composito.com.br
 comprarcasaenmazatlan.com
 comptesenlignelabanquepostale-fr.surge.sh
 comunicazioniarubait.tumblr.com
+comunity-isue-ideent-andromeda-62.my.id
 con-firma.firebaseapp.com
 config-clavesmstokenbn1.com
+confirm.my.id
 confirmaccount.ir
 confirmdados.com
 congressoagrotec.com.br
@@ -1286,7 +1280,6 @@ content-fbook-91089427.roggiehouse.it
 content-fbook-99846004.roggiehouse.it
 continuouscrusader.com
 contractcomplianceservices.com
-controlling-ports.000webhostapp.com
 conversionseo.co
 convocatoriasactualizadas.com
 conyers.org
@@ -1416,6 +1409,8 @@ daotaoquoctedhxd.edu.vn
 daressalaamtextilemills.com
 dasagrotech.com
 dashtonwat.com
+data-surrel-new.ml
+data-surrel-new.tk
 dataentry.ly
 dataupdaterequired.site44.com
 datelsolutions.co.uk
@@ -1595,7 +1590,6 @@ dtiblog.com
 duffelbagadventures.com
 duiliobozic.000webhostapp.com
 duluxshop.lk
-duoyuanmi.fularelu.icu
 dvla-claimform.com
 dvla-pending.com
 dvla.mytaxrefund-online.com
@@ -1686,6 +1680,7 @@ ee-onlinesupport.com
 ee-secure-help-uk.info
 ee-servicesuk.com
 ee-supportcentre.com
+ee-verifymybilling.com
 ee.billingfailed.com
 ee.login.details-auth-secure.com
 ee.login.secure-details-validate.com
@@ -1770,7 +1765,6 @@ en.polarklima.hu
 enbmw-basvurularesonuc.com
 encarnacionhurtado.com
 encryptdrive.booogle.net
-endgiant.com
 endpointsportal.au-bbva-bancomerappnomina.cloud.goog
 eneconpanama.net
 enerclim.com
@@ -2293,7 +2287,6 @@ gryffilm.wz.cz
 gsa.gov.bidtc.info
 gsepoqnihorztjoyrpjududsvbzdxybyhwyq-dot-cryptic-now-290917.ey.r.appspot.com
 gskamqcftjinvmgbykxkezjcnbhhbalzgzxz-dot-cryptic-now-290917.ey.r.appspot.com
-gt3fixcndessmx29f6bnzxbblrs-my.sharepoint.com
 gucjjsfxagbxnadwer.top
 gudanggamismuslimah.com
 guiaconcepcion.cl
@@ -2471,8 +2464,6 @@ hitsem.com
 hj.qumixwt.cn
 hj.yuxwyxq.cn
 hjdiuyp.weebly.com
-hjg.aqzsqsu.cn
-hjg.dbjrowq.cn
 hk.mikecrm.com
 hl7.org.ar
 hleia.com
@@ -2490,6 +2481,7 @@ hoantrungdanang.com
 hodinovymanzelpardubice.kvalitne.cz
 hoexdofbo.buyonlined.su
 holatoronto.com
+holdingsellaitalia.com
 holiganbetgiris.blogspot.com
 holiganguncelgir.blogspot.com
 hollywood-smilekids.blogspot.com
@@ -2592,7 +2584,6 @@ icloud.com.find-online.live
 icloud.com.find.support-lphone.co
 icodex.org
 icvrqywmxhofnknbmclxirfytywvqabnaekf-dot-cryptic-now-290917.ey.r.appspot.com
-id-ee-payments.co.uk
 id-orange-fo.wixsite.com
 id.aplle.com.3459030783429047239047893758934-resolve.account89247824862.id123e78624.bigoldfuture.com
 idbrokerwebex.com
@@ -2785,7 +2776,6 @@ ity2v7.webwave.dev
 itzpxcojerqvcczggcibqzlwffqisumqsowj-dot-cryptic-now-290917.ey.r.appspot.com
 iurtraugutnlbldjiwvxqearcbqnwomsames-dot-cryptic-now-290917.ey.r.appspot.com
 iustrandellda.blogspot.com
-ivobktgdnsclqitdxgjqxvcetylsyyzwbque-dot-cryptic-now-290917.ey.r.appspot.com
 ivolo.co.uk
 ivzqajnhmiiriwdismwutdpibabwgaplcisq-dot-cryptic-now-290917.ey.r.appspot.com
 iwatchsystems.com
@@ -2843,6 +2833,7 @@ jesamondo.com
 jetapo.com
 jetbar.de
 jetprinterrepairs.co.uk
+jg-trading.com
 jggvguhgvtvuryvg.weebly.com
 jgu.mzauunp.cn
 jimryky.blogspot.com
@@ -2859,6 +2850,7 @@ jmhcvqvirrfgfgoyibffldlfsigbpzvsnamj-dot-cryptic-now-290917.ey.r.appspot.com
 jnb1u.app.link
 jobbeengine.com
 jobplan.co.tz
+jobsrev.com
 joergboettcher.com
 joeypmemorialfoundation.com
 johannareserve.com.au
@@ -2977,11 +2969,11 @@ keyabhatt.com
 keynorton.com
 keypointtraining-my.sharepoint.com
 kgmarbledesigns.com
+kh3wfp6f.easy.co
 khflxrvcgnpjjmwbbmmilfndyi-dot-triple-upgrade-293822.rj.r.appspot.com
 khflxrvcgnpjjmwbbmmilfndyi.triple-upgrade-293822.rj.r.appspot.com
 khmeuoyrdiunbmyqyargiqxbritncyunjyop-dot-cryptic-now-290917.ey.r.appspot.com
 khost.smbfundraising.com
-khpkrswwpuwbfpkbxa.top
 khujo.com
 kibzmfgpfhfezevwtdksiacjerrpnxawznyi-dot-cryptic-now-290917.ey.r.appspot.com
 kibzmfgpfhfezevwtdksiacjerrpnxawznyi.cryptic-now-290917.ey.r.appspot.com
@@ -3021,9 +3013,10 @@ komofrmjwblfuradzhuculctrtrznrmtpwvu.cryptic-now-290917.ey.r.appspot.com
 konfirmasi-akun-anda0248.webnode.com
 konfirmasi-akun-anda7208.webnode.com
 konfirmasi-akun202044.webnode.com.co
-konfirmasi-akun2220.webnode.com
 konfirmasi-akun6101.webnode.com
 konfirmasi-akun97829.webnode.com
+konfirmasi-data.alt-fbnew.gq
+konfirmasi-data.alt-fbnew.ml
 kongo.fr
 kongrespdgi.com
 konkurencje-kliknij.eu
@@ -3152,7 +3145,6 @@ lgsolar.de
 li-aruba.blogspot.com
 li.destina1.net
 li.globalfds.org
-li.gripgaunlet.com
 library.bsru.ac.th
 library.foraqsa.com
 licogi18.com.vn
@@ -3249,6 +3241,9 @@ login-sparkasse.online
 login-webmail-54ece.web.app
 login-webmail-f9cf0.web.app
 login-webmailquarantine.oa.r.appspot.com
+login.apk-mfacebook1.cf
+login.apk-mfacebook1.gq
+login.apk-mfacebook1.tk
 login.chaasecure.com.t60wvqjaq3mv0kkhhqzu4bgkgo1hw0kchpm3jst7tnfnz3gw.gq
 login.its.txstate.edu.homuri.com
 loginmicrosoft-365.el.r.appspot.com
@@ -3365,7 +3360,6 @@ mail.seguridad-scotialbanlkcolpatria.com
 mail.skinfree.mobile-75.com
 mail.support.paypal.colombianshaper.com
 mail.thedavidvincent.com
-mail.threepayments-update.com
 mail.turriago.com
 mail.vindanamobile.com
 mail.zax-associates.com
@@ -3701,7 +3695,6 @@ nandabolsas.com.br
 nanohairtech.com
 narrativesummit.org
 nartsokb.com
-naruds.com
 nasih-network.com
 nasodp2y.firebaseapp.com
 natepetroski.com
@@ -3761,7 +3754,6 @@ netorgft971973-my.sharepoint.com
 netservice-upd.tumblr.com
 neuralmapper.com
 neurosleepschool.com
-new-login-surrel.ml
 new-login-surrel.tk
 new-three-billing.com
 new-three-co.uk
@@ -3824,7 +3816,6 @@ nortiainteriors.com.au
 nortonknatchbull-my.sharepoint.com
 notendur.hi.is
 nothingelsefilm.com
-noticese.duckdns.org
 noticias.canal22.org.mx
 notifydevice-alert.com
 notnice.club
@@ -3934,7 +3925,6 @@ olx-dostawa.net
 olx.dostawa-24.pl
 olx.pl.wysylka.me
 olx.ua.delivery.consulting
-olxpl.payment24.online
 omdream.com.br
 omni.vn
 omsoftware.asia
@@ -4190,6 +4180,7 @@ pcjsfdqihzqecekgprcosvdechrmpzpwajko-dot-cryptic-now-290917.ey.r.appspot.com
 pcswm-my.sharepoint.com
 pdcox.csb.app
 pdlcgoxcxwwrjiyaacmhaumrzeszfpusfkjw-dot-cryptic-now-290917.ey.r.appspot.com
+pe-tb.com
 pearlfilms.com
 peas.dns-cloud.net
 pedestal.co.il
@@ -4258,7 +4249,6 @@ pizzafactory.co.il
 pjcm.net
 pkhnm.ac.in
 pklxoocapzdehfocwbmllqnljo-dot-triple-upgrade-293822.rj.r.appspot.com
-pklxoocapzdehfocwbmllqnljo.triple-upgrade-293822.rj.r.appspot.com
 pkpnjtpyadjgsupqmd.top
 pkwjrqdjrfgwvecyxopwywmwqjyofvdpzqbo-dot-cryptic-now-290917.ey.r.appspot.com
 pkwmobilede.de
@@ -4309,7 +4299,6 @@ polrul-91342727.alsalhaj.com
 polrul-99524729.alsalhaj.com
 polska24poszukiwani.dkonto.pl
 polskiportal.you2.pl
-polustrovo.ru
 polyglotskola.lv
 ponto-livelobb.com
 pontofrio.webpremios.com.br
@@ -4351,8 +4340,6 @@ pramahikvision-mail.net
 pramlee.com.my
 pranfoods.asia
 prassel.nu
-pratichedeifatturazionearuba.net
-pratichedeifatturazionearuba.org
 praxair-peru.com
 prediksipaktungtung.org
 prefabbricatipanozzo.it
@@ -4377,7 +4364,6 @@ privatebank-creditsuisse.com
 privateinvestigatormilan.com
 privatzaem.net
 prizepubgv1.com
-prizex15.com
 prj0011.appspot.com
 pro-orange00.weebly.com
 pro-stoke.com
@@ -4424,7 +4410,6 @@ pub43.bravenet.com
 pubgbattlesgrounds.com
 pubgclubx.com
 pubgdailygifts.com
-pubgeventdx.otzo.com
 pubgfree16.gq
 pubggmobileevent.com
 pubghalloweeks.com
@@ -4440,10 +4425,8 @@ pubgmcolect.com
 pubgmgiveawey.com
 pubgmidasbuyy.com
 pubgmobiilee.ml
-pubgmobile2020freeus.ga
 pubgmobilecz.com
 pubgmobilehalloweek2020.com
-pubgmobilehalloweeks.com
 pubgmobilenewera.com
 pubgmobileseason15.in
 pubgmobileventid.com
@@ -4546,6 +4529,7 @@ raknteu.co.jp.mdnnf.xyz
 rakntue.co.jp.hjghg.xyz
 rakutamuba.lakutawa.top
 rakuten-card.co.jp.rakuten-helper.xyz
+rakuten-cardc.jp
 rakuten-helper.xyz
 rakuten.co.jp.mcrpsw.asia
 rakuten.co.jp.ncbtsk.asia
@@ -4553,7 +4537,6 @@ rakuten.co.jp.ncdnsx.asia
 rakuten.co.jp.ncfnss.asia
 rakuten.co.jp.raklken.xyz
 rakuten.co.jp.rakutanm.xyz
-rakuten.co.jp.rakutann.buzz
 rakuten.co.jp.rakutnavip.xyz
 rakuten.dtybbb8.top
 rakutenuihjsbda.top
@@ -4589,6 +4572,7 @@ realestate-page-id-7819108955.sycoexportimportltd.com
 realestate-page-id-8503951768.com
 realevent-claimgratis2020.ddns.info
 realitysailing.com
+reazzsx.000webhostapp.com
 rebate-service-hmrc.com
 rebrand.ly
 recargastelcelaire.com
@@ -4634,7 +4618,6 @@ rekapuolam.blogspot.com
 reklama.allegro.secfence.lesavik.net
 rekutamn-fzuuz.ooo
 rekvtanm-76bd2.cc
-rekvtanm-b9c1m.cc
 relieffund.freeinternetz.com
 rem-00937546.unsion.tv
 rem-15556177.unsion.tv
@@ -4803,7 +4786,6 @@ saldomaiobahianinho.com
 saldospc.com
 saleemgardezi65.com
 samarthhotels.com
-sammielorean.com
 sampatattoo.com
 sanca.fr
 sandbox.plantstny.com
@@ -4843,6 +4825,7 @@ sconsumer.e-pagos.cl
 scoria-int.com
 scottm1.000webhostapp.com
 scrubers.net
+scscxx.weebly.com
 sdallzfqvlkrkhupnagjrdedzjlbcfmdnrua-dot-cryptic-now-290917.ey.r.appspot.com
 sdayhaneql.tastypriceo.su
 sdgw.steroyalbank.com
@@ -4886,6 +4869,7 @@ secure.oldschool.com-gf.ru
 secure.oldschool.com-mb.ru
 secure.redcardinalwriting.com
 secure.runescape.com-accountsecurity.cz
+secure.runescape.com-as.cc
 secure.runescape.com-as.ru
 secure.runescape.com-en.ru
 secure.runescape.com-rf.cz
@@ -4948,7 +4932,6 @@ serv-secured-1.com
 servckd001.weebly.com
 server.main.login.support.hotwills.com.au
 serverinfo1policy.blogspot.com
-serverlogist.southcentralus.cloudapp.azure.com
 servernuovaintesa.com
 serversicurezza.com
 serverupdate.getforge.io
@@ -5096,7 +5079,6 @@ smbc-card.com.utqtzp.shop
 smbc-card.com.xiaochijishuwang.com
 smbc-card.evtss.com
 smbc-qwerqwer.homesforleisure.com
-smbc.co.jp.bxlrdnq.cn
 smbcscard.com
 smcbmcejp.com
 smcc-cacc.ffqyw.com
@@ -5339,7 +5321,6 @@ surrel-data-login.ga
 surrel-data-login.gq
 surrel-data-login.ml
 surrel-login-fb.cf
-surrel-login-fb.gq
 surrel-login-fb.tk
 survey.alchemer.com
 surveyheart.com
@@ -5417,7 +5398,6 @@ te.bathandbodyworks.com
 teamwlg.com
 tecglobal.com.mx
 techbells.in
-techbite.ca
 techdirectbh.com
 techsuiop.com
 techsysnigeria.com
@@ -5511,7 +5491,6 @@ ticmvwtfvmchdfdgaexzxfjluertlqzjdpzt-dot-cryptic-now-290917.ey.r.appspot.com
 ticonme.es
 ticsoetangspar1936.blogspot.bg
 tiendaunikas.com
-tierrabana.com.mx
 tilamaito.info
 timetravel.mementoweb.org
 timp.com.br
@@ -5610,7 +5589,6 @@ trlmakvdyqwyptrukhnbkkcqhforybbnnbfy-dot-cryptic-now-290917.ey.r.appspot.com
 trocadepontosonline.com
 trop-de-credits.be
 trrwtllznodejyigpnwdyupjrd-dot-triple-upgrade-293822.rj.r.appspot.com
-trrwtllznodejyigpnwdyupjrd.triple-upgrade-293822.rj.r.appspot.com
 trsresourcing-my.sharepoint.com
 true-fish.ru
 truein-264db.web.app
@@ -5843,6 +5821,7 @@ verif-main2d.blogspot.com
 verif.pp-recouvrement-paiement.com
 verifedby3.com
 verifica-conto.com
+verifica-sicurezza-internetweb.com
 verificacionlbcponline.onpsaz.com
 verificaituoidati.com
 verificartbcponline.lalipos.com
@@ -5957,7 +5936,6 @@ vmoremlm.com
 vmorescam.com
 vmpzdsbnztmycvmztp.top
 vodafone.billing.ref-163.com
-vodafone.uk.ref-671.com
 vodafonenotice.com
 voiceaudio.co
 voicenett.theworkpc.com
@@ -5984,17 +5962,14 @@ vty23srfg.tk
 vufd.hyperphp.com
 vurl.bz
 vvsmsmms.yolasite.com
-vvvvvv.amaz0n.c0.jp-a6c8d4845ab25e50f954ee4e9adf4b149c2b42ae.ph
 vvvvvv.amaz0n.c0.jp-a82d825f272632f3ccb2fd25cffd29c9297b7c03.ph
 vvvvvv.amaz0n.c0.jp-b0b8701044cc7dd8182c62604f4a2147c6007c0c.ph
 vvvvvv.amaz0n.c0.jp-b8fd2329d8fe15239c560874ea31d34842e5104b.ph
 vvvvvv.amaz0n.c0.jp-eb4acd71118dac61e2c85cb54ac1554d6fad6120.ph
-vvvvvv.amazan.c0.jp-b8fd2329d8fe15239c560874ea31d34842e5104b.ph
 vvvvvv.amazan.c0.jp-c163358b6b1a5093f8b9e1c7574af32f22708d71.ph
 vvvvvv.amazan.c0.jp-c1ece12fdefe84f6552c8bcb2863694028ad2852.ph
 vvvvvv.amazan.c0.jp-da5a11a674f1300dcb68604a2922834ae63275dc.ph
 vvvvvv.amazan.c0.jp-f9da8c655156735eca64ad027e53b91a8bef6974.ph
-vvvvvv.amazan.c0.jp-fa87dcad54a5b06d6953f66a02f590129511fd21.ph
 vvvvvv.amazan.c0.jp-fca0ca029f9f6e6ee4da108babb11847ded43710.ph
 vvvvvv.amazan.co.jp-b0b8701044cc7dd8182c62604f4a2147c6007c0c.ph
 vvvvvv.amazan.co.jp-b8fd2329d8fe15239c560874ea31d34842e5104b.ph
@@ -6011,21 +5986,13 @@ vvvvvv.amazon.c0.jp-ef28f384b62f61939d56e1782e2af37c43c6621b.ph
 vvvvvv.amczan.co.jp-c163358b6b1a5093f8b9e1c7574af32f22708d71.ph
 vvvvvv.amczan.co.jp-da5a11a674f1300dcb68604a2922834ae63275dc.ph
 vvvvvv.amczan.co.jp-e7b825cb11be71b0699da55cd332483d49e19a40.ph
-vvvvvv.amczan.co.jp-eb95615f59d1b3c00b3441c75e61cca4b70e125a.ph
 vvvvvv.amczan.co.jp-f9da8c655156735eca64ad027e53b91a8bef6974.ph
-vvvvvv.amczan.co.jp-fca0ca029f9f6e6ee4da108babb11847ded43710.ph
 vvvvvv.amczon.co.jp-a6c8d4845ab25e50f954ee4e9adf4b149c2b42ae.ph
-vvvvvv.amczon.co.jp-a9baaa7739a2b6d3e596335723b856a435a431db.ph
 vvvvvv.amczon.co.jp-c163358b6b1a5093f8b9e1c7574af32f22708d71.ph
 vvvvvv.amczon.co.jp-c1ece12fdefe84f6552c8bcb2863694028ad2852.ph
-vvvvvv.amczon.co.jp-da5a11a674f1300dcb68604a2922834ae63275dc.ph
-vvvvvv.amczon.co.jp-e7b825cb11be71b0699da55cd332483d49e19a40.ph
 vvvvvv.amczon.co.jp-fa87dcad54a5b06d6953f66a02f590129511fd21.ph
-vvvvvv.amozon.co.jp-c163358b6b1a5093f8b9e1c7574af32f22708d71.ph
 vvvvvv.amozon.co.jp-c1ece12fdefe84f6552c8bcb2863694028ad2852.ph
 vvvvvv.amozon.co.jp-cc88bf7a2dec8226431c919526a7ec2bf8dd5a1f.ph
-vvvvvv.amozon.co.jp-d36b44925ba4ee33c7fe3279e60ce232ea4c7dd8.ph
-vvvvvv.amozon.co.jp-e7b825cb11be71b0699da55cd332483d49e19a40.ph
 vvvvvv.amozon.co.jp-fca0ca029f9f6e6ee4da108babb11847ded43710.ph
 vwbank.inforia.net
 vwmdqvjrdechabwxze.top
@@ -6104,7 +6071,6 @@ webseguro.digital
 websitesecuritykey.com
 websiteseguro.digital
 webstories.eu
-webzonasegurabn1-corn-pe.tk
 weddingsbyknottydays.com
 weevoxsound.com
 wefbee.com
@@ -6192,7 +6158,6 @@ wncdzsxgiewcgqrcjlljdbxqqkxskgobgiqq-dot-cryptic-now-290917.ey.r.appspot.com
 wnyxqqphlsytfuwmdtirfvgzxc-dot-triple-upgrade-293822.rj.r.appspot.com
 wnyxqqphlsytfuwmdtirfvgzxc.triple-upgrade-293822.rj.r.appspot.com
 woesome-circumferen.000webhostapp.com
-wokeentertainment.com
 wolfmirror.com
 womensmma.com
 wonand.co.kr
@@ -6248,7 +6213,6 @@ wvvw.amazon.c0.jp-d36b44925ba4ee33c7fe3279e60ce232ea4c7dd8.ph
 wvvw.amazon.c0.jp-e7b825cb11be71b0699da55cd332483d49e19a40.ph
 wvvw.amazon.c0.jp-eb4acd71118dac61e2c85cb54ac1554d6fad6120.ph
 wvvw.amczan.co.jp-a9baaa7739a2b6d3e596335723b856a435a431db.ph
-wvvw.amczan.co.jp-b0b8701044cc7dd8182c62604f4a2147c6007c0c.ph
 wvvw.amczan.co.jp-c163358b6b1a5093f8b9e1c7574af32f22708d71.ph
 wvvw.amczan.co.jp-c1ece12fdefe84f6552c8bcb2863694028ad2852.ph
 wvvw.amczan.co.jp-d36b44925ba4ee33c7fe3279e60ce232ea4c7dd8.ph
@@ -6402,7 +6366,6 @@ www.automoves-halifax.com
 www.autoregulariser.com
 www.avioni.ru
 www.azosimoveis.com
-www.azzali.eu
 www.bahiavendasrapida.com
 www.baliplantation.com
 www.bancaporinternet.lnterbnk.pe.pe-luchaperu.com
@@ -6558,6 +6521,7 @@ www.device-registeredalert.com
 www.dexlerholdings.com
 www.dhakarnews24.com
 www.diamondfire.guru
+www.digital-banking-ita.com
 www.digitalflashbacks.ca
 www.digitalservicepoints.com
 www.digitaltaxmatters.co.uk
@@ -6596,6 +6560,7 @@ www.ecotaskforce.com
 www.ecotimes.cl
 www.ecovalor.cl
 www.edoism.com
+www.ee-bill-auth.com
 www.ee-recovery.com
 www.efmny.org
 www.egacal.edu.pe
@@ -7074,6 +7039,7 @@ www.programmasviluppo.com
 www.projonmowave.com
 www.prosignum.sk
 www.protezione-n26.com
+www.provado.in
 www.prunescape.com.au
 www.psmkreditsyari.com
 www.quantumfitness.com
@@ -7175,7 +7141,6 @@ www.sinlesstech.com
 www.sirdarnell.org
 www.skaypo.otzo.com
 www.sketchedimpressions.com
-www.skinfree.mobile-75.com
 www.slnspinning.com
 www.sloaneandhyde.com
 www.smartindianagriculture.com
@@ -7347,7 +7312,6 @@ www.xolxol.phphphrunescape.com-de.ru
 www.xolxol.phphrunescape.com-de.ru
 www.xolxol.phphwww.runescape.com-de.ru
 www.xolxol.phwww.phphrunescape.com-de.ru
-www.xolxol.phwww.runescape.com-de.ru
 www.xpressimpresores.com
 www.xtc.sued-rollo.de
 www.xtrixtviptv.com
@@ -7381,29 +7345,23 @@ www.zonawebseguras.com
 www18.tudodemelhorparavc.com
 www19.presente-do-paizao-2020.co
 www19.siteoficialamericanas2020.com
-www2.amaz0n.c0.jp-a6c8d4845ab25e50f954ee4e9adf4b149c2b42ae.ph
 www2.amaz0n.c0.jp-a82d825f272632f3ccb2fd25cffd29c9297b7c03.ph
 www2.amaz0n.c0.jp-c1ece12fdefe84f6552c8bcb2863694028ad2852.ph
-www2.amaz0n.c0.jp-cc88bf7a2dec8226431c919526a7ec2bf8dd5a1f.ph
 www2.amaz0n.c0.jp-d36b44925ba4ee33c7fe3279e60ce232ea4c7dd8.ph
 www2.amaz0n.c0.jp-da5a11a674f1300dcb68604a2922834ae63275dc.ph
 www2.amaz0n.c0.jp-fca0ca029f9f6e6ee4da108babb11847ded43710.ph
 www2.amazan.c0.jp-a9baaa7739a2b6d3e596335723b856a435a431db.ph
 www2.amazan.c0.jp-b8fd2329d8fe15239c560874ea31d34842e5104b.ph
 www2.amazan.c0.jp-c163358b6b1a5093f8b9e1c7574af32f22708d71.ph
-www2.amazan.c0.jp-cc88bf7a2dec8226431c919526a7ec2bf8dd5a1f.ph
 www2.amazan.c0.jp-eb95615f59d1b3c00b3441c75e61cca4b70e125a.ph
-www2.amazan.c0.jp-fa87dcad54a5b06d6953f66a02f590129511fd21.ph
 www2.amazan.co.jp-b8fd2329d8fe15239c560874ea31d34842e5104b.ph
 www2.amazan.co.jp-c163358b6b1a5093f8b9e1c7574af32f22708d71.ph
 www2.amazan.co.jp-cc88bf7a2dec8226431c919526a7ec2bf8dd5a1f.ph
 www2.amazan.co.jp-d36b44925ba4ee33c7fe3279e60ce232ea4c7dd8.ph
 www2.amazan.co.jp-fa87dcad54a5b06d6953f66a02f590129511fd21.ph
 www2.amazan.co.jp-fca0ca029f9f6e6ee4da108babb11847ded43710.ph
-www2.amazcn.co.jp-a6c8d4845ab25e50f954ee4e9adf4b149c2b42ae.ph
 www2.amazcn.co.jp-a82d825f272632f3ccb2fd25cffd29c9297b7c03.ph
 www2.amazcn.co.jp-d36b44925ba4ee33c7fe3279e60ce232ea4c7dd8.ph
-www2.amazcn.co.jp-d54c37e7c3c55d6a547b0bc7567a9fd585dcd4dd.ph
 www2.amazcn.co.jp-e7b825cb11be71b0699da55cd332483d49e19a40.ph
 www2.amazcn.co.jp-fca0ca029f9f6e6ee4da108babb11847ded43710.ph
 www2.amazon.c0.jp-b0b8701044cc7dd8182c62604f4a2147c6007c0c.ph
@@ -7428,7 +7386,6 @@ www2.amczon.co.jp-fca0ca029f9f6e6ee4da108babb11847ded43710.ph
 www2.amozon.co.jp-a9baaa7739a2b6d3e596335723b856a435a431db.ph
 www2.amozon.co.jp-c163358b6b1a5093f8b9e1c7574af32f22708d71.ph
 www2.amozon.co.jp-d36b44925ba4ee33c7fe3279e60ce232ea4c7dd8.ph
-www2.amozon.co.jp-eb95615f59d1b3c00b3441c75e61cca4b70e125a.ph
 www2.amozon.co.jp-fa87dcad54a5b06d6953f66a02f590129511fd21.ph
 www2.amozon.co.jp-fca0ca029f9f6e6ee4da108babb11847ded43710.ph
 www34.presentes-promocoes-premier.com
@@ -7510,7 +7467,6 @@ xn--ltappen-80a.se
 xn--nckd7a7hnc8b8bd.net
 xn--pacincia-xl-qbb.com
 xn--privnot-z8a.com
-xn--privote-6jb.com
 xn--saldo-casasbahia-maio-m1b.com
 xn--tequeon-8za.pe
 xn--treor-kib.com
@@ -7605,14 +7561,12 @@ yxfigvzcedarizwyymjdrmyinj-dot-triple-upgrade-293822.rj.r.appspot.com
 yxirlwizz.tastypriceo.su
 yxnhsbuhvboopmvykoxlyhhnpbrsnqkivhng-dot-cryptic-now-290917.ey.r.appspot.com
 yyuagdpdrjrvnqnfailhuamcmszjqyztdntc-dot-cryptic-now-290917.ey.r.appspot.com
-yzsekvbgtebsnqhbcfokifdrbwxdsecadfae-dot-cryptic-now-290917.ey.r.appspot.com
 z-runescape.com.ua
 z1vhkgztxfjxplitzpleqw-on.drv.tw
 zaborkursk.ru
 zacoindus.com
 zakalonderando.blogspot.com
 zamlwfsbqyuufmpoamuowqolgnccdiordrjl-dot-cryptic-now-290917.ey.r.appspot.com
-zandele22.glitch.me
 zanimaem.kz
 zankosoriginal.com
 zap611319-2.plesk13.zap-webspace.com
@@ -7661,6 +7615,7 @@ zoeg8.csb.app
 zohagdyj27bga1znahjjwa-on.drv.tw
 zojuatydtxpxpxzngbcdtpurdvaoorimvbdg-dot-cryptic-now-290917.ey.r.appspot.com
 zonaregistrobnserver.com
+zonasegura1-bn.pe-tb.com
 zonasegura1.bn.com.multibasededatosbnvirtual.com
 zonasegura1bnn1.com.multiservicios1bnmultirac.com
 zonasegura1bnperu.seguridad-virtual.com
