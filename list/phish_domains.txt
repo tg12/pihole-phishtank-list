@@ -2155,7 +2155,6 @@ facebookfotograf.0fees.us
 facebookgiris.byethost7.com
 facebookkilitli.0fees.us
 facebookprofile.tolitaramos.xyz
-facebooksverfication.cf
 facebooksverfications.gq
 facebooksverfications.ml
 facebookteste.comunidades.net
@@ -2166,6 +2165,7 @@ faceboouuok.byethost9.com
 facebuk.0fees.us
 facedekarikatur.0fees.us
 facefook.0fees.us
+facelook-login-identify-live-page.my.id
 facqbook55.0fees.us
 factursicoobtopnacionalvoc.com
 fadak.info
@@ -2597,7 +2597,6 @@ hali-cancel-newpayee.com
 hali-confirmation-device.com
 hali-payeecontrol.com
 hali-payeepanel.com
-hali-payeewithdrawal.com
 hali-secure.com
 hali.alert-onlinesecure.com
 hali.alert-secureonline.com
@@ -2672,7 +2671,6 @@ halifax.loginattempt.com
 halifax.logon-login-personal-authenticate.com
 halifax.manage-yourdevices.com
 halifax.mobile-deregister.com
-halifax.online-disable.com
 halifax.online-personal-devices.com
 halifax.online-reset.co.uk
 halifax.online-security-data-shield.com
@@ -3934,6 +3932,7 @@ marcbitoye.wixsite.com
 marchearningstatment.ontrapages.com
 marciaantunes.com
 marcodenova.com.mx
+marcosavila.com.ar
 marcstone.com
 margarita.md
 marguttina.com.br
@@ -4512,6 +4511,7 @@ notificaton-secur-officer-recover-identity.my.id
 notificaton-secur-officer-recovery-identity.my.id
 notifiication-office-recovry-identity-suport.my.id
 notifiication-officer-recovry-identity-suports.my.id
+notifiication-oficer-recovrey-identiti-suports.my.id
 notifiicaton-office-recovry-identity-suport.my.id
 notnotgrup1u.forumz.info
 noutbookofff.ru
@@ -5100,6 +5100,7 @@ prorenoinc.com
 protect-myaccount.com
 protect.theresortweddings.com
 protect2.fireeye.com
+protectioncivile-jnv.ch
 protectyouraccount.htamazoncard.buzz
 protectyouraccount.ptamazoncard.club
 provascaperoom.000webhostapp.com
@@ -5186,7 +5187,6 @@ r2l.com.mx
 r3fewdsarg3few.rf.gd
 r3g34.fra1.digitaloceanspaces.com
 r7vfe.csb.app
-r838383.blogspot.com
 raaddiod.com
 rabi.ir
 rabo-updates.info
@@ -5711,7 +5711,6 @@ serviciodigitacr.online
 servicios-cliente-es-banco.tierraflorist.com
 serviciosintegralesbn1z.com
 serviziapponline.com
-set.net
 setona.main.jp
 settingfb701.wixsite.com
 settingfb881.webnode.com
@@ -6900,7 +6899,6 @@ worksitehealthsolutions.org
 worldatt.weebly.com
 worldofplushtoys.com
 worliking.com
-wormtailcap.com
 wow-atlantida.com
 wowmybusiness.com.au
 wowvans.com
@@ -7017,6 +7015,7 @@ www.amb.co.mz
 www.ambrosecourt.com
 www.americanexpress.com.satech-mali.com
 www.amexprescd.com
+www.amkama.com
 www.amozonu.co.jp.signine-amnzol.top
 www.andaraspa.com
 www.andreamigliaccio.it
