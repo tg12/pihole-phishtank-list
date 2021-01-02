@@ -944,6 +944,7 @@ billingmanage-ee.com
 billings-myee.com
 billingtansaction852463253025634550kuyg563dist.nfxupdatebil.com
 billmanage-ee.com
+billsetup-ee.com
 binance-registration.com
 binarybenliveload.com
 bingobongogroup.com
@@ -1642,7 +1643,6 @@ deregister-unknown-device.com
 deregister-unknown-onlineaccount.com
 deregister-unknowndevice-pairing.com
 deregister-unverifieddevice.com
-deregister-validatedevice-online.com
 deregisterationmobile-new.co.uk
 deregisterdevice-access.com
 deregisterdevice-breach.com
@@ -1956,7 +1956,6 @@ elavution-cek-point-ck-85621373513674843241.tk
 elavution-cek-point-ck-85621373513674843245.tk
 elavution-cek-point-ck-85621373513674843246.tk
 elavution-cek-point-ck-85621373513674843247.tk
-elavution-cek-point-ck-85621373513674843249.tk
 elavution-cek-point-ck-85621373513674843250.tk
 elavution-cek-point-ck-85621373513674843912.tk
 elavution-cek-point-ck-85621373513674843913.tk
@@ -2051,6 +2050,7 @@ ertu.streamlink.to
 ervices.runescape.com-er.ru
 erxvityred.cloudns.asia
 esafetech-bd.com
+esalamandra.pl
 esayanbigbag.com.tr
 escalose-mia.com
 escuelasantapatricia.cl
@@ -2148,6 +2148,10 @@ facebook.id3288764-photography.business-page8723627398429748.com
 facebook.marketplace-item-93248.scheff.com
 facebook.my-domino.pl
 facebook.root.in.th
+facebook.tyx7.ga
+facebook.tyx7.ml
+facebook.tyx8.ml
+facebook.tyx8.tk
 facebookavataria.0fees.us
 facebookbt.0fees.us
 facebookcad.0fees.us
@@ -3055,7 +3059,6 @@ interoptika.hu
 interschool24.com
 intrim.net
 inventoresozono.com
-inver-kutshaban.com
 investliberia.gov.lr
 invitegroupwhatsapp-berbagikonten18.onedumb.com
 invitegroupwhatsapp-berbagivideoseru.onedumb.com
@@ -3647,6 +3650,8 @@ locked.appleid.apple.com.services-and-support.com
 lodka.in
 lofon-add.firebaseapp.com
 log-acount-block.cf
+log-confirm-block.ga
+log-confirm-block.tk
 log-in.subsexpirentflx.com
 logbromw.com
 logenlbb.dk
@@ -4588,7 +4593,6 @@ olx-pl-id.ru
 olx-polska.com
 olx.pl-dostawa.com
 olx.pl-id125676290.net
-olx.pl-id789654.xyz
 olx.rwpay.ru
 olxpl.3dsecured.ru
 omdream.com.br
@@ -4809,7 +4813,6 @@ paymentnotificationnow.blogspot.com
 paymentsus.uk
 paypai-confirmation.com
 paypal-checkout-app.com
-paypal-event.net
 paypal-merchantloyalty.com
 paypal-my.sharepoint.com
 paypal-rimborso.com
@@ -5202,7 +5205,6 @@ rastreomoderno.com
 ratekuten.ratakaten.top
 rattkuten.rektaten.top
 raulbeneitez.cat
-rawskesda-master.ooo
 rawskswda-master.ooo
 rb-dental.it
 rb.gy
@@ -6965,7 +6967,6 @@ www.amazonlogistics-ap-northeast-1.amazonlogistics.jp
 www.amb.co.mz
 www.ambrosecourt.com
 www.ameriavnexpress.top
-www.americanexpress.com.satech-mali.com
 www.amexprescd.com
 www.amkama.com
 www.amozon.co.jp.sing-aouzeon.cc
@@ -7430,7 +7431,6 @@ www.hindva.com
 www.hitsem.com
 www.hjesseseafoods.co.uk
 www.hmrscaffolding.co.uk
-www.hndpune.com
 www.holidayinnboston.com
 www.home.globalnode.xyz
 www.homs.com.br
@@ -7872,7 +7872,6 @@ www.renalconsultants.com
 www.respectinpeace.com
 www.restrepohenao.com.co
 www.retracepackage.com
-www.review-mynewtransaction.com
 www.revivetherapy.uk
 www.riblanda.com
 www.ricavato.com
