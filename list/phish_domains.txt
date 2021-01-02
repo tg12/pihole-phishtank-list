@@ -130,7 +130,6 @@
 7d54v.app.link
 7gwuixo3iwklcwny6mkzw7uuki--www-bcp-com-bo.translate.goog
 7ku50.csb.app
-80-110-188-114.static.upcbusiness.at
 800emailsupport.com
 8010361370310234068010361370310234.blogspot.be
 8010361370310234068010361370310234.blogspot.com
@@ -929,7 +928,6 @@ bigislandcondorentalsbyowner.com
 bigoneall.blogspot.com
 biletinasamolet.ru
 billing-393.com
-billing-fail.com
 billing-informations-commande.unclelaresmoviereviews.com
 billing-three-co.uk
 billing.secure-verify-account.cc
@@ -1899,6 +1897,7 @@ ee-billdetails.com
 ee-billing-help-ref30.com
 ee-billingauth-payment.com
 ee-billinginfo-update.com
+ee-billingsecure-update.com
 ee-billingupdates-auth.com
 ee-billingupdates-authorize.com
 ee-confirmationbilling.com
@@ -1916,6 +1915,7 @@ ee-resolve.com
 ee-resolvebills.com
 ee-secure-accounts.com
 ee-secureprocess-billing.com
+ee-securesprocess-billing.com
 ee-upatebilling.com
 ee-updatebilling-auth.com
 ee-updatebilling-secure.com
@@ -2222,6 +2222,7 @@ fbookcom-vxotwzuy.xpertzgroup.com
 fbookcom-xqfjffht.xpertzgroup.com
 fbookcom-ysvzhlss.xpertzgroup.com
 fbookcom-zrlozurl.xpertzgroup.com
+fbperingatan71.weebly.com
 fbposts-university-secret-files-usfiles-200047482.000webhostapp.com
 fbrent.ru
 fbviewersauth.com
@@ -3099,6 +3100,7 @@ isecure-unauthorised-access.com
 isecurity-newdevice-authentication.com
 islemlerimeburadan.com
 islemlerimingerceklestirmenoktasi.com
+islz1.yolasite.com
 isp-dnsrenew.com
 issa365-my.sharepoint.com
 istanbulasiklari.com
@@ -3198,7 +3200,6 @@ johannessscinders.de
 join-groub-whatsapp34.25u.com
 join-groupmabar.25u.com
 join-groupwhatsap82ebm.xxuz.com
-join-grupwaaa2.duckdns.org
 join-gtubwamabarfff.ns02.info
 join-sexchatindo18.91.myz.info
 join-whatsappbkp2020.forumz.info
@@ -3546,7 +3547,6 @@ lloyd-deregister-unauthorisedaccess.com
 lloyd-new-payms.net
 lloyd-newpayee.net
 lloyd-newpayments.net
-lloyd-securedconnection.com
 lloyd-useronline.com
 lloyd.authorisedpayees.com
 lloydauthdev.com
@@ -4017,7 +4017,6 @@ messagerievocale0p.wixsite.com
 messagerievocaleservice.webador.com
 messagiiee.moonfruit.com
 messengermail.moonfruit.com
-metadorr.com
 metallist-nk.ru
 metaltubos.com.br
 metamask.iologin.org
@@ -4211,7 +4210,6 @@ mydigiads.com
 myee-billonline.com
 myee-manage.com
 myee-managepayment.com
-myee-paymentdecline.com
 myee-support.uk
 myee-updatebilling.com
 myeeaccount.org
@@ -5706,6 +5704,7 @@ sfr.desactivation-service.fr
 sfr.provad.fr
 sfrmails-id.weebly.com
 sftp.usin.com
+sg-dbs-internttbaqiinkk.com
 sg-dbs-internttbaqinnk.com
 sg3plvwcpnl422883.prod.sin3.secureserver.net
 sgdbs-intrnet-baqnk.com
@@ -6330,7 +6329,6 @@ travelpura.com
 travisjphotography.com
 travisusd-my.sharepoint.com
 trbetasusgiiris2.blogspot.com
-trbetasusgir.blogspot.com
 trbetasusgirisimiz.blogspot.com
 treatyloan.blogspot.com
 treatyloan.blogspot.fr
@@ -6554,7 +6552,9 @@ ve5r.hyperphp.com
 veerifikasih-facebooks.ml
 veerifikasihfacebooks.ml
 veerifikasiih-facebook.gq
+veerifikasiih-facebooks.cf
 veerifikasiih-facebooks.ga
+veerifikasiih-facebooks.tk
 vehicle-sales-ebay.parkertom.com
 vellingekommun-my.sharepoint.com
 velostation.ml
@@ -7173,6 +7173,7 @@ www.danielescivoli.it
 www.darktoxicity.com
 www.dataforce.co.uk
 www.davidwinogrondspacetet.com
+www.dbs-ex.com
 www.dcmufgcard.com
 www.decaturilbgc.com
 www.declined-account.com
@@ -7292,7 +7293,6 @@ www.erikx.net
 www.ervices.runescape.com-er.ru
 www.eset-store.gr
 www.estiklal.com
-www.etcmerchandising.es
 www.etecindsvc.com
 www.etrass.eu
 www.eventosvallarta.com.mx
@@ -7740,7 +7740,6 @@ www.online-halifaxapp-verification-onlinesecure.app
 www.online-newpayee.com
 www.online-verify-mypayee.com
 www.online-viewpayee.com
-www.online.banking-lloyds.co.uk
 www.online.lloyds-personal.co.uk
 www.onlinebanking-accounts-signin.com
 www.onlinebanking-protected-signin.com
@@ -7749,7 +7748,6 @@ www.onlinebanking-secure-accounts.com
 www.onlinebanking-signin-account.com
 www.onlinebanking-signin-protected.com
 www.onlinebanking-updatedevice.com
-www.onlinepayees-secure.com
 www.onlinesbi.online
 www.onlinesecurity-alert.com
 www.onuxsports.com
