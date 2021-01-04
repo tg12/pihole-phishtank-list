@@ -148,10 +148,14 @@
 9dollarsintothousands.com
 9khnh.app.link
 9ldjs.yolasite.com
+Cancelpayeepersonallogin.com
+Cancelrequestpayeelogin.com
 Legalshield.therealtalkconference.org
 My3.billing.validate-secure.com
 PayPal.unlock-myaccount.com
 PayUkLimited.com
+Paypal-device023.com
+Paypal-device024.com
 a-a5a5.000webhostapp.com
 a.a.3483.fhug.5875.dhirt.4989.rgkhr.594k.egih.dg4r4t.clearpointsupplies.com
 a584.hyperphp.com
@@ -325,6 +329,7 @@ alergiaalpolen.com
 alert-deregistered-device.com
 alerted-deregistereddevice.com
 alerted-device-registeration.com
+alerts-eesupport.com
 aletheasaidel.com.br
 alexxou.website2.me
 alfalahjkt.sch.id
@@ -343,6 +348,7 @@ allaboutchris.com
 alldomainmailagentupdate.web.app
 allegrok.pl
 allendzines.com
+allenhgm.com
 allesterengineering.com
 alliance4consumersusa.org
 allstarlax.com
@@ -366,6 +372,7 @@ am-t.by
 amagerkarate.dk
 amaokmsnco.temp.swtest.ru
 amaozn.top.fnfsgfd.cn
+amazan.tzcong.top
 amazingunbeatabledeals.com
 amaznde-com.webs.com
 amazon-accout-help.top
@@ -530,7 +537,6 @@ arleiti.sslblindado.com
 armata-neagra.ro
 arnazon.co.jp.updatainfo.guru
 arnoinox.com
-arnzoaon.co.ip.ouenconzconzon.ruqgwfi.cn
 arpeysappliancerepairs.com
 arridhosentul.com
 arrow.kvalitne.cz
@@ -632,6 +638,7 @@ auduboninstitute-my.sharepoint.com
 aurickhotels.com
 auth-payment.digital
 auth-securitycheck.com
+authenticate-mydetails.com
 authenticate-nwest.com
 authenticatemy-device.com
 authenticatemydevice.com
@@ -642,6 +649,7 @@ authentificationsmsmms.webador.com
 authkoo.ml
 authorcheck.com
 authorise-mylogindetails.com
+authorise-mynewtransaction.com
 authorise-myonlinebankingdetails.com
 authorise-newpayee-llyds.com
 authorise-nwolb.com
@@ -1367,6 +1375,8 @@ confirm-90002034245213.tk
 confirm-90002034245218.tk
 confirm-mynewtransfer.com
 confirm-mynewtransfers.com
+confirm-myonlinebankingdetails.com
+confirm-myrecentpayments.com
 confirm-mytransfers.com
 confirm-newdevices.com
 confirm-secure.device-verify-uk.com
@@ -1614,6 +1624,7 @@ deregister-unknown-device.com
 deregister-unknown-logon.com
 deregister-unknown-onlineaccount.com
 deregister-unknowndevice-pairing.com
+deregister-unknownpaired-device.com
 deregister-unverifieddevice.com
 deregisterationmobile-new.co.uk
 deregisterdevice-access.com
@@ -1651,6 +1662,7 @@ development-admin-663425819765.tk
 device-added-hali.com
 device-alert-security.com
 device-alert-uk.com
+device-authentication-support.com
 device-cancellation-issue.com
 device-conformation-uk.com
 device-deregistered-new.com
@@ -1676,6 +1688,7 @@ deviceverifying.com
 devil2050.000webhostapp.com
 devops.com.vn
 devstore.pro
+deweyelectronics.com
 dexdelivers.com
 dexlerholdings.com
 dezh-marn-kooh.com
@@ -1877,6 +1890,7 @@ ee-activity.com
 ee-authbilling-update.com
 ee-bill-unsuccessful-please-try-again.com
 ee-billing-help-ref30.com
+ee-billing-info-uk.com
 ee-billingauth-payment.com
 ee-billinginfo-update.com
 ee-billingsecure-auth.com
@@ -1884,6 +1898,7 @@ ee-billingsecure-update.com
 ee-billingupdates-authorize.com
 ee-billingupdatesecure.com
 ee-confirmationbilling.com
+ee-confirmbillingpayment.com
 ee-editbilling.com
 ee-failedbilling.com
 ee-failedpayment.com
@@ -1899,6 +1914,7 @@ ee-paymentupdates-secured.com
 ee-resolve.com
 ee-resolvebills.com
 ee-secure-accounts.com
+ee-secureuk.com
 ee-serviceuk.com
 ee-uksecure.com
 ee-upatebilling.com
@@ -1913,6 +1929,7 @@ ee.networkupdate.co.uk
 ee.security-contract-reactivation.com
 eebilling-renew.com
 eebilling-setup.com
+eebillingsecure.com
 eebillingsecureuk.com
 eed9c99e4d3669214.temporary.link
 eelatest-billinginfonew.com
@@ -1991,6 +2008,7 @@ empirejewelers.us
 empoweredskills.co.uk
 empresas-lnterbanlkpe.com
 empresas-lnterlbnlk-pe.com
+emrerusen.com.tr
 emsi-lobo.firebaseapp.com
 en.baikal-planet.ru
 en.polarklima.hu
@@ -2028,7 +2046,6 @@ erikdjones.com
 erikdjones.sexxyfemaledolls.com
 erp.oriontravels.com.bd
 errictandalex.kenaidanceta.com
-error-ibeneficiary-iremove.com
 error-removal-ibeneficiary.com
 ersfilter-my.sharepoint.com
 ert.earthresourcetechnology.com
@@ -2249,6 +2266,7 @@ financiallifecoaching.builderallwp.com
 financialone.com.hk
 fincomsal.com
 fineststitch.com
+finhive.net
 finseeksin.com
 firebasestorage.googleapis.com
 firesidelodge.net
@@ -2269,7 +2287,6 @@ flax-industrious-quail.glitch.me
 fldorewards.com
 flh-cssnf.gq
 flightarabia.com
-flimscerchnagre.net
 flipthiswholesaler.net
 floorsdirectltd.co.uk
 florishill.typeform.com
@@ -2616,7 +2633,6 @@ halifax-remove-payee.com
 halifax-safteyteam.com
 halifax-secure-bank-alerts.live
 halifax-secure.live
-halifax-secured.antifraud-systems.com
 halifax-security-alerts.com
 halifax-securityprompt.com
 halifax-securityteamuk.com
@@ -2776,6 +2792,7 @@ hmrc-gov-uk-tax-rebate.com
 hmrc-help-return.com
 hmrc-paymentgrant.com
 hmrc-uk.online-refund-claims.com
+hmrc.health
 hmrc.secure-rebate-service.com
 hmrc.tax025refund.com
 hmrcuk.ref36.co.uk
@@ -3504,7 +3521,6 @@ litrodeluz.com.mx
 littleelmapartments.com
 littlefoots.ru
 littlefoots.ru:443
-littleindiadirectory.com
 liuyunhuan.qiein.com
 live-site.hopto.me
 livebyuh-my.sharepoint.com
@@ -3708,6 +3724,7 @@ lycroproducts-my.sharepoint.com
 lymakra.ro
 lynkos.com.br
 lynnman.com
+lyrics.shiksha
 m-facebook.byethost6.com
 m-facebook.ct8.pl
 m-faceboookcom.weebly.com
@@ -4304,7 +4321,6 @@ netflix-appl.com
 netflix-billing-verify.com
 netflix-log.com
 netflix-pre.com
-netflix-resubscribe.com
 netflix-sub.com
 netflix-teams.com
 netflix-updatedetails.com
@@ -4857,6 +4873,7 @@ pdcox.csb.app
 pearlfilms.com
 peas.dns-cloud.net
 pedalq.com
+pedasmag.com
 peds-ortho.com
 peer.yourluv.co
 pekersigorta.com
@@ -4987,6 +5004,7 @@ posadalalucia.com.ar
 posstenn-vigtig.cloudaccess.host
 post-aa.top:83
 postchtrackingorder.com
+posteitalianeapp.kinsta.cloud
 pourcontinueridauthenserweuronlineworking.000webhostapp.com
 powaywelding.com
 powercase.shoplineapp.com
@@ -5153,7 +5171,6 @@ raeluteka.lahateken.top
 rafakaryakonstruksi.com
 rahntue.golletian.club
 rahntue.golletian.cyou
-rahntue.ralotenmuen.top
 rainbow-walker.com
 rajarakgondola.com
 rajengineers.net
@@ -5187,7 +5204,6 @@ rams-qazaqstan.com
 rangelferreira.adv.br
 rangkapselari.com
 rankuttres.pyev.xyz
-raokuton.rcoknlen.icu
 raokuton.rcoknlen.top
 raportcsr.allegro.secfence.lesavik.net
 rapsbrag.weebly.com
@@ -5288,10 +5304,13 @@ reklama.allegro.secfence.lesavik.net
 rekuraten.yatenku.top
 rekutalu.macamulere.xyz
 rekvtem-4e7r3t.net
+rekvtem-c1zge6.net
 rekvtem-h1fdns.net
 rekvtem-jk2fxy.net
 rekvtem-m96lws.net
 rekvtem-s27q37.net
+rekvtem-t1vyi3.net
+rekvtem-wuuz1o.net
 rekvtem-y6meps.net
 releases404.com
 relieffund.freeinternetz.com
@@ -5932,6 +5951,7 @@ st4.ning.com
 st6.ning.com
 staffandfaculty.my-free.website
 stage.cwport.com
+staging.karrikins.cliquedomains.com
 stainurulfalah.ac.id
 stand.fbcom-51831420.fleacontrolperth.com.au
 stand.fbcom-55014189.fleacontrolperth.com.au
@@ -5956,7 +5976,6 @@ steampovered.yomu.ru
 steamproxy.net
 steff882580.typeform.com
 stem-corp.com
-step1-reset-password.now.radiolontraweb.com.br
 step2-action.com
 steqmcpmmynity.000webhostapp.com
 steven-coldwellbth9965.web.app
@@ -6072,7 +6091,6 @@ switch.com.kw
 syedfiberglass.com
 syira.loke.com.my
 sylviamclain-my.sharepoint.com
-syndactyl-stator.000webhostapp.com
 synerquest.com
 synovasa-my.sharepoint.com
 syriagaleri.com
@@ -6090,7 +6108,6 @@ tacazgmly12.zzux.com
 tacticalhvac.net
 taengball.co
 taggedmerited.surveysparrow.com
-taghazoutkhadamat.net
 tahiti-magic-show.com
 taijishentie.com
 takingnote.learningmatters.tv
@@ -7122,6 +7139,7 @@ www.centec-am.com.br
 www.centrofuoristrada.com
 www.centromusicalpaternense.es
 www.centromusicalpaternense.es:443
+www.cfmcar.it
 www.chad-moore.com
 www.chasebank.authorizontain.com
 www.chat-whatsappgrupjoinbokepweb.zzux.com
@@ -7552,6 +7570,7 @@ www.joined-groupz-hot.jetos.com
 www.joingrup-wayoutuber.otzo.com
 www.joinngrubwa.itsaol.com
 www.joins-grubwhatsapp.xxxy.biz
+www.joipods.ca
 www.josephaldo.com
 www.josunlamp.com
 www.joythefriends.com
