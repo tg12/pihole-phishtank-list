@@ -74,6 +74,7 @@
 37i-33012085598885.us-south.cf.appdomain.cloud
 3Alerts.secure-update.info
 3alert.co.uk
+3ca.re
 3deya6i.blob.core.windows.net
 3ff7c459-86b2-4f6d-b6b0-ba6402ef6cb0.htmlcomponentservice.com
 3mvirugambakkam.com
@@ -199,7 +200,6 @@ accessibiltyorgligne.weebly.com
 accessmypayees.com
 accf-cambodia-france.com
 acconut-update-amliveus-com-jp.jkex82uxndimu16m320z88qt5muvauqm9zjy2wxxll9jy.cyou
-acconut-update-amproton-co.config-gbn3fmwpk5ybfijenx1r02v2mkesfoxunnmhuikijg5yr.cyou
 accorservorg.yolasite.com
 account-locked-case-id-pp-330-443-754.nrbabl.com
 account-peringatan.weebly.com
@@ -1260,7 +1260,6 @@ chat-whatsapp-com-eyqv3bzrbe6hfhczght2yy.org
 chat-whatsapp-grub.freetcp.com
 chat-whatsapp.vizvaz.com
 chat.whatsapp.com.tempat-berbagi-video18new.zyns.com
-chat.whatsapp.gmpbz.com
 chat.whatscpp.com
 chat.whstaspp.com
 chatwa112.dns05.com
@@ -1698,6 +1697,7 @@ dev-made-in-china-com-id976543821.pantheonsite.io
 dev-made-in-chlna.pantheonsite.io
 dev-made-ln-china-com.pantheonsite.io
 dev.previewmysite.co.za
+dev3.qbees.tech
 deveerich.com
 develop.mewbuilds.com
 development-admin-663425819763.tk
@@ -1900,6 +1900,7 @@ ebay.con-itm.27429348.xyz
 ebay.con-itm.37i45r136e8.xyz
 ebay.dll.singin.de.pms-mingkee.com
 ebay.dll.singin.pms-mingkee.com
+ebay.itm.com.pay.top.6486387.xyz
 ebay.payments-support-center.com
 ebay.uk-seller-issues.com
 ebayitm.com.buyitnowpage.com
@@ -1955,6 +1956,7 @@ ee-infoverify.com
 ee-mypayment.com
 ee-mysupportpage.com
 ee-paymentupdates-secured.com
+ee-processauthbilling-update.com
 ee-rebilling.com
 ee-resolve.com
 ee-resolvebills.com
@@ -2273,7 +2275,6 @@ fbookcom-lyuyqprp.xpertzgroup.com
 fbookcom-nrjqwmyk.xpertzgroup.com
 fbookcom-owtpmmqm.xpertzgroup.com
 fbookcom-qmnjgnri.xpertzgroup.com
-fbookcom-vxotwzuy.xpertzgroup.com
 fbookcom-ysvzhlss.xpertzgroup.com
 fbookcom-zrlozurl.xpertzgroup.com
 fbperingatan71.weebly.com
@@ -2454,6 +2455,7 @@ geoffbeachplumbing.com.au
 geomekca.com
 georgestoychest.com
 geovanda.net
+gesedarentefds.com
 gestoriadecredito.com.mx
 getactive365.com
 getatless.com
@@ -2977,7 +2979,6 @@ identitaclienti2020.com
 identity-confirmation.vercel.app
 ideonpackaging-my.sharepoint.com
 idoranglog.moonfruit.com
-idverifyonlineuk.com
 iefishwtw.gb.net
 ierh.fityq.com
 igazszabolcs.hu
@@ -2991,7 +2992,6 @@ iiioiio.ru.com
 iipvit.by
 iitee.net
 ijobs.vn
-iklimsu.com
 ikonexport.com
 iksanthesharp.postown.net
 ikuhzdswpx.pfirmann-bau.de
@@ -3760,7 +3760,6 @@ loto041219.blogspot.com
 loudweb.czweb.org
 louvreonline.in
 lovedone3ww.weebly.com
-lovefamilyholidays.co.uk
 loveslife.biz
 lovetheedit.com
 lovsit.mara20.ru
@@ -4030,6 +4029,7 @@ mcelman.com
 mdbadv.com.br
 mdevents.in
 mdtec.com.ar
+me2.do
 meadow-nonstop-hole.glitch.me
 meat.uniandes.edu.co
 meatdungeon.com
@@ -4701,7 +4701,6 @@ online-securepayment.com
 online-unicrdbulgbankbg.net
 online.banking-lloyds.co.uk
 online.caixapf-pj-gov-br.site
-online.cef-economica-gov.site
 online.jimmyjohns.com
 online.lloyds-personal.co.uk
 online.natwest-personal.com
@@ -5401,6 +5400,7 @@ regjikutem-marke.ooo
 rehobothevangelisticchurch.com
 rejdikutem-marke.ooo
 rejhikutem-marke.ooo
+rejvikutem-marke.ooo
 rekapuolam.blogspot.com
 reklama.allegro.secfence.lesavik.net
 rekuraten.yatenku.top
@@ -5434,7 +5434,6 @@ remavon.typeform.com
 remediesforstuff.com
 remembernancy.com
 remontoknadveri.su
-remove-hali-beneficiary.com
 remove-newdevice-halifaxinfo.com
 remove-registeredmobile.co.uk
 removehalifax-payee.com
@@ -5490,6 +5489,11 @@ review-newpayees.com
 review-online-payments.com
 review-your-payee.com
 reviewpayeesonline.com
+revulotion-119736452831.tk
+revulotion-119736452832.tk
+revulotion-119736452833.tk
+revulotion-119736452834.tk
+revulotion-119736452835.tk
 rewardxuc.com
 rextraening.dk
 rgr4c686t5wq2ylc.mikecrm.com
@@ -5997,7 +6001,6 @@ sms-orange.webador.com
 sms-support.store
 smscarrefour.me
 smsenligne.myfreesites.net
-smsmmsinfos.webador.com
 smsorangesmsmessage.myfreesites.net
 smss-mms.yolasite.com
 smsstream.com
@@ -6391,7 +6394,6 @@ thevoice.actor
 thietbihantbt.com
 thinkingpilates.com
 thirdworldcentre.org
-thomsea.fr
 thousandscolors.com
 three-bill198.com
 three-billpayment.com
@@ -6583,6 +6585,7 @@ u5211565.ct.sendgrid.net
 u7742171.ct.sendgrid.net
 u9376911.ct.sendgrid.net
 u966905asm.ha005.t.justns.ru
+u982525e0k.ha005.t.justns.ru
 uae-appleld-pay.ssbcentar.info
 uat-internetloanapplication.cudl.com
 ubaubaubaubaubaytti8tufgj3awetransfer.000webhostapp.com
@@ -6684,7 +6687,6 @@ url4753.lightamazozna.biz
 url5411.bnjservicesltd.co.uk
 url5854.we-connect.io
 urls.gorean.biz
-urlsnotication.weebly.com
 urlz.fr
 urologysocietypune.com
 us-solar-department.com
@@ -7693,7 +7695,6 @@ www.imxprs.com
 www.indeedcontract.com
 www.indivisibleheart.com
 www.info.onlinebanking-devices.com
-www.infonetmedia.co.uk
 www.infopublishersassociation.com
 www.informativa-conto.it
 www.ingersolmusic.com
