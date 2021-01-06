@@ -155,7 +155,6 @@ My3.billing.validate-secure.com
 PayPal.unlock-myaccount.com
 PayUkLimited.com
 Paypal-device023.com
-Paypal-device024.com
 a-a5a5.000webhostapp.com
 a.a.3483.fhug.5875.dhirt.4989.rgkhr.594k.egih.dg4r4t.clearpointsupplies.com
 a584.hyperphp.com
@@ -1694,7 +1693,6 @@ destaques-offer1.com
 destructoring.com
 detect-unknownpayee.com
 detes.sk
-deutshbankparticuler.allyssand.co.za
 deuxiemeclasse.fr
 dev-made-in-china-com-001babp0gud5bpg9abid-securelogin.pantheonsite.io
 dev-made-in-china-com-391babp0gud5bpg9abid-securelogin.pantheonsite.io
@@ -2165,7 +2163,6 @@ evolque2020.lon.wafaicloud.com
 ewi.my.salesforce.com
 excavationguay.com
 excelbest.com
-exchangeacc.com
 exchangedictionary.com
 excited-rhinestone-tuba.glitch.me
 exideportefrt.firebaseapp.com
@@ -2837,6 +2834,7 @@ hjdiuyp.weebly.com
 hjg.budhfpt.cn
 hjg.kkakelt.cn
 hjg.mvmisuf.cn
+hjg.yj7ckov.cn
 hk.mikecrm.com
 hkagc.com
 hklee.hk
@@ -3576,7 +3574,6 @@ lioydsonline.co.uk
 lippielust.com
 liquidatudoomagazineluiza.com
 lithiumtolashes.com
-lithuaniapostcards.icu
 litrodeluz.com.mx
 littleelmapartments.com
 littlefoots.ru
@@ -3840,7 +3837,6 @@ mail-109887.square.site
 mail-confirmation-process.glitch.me
 mail-generali.com
 mail-ionos.maleessentialproducts.com
-mail-pay.blogspot.com
 mail-signatt.weebly.com
 mail.30yearsred.com
 mail.adamsarch.com
@@ -4549,7 +4545,6 @@ nothingelsefilm.com
 noticias.canal22.org.mx
 notification-identity-office-recovery.my.id
 notificaton-officer-secur-recovery-identity.my.id
-notificaton-recovery-identity.my.id
 notifiication-identiti-officer-recovry-suport.my.id
 notifiication-identiti-officer-recovry-suports.my.id
 notifiicaton-identity-recovery.my.id
@@ -4750,7 +4745,6 @@ optus-com-au.blogspot.com
 optus.legal
 optusnet-com.blogspot.com
 ora-n.yolasite.com
-orachshareb75.weebly.com
 orange-alerte.webador.com
 orange-cadeau1.byethost16.com
 orange-dcr.fr
@@ -5978,6 +5972,7 @@ situacaocadastralapp.xyz
 siuolamour.blogspot.com
 sixpointpartners-my.sharepoint.com
 sjhsk.app.link
+skenglish.com
 skinmetroroyale.com
 skins-casino.com
 skon.in
@@ -6006,6 +6001,7 @@ smbc-card.qweadfdfhfgh.icu
 smbc-ccad.com
 smbc-cord.buzz
 smbc-vpass.life
+smbc.co.jp.kj216263.live
 smbc.co.jp.linekie526.xyz
 smbc.guru
 smbcadmin.ytrertlaskfjmxkadd3dfgfg1sdfsasdxzv.xyz
@@ -6399,7 +6395,6 @@ them5.co
 themarbleshop.sharepoint.com
 themkdiaries.com
 thenexoglobal.com
-theoaks-al-e.cf
 thepantyhosequeen.com
 thepaperdesign.com
 theresagabrielle.com
@@ -6642,7 +6637,6 @@ umzap.com
 una.saatrva.com
 unam.myfreesites.net
 unapparelled-sweepe.000webhostapp.com
-unauthorised-payee.services
 undesmaro1937.blogspot.co.uk
 unicorn-gifts.net
 unidosporjesus.gt
@@ -6787,6 +6781,7 @@ verificationns-facebook.ga
 verificationns-facebook.gq
 verificationns-facebooks.cf
 verificationns-facebooks.ga
+verificationns-facebooks.ml
 verificationns-facebooks.tk
 verificationnsfacebook.ga
 verificationnsfacebook.ml
@@ -6805,6 +6800,7 @@ verify-device-security.com
 verify-devicepayee.com
 verify-ee-help.com
 verify-eeacc.net
+verify-fbb.ml
 verify-my-santan.com
 verify-myonlinebankingdetails.com
 verify-mypayments.com
@@ -7211,7 +7207,6 @@ www.amazon-check-co-jp.vy3.top
 www.amazon-check-co-jp.wk4.top
 www.amazon-check-co-jp.x6o.top
 www.amazon-check-co-jp.yv0.top
-www.amazon-co-jp-ugds.top
 www.amazon.c0.jp.4efa7aed6eae7fc9b3ac18e.xyz
 www.amazon.c0.jp1.asd12ewqeq3sm.xyz
 www.amazon.de.signin.verification.openid.5935156.globthirsgare.cf
@@ -8029,7 +8024,6 @@ www.pasarelasdepagos.com
 www.paxful.com.transfer.boubit.com
 www.payee-alert-device.com
 www.payee-auth-request.com
-www.payee-auth.digital
 www.payee-authorizationhali.com
 www.payee-cancellation-stop.com
 www.payee-cancelupdate.com
@@ -8220,7 +8214,6 @@ www.securelloyd-deregisterpayee.com
 www.securelloyd-internetbanking.com
 www.securelloyd-network.com
 www.securelloyd-securityservice.com
-www.securelloyd-service.com
 www.securemy-payee-auth.com
 www.secureonlinepayee.com
 www.security-device-deregistration.co.uk
