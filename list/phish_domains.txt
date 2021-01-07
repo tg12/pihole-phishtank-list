@@ -1655,7 +1655,6 @@ deregister-info.com
 deregister-lloyd-unauthorisedaccess.com
 deregister-new-device.co.uk
 deregister-new-mobile.co.uk
-deregister-newpayee-secure.com
 deregister-online-payee.com
 deregister-payee-online.com
 deregister-payee-onlinebanking.com
@@ -1701,7 +1700,6 @@ dev-made-in-chlna.pantheonsite.io
 dev-made-ln-china-com.pantheonsite.io
 dev.previewmysite.co.za
 dev3.qbees.tech
-deveerich.com
 develop.mewbuilds.com
 development-admin-663425819763.tk
 development-admin-663425819765.tk
@@ -2013,7 +2011,6 @@ elavution-cek-point-ck-856213735136748437773.tk
 elavution-cek-point-ck-856213735136748438331.tk
 elavution-cek-point-ck-856213735136748438332.tk
 elavution-cek-point-ck-856213735136748438333.tk
-elavution-cek-point-ck-856213735136748438334.tk
 elavution-cek-point-ck-856213735136748438335.tk
 elavution-cek-point-ck-856213735136748438336.tk
 elavution-cek-point-ck-856213735136748438337.tk
@@ -2040,7 +2037,6 @@ elkaymfg-my.sharepoint.com
 elkhartisd-doc.tk
 ellediufficio.it
 ellenronaldskeene.com
-elmerfloyd.com
 eloginonnecteplus.wixsite.com
 elomo.ro
 elpla.pl
@@ -4030,7 +4026,6 @@ medicalbi.it
 medicalmary.com
 medicvanphuc.vn
 mediolanumecobonus110.it
-meditecwarehouse.com
 meditur.ro
 medovdom.ru
 medviewairline.com
@@ -4116,6 +4111,7 @@ mint-mica-belly.glitch.me
 mintubrar.com
 mipianodigital.com
 miragehookahmpls.com
+mirror.uk-news.network
 misahorroestadoenlinea.com
 misdatos.alertasviabcp.xyz
 misdatos.viabcpactualizar.live
@@ -4245,6 +4241,7 @@ my-tee-shirt.com
 my-three.app
 my.jcb.co.hhwfx.com
 my.jcb.co.jp.aiafi.com
+my.jcb.co.skyead.com
 my.nativeforms.com
 my.paypaccess.com
 my02billing.dev
@@ -4717,6 +4714,7 @@ optus-au.blogspot.com
 optus-com-au.blogspot.com
 optus.legal
 optusnet-com.blogspot.com
+opvp.org
 ora-n.yolasite.com
 oralbadvertisingcampaign672656911.wordpress.com
 orange-alerte.webador.com
@@ -4863,7 +4861,6 @@ payne-secure-pp-marchand.000webhostapp.com
 paypai-confirmation.com
 paypal-checkout-app.com
 paypal-limitations36.com
-paypal-limitations37.com
 paypal-limitations39.com
 paypal-merchantloyalty.com
 paypal-my.sharepoint.com
@@ -4981,7 +4978,6 @@ pghotelmanagement.com
 pgmm.club
 pgrimard.magix.net
 ph.zanqap.com
-phanthienan.vn
 philippinegetawayadventuretours.com
 phoenixlocksmith-az.com
 phogovip.vn
@@ -5296,6 +5292,7 @@ rb.gy
 rbbroker.net
 rbcmontgomery.com
 rbcmultan.com.pk
+rcl.ink
 rcone.kvhkosher.org
 rcscaaa.com
 rcsdeliveryservice.com
@@ -5327,7 +5324,6 @@ recofery-842693846293854134-it.tk
 recofery-842693846293854136-it.tk
 recofery-842693846293854138-it.tk
 recofery-fb-10747648640012.tk
-recofery-fb-10747648640013.tk
 recofery-fb-9478517800002.tk
 recofery-fb-9478517800003.tk
 redacao.euestudo.com.br
@@ -5636,7 +5632,6 @@ sbcgloballoginz.com
 sbeyxegg.buyonlineb.su
 sc0933tia-21.com
 scalextricman.co.uk
-scam2.fish-andcompany.com
 scarblog1.wixsite.com
 scartitanitemlangka99.000webhostapp.com
 scgrotto.org
@@ -5849,7 +5844,6 @@ sexeducation.atspace.com
 sexsamasya.co.in
 sexsmepornsvidios.otzo.com
 sexzpornmevidiosn.otzo.com
-sexzspornmevidions.otzo.com
 seyhrohanie.com
 sferprava.ru
 sfirstrepublic.coms.cso.gov.tt
@@ -7058,6 +7052,7 @@ wu7q5.app.link
 wuteh.a100.com.pl
 wvk12-my.sharepoint.com
 wvvw.telecreditobcpn.com
+wvw.xn--bancosantndr-kbb8i.tk
 ww.trustauto.ca
 ww17.casas-cb-compras.com
 ww17.login-appleid.apple.com.alert-wode.com
@@ -7705,7 +7700,6 @@ www.intserviy.it
 www.invitegroupwhatsapp-berbagikeasikan18.onedumb.com
 www.invitegroupwhatsapp-berbagionline18.onedumb.com
 www.invitegroupwhatsapp-berbagivideosyurr.onedumb.com
-www.invitegroupwhatsapp-temenonline.onedumb.com
 www.inx.lv
 www.ipetrokala.com
 www.iremove-new-payee.com
@@ -7847,6 +7841,7 @@ www.martinlarosa.com
 www.maruei.com.br
 www.maseczki-wielorazowe.com
 www.masterdrive.com
+www.masteroffchess.com
 www.mattiacoscione.it
 www.mavitikinsta.epizy.com
 www.maxvirtude.com.br
@@ -8143,13 +8138,11 @@ www.secin.com.ar
 www.secure-customer-connected.com
 www.secure-customer-mobile.com
 www.secure-customer-service.com
-www.secure-customers-device.com
 www.secure-customers-mobile.com
 www.secure-devicealert.com
 www.secure-devicelink.co.uk
 www.secure-deviceslink.co.uk
 www.secure-deviceverification.com
-www.secure-llo-alert.live
 www.secure-llo-yds-online.live
 www.secure-lloyd-payee.net
 www.secure-management.co.uk
