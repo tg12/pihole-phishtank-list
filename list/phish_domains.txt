@@ -2,6 +2,7 @@
 000p6vl.wcomhost.com
 00324il.moonfruit.com
 02-verify-billing.com
+02billing-error.net
 031698396172331.us-south.cf.appdomain.cloud
 045a3c0.wcomhost.com
 045b66e.wcomhost.com
@@ -171,6 +172,7 @@ account-business-security.000webhostapp.com
 account-peringatan.weebly.com
 account-resecure.com
 account-update-services-live.g9fd8y.cn
+account-update-services-live.zeu26myr.cn
 account.new-cancelpayee.com
 account.paxful.com.wallet-account-upgrade.com
 account.secure-hali.com
@@ -263,6 +265,7 @@ albel.intnet.mu
 alburjrealestate.com
 alealtaseguros.com
 alergiaalpolen.com
+alert-onlineprevent.com
 alerts-eesupport.com
 alerts-new-payee.com
 alerts-payee-new.com
@@ -592,6 +595,7 @@ bank-project.surge.sh
 bankcampuscareers.tal.net
 bankloginonline.com
 bankofamerica-logins.dns05.com
+banquepostale-session.from-mn.com
 banreservaspro.com
 banresevaswebs.com
 bansofsameriicas.com
@@ -837,6 +841,7 @@ cancel-directdebits.net
 cancel-isecure-ilogin.com
 cancel-new-beneficiary.co.uk
 cancel-newpayment.com
+cancel-newpayments.com
 cancel-payeeassist.com
 cancel-payeeinfo.com
 cancellation-secure-device.com
@@ -844,6 +849,7 @@ cancellationpayeedevice.com
 cancellationrequest-hfx.com
 cancelnewpayeeonline.net
 cancelpayee.device-ath.com
+cancelunauthorised.com
 cancelunrecognisedpayee.com
 canconsulting.in
 caneba6718.wixsite.com
@@ -1052,6 +1058,7 @@ comune.gioiadeimarsi.aq.it
 comunicazioniarubait.tumblr.com
 con-firma.firebaseapp.com
 configuration-infos.firebaseapp.com
+confirm-my-newpayments.com
 confirm-mynewtransfer.com
 confirm-mynewtransfers.com
 confirm-myonlinebankingdetails.com
@@ -1248,6 +1255,7 @@ deregister-halifax-online-banking.com
 deregister-info.com
 deregister-lloyd-unauthorisedaccess.com
 deregister-new-device.co.uk
+deregister-new-paired-device.com
 deregister-newdevice-securelloyd.com
 deregister-online-payee.com
 deregister-payee-online.com
@@ -1293,7 +1301,6 @@ development-admin-987346528212.tk
 development-admin-987346528213.tk
 development-admin-987346528214.tk
 development-admin-987346528215.tk
-development-admin-987346528216.tk
 device-cancellation-issue.com
 device-conformation-uk.com
 device-deregistered-new.com
@@ -1396,6 +1403,7 @@ dpskesharia.com
 dpttrwmc37wji.cloudfront.net
 dranathaliamatos.com.br
 drcarmenmora.com
+drivetransfer.co
 drsamuelzorrilaslives.com
 ds7.main.jp
 dsastars.org
@@ -1753,6 +1761,7 @@ filedotard.yolasite.com
 financemzt.com
 financiallifecoaching.builderallwp.com
 financialone.com.hk
+finanse.malopolska.pl
 fineststitch.com
 finhive.net
 firebasestorage.googleapis.com
@@ -2691,8 +2700,8 @@ lloyds-payee-secure.com
 lloyds-payeeconfirmation.com
 lloyds-secure-online.com
 lloyds-secure.uk
+lloyds-uk-bank.com
 lloydsalert-payee-confirmation.com
-lloydsalert.removal-form.com
 lloydsbank.auth-personal-secure.com
 lloydsbank.deregister-device-security.com
 lloydsbank.dev-personal-payee.com
@@ -2755,6 +2764,7 @@ locationimagery.com
 lodka.in
 lofon-add.firebaseapp.com
 log-fb-com.ga
+log-fb-com.gq
 log-in.subsexpirentflx.com
 logbromw.com
 login-authentication.com
@@ -2824,6 +2834,7 @@ m.internet-b.com
 m42club.com
 m4midasbuy.com
 m54af8.webwave.dev
+mabanqpostalefr.kinsta.cloud
 machinta.com
 maciel.med.br
 macjakarta.com
@@ -2858,6 +2869,7 @@ mail.charperimagedesign.com
 mail.deregister-device.org
 mail.deregister-payee-online.com
 mail.deregisterdevice-manage.com
+mail.device-unauthorizedpayee.com
 mail.dhlesgmarketing.com
 mail.fastmoneyc.com
 mail.flacland.com
@@ -3303,6 +3315,7 @@ newdevicederegistration-online.com
 newdevicesderegistration-access.com
 newlifeschooloftheology.com
 newlogin-payeeattempt.com
+newloginalerts.com
 newonline-restrict-payee.com
 newpayee-alertonline.com
 newpayee-alerts-checks.com
@@ -3313,6 +3326,7 @@ newpayee-secuirtyalert.com
 newpayee-secure-account.com
 newpayeeauthorisation.link
 newpayeerequest-security.link
+newpayees-management.co.uk
 newpaymentalertcancellation.net
 newrafa.rafaah.net
 newrecipient-hallfax.com
@@ -3421,9 +3435,11 @@ o2-billingissue.net
 o2-processbilling-update.com
 o2-secureauth-billing.com
 o2-securebilling-update.com
+o2-service-account.com
 o2-updateprocess-billing.com
 o2.uk.ac5g10.com
 o2.uk.trf20.com
+o2ebilling.com
 o2service-centre.com
 oakvillehomeappraisal.ca
 obrazul.com.br
@@ -3448,6 +3464,7 @@ ofertasparaguay.com
 ofertastramotinabr.com
 offal.odoo.com
 offerspins4k.club
+office365.cx
 office365.eu.vadesecure.com
 office4g.yolasite.com
 officialismsschwartze.net
@@ -3468,7 +3485,6 @@ olidooo.waca.tw
 olx-money.pl
 olx-pl-id.ru
 olx-polska.com
-olx-vip.com
 olx.pl-dostawa.com
 olx.rwpay.ru
 omegasystemsuae.com
@@ -3491,6 +3507,7 @@ onetimesecret.org
 onlbc2.com
 online-alerts-halifax.com
 online-cancelpayee.com
+online-device-authorisation-support.com
 online-devicemanagement.com
 online-identity-verification-pages-management-services.my.id
 online-login-deviceconfirm.com
@@ -3698,6 +3715,7 @@ peer.yourluv.co
 pelikadal.org
 pembatalanblockfacebok77.gq
 pembatalanblockfacebok77.tk
+pembatalanblokfacebok78.tk
 pembatalanpemblokiranfb2020.weebly.com
 pemblokiranfb71.weebly.com
 pemblokirann011.weebly.com
@@ -4179,6 +4197,7 @@ sag2019.com
 saifglobalsports.com
 saiosoluciones.com
 saissco.com
+salaryatsea-cruises-wirecard-info.000webhostapp.com
 saldao-dobahianinho.com
 saldaoobahianinho.com
 saldomaiobahianinho.com
@@ -4318,6 +4337,7 @@ securesquared.co.uk
 securewebs.linkappstore.authentication.helpregcare.net
 security-fraudprevent.com
 security-mappl-information-account.piiquarry.com
+security-payeeprevention.live
 security-preventfraud.com
 security.paypai-confirmation.com
 securityresolve-payment.com
@@ -4332,6 +4352,7 @@ seminarpedia.com
 sen-manole.firebaseapp.com
 sendo-meso.firebaseapp.com
 senka.com.tr
+sentander.myshopify.com
 seoelectrician.com
 seoemail.com.au
 sepia-thunder.000webhostapp.com
@@ -4467,6 +4488,7 @@ skenglish.com
 skinmetroroyale.com
 skon.in
 skribbl-io.org
+sky-secure-billing.com
 skyrexmedia.com
 skyscaner.cc
 skyscaner.link
@@ -4491,7 +4513,6 @@ smbc-card-co-jp.smbc-cardl.net
 smbc-card-co-jp.smbc-cardo.com
 smbc-ccrb.com
 smbc-cord.buzz
-smbc.co.jp.kj216263.live
 smbc.co.jp.linekie526.xyz
 smbc.guru
 smbc.today
@@ -4510,6 +4531,7 @@ smsverificationmms.myfreesites.net
 smwam.coms.cso.gov.tt
 sn.trapemf.net
 snap.chartex.net
+snarlpumpions.com
 sniperdz.com
 snjtradelink.com
 snrsystem.com
@@ -4569,6 +4591,7 @@ spontan.ch.net2care.com
 sportcareers.ph
 sports.com-4daily.com
 sportsmedicsltd.com
+spotify-home.com
 spotify-information.com
 spotify.update-billing.sctrlgin.com
 sprendouman.blogspot.com
@@ -4748,7 +4771,6 @@ tellmann-lifestyle.de
 templat65sldh.myfreesites.net
 teremerynal.com
 termerosapepe.it
-terminate-ee.com
 tesitngbuckerds.ams3.digitaloceanspaces.com
 test.arintek.ru
 test.bayoucitybadges.org
@@ -4937,6 +4959,7 @@ u19736934.ct.sendgrid.net
 u2382462.ct.sendgrid.net
 u3699884.ct.sendgrid.net
 u966905asm.ha005.t.justns.ru
+u986435en7.ha004.t.justns.ru
 uae-appleld-pay.ssbcentar.info
 uat-internetloanapplication.cudl.com
 ubee.co.kr
@@ -4969,6 +4992,7 @@ umpalangkaraya.ac.id
 umzap.com
 una.saatrva.com
 unam.myfreesites.net
+unauthorisedaccess-cancel.com
 unidosporjesus.gt
 unionheightsresidental.com
 unipinbuggratiswork.000webhostapp.com
@@ -5125,6 +5149,7 @@ vinolab.bg
 vipdomainshop.com
 viralparadise.com
 viratgang.in
+virgin-billing-support-help.com
 virgin-personal-update.com
 virtual-banco.webcindario.com
 visione.co.id
@@ -5349,6 +5374,7 @@ www.akturkharita.com
 www.aladasinsaat.com
 www.alaskanmalamute.us
 www.albatron.com
+www.alert-payee-hali.com
 www.alessandromari.net
 www.alinhador3d.com.br
 www.alpha-mail-server2.ddns.info
@@ -5406,7 +5432,6 @@ www.authorise-mynewtransfers.com
 www.authorise-myonlinebankingdetails.com
 www.authorise-mytransactions.com
 www.authorise-newtransaction.com
-www.authorised-devices.com
 www.autolikesfree.net
 www.automoves-halifax.com
 www.autosclassltd.com
@@ -5442,6 +5467,7 @@ www.bokepress2020.dns2.us
 www.bolong3d.com
 www.bombogadget.com
 www.brighant.com
+www.btbusi.com
 www.btck.co.uk
 www.buildingtradesnetwork.com
 www.busanopen.org
@@ -5530,7 +5556,9 @@ www.delightontour.com
 www.demandandsupply.in
 www.denartcc.org
 www.deregister-device-pairing-secured.com
+www.deregister-device-securedlloyd.com
 www.deregister-new-payee.co.uk
+www.deregister-newdevice-securelloyd.com
 www.deregister-payee-onlinebanking.com
 www.deregister-payee-personalaccount.com
 www.deregister-payee-unauthorisedaccess.com
@@ -5542,6 +5570,7 @@ www.designerforuiy.com
 www.dev.runescape.com-ed.ru
 www.device-authorisations.com
 www.device-livealert.com
+www.device-online-payee.com
 www.device-registration-icancel.com
 www.deviceauthlloydb.com
 www.devicelauthlloydb.com
@@ -5772,6 +5801,7 @@ www.kilo-alfa.com
 www.kisa.link
 www.klantenservicebelgies.com
 www.kleenmax.com.cn
+www.knutsfordoffices.com
 www.kourabiika.eu
 www.kovolem.cz
 www.kristallsolucoes.com.br
@@ -5923,6 +5953,7 @@ www.officentry.com
 www.officialliker.co
 www.okeyciyiz.com
 www.oliscn.com
+www.online-device-support.com
 www.online-devicemanagement.com
 www.online-identity-verification-pages-management-services.my.id
 www.online-verify-mypayee.com
@@ -5948,6 +5979,8 @@ www.payee-registered.com
 www.payee-requestid.com
 www.payee-secure-authorize.com
 www.payee-security-online.net
+www.payee-securityissue.net
+www.payeeinfo-cancel.com
 www.payeesecure-hali.com
 www.paymentcancel.com
 www.payments-uber.com
@@ -6067,6 +6100,7 @@ www.secure-payee-device-authentication.com
 www.secure.mwwi.pl
 www.secure.runescape.com-ad.ru
 www.secure.runescape.com-m.ru
+www.secured-devicealerts.com
 www.secured-mydevice.co.uk
 www.secured-verify-link.com
 www.securedevice.co.uk
@@ -6125,6 +6159,7 @@ www.supportcenter-adf6caf09ec00b5adf6ca.sprodgrid.com
 www.supportcenter-bdf6caf09ec00b5adf6ca.sprodgrid.com
 www.supportcenter-cdf6caf09ec00b5adf6ca.sprodgrid.com
 www.supremeanimation.com
+www.surjyadas.com
 www.surveylegend.com
 www.surveyol.com
 www.sushigamers.com
@@ -6186,7 +6221,6 @@ www.unisonsouthayr.org.uk
 www.unitus.mk.ua
 www.univswap.top
 www.unixcod.org
-www.unknown-payment.com
 www.update-my-webmail.gcdsexpress.com
 www.update-service.co
 www.updatemycredential.com
@@ -6198,6 +6232,7 @@ www.vereins.at
 www.verification-newdevices.com
 www.verify-here.co.uk
 www.verify-info-ee.com
+www.verify-my-transfers.com
 www.verify-mynewdevices.com
 www.verify-new-devices.com
 www.verify-newdeviceonline.com
@@ -6207,6 +6242,7 @@ www.verify-now.co.uk
 www.verify-securepayee.com
 www.verify.chase.billing.info.igualdad.cl
 www.verifymy-onlinebankingdetails.com
+www.verifymytransfer.com
 www.verifypayee-secure.com
 www.veronikastringquartet.com
 www.vices.eu
