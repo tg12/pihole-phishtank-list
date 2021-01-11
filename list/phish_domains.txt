@@ -63,7 +63,6 @@
 3no.ro
 3taw1axhzpzgihrd7pec.us-south.cf.appdomain.cloud
 3uk-bills.com
-3verify-myaccount.com
 3verify-mybill.com
 3wondersexpeditions.com
 43.231.250.253:8080
@@ -72,7 +71,6 @@
 48tlp.codesandbox.io
 4animal.xyz
 4d7255ca9b2659623.tempsite.link
-4hat.hu
 4jv02.app.link
 4themes.ru
 4vkjkwex22wbmemxbmimva-on.drv.tw
@@ -131,7 +129,6 @@
 9khnh.app.link
 Authenticate-newpayees.live
 CNFPH.Me
-Cancelnewpayeerequestlogin.com
 Legalshield.therealtalkconference.org
 PayPal.unlock-myaccount.com
 PayUkLimited.com
@@ -148,7 +145,6 @@ aanaqa.com
 ab453bbe-3b65-47cf-9eca-798689d971d5.htmlcomponentservice.com
 abbeyroadmoron.com
 abc820843196-001-site1.site4future.com
-abcd.idknet.com
 abceducation.co.in
 abcexpresslogistics.com
 abcsofia.com
@@ -186,7 +182,6 @@ accountsecurity-issue.com
 accountsecurity.org.uk
 accountspotwdfweefopuriuityur.firebaseapp.com
 accproductiios-or934693299.com
-accrent.webflow.io
 accreteconsultants.com
 acdl.hotramopen.com
 acelatam.com
@@ -290,7 +285,6 @@ allendzines.com
 allenhgm.com
 alliance4consumersusa.org
 allstarlax.com
-almacendesal.com
 alpha-lam.com
 alphaomegatv.net
 alpharealmx.com
@@ -353,7 +347,6 @@ anglo-fan.web.app
 angularjs-qgoay2.stackblitz.io
 animalfootprints.org
 animalwelfareinc.org
-animatics.co.uk
 anjoe.com
 ankama-forums.com
 ankus.es
@@ -412,8 +405,6 @@ applewriters.com
 appointment.beyondthebox.ph
 apponlinehalifa-securemobileappverify.app
 apporg.yolasite.com
-apprecadastramento.com
-appriver3651009905-my.sharepoint.com
 approvelogin.com
 appupdatesecurehalifaxonlineappupdate-verification.empastesanabalon.cl
 appupdatesecurehalifaxonlineappupdate-verification.titansgamestudio.ir
@@ -469,7 +460,6 @@ asisto.com.sv
 askalaney.com
 asp403r.paperless.com.pe
 aspgsz.000webhostapp.com
-aspopontoglio.it
 assessoria-finan.webnode.pt
 assets.cdnxz.com
 assist-payee.link
@@ -524,7 +514,6 @@ auth-tdeasywb.link
 auth-tdeasywb.org
 authenticate-nwest.com
 authenticatenewpayment.link
-authentification.webador.com
 authkoo.ml
 authorcheck.com
 authorise-myonlinebankingdetails.com
@@ -589,7 +578,6 @@ balancasvilaarens.com.br
 balex.cc
 balitransithotel.com
 bamboobypanda.com
-bambudeposu.com
 ban-paraonline.app
 bancapointernet-interbank.pe-rw.eu
 bancaporinternet-netinterbankpe09.com
@@ -796,7 +784,6 @@ brainsconsulting.ro
 bravetouch.com
 bravobeveiliging-my.sharepoint.com
 brazaire.com
-brazosbendguardianship-my.sharepoint.com
 breakevents.de
 breakingthelimits.com
 bribble.com
@@ -919,7 +906,6 @@ cdn.via.com
 cdpn.io
 cebuphonly.jrzoutsourcingservices.com
 cecafieirl.com
-cecmultiservice.it
 cedarsales-my.sharepoint.com
 cefwebchat.chatbsservices.com.br
 celebyeah.com
@@ -1019,7 +1005,6 @@ click.email.office.com
 click.mail.onedrive.com
 click.notice-updatesweb.com
 clickcentral.com.mx
-clicktotweet.com
 client-webhook-dot-qp-keybank-rrva-2020-04.uc.r.appspot.com
 clientes-preaprobados-banrural.com
 clienteverifica-account.it
@@ -1110,7 +1095,6 @@ copinyasociados.com.mx
 copyfuti.hu
 coquicalderon.com
 coral-candle-atrociraptor.glitch.me
-cornia.in
 cornlnq.com
 corporacionplaneta.com
 correos.chile.cl.u1258545.cp.regruhosting.ru
@@ -1132,7 +1116,6 @@ cpanelpourcontinuerhqnfghjkackmailercom.000webhostapp.com
 cpbild.co
 cpc.cx
 cpcamera.com
-cr.mufg.jp.zgzksl.com
 cr.mufj.jp.zksfx.com
 crackaworld.com
 craniorolloos.nl
@@ -1170,7 +1153,6 @@ cuntabuse.za.net
 cuny620-my.sharepoint.com
 cup0p.app.link
 cupkaju.wz.sk
-currently-att-upgrade.weebly.com
 cusstomerservicee.blogspot.com
 customairbrushshirts.com
 customer-ebay.com
@@ -1521,7 +1503,6 @@ ee-securebilling-uk.com
 ee-serviceuk.com
 ee-uksecure.com
 ee-upatebilling.com
-ee-updateauth-update.com
 ee-updatebilling-information.com
 ee-updatebilling-payments.com
 ee-updatebilling-update.com
@@ -1670,7 +1651,6 @@ estudiomaskin.com
 eternityflooringcom-my.sharepoint.com
 etoro-invest.org
 etrack05.com
-etvmedia.pl
 eu.nuvuneu.com
 eu.sarasotaextensionbar.com
 eugnerally-wixsite-com.filesusr.com
@@ -1790,7 +1770,6 @@ fghjr74rhudfguhtfguji.blogspot.com
 fhhw1u.webwave.dev
 fiafunupe.flywheelsites.com
 fiajureen.000webhostapp.com
-fieldstonerp-my.sharepoint.com
 fiestanube.com.ar
 filedotard.yolasite.com
 financemzt.com
@@ -1932,6 +1911,7 @@ ggl.ac
 ghorana.com
 giftexs.xyz
 giftraaga.com
+gigafilm-hd.ru
 giguideut.com
 gilstrap-sneed.com
 gim-par.com
@@ -2485,7 +2465,6 @@ joinngrubwa.itsaol.com
 joinwhatsap5.zyns.com
 joki.hop.ru
 jomchatjoinwhasaapsvideo.wikaba.com
-jomjomakhfitbraynsaksahfadhazara.blogspot.com
 jomkerja.net
 josephdgould31.com
 joudialbarat.blogspot.com
@@ -2516,7 +2495,6 @@ justlookapp.com
 justsayingbro.com
 justten.es
 justuskennelclub.com.br
-jvkj-ru.1gb.ru
 jvsecurepay.com
 jyotsacademy.co
 k12inc-my.sharepoint.com
@@ -2524,7 +2502,6 @@ k934743878737.web.app
 kaayamo.com
 kadityhs.com
 kaeuferschutz-ebay.de
-kaitystein.com
 kakprostoyes.ru
 kalea-poke.de
 kalitinggar.desa.id
@@ -2553,7 +2530,6 @@ ken.kulaklikdergisi.com
 kentridge.lk
 keramikadecor.com.ua
 kerozene74.com
-keunen.eu
 keyabhatt.com
 keypointtraining-my.sharepoint.com
 kh3wfp6f.easy.co
@@ -2577,7 +2553,6 @@ kit.mishkanhakavana.com
 kitestcon.web.app
 kittrezepecas.com
 kj216263.live
-kjjllgf.blogspot.com
 kjsa.com
 kjuasdxa.kjkljnxczdsa.top
 klantauthenticatie-netflix.com
@@ -3048,13 +3023,11 @@ mayamimar.com
 mayantu.eu
 mayapplecenter.org
 maykoupal.blogspot.com
-mcdonalds.prepaidaccess.com
 mcelman.com
 mdtec.com.ar
 meat.uniandes.edu.co
 meatball1215.club
 medamiaudette.getenjoyment.net
-media-interface.net
 medicalbi.it
 medicalmary.com
 medicvanphuc.vn
@@ -3166,8 +3139,6 @@ mobilesupport-payee.com
 mobiletechguide.com
 mobiportetherlogon.wixsite.com
 mockup.metradigitalmedia.com
-modernbambu.com
-modernrattan.com
 modhbrahmasamaj.org
 modiintamilagam.com
 modsecpaststudents.com
@@ -3191,7 +3162,6 @@ moonsearchengineoptimization.com
 moracantik.com
 moreinterestworg.gb.net
 motijheelmodelschoolandcollege.edu.bd
-motoincontroepoca.com
 moultrieurology.com
 movil-scotiabank.com
 moviles01-zonasegvraperuactiv19.com
@@ -3199,7 +3169,6 @@ movilliberbizum.com
 movingcompanies.top
 mp3tomato.com
 mpaciv.com
-mpequity.sharepoint.com
 mr-statucki.com
 mrnature.org
 msdwt-k12-in-us-conn.cf
@@ -3210,7 +3179,6 @@ msdwt-k12-in-us-net.gq
 msdwt-k12-in-us-nettt.gq
 mstphotographyltd.co.uk
 mtcc.unmuha.ac.id
-mudanzassuarez.com
 mufgpro.xyz
 mulangilnidhi.com
 multbancos.webnode.com.br
@@ -3221,7 +3189,6 @@ musicisit.de
 mutatio.cl
 mux.refurbishments-london.co.uk
 mv.efetr65.scxw34.wdw2xz.wr35gr.5657tht.vdv.dwr3.clearpointsupplies.com
-mvhp.com.br
 mx0.arqsys.srv.br
 mxtube.net
 my-billing-support.com
@@ -3284,7 +3251,6 @@ mysp.ac
 mytheamsauthecent.wapgem.com
 myupdates-mynetflix.com
 myvirginmedia-billing.com
-myvk.byethost14.com
 n26-bankonline.xyz
 n4r7u.app.link
 n9qyb.csb.app
@@ -3344,7 +3310,6 @@ netflixresp.com
 netorg304921-my.sharepoint.com
 netorg6226424-my.sharepoint.com
 netorgft1393773-my.sharepoint.com
-netorgft1432979-my.sharepoint.com
 netorgft2223515-my.sharepoint.com
 netorgft4835487-my.sharepoint.com
 netservice-upd.tumblr.com
@@ -3459,6 +3424,7 @@ nozed-uname.firebaseapp.com
 nra.gov.np
 nrc.codeweaver.ca
 ns3pssionntngoal.app.link
+ntawaarmhreslikincasablelessiat.blogspot.com
 num.to
 numotion-auth.cf
 numotion-auth.ml
@@ -3658,7 +3624,6 @@ paczkomatyapp.com
 padlet-uploads.storage.googleapis.com
 painsetsaveurs.com
 paleoexplained.com
-palm-tree-care.com
 palmiye.web.tr
 palomas-entrenamiento24-7.myshopify.com
 pampered.surveysparrow.com
@@ -3740,6 +3705,7 @@ paypal.verylegit.link
 paypalhelpcentre.tk
 paypalinfo.d-night.nl
 paypalsecur5e.hopto.org
+paypalsupport-ticket-9763.com
 paypalupdate.osamaalshareef.net
 paypalverification.allgamescheaper.com
 paypalvsgooglecheckout.com
@@ -3750,14 +3716,12 @@ payusall.xyz
 payusianseo.com
 pbmjx.youroffer.company
 pbndemo2.costapbn.com
-pcswm-my.sharepoint.com
 pdcox.csb.app
 pearlfilms.com
 pedalq.com
 pedasmag.com
 peds-ortho.com
 peer.yourluv.co
-pekersigorta.com
 pelikadal.org
 pembatalanblockfacebok77.gq
 pembatalanblockfacebok77.tk
@@ -3875,14 +3839,12 @@ pramahikvision-mail.net
 pramlee.com.my
 prassel.nu
 praxis-pruem.de
-prefabbricatipanozzo.it
 premium-skin.net
 presbyterian-park.azurewebsites.net
 preshop.littlecreativefactory.com
 prettypugpuppies.com
 prevent-unathorisedlogins.com
 preventsenior.com.br.cutercounter.com
-prevtek.com
 prf-gov-br.myfreesites.net
 prikany.com
 primeav.com.au
@@ -3905,7 +3867,6 @@ profabtxtest-my.sharepoint.com
 professional-house-cleaning.ca
 professionalindemnityinsurance.com.mt
 profilvoyages.gr
-profinishmi.com
 profuse-lightning-gateway.glitch.me
 projectiqengineering.in
 promcuscotravel.com
@@ -4023,7 +3984,6 @@ ralutaken.rottenta.top
 ramgarhcity.com
 ramgarhiamatrimonial.ca
 rangelferreira.adv.br
-ranhutco.asntenku.top
 raokuton.rantenku.club
 raokuton.rcoknlen.top
 rapsbrag.weebly.com
@@ -4122,7 +4082,6 @@ renwaiqingshan001.top
 repl-mess.myfreesites.net
 replug.link
 repuestoslucas.com
-researchneeds.in
 reset-your-device.com
 resetting-device.com
 resgatepontosmilhas.tk
@@ -4250,7 +4209,6 @@ sacredjourneyguide.com
 sadervoyages.intnet.mu
 safety-business-yy.000webhostapp.com
 safetyconsultantehs.com
-safex.sharepoint.com
 safirbetgirisadresimiz.blogspot.com
 sag2019.com
 saifglobalsports.com
@@ -4376,7 +4334,6 @@ secure48us-cox.webcindario.com
 secure55us-cox.webcindario.com
 secure57us-cox.webcindario.com
 secureadd-on-ee.com
-secureadd.goshly.com
 securecancel-payee.me
 securecba.com.au
 secured-mypayee.com
@@ -4400,8 +4357,6 @@ security-preventfraud.com
 security.paypai-confirmation.com
 securityresolve-payment.com
 secvddetg785ebvcx.wixsite.com
-seetflix.tumblr.com
-seeyouamazon.pricingamazon.monster
 segura-zonadatox.com
 seha2all.com
 seivino.it
@@ -4631,7 +4586,6 @@ sparknzrenew.com
 sparxinteriors.co.zw
 special-official.com
 speciallife.com.br
-spectometre.newimagefitness.net
 spectralwirejewelry.com
 speedbangla.akij.net
 spidersolutions.ro
@@ -4732,7 +4686,6 @@ sunbrightaquatics.com
 suncorpbank.com.au.mgmtt.xyz
 suncorporationent.lazlosoftwaresolution.info
 sunge-ode.firebaseapp.com
-sunnymere-my.sharepoint.com
 sunypotsdam-my.sharepoint.com
 superchief.org
 supernova.edu.rs
@@ -4773,7 +4726,6 @@ switch.com.kw
 swordex.kz
 sylviamclain-my.sharepoint.com
 synerquest.com
-synovasa-my.sharepoint.com
 syriagaleri.com
 syshainc.com
 systeam.com.tr
@@ -4811,6 +4763,7 @@ taumiq.com
 tawreedss.com
 tax-rebatenew.com
 taxesin-usa.com
+taxisis.com
 taxplannersinc.com
 tb915hdh89.mfs.gg
 teamgrouppcl-my.sharepoint.com
@@ -4828,7 +4781,6 @@ tekledgroup.com
 teknosmart.co.id
 tekoma-my.sharepoint.com
 telalmakkah.com
-telecomenterpriseinc-my.sharepoint.com
 telegra.ph
 tellmann-lifestyle.de
 templat65sldh.myfreesites.net
@@ -4880,7 +4832,6 @@ themkdiaries.com
 thenexoglobal.com
 thepantyhosequeen.com
 thepaperdesign.com
-theresagabrielle.com
 thescartitan.000webhostapp.com
 thescrapescape.com
 thesofarepair.com
@@ -5047,6 +4998,7 @@ ujs612.activehosted.com
 uk-help-centre.co
 uk-immunity.healthcare
 uk-mynetflix.com
+uk-uytdom.ru
 uk.tvlicense.news
 uk0qx.codesandbox.io
 ukash-wallet.biz
@@ -5107,9 +5059,7 @@ upscri.be
 upzimbra.weebly.com
 uqr.to
 uralalrlines.me
-urbain-studio-design.com
 urbenorte.com
-urbiz1.com
 urgent-alerts-halifax.com
 urimpex.in
 url4938.fxod.net
@@ -5122,7 +5072,6 @@ usaalogin.tumblr.com
 usahometreasury.com
 use.ge
 usedcopiersaustin.com
-user-Rakuten.y1a.top
 user-restore.com
 users.tpg.com.au
 usomilhas.com
@@ -5135,7 +5084,6 @@ v.gd
 v.visa.ucvisa.xyz
 v2.dssystem.ru
 v8w1.byethost7.com
-vadadi.hu
 valeosalesrep.com
 validationsystem.creatorlink.net
 valleybrookcountrydayschool.com
@@ -5254,7 +5202,6 @@ voiceaudio.co
 voipoid.com
 volarevic.com
 voltivoeg.com
-votacionesrss-0.000webhostapp.com
 votrespaceclient0pen.weebly.com
 vpay-paxful.com
 vpservices.es
@@ -5384,13 +5331,11 @@ wlldcard.d-tv.tv
 wlsw.xmdzt.cn
 wolfmirror.com
 womensmma.com
-wonand.co.kr
 wonderwomans.net
 woodcountydd.tk
 worker.patz6ebasclhiapaspsacp.workers.dev
 workinfo.ibx.lat
 workprotocoles-com.webs.com
-workpump.com
 worldatt.weebly.com
 worldofplushtoys.com
 wowmybusiness.com.au
@@ -5449,7 +5394,6 @@ www.akaryakitekipman.com
 www.akturkharita.com
 www.aladasinsaat.com
 www.alaskanmalamute.us
-www.alaskausa.org
 www.albatron.com
 www.alessandromari.net
 www.alinhador3d.com.br
@@ -5576,7 +5520,6 @@ www.chatwhatsapps.ezua.com
 www.check-a-payee.com
 www.chiarabernardi.it
 www.chiaracremonesi.com
-www.chinalawlist.com
 www.chipbrock.org
 www.chipfc.com
 www.cibalvo.com
@@ -5665,7 +5608,6 @@ www.digitalbanking-info-update.com
 www.digitalbanking-mobile-signin.com
 www.digitalbanking-secure-signin.com
 www.digitalbanking-signin-accounts.com
-www.digitalbanking-signin-alert.com
 www.digitalbanking-signin-auth.com
 www.digitalbanking-signin-device.com
 www.digitalflashbacks.ca
@@ -5763,9 +5705,7 @@ www.gammanu1947.com
 www.garlico-eg.com
 www.gastonegasatore.it
 www.gdzpower.com
-www.geocities.ws
 www.giguideut.com
-www.gioielleriaroberti.it
 www.giovanninashville.com
 www.giveaway.mydad.info
 www.gkjx168.com
@@ -5934,9 +5874,7 @@ www.login-bank.org
 www.login-secure-device-request.com
 www.loginattempt-secure.com
 www.logocrux.com
-www.luigitavanti.com
 www.lust-auf-urlaub.net
-www.m-pa.it
 www.m8service.ru
 www.maciel.med.br
 www.madrugadaolanches.com.br
@@ -5946,7 +5884,6 @@ www.mailcontrol.com
 www.mainehomeconnection.com
 www.man1bantul.sch.id
 www.marisaprieto.es
-www.marlinespike.com
 www.marreme.com
 www.martinlarosa.com
 www.maruei.com.br
@@ -5979,9 +5916,7 @@ www.mobiledevicehelp-hplc.com
 www.moneycam.com
 www.moredadealava.com
 www.mosil.com
-www.motoincontroepoca.com
 www.motomach3.cz
-www.motorradclubbergamo.it
 www.movil-scotiabank.com
 www.mphusky.com
 www.msrsolutions.mx
@@ -6234,7 +6169,6 @@ www.smbc-ccrb.com
 www.smbc-ccrd.cc
 www.smbc-ccrd.com
 www.smdc-cacb.com
-www.smediamap.youthpress.org
 www.smiles-bb.com
 www.smitheatonrealestate.com
 www.sneedengineering.com
@@ -6519,13 +6453,11 @@ zchk.xmdzt.cn
 zeebracross.com
 zegvra-websdigital.com
 zekkafreitas-vando-magazine.cheetah.builderall.com
-zemanconstruction-my.sharepoint.com
 zfrmz.com
 zhangjiwen.com
 zi-3-gporange1.free.builderall.com
 zimbrawebmasterdesk.000webhostapp.com
 zimmb.com
-zipansion.com
 zjgsyds.cn
 zk58pr.cn
 zl7n1.csb.app
