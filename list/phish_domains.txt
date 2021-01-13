@@ -91,7 +91,6 @@
 6e33r.codesandbox.io
 6e4hn.csb.app
 6liuxue.com
-754672.com
 779zt.csb.app
 7816984rtr78.wixsite.com
 79uikjwe.yolasite.com
@@ -121,6 +120,7 @@
 Authenticate-newpayees.live
 CNFPH.Me
 Cancelonlinelogin.com
+My3-securepayment.com
 PayPal.unlock-myaccount.com
 PayUkLimited.com
 Unregister-unverified-device.com
@@ -454,6 +454,7 @@ authorcheck.com
 authorise-myonlinebankingdetails.com
 authorise-mytransactions.live
 authorise-request.co.uk
+authorisemytransfer.com
 authorisepayee-remove.com
 authorize-monthly-ee.com
 authservicepage.web.app
@@ -522,6 +523,7 @@ bank-0famerica.com
 bank-of-america-secure00.dns05.com
 bank-of-city.webcindario.com
 bank-project.surge.sh
+banking.secured-report.com
 bankloginonline.com
 bankofamerica-logins.dns05.com
 banquepopulaire-securpassvhost141234.lowhost.ru
@@ -628,7 +630,6 @@ bit.do
 bit.ly
 bitferronort.blogspot.com
 bitly.com
-bittyurl.co
 bityl.co
 bityli.com
 biz265.inmotionhosting.com
@@ -933,6 +934,7 @@ configuration-infos.firebaseapp.com
 confirm-my-newpayments.com
 confirm-my-newtransfers.com
 confirm-mydetails.com
+confirm-mynew-payments.com
 confirm-mynewtransfer.com
 confirm-mynewtransfers.com
 confirm-myonlinebankingdetails.com
@@ -1285,6 +1287,7 @@ eehelp.co.uk
 eenetworkservicing.co.uk
 eeproblem.com
 eesecure-servicesuk.com
+eeservice-securebill.com
 effect-print.net
 egacal.edu.pe
 egyptmovingfurniture.com
@@ -2099,7 +2102,6 @@ kazu-homepage.main.jp
 kb.growbydata.com
 kbstitchdesigns.com
 keitaro21.pro
-kelvinsoirnt985.com
 ken.kulaklikdergisi.com
 kentridge.lk
 keramikadecor.com.ua
@@ -2185,6 +2187,7 @@ ldwhatsapp-free23.xyz
 le-diablotin-rouen.com
 leagueofbetting.com
 learning.validate.santander.digital
+leather-debonair-butter.glitch.me
 leboncoin.fr-demande-9126412.starfm.co.ke
 lebonoke.wixsite.com
 leckerreinschneideir.de
@@ -2280,6 +2283,7 @@ lloydsbank.secure-device-protect.net
 lloydsbank.secure-personal-device-login.com
 lloydsbank.secure-personal-device.com
 lloydsbank.unpair-unauthorised-devices.com
+lloydsbank.userprotect-data.com
 lloydsbankplc.online-personal-approve.com
 lloydsbankplc.personal-verify-online.com
 lloydsbankplc.secure-personal-device-login.com
@@ -2466,7 +2470,6 @@ match.lookatmynewphotos.com
 materialspinpubgm.com
 mauriciomosse.com.ar
 mavdukkan.com
-maxinjurylawcom-my.sharepoint.com
 mayantu.eu
 mayapplecenter.org
 mcelman.com
@@ -2712,6 +2715,7 @@ newdevicesderegistration-access.com
 newlifeschooloftheology.com
 newloginalerts.com
 newonline-restrict-payee.com
+newpayee-alerts.link
 newpayee-unrecognised-online.com
 newpayeerequest-security.link
 newpayees-management.co.uk
@@ -2997,6 +3001,7 @@ paymentsus.uk
 payones.net
 paypai-confirmation.com
 paypal-checkout-app.com
+paypal-login.2app.top
 paypal-merchantloyalty.com
 paypal-my.sharepoint.com
 paypal-restrictions32.com
@@ -3130,6 +3135,7 @@ pourcontinueridauthenserweuronlineworking.000webhostapp.com
 powercase.shoplineapp.com
 powerlexis.com
 poyeer.com
+pp.ap2p.top
 pp.ip2a.top
 pphwm.app.link
 ppuk-support-auth.com
@@ -3315,7 +3321,6 @@ regiaocentrorsmg.websicredi.com.br:443
 regina.ninetendev.com
 regiscoyne.com
 register-mobile-device.co.uk
-rejhikutem-marke.ooo
 rekanten.renhugoln.top
 rekapuolam.blogspot.com
 rekuraten.yatenku.top
@@ -3415,7 +3420,6 @@ rrthulasi.unaux.com
 rsautomations.com
 rstools.club
 ruanfan.cc
-rudiguvenlik.com
 ruekrew.com
 ruiyheuse-mairkt.ooo
 runescape-promotions.com
@@ -3521,6 +3525,7 @@ secure.runescape.com-rf.cz
 secure01d-chasecom526b7ak.com
 secure02us-cox.webcindario.com
 secure08us-cox.webcindario.com
+secure0myaccounttchase.com
 secure11us-cox.webcindario.com
 secure12us-cox.webcindario.com
 secure15us-cox.webcindario.com
@@ -3592,6 +3597,7 @@ service16772.wixsite.com
 service8481.wixsite.com
 serviceclient.site44.com
 serviceinfogera.ddns.net
+services-eebilling-uk.com
 services-vodafone.com
 services.runascape.com-ro.ru
 services.runescape.com-m.cc
@@ -4131,6 +4137,7 @@ universalinsulators.com
 unknownsecure-payee.link
 unlock-suspension.com
 unrecognised-device-cancel-pairing.com
+unregister-device-securedlloyd.com
 unregister-device-securelloyd.com
 unregister-new-mobile.co.uk
 unregister-new-mobiledevice.co.uk
@@ -4303,7 +4310,6 @@ watsupptoday.com
 wav-mp3-ogg.net
 wawacity.run
 wbstormer.com
-wcarver.freehostia.com
 we2zimbra.weebly.com
 wearabletechtogo.com
 web-controllo-online.com
@@ -4525,7 +4531,6 @@ www.cancel-paymentonline.com
 www.cancellation-issue-payee.com
 www.capital-it.eu
 www.cartoriovendanova.net.br
-www.carzbits.com
 www.cashflowfxonline.com
 www.caviarkelp.com
 www.cbbc.banksacc.com
@@ -4733,6 +4738,7 @@ www.hotelmontiazzurri.com
 www.hotramopen.com
 www.houseoftiresbcs.com
 www.hplcsecure-yourdevice.com
+www.hs-verify-activity.com
 www.hualish01.com
 www.huschhus.ch
 www.hwfsweden.se
@@ -4760,7 +4766,6 @@ www.iverify-registerdevice-icancel.com
 www.jabezrealtyservices.com
 www.jeffreybcam.net
 www.jeuxhtml5-orangefr.com
-www.jfteabd.com
 www.jobskillshare.org
 www.joeypmemorialfoundation.com
 www.john-ashley.de
