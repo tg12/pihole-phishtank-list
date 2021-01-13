@@ -929,6 +929,7 @@ comune.gioiadeimarsi.aq.it
 comunicazioniarubait.tumblr.com
 con-firma.firebaseapp.com
 configuration-infos.firebaseapp.com
+confineurgency.com
 confirm-my-newpayments.com
 confirm-my-newtransfers.com
 confirm-mydetails.com
@@ -2836,7 +2837,6 @@ onecreator.info
 onedrive.live.com
 onlbc2.com
 online-cancelpayee.com
-online-device-authorisation-support.com
 online-devicemanagement.com
 online-identity-verification-pages-management-services.my.id
 online-newpayee-restrict.com
@@ -3456,6 +3456,7 @@ scoria-int.com
 scrubers.net
 sctrlgin.com
 sdayhaneql.tastypriceo.su
+sdrive-storage.s3.amazonaws.com
 seahoss.com
 seams-trio.co
 seasons16.com
@@ -3516,7 +3517,6 @@ securedallinformeansalot.com
 secureddsite.com
 securedhostpower.xyz
 secureid-payee.support
-securemy-details.com
 securemy-onlinebankingdetails.com
 securemyonlinebanking.com
 securemypayee-assist-auth.com
@@ -3550,7 +3550,6 @@ servernuovaintesa.com
 serverupdate.getforge.io
 service-account.4senales.com
 service-login.sso.bluewin.ch.tlfplc.fr
-service-management-centre.com
 service-messagerie-sms0.moonfruit.com
 service-post-swiss.com
 service-royalmail.com
