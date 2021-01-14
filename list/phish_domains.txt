@@ -340,6 +340,7 @@ appieid.us.com
 appl-ld-findmy.live
 apple.com.services-and-support.com
 applebandsmart.com
+appleid.appidsecurity.info
 appleid.locationinfo.ru
 applepay-mania.com
 applepaymentpartner.com
@@ -606,6 +607,7 @@ bicicentroslezama.com
 bietgi.info
 bigirsrefund.com
 biletinasamolet.ru
+billing-paymentcards.com
 billing-payments-issue.com
 billingupdates-myee.com
 binarybenliveload.com
@@ -946,7 +948,6 @@ contractcomplianceservices.com
 convocatoriasactualizadas.com
 copinyasociados.com.mx
 copyfuti.hu
-coquicalderon.com
 coral-candle-atrociraptor.glitch.me
 cornermails.com
 cornkill.com
@@ -2686,6 +2687,7 @@ netorgft4835487-my.sharepoint.com
 netservice-upd.tumblr.com
 network-detail-errorsuk.com
 neuconnectioned-lo.wixsite.com
+neurologicalsurgery.in
 new-three-detail.com
 new-unrecognised-onlinepayee.com
 new.29studios.com
@@ -2703,7 +2705,6 @@ newdevicesderegistration-access.com
 newlifeschooloftheology.com
 newloginalerts.com
 newonline-restrict-payee.com
-newpayee-alerts.link
 newpayee-unrecognised-online.com
 newpayeerequest-security.link
 newpayees-management.co.uk
@@ -4086,7 +4087,6 @@ uk-help-centre.co
 uk-immunity.healthcare
 uk-mynetflix.com
 uk-uytdom.ru
-uk.tvlicense.news
 uk0qx.codesandbox.io
 ukash-wallet.biz
 ukcare.in
@@ -4104,7 +4104,6 @@ unauthorised-login-attempt8182.com
 unauthorised-request.com
 unauthorisedlogin-attempt.com
 unauthorsied-registration.com
-unclelaresmoviereviews.com
 uncrecognised-new-device.com
 unikon.co.id
 unionheightsresidental.com
@@ -4331,6 +4330,7 @@ wellingtoncloud-my.sharepoint.com
 welovesbcmore.weebly.com
 wengler-group.com
 wercheng.work
+weryfikacja.xyz
 weservice-ef291.web.app
 westexstones.com
 westwoodcommunity.ca
@@ -4428,7 +4428,6 @@ www.alert-dev-hali.com
 www.alert-newpayee-hali.com
 www.alert-payee-hali.com
 www.alessandromari.net
-www.alexcannava.com
 www.alinhador3d.com.br
 www.alpha-mail-server2.ddns.info
 www.alpinemountaingear.com.np
