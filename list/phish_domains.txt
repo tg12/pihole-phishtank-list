@@ -522,13 +522,13 @@ bancaporinternet-netinterbankpe04.com
 bancaporinternet-netinterbankpe05.com
 bancaporinternet-netinterbankpe09.com
 bancaporinternet-netinterbankpe10.com
+bancaporinternet-netinterbankpe12.com
 bancaporinternet-pe.michaelperre.com
 bancentro.net
 banco-pichincha.daoside.com
 bancodecomercio.elegroup.com.pe
 bancopacificologin.web.app
 banjir.net
-bank-0famerica.com
 bank-of-america-secure00.dns05.com
 bank-of-city.webcindario.com
 bank-project.surge.sh
@@ -637,6 +637,7 @@ bist20.net
 bit.do
 bit.ly
 bitferronort.blogspot.com
+bitgoo.ru
 bitly.com
 bityl.co
 bityli.com
@@ -743,6 +744,7 @@ cajamarural.com
 callenderpress.co.uk
 calmaybalance.com
 calzadosiris.com
+camdamodeapptdeioz.azurewebsites.net
 cance1-personal-pay3.com
 cancel-new-beneficiary.co.uk
 cancel-new-deviceid.com
@@ -821,7 +823,6 @@ cevem.com.mx
 cew.safewallet.replayattack.us
 cf50l.csb.app
 cg-oe.snprobbx.pbz.r.de.a2ip.ru
-cgcomposts.com
 ch.net2care.com
 ch.prunauneau.fr
 ch.tcorner.fr
@@ -834,7 +835,6 @@ charperimagedesign.com
 chase.maooninc.org
 chat-whataspp.com
 chat-whatsap.joingrp-net.cf
-chat-whatsap.joingrp-net.gq
 chat-whatsapp-bdddgxi8odkrtkwi0oip1.ygto.com
 chat-whatsapp-grub.freetcp.com
 chat-whatsapp.vizvaz.com
@@ -2023,7 +2023,6 @@ irenterprises.in
 irisdigi-labs.com
 irstds.com
 is.gd
-ise.blob.core.windows.net
 isecret.blob.core.windows.net
 istoreline.com
 it-europe564598-com.filesusr.com
@@ -2157,7 +2156,6 @@ keypointtraining-my.sharepoint.com
 keysianproperties.co.ke
 kh3wfp6f.easy.co
 kharid-adams.ir
-khngphm.com
 khoddami-group.com
 khost.smbfundraising.com
 kidsruscenter.com
@@ -2323,7 +2321,6 @@ lloydsbank.personal-device-auth-security.com
 lloydsbank.personal-device-secure.com
 lloydsbank.personal-devices-login.com
 lloydsbank.personal-login-device.com
-lloydsbank.personal-pay-secure.com
 lloydsbank.protect-secure-prevent.com
 lloydsbank.protected-auth-device-login.com
 lloydsbank.secure-device-protect.net
@@ -2551,7 +2548,6 @@ meritroyal260.bet
 meritroyalbetgiris20.com
 merveyilmazericmimarlik.com
 mesquecamping.es
-message-amaznn.cyou
 messagealertsupportmailalertconnecthomenslbnhj.000webhostapp.com
 messageriepro0.weebly.com
 messagerievocale0p.wixsite.com
@@ -3083,6 +3079,7 @@ paypai.javearentals.com
 paypai.suupoertaccounecok.promoteam.com.mx
 paypal-checkout-app.com
 paypal-login.2app.top
+paypal-login16.com
 paypal-merchantloyalty.com
 paypal-my.sharepoint.com
 paypal-rimborso.com
@@ -3143,7 +3140,6 @@ peru.payulatam.com
 peruzonazonasegvra-bnweb29.com
 pesay19932.wixsite.com
 petgroomr.in
-petroleleger.ca
 peyfey24.net
 pgc.sre.gob.hn
 pgmm.club
@@ -3296,7 +3292,6 @@ q06huk.webwave.dev
 q9a9nqcyyj0.typeform.com
 qanghan.cn
 qare.nl
-qiangyiqiang.biz
 qnbfinzb.com
 qq.xingzuoyizu.com
 quad-as.de
@@ -3392,7 +3387,6 @@ redpowerenergy.com
 redredget.com
 ref273.com
 refactory-antiques.jp
-refunds-claim.com
 regiaocentrorsmg.websicredi.com.br
 regiaocentrorsmg.websicredi.com.br:443
 regina.ninetendev.com
@@ -4141,7 +4135,6 @@ tribuluschines.club
 trilles157.typeform.com
 tripup.fr
 tristardentalcare.com
-trk.eilaonline.com
 trop-de-credits.be
 trsresourcing-my.sharepoint.com
 true-fish.ru
@@ -4156,7 +4149,6 @@ tsb-decline.com
 tscit3-my.sharepoint.com
 tsecure-paxful.com
 tsuzuki.co.id
-ttmclicks.my
 tubepchiunuoc.com
 tuetrad.000webhostapp.com
 tuitionbin.com
@@ -4508,6 +4500,7 @@ wriot-alternate.app.link
 wsxwaaaa.web.app
 wu7q5.app.link
 wvk12-my.sharepoint.com
+ww1.bancopichincha.com
 ww17.casas-cb-compras.com
 ww17.login-appleid.apple.com.alert-wode.com
 ww17.paypal.com.05925924b730bb369f87ad369fde0ffbf74a3c2.33s3.smoz.us
@@ -4611,6 +4604,7 @@ www.billinghali.xyz
 www.bio-greene.com
 www.birrasalentoshop.it
 www.bisonstburgersandbrews.com
+www.bitgoo.ru
 www.bithubber.com
 www.bizde-amazon-co-ioat.buzz
 www.blauzac.com
@@ -4944,6 +4938,7 @@ www.mekasu.de
 www.messelive.tv
 www.metalcentar.com
 www.mew.one
+www.mickels-hamsterrad.de
 www.midyatmimaritas.com
 www.miplab.net
 www.misolo.com
