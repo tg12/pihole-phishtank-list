@@ -58,6 +58,7 @@
 3verify-mybill.com
 3wondersexpeditions.com
 43.231.250.253:8080
+4386723873746237887348.s3.amazonaws.com
 472a4262-a2a1-4785-b3aa-4816cba070ed.htmlcomponentservice.com
 47movie.com
 48tlp.codesandbox.io
@@ -92,6 +93,7 @@
 7816984rtr78.wixsite.com
 79uikjwe.yolasite.com
 7d54v.app.link
+7dhupt.s3.eu-west-2.amazonaws.com
 7gwuixo3iwklcwny6mkzw7uuki--www-bcp-com-bo.translate.goog
 7ku50.csb.app
 800emailsupport.com
@@ -101,6 +103,7 @@
 8635345her524h5k4dd8305d3b0d52a2616-dot-rising-study-290821.df.r.appspot.com
 8887654escsd3456.wixsite.com
 888ruletkaonlajnnaden.000webhostapp.com
+894378937794388945983.s3.amazonaws.com
 8ci9x.csb.app
 8dw5g.codesandbox.io
 8gooffers.com
@@ -503,6 +506,7 @@ baccomh.com
 baccredomatic.crowdicity.com
 backend-htz.letundra.com
 badhaee.com
+bagujbak.com
 bakemarketing.com
 balancasvilaarens.com.br
 balex.cc
@@ -809,12 +813,14 @@ centruldepiele.ro
 ceofloral.com
 certifica-montepaschii.com
 certificazione-mps.com
+certifiedsalty.com
 cesacursos.com.br
 cestainhouse.com.br
 cevem.com.mx
 cew.safewallet.replayattack.us
 cf50l.csb.app
 cg-oe.snprobbx.pbz.r.de.a2ip.ru
+cgcomposts.com
 ch.net2care.com
 ch.prunauneau.fr
 ch.tcorner.fr
@@ -825,6 +831,8 @@ chantelray-my.sharepoint.com
 charperimagedesign.com
 chase.maooninc.org
 chat-whataspp.com
+chat-whatsap.joingrp-net.cf
+chat-whatsap.joingrp-net.gq
 chat-whatsapp-bdddgxi8odkrtkwi0oip1.ygto.com
 chat-whatsapp-grub.freetcp.com
 chat-whatsapp.vizvaz.com
@@ -862,11 +870,13 @@ chulyonfr.creatorlink.net
 chungcuvinhomessmartcity.com.vn
 chunhuihugong.com
 chuyennghiep.vn
+ci-bc-onlin.cyou
 ciet-itac.ca
 cimeriletisimmerkez.web.app
 cimslp-my.sharepoint.com
 cingular-oac.qpass.com
 cirurgiadefigadoembrasilia.com.br
+citc.site-demo.dev
 cityschools2013-my.sharepoint.com
 ckmadae.com
 cla2020gov.com
@@ -892,6 +902,7 @@ clinicalaermitadecartagena.com
 clipperukltd-co.tk
 cloud1.directnutrisciences.com
 clouddoc-authorize.firebaseapp.com
+cloudecs1.vercel.app
 clt1227564.bmetrack.com
 clt1234529.bmetrack.com
 clubeamigosdopedrosegundo.com.br
@@ -929,6 +940,7 @@ communication-mobile.site.bm
 communicourt-my.sharepoint.com
 community.shrm.org
 compagnidiviaggio.net
+companyhostage.com
 companyterrify.com
 complaint-vk.000webhostapp.com
 compliance-central.com
@@ -963,6 +975,7 @@ containnetwork.com
 contarv.creatorlink.net
 continentalsecurity.co.za
 contractcomplianceservices.com
+convision.dk.allforstoreunits.com
 convocatoriasactualizadas.com
 copinyasociados.com.mx
 copyfuti.hu
@@ -1087,6 +1100,7 @@ demo.kinomilenium.mk
 demo.samretpechfinance.com
 demo.teleconsegno.it
 den.eysel.net
+denico.ca
 dentalclinicreview.000webhostapp.com
 denuihuongson.com.vn
 denuncias.facebooksession.secureoffert.com
@@ -1113,6 +1127,7 @@ deregisterationmobile-new.co.uk
 deregisterdevice-manage.com
 deregisterdevices-access.com
 deregisternewdevice-access.com
+deregisternewdevicesetup-access.com
 desdeelamor.com
 designferreira.com.br
 designfitters.com
@@ -1120,7 +1135,6 @@ designstore.com.ec
 detect-new-payee.com
 deuxiemeclasse.fr
 dev-coxccosane-com-udandlc103andid6485andmktenandlcc.pantheonsite.io
-dev-ec21-com-id6485539-global-login-o912id-securelogin.pantheonsite.io
 dev-made-in-chlna.pantheonsite.io
 dev-made-ln-china-com.pantheonsite.io
 dev.previewmysite.co.za
@@ -1277,6 +1291,7 @@ educadoracanina.com.br
 eduinfo.co.rs
 edulindberghschools-my.sharepoint.com
 ee-bill-notice.co.uk
+ee-bill-statement.co.uk
 ee-billingpaymentupdate.com
 ee-billingupdatessecure.com
 ee-confirm-billingupdate.com
@@ -1300,6 +1315,7 @@ ehan.org
 ehlelradio.com
 einloggim-eboy.de
 eislueqr.livedrive.com
+ekoda-recording.tokyo
 ekotienda.com.mx
 elavution-cek-point-ck-856213735136748437771.tk
 elavution-cek-point-ck-856213735136748437773.tk
@@ -1433,6 +1449,7 @@ facadetesting.com
 facbk.atspace.com
 facealert.fr
 facebook-login.tbit.vn
+facebook-retrieve71829.com
 facebook.2app.top
 facebook.anasaounalsoud.eu
 facebook.hrbureaugh.com
@@ -1658,6 +1675,7 @@ gosarthi.in
 goshare360.com
 gouv-impot.cemerbas.com
 gov-applyukgrant.com
+gov-hmrc-cov.com
 gov-tax-vehicle-uk.com
 gov.uk.refunds-2.com
 govuk-claimtaxrebate.com
@@ -1737,6 +1755,7 @@ halidevice-unregister.com
 halifax-devicesettings.com
 halifax-payee-removal.live
 halifax-payee-remove.com
+halifax-payee.support
 halifax-securelink.com
 halifax-urgentaction.com
 halifax.device-authentication-login.com
@@ -1754,6 +1773,7 @@ haogege.52yjh.top
 happygifting.net
 haroldhazard1-wixsite-com.filesusr.com
 harrisonk12msus-my.sharepoint.com
+harusbanyak.com
 hasmob.com
 haudenosauneeconfederacy.com
 hbhdbhbhdbhdbhd.weebly.com
@@ -2519,6 +2539,7 @@ meritroyal260.bet
 meritroyalbetgiris20.com
 merveyilmazericmimarlik.com
 mesquecamping.es
+message-amaznn.cyou
 messagealertsupportmailalertconnecthomenslbnhj.000webhostapp.com
 messageriepro0.weebly.com
 messagerievocale0p.wixsite.com
@@ -2597,6 +2618,7 @@ moj-nkbm.web.app
 moj.aktiv.rs
 mokpkovaj-kok.xyz
 moldsafetybook.com
+money.karotowaenterprise.com
 monirshouvo.github.io
 monomobileservice.yolasite.com
 monovative-my.sharepoint.com:443
@@ -2723,6 +2745,7 @@ network-detail-errorsuk.com
 neuconnectioned-lo.wixsite.com
 neurologicalsurgery.in
 new-3-login.com
+new-payee-authentication.com
 new-three-detail.com
 new-unrecognised-onlinepayee.com
 new.29studios.com
@@ -2744,6 +2767,7 @@ newonline-restrict-payee.com
 newpayee-unrecognised-online.com
 newpayeerequest-security.link
 newpayees-management.co.uk
+newpayees-portal.com
 newrafa.rafaah.net
 newregisterpayee.com
 newrestricted-online-payee.com
@@ -2769,6 +2793,7 @@ nikoladjurovic.com
 nikomac.main.jp
 nilay-new.glooh.nl
 nineled.com
+niotthhampom.cf
 nishantkgautam.com
 nisveceras.com
 nizotchauffage.bilty.be
@@ -2867,6 +2892,7 @@ office365.eu.vadesecure.com
 office365.yuvaltest.fpcasbdev.com
 office4g.yolasite.com
 officialismsschwartze.net
+offimcbs.com
 offrekrysnetflix.servehttp.com
 ogz6d.codesandbox.io
 ojnw.app.link
@@ -3029,6 +3055,7 @@ payeenew-hali.com
 payeeonlinerevision.com
 payeeverify-login.com
 payment.waytomyanmar.com
+paymentfailure-assistant.com
 paymentnotificationnow.blogspot.com
 paymentsus.uk
 paypai-confirmation.com
@@ -3095,6 +3122,7 @@ peru.payulatam.com
 peruzonazonasegvra-bnweb29.com
 pesay19932.wixsite.com
 petgroomr.in
+petroleleger.ca
 peyfey24.net
 pgc.sre.gob.hn
 pgmm.club
@@ -3329,6 +3357,7 @@ redbysfrgroupebox.myfreesites.net
 redcleaning.com.au
 redcloakmusic.com.br
 redeabreu.com.br
+redioklm.com
 rediractionid547012016089540218057.blogspot.com
 redireccionar-serv.xyz
 redirect-ca578.firebaseapp.com
@@ -3402,6 +3431,7 @@ rhizucor.com
 ricado.9e.cz
 ricardoisaza.com
 ricksrestorations.com.au
+rihanna-teeshirts.com
 ringocom.com
 rioverdepar.com.br
 rip-rapservices.com
@@ -3486,6 +3516,7 @@ sanomakuva.fi
 santanderchile.myshopify.com
 santanhelp-service.com
 santanservices-mydevice.com
+santanservices-update.com
 santansupport-device.com
 santshelp-mydevice.com
 sapapics.000webhostapp.com
@@ -3534,6 +3565,7 @@ secure-mymobilebankingdetails.com
 secure-netflix-account.com
 secure-new-payeeonline.com
 secure-online-payeemagement.com
+secure-payeeremoval.com
 secure-payeesprotection.com
 secure-payment.support
 secure-ssl-cdn.com
@@ -3955,6 +3987,7 @@ tax-rebatenew.com
 taxclaim-refund.com
 taxplannersinc.com
 tb915hdh89.mfs.gg
+teacultureoftheworld.com
 teamgrouppcl-my.sharepoint.com
 teamwlg.com
 techdirectbh.com
@@ -4251,6 +4284,7 @@ verify-mybilling.live
 verify-mymobilebankingdetails.com
 verify-mysantanservice.com
 verify-newtransfers.com
+verify-personalaccount.com
 verify-unsecuredevice.com
 verify-yourdevice.com
 verify.myppsecure-support.com
@@ -4339,12 +4373,14 @@ wawacity.run
 wbstormer.com
 we2zimbra.weebly.com
 wearabletechtogo.com
+web-armas.royale-freefire1garena-bonus.com
 web-controllo-online.com
 web-proxy.io
 web-rechungbetrag-domain.de
 web-sicurezza.com
 web-whatsapp.checkyourprofile.com
 web-whatsappjoin.itsaol.com
+web.royale-freefire1garena-bonus.com
 web1577.webbox444.server-home.org
 web4149.web06.bero-webspace.de
 webaholics.ca
@@ -4860,6 +4896,7 @@ www.madrugadaolanches.com.br
 www.magnetarbpo.com
 www.mahdistock.com
 www.mainehomeconnection.com
+www.malayadecerdo.com
 www.man1bantul.sch.id
 www.marisaprieto.es
 www.masterdrive.com
@@ -5185,6 +5222,7 @@ www.voipoid.com
 www.volarevic.com
 www.vulkanland-bio-safran.at
 www.washpucks.com
+www.web.royale-freefire1garena-bonus.com
 www.webador.com
 www.webfamily.com.br
 www.webrankingsolutions.com
