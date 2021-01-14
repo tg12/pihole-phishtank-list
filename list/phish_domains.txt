@@ -340,7 +340,6 @@ app-authorise.com
 app-cancellation-payee.com
 app-dec-access.com
 app-dec-process.com
-app-decline-process.com
 app-netfliix.u1239489.cp.regruhosting.ru
 app-onlinemobileappsecurehalifacxappsecure.mrtraveller.ir
 app.box.com
@@ -1079,6 +1078,7 @@ datiotiskiot.com
 datos.pueblacapital.gob.mx
 davitherbal.com
 davivienda.enlinea-personas.co
+daviviverftc.com
 dawnprince.com
 daycohost.com
 dazul.com.ar
@@ -1943,6 +1943,7 @@ i-ta.cc
 iamin.events
 iamkevinfay.com
 ibaajie.com
+ibestescola.com
 icancel-iverify-removal.com
 icebluemini.com
 icipedudu-my.sharepoint.com
@@ -1959,6 +1960,7 @@ iefishwtw.gb.net
 igazszabolcs.hu
 igsasso-my.sharepoint.com
 igvc.link
+ihrdns.org
 iipvit.by
 iitee.net
 ijobs.vn
@@ -2492,7 +2494,6 @@ maltadeliveries.com
 mambaotr.com
 manage-blockpayees.com
 manage-fb-7624724207.tk
-manage-fb-7624724210.tk
 manage-fb-915614623022.tk
 managepayee.net
 manageyour-payees.com
@@ -2865,7 +2866,6 @@ notifiicaton-recovry-identitys.my.id
 nouki-sell.com
 noutbookofff.ru
 novatec.com.tw
-novodom.info
 novopedido.camaleaocamisas.com.br
 nowupdate.confirmamazon.buzz
 nozed-uname.firebaseapp.com
@@ -3603,7 +3603,6 @@ secure-login-dashboard.management.studio360sports.com.au
 secure-me-halifax.com
 secure-mymobilebankingdetails.com
 secure-mytransfer.com
-secure-netflix-account.com
 secure-new-payeeonline.com
 secure-online-payeemagement.com
 secure-payeeremoval.com
@@ -4079,7 +4078,6 @@ thecaketower.com
 thedarelite.com
 thedotkush.com
 thefeminineawake.co.uk
-thegaminghouseeverytime.000webhostapp.com
 thegrovegirl.com
 theharmonyinitiative.com
 thehiphoppublicist.com
@@ -4170,7 +4168,6 @@ trust-paxful.com
 trustapp.live
 trustedlegal.staging.wpengine.com
 ts.hust.edu.vn
-tsb-decline.com
 tscit3-my.sharepoint.com
 tsecure-paxful.com
 tsuzuki.co.id
@@ -4578,7 +4575,6 @@ www.amazon-check-co-jp.202181886876.top
 www.amazon-toto.top
 www.amazon.de.signin.verification.openid.5935156.globthirsgare.cf
 www.amazonlogistics-ap-northeast-1.amazonlogistics.jp
-www.amazonsdjp.top
 www.amb.co.mz
 www.ambrosecourt.com
 www.ameport.org
@@ -5034,7 +5030,6 @@ www.nwsecure-iproceed-icancel.com
 www.o2-billingauth-secure.com
 www.o2-billingsupport-update.com
 www.o2-paymentinfo-update.com
-www.o2-updatebilling-secure.com
 www.o2service-centre.com
 www.odhikar.com
 www.officentry.com
@@ -5051,7 +5046,6 @@ www.p2.kenzoken.com
 www.padariaemporiodocafe.com.br
 www.paligcleaningservice.com
 www.pasarelasdepagos.com
-www.patazaa.com
 www.payee-registered.com
 www.paymentcancel.com
 www.payments-uber.com
@@ -5218,7 +5212,6 @@ www.therockacc.org
 www.thescrapescape.com
 www.thousandscolors.com
 www.tinavegaphotography.com
-www.tinyfashion.cn
 www.tip-amazon-co-chat-toop.buzz
 www.tking.com.tn
 www.tking.com.tn:443
@@ -5424,7 +5417,6 @@ yuuu6.codesandbox.io
 yvetteessoasternhealth.000webhostapp.com
 yxirlwizz.tastypriceo.su
 zacoindus.com
-zap633584-1.plesk13.zap-webspace.com
 zasobygwp.pl
 zaxn.blondfinish.link
 zaytouzo.buyonlined.su
