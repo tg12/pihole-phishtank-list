@@ -125,6 +125,8 @@
 Authenticate-newpayees.live
 CNFPH.Me
 Cancelonlinelogin.com
+Deregister-unverified-seclloyd.com
+Lloyd-secure-device.com
 My3-securepayment.com
 PayPal.unlock-myaccount.com
 PayUkLimited.com
@@ -169,7 +171,6 @@ account-update.amazon.co.jp.sing-amazno.top
 account.secure-hali.com
 accountchckecker-update-now.drpiza.com
 accounts-ebay-de.byethost22.com
-accounts-update-info.amz-main-user-co-jp.gq
 accounts.sanpchat.com.ghasalah.com
 accreteconsultants.com
 accurateofes.com
@@ -979,6 +980,7 @@ comunicazioniarubait.tumblr.com
 con-firma.firebaseapp.com
 configuration-infos.firebaseapp.com
 confineurgency.com
+confirm-my-newpayment.com
 confirm-my-newpayments.com
 confirm-my-newtransfers.com
 confirm-mydetails.com
@@ -1449,7 +1451,6 @@ essentialdesignday.blogspot.com
 essentialshoppingmall.com
 estudio27cr.com
 estudiomaskin.com
-eternal.pub
 eternityflooringcom-my.sharepoint.com
 etoro-invest.org
 etrack05.com
@@ -1700,6 +1701,7 @@ globalworks.main.jp
 glosowanie-krakow.3i3.eu
 glosowanie-mazowsze.7i7.eu
 gloucestercandleco.com
+gls.is
 glsword.com
 gnosis.org.nz
 gns.io
@@ -1730,6 +1732,8 @@ goto4.page.link
 gouv-impot.cemerbas.com
 gov-applyukgrant.com
 gov-hmrc-cov.com
+gov.uk-dvla.org
+gov.uk-submit.org
 govuk-claimtaxrebate.com
 grabyourcode.com
 grachan.jp
@@ -1947,9 +1951,13 @@ hrsjoftalmologia.com
 hrweb99.com
 hs-authenticatenewpayee.net
 hs-giveaways.ca
+hs-payee-logingroup.com
 hs-payee-removalgroup.co.uk
 hs-payeeonline-payment.com
 hs-payeevalidate-security-support.com
+hs-paymentsalertchecks.com
+hs-paymentsecurity.com
+hs-paymentsnotification.com
 hs-paymentsverify.com
 hsbc-security.personalhelpcenter.com
 hsbc.online-personal-login.com
@@ -2033,7 +2041,6 @@ infobcp.com
 infobn-zonaseguradatos17.com
 infocenter.udonpao.go.th
 infodati020.com
-infoibadah.com
 infopaypal.135.it
 informacoes-diarias.com
 information-updateuk-ee.com
@@ -2174,7 +2181,6 @@ journeypacking.com
 jp-amazon.f0z.top
 jp-amazon.g2c.top
 jp-amazon.g3c.top
-jrtours.in
 jsbyv.app.link
 jsfiddle.net
 jsitor.com
@@ -2394,7 +2400,6 @@ lloydsbank.personal-devices-login.com
 lloydsbank.personal-login-device.com
 lloydsbank.personal-login-security.com
 lloydsbank.protect-secure-prevent.com
-lloydsbank.protected-auth-device-login.com
 lloydsbank.secure-device-protect.net
 lloydsbank.secure-personal-device-login.com
 lloydsbank.secure-personal-device.com
@@ -2719,6 +2724,7 @@ msdwt-k12-in-us-net.ga
 msdwt-k12-in-us-net.gq
 msdwt-k12-in-us-nettt.gq
 mtcc.unmuha.ac.id
+mualaclick.com
 mulangilnidhi.com
 multbancos.webnode.com.br
 mulwalaaccommodation.com.au
@@ -5233,7 +5239,6 @@ www.sky-confirmaccount.com
 www.smbc-ccrb.com
 www.smbc-ccrd.cc
 www.smbc-ccrd.com
-www.smbc-vpass.cc
 www.smdc-ccrb.top
 www.smdc-ccrd.cc
 www.sneedengineering.com
