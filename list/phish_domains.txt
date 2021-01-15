@@ -1131,7 +1131,6 @@ deregister-unknown-online-device.com
 deregister-unknown-onlineaccount.com
 deregister-unknowndevice-pairing.com
 deregister-unrecognised-logon.com
-deregister-unrecognised-newdevice-pairing.com
 deregister-unverified-device.com
 deregisterationmobile-new.co.uk
 deregisterdevice-manage.com
@@ -1342,6 +1341,7 @@ elavution-point-ck-85621373513615347813.tk
 elavution-point-ck-85621373513615347816.tk
 elavution-point-ck-85621373513615347817.tk
 elavution-point-ck-85621373513615347818.tk
+elavution-point-ck-856213735136159911.tk
 electrocoolhvacr.com
 elfin-adaptive-recorder.glitch.me
 eliotecae-my.sharepoint.com
@@ -1609,6 +1609,7 @@ funpeguy.com
 fuzedev2.com
 fxt27.csb.app
 fzbfhn.webwave.dev
+fzks.sectorreceive.link
 gabona-ca.000webhostapp.com
 gabungg-gruppwhattsapp18.ftp1.biz
 gadgetokt.ru
@@ -1956,7 +1957,6 @@ identify-yourdevice.com
 identitaclienti2020.com
 ideonpackaging-my.sharepoint.com
 idoranglog.moonfruit.com
-iefishwtw.gb.net
 igazszabolcs.hu
 igsasso-my.sharepoint.com
 igvc.link
@@ -2179,7 +2179,6 @@ kh3wfp6f.easy.co
 kharid-adams.ir
 khoddami-group.com
 khost.smbfundraising.com
-kidsruscenter.com
 kindussersattconnect.weebly.com
 kingdomlikes.com
 kinstationery.com
@@ -2833,7 +2832,6 @@ nishantkgautam.com
 nisveceras.com
 nizotchauffage.bilty.be
 nmguut.s3.us-east.cloud-object-storage.appdomain.cloud
-noblepacific.com
 nobrecidadania.com.br
 nocontent-dfcrlajk.velocityhub.com
 nocontent-gyuenowf.velocityhub.com
@@ -2895,7 +2893,6 @@ o2-secureauth-billing.com
 o2-securebilling-update.com
 o2-service-account.com
 o2-updateprocess-billing.com
-o2.uk.ac5g10.com
 o2.uk.cntrct01.com
 o2.uk.trf20.com
 o2ebilling.com
@@ -3043,7 +3040,6 @@ p17.zdusercontent.com
 p2.kenzoken.com
 p3m.pnp.ac.id
 pablopenellorial.me
-paczkomatyapp.com
 padlet-uploads.storage.googleapis.com
 painsetsaveurs.com
 pajamaesggplant.com
@@ -3218,7 +3214,6 @@ pontofrio.webpremios.com.br
 pooldeckdr.com
 poppyplum.com
 populartraders.co.in
-pornhub.zzux.com
 pornseks.zyns.com
 portal-o2.services
 portal.edusys.com.bd
@@ -3416,7 +3411,6 @@ regiaocentrorsmg.websicredi.com.br
 regiaocentrorsmg.websicredi.com.br:443
 regina.ninetendev.com
 register-mobile-device.co.uk
-rekanten.renhugoln.top
 rekapuolam.blogspot.com
 rekuraten.yatenku.top
 rekutalu.macamulere.xyz
@@ -3574,7 +3568,6 @@ sbcglobal-login.us
 sbcgloballoginn.com
 sbcgloballoginz.com
 sbeyxegg.buyonlineb.su
-sc-rinnova-ordine.com
 scalextricman.co.uk
 scarblog1.wixsite.com
 scgrotto.org
@@ -4079,7 +4072,6 @@ thedarelite.com
 thedotkush.com
 thefeminineawake.co.uk
 thegrovegirl.com
-theharmonyinitiative.com
 thehiphoppublicist.com
 thehypersoniclab.com
 themarbleshop.sharepoint.com
@@ -5002,7 +4994,6 @@ www.nakamistrad.com
 www.nastroadesivo.org
 www.naszlombard.pl
 www.nelsonjustus.com.br
-www.neodif.eu
 www.netciti.id
 www.netevin.com
 www.netflixteams.com
