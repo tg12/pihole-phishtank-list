@@ -669,7 +669,6 @@ blog.cotiabank.paypal-login.us
 blog.gdgrnd.ru
 blog.hublife.com.br
 blog.huckleberryresources.com
-blog.ihuhai.cn
 blog.liuli.cool
 blog.premiershop.com.br
 blog.weiwanjia.com
@@ -958,7 +957,6 @@ cocovip.net
 coda.io
 codeblue.ch.net2care.com
 codecanyon.img.customer.envatousercontent.com
-codederive.com
 col-maten.web.app
 collectspins6k.club
 collinsflg-my.sharepoint.com
@@ -1139,6 +1137,7 @@ deapplemoundo.blogspot.com
 dearcustomers.updateplusrakutencard.cloud
 debanking-dkb.eu
 declined-myaccount.com
+degreematchtoday.com
 deinde.us
 deiu68.wixsite.com
 dekasse-berliner.blogspot.com
@@ -1159,7 +1158,6 @@ den.eysel.net
 denico.ca
 dentalclinicreview.000webhostapp.com
 denuihuongson.com.vn
-denuncias.facebooksession.secureoffert.com
 deny-application-access.com
 deregister-device-seclloyd.com
 deregister-device-securedlloyd.com
@@ -1396,7 +1394,6 @@ elavution-login-ck-856213879846734125852.tk
 elavution-login-ck-856213879846734125853.tk
 elavution-login-ck-856213879846734125854.tk
 elavution-login-ck-856213879846734125855.tk
-elavution-login-ck-856213879846734125856.tk
 elavution-login-ck-856213879846734125857.tk
 elavution-login-ck-856213879846734125858.tk
 elavution-login-ck-856213879846734125860.tk
@@ -1423,7 +1420,6 @@ emailaccountverificatiion.weebly.com
 emailfilter-update.sitebeat.site
 emailmarketing.locaweb.com.br
 emailsettings.webflow.io
-emall.luxurybazarbd.com
 embarqueja.com
 embdestech.co.in
 emebfsasampaio.creatorlink.net
@@ -1527,6 +1523,8 @@ facadetesting.com
 facbk.atspace.com
 facealert.fr
 facebook-24911.ml
+facebook-49664.ml
+facebook-49664.tk
 facebook-login.tbit.vn
 facebook-retrieve71829.com
 facebook.2app.top
@@ -1556,7 +1554,6 @@ fastpantech.com
 fax.gruppobiesse.it
 fb2367-page3654789-real-estate-item45789685.consulting
 fb27846-page87659-real-estate-item57994.house
-fb28945-page58796-real-estate-item59873.house
 fb7927.bget.ru
 fbperingatan71.weebly.com
 fbposts-university-secret-files-usfiles-200047482.000webhostapp.com
@@ -2005,7 +2002,6 @@ hs-paymentsalertchecks.com
 hs-paymentsecurity.com
 hs-paymentsnotification.com
 hs-paymentsverify.com
-hsbc-security.personalhelpcenter.com
 hsbc.online-personal-login.com
 hsbc.payee-authenticator.com
 hsbc.personal-online-login.com
@@ -2396,6 +2392,7 @@ licogi18.com.vn
 life-plants.ru
 lifeblnc.ru
 lifeiswhatyoumakeofit.com
+liftup.tech
 lightfinity53.com
 ligkuwjtqkuqsouvvfcwzcstln-dot-polished-shore-301017.uk.r.appspot.com
 lihi1.cc
@@ -3204,6 +3201,7 @@ pajamaesggplant.com
 paksarhadgoods.duskypot.com
 paleoexplained.com
 palmiye.web.tr
+pancaranpendidikan.or.id
 panxiyanqp.52doweb.cn
 paperboatmedia.com
 paradisekebab.com
@@ -3410,7 +3408,6 @@ presbyterian-park.azurewebsites.net
 preshop.littlecreativefactory.com
 prestige-art.ehost.tj
 prettypugpuppies.com
-prevent-unathorisedlogins.com
 preventsenior.com.br.cutercounter.com
 prf-gov-br.myfreesites.net
 prikany.com
@@ -3801,6 +3798,7 @@ secure.oldschool.com-ty.ru
 secure.runascape.com-ro.ru
 secure.runascape.com-vc.ru
 secure.runascape.com-vzla.ru
+secure.runescape.c0m.ffus.asia
 secure.runescape.com-accountsecurity.cz
 secure.runescape.com-rf.cz
 secure.runescape.com.ffus.asia
@@ -3847,7 +3845,6 @@ securewebs.linkappstore.authentication.helpregcare.net
 security-fraudprevent.com
 security-mappl-information-account.piiquarry.com
 security-online-confirm.com
-security-preventfraud.com
 security.session219233.info
 secvddetg785ebvcx.wixsite.com
 seeitourway.gq
@@ -4240,6 +4237,7 @@ templat65sldh.myfreesites.net
 tenseless-horsepowe.000webhostapp.com
 terimakasih-telah-mengonfirmasi.ga
 terimakasih-telah-mengonfirmasi.ml
+terimakasih-telah-mengonfirmasi.tk
 termerosapepe.it
 terms-policy.com
 tesitngbuckerds.ams3.digitaloceanspaces.com
@@ -4725,6 +4723,7 @@ wireconfirmation68c10a25442a3e13.blogspot.com
 wires-business-starter.webflow.io
 wisedu.co
 wishnquotes.com
+witcoworking.com.ar
 wiuegduwedw.webcindario.com
 wkzhgs.com
 wolfmirror.com
@@ -4742,6 +4741,7 @@ wowmybusiness.com.au
 wozddtpxktyxdqyeitrsffurqd-dot-polished-shore-301017.uk.r.appspot.com
 wp-doxy.themeix.com
 wp-login.azurewebsites.net
+wp.m3ak-egy.com
 wp1.j1115229.m9r2m.spectrum.myjino.ru
 wpgiqjhsvvjgmpzryggzlltcfh-dot-gl2021off.uk.r.appspot.com
 wrap.co
@@ -4761,8 +4761,8 @@ www-cursosdigitalesmx-com.filesusr.com
 www-degelyehuda-org-il.filesusr.com
 www-europe564598-com.filesusr.com
 www-europessign-com.filesusr.com
-www-exodus.com
 www-info-lng.com
+www-interbank.bancaporinternet-pe.com
 www-ledger.com
 www-office-com.office365.yuvaltest.fpcasbdev.com
 www-paypal-com-login.menlosec.com
@@ -4804,7 +4804,6 @@ www.alinhador3d.com.br
 www.alpha-mail-server2.ddns.info
 www.alpinemountaingear.com.np
 www.alquileres.com.py
-www.amaaon.top
 www.amazon-azon.buzz
 www.amazon-check-co-jp.202181886876.top
 www.amazon-ono.top
@@ -4868,7 +4867,6 @@ www.birrasalentoshop.it
 www.bisonstburgersandbrews.com
 www.bitgoo.ru
 www.bithubber.com
-www.bizde-amazon-co-ioat.buzz
 www.blauzac.com
 www.blog4passion.com
 www.blueseainstitute.com
@@ -4925,6 +4923,7 @@ www.consulting-gvg.com
 www.conteudoprodaisystringer.com
 www.control.pw
 www.coopfinancierapromerica.com
+www.copyrightsupportservice.ml
 www.corinnakegel.com
 www.cortijolatapia.com
 www.covid-19challengecoin.com
@@ -5392,7 +5391,6 @@ www.security-lloydbanking.com
 www.security-mappl-information-account.piiquarry.com
 www.security-new-device.co.uk
 www.security-online-stop.com
-www.security-remove-device.co.uk
 www.sellerie-ethologique.com
 www.set-device-halisecure.com
 www.sgcc.bm
