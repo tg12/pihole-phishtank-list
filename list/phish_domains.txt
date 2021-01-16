@@ -61,7 +61,6 @@
 43.231.250.253:8080
 4386723873746237887348.s3.amazonaws.com
 444497yhxkisyhj.us-south.cf.appdomain.cloud
-456787986545656-secondary.z6.web.core.windows.net
 472a4262-a2a1-4785-b3aa-4816cba070ed.htmlcomponentservice.com
 47movie.com
 48tlp.codesandbox.io
@@ -376,6 +375,7 @@ applepaymentpartner.com
 appleverificationalert.com
 appleverificationalert.com:443
 applewriters.com
+appliedvisioncricket.com
 appointment.beyondthebox.ph
 apporg.yolasite.com
 approvelogin.com
@@ -1293,7 +1293,6 @@ duffelbagadventures.com
 durex.so
 dutrutalte.wixsite.com
 duurzamste.online
-dvcx.whm-login.duncanwierman.com
 dvla-taxed.com
 dvla-vehicletax-rebate.com
 dvla.myvehicle-rebate.com
@@ -1375,11 +1374,9 @@ einloggim-eboy.de
 eislueqr.livedrive.com
 ekoda-recording.tokyo
 ekotienda.com.mx
-elavution-cek-point-ck-856213735136748437771.tk
 elavution-cek-point-ck-856213735136748437773.tk
 elavution-cek-point-ck-8562137351367484385558.tk
 elavution-cek-point-ck-8562137351367484472494.tk
-elavution-cek-point-ck-8562137351367484472497.tk
 elavution-login-ck-856213879846734125851.tk
 elavution-login-ck-856213879846734125852.tk
 elavution-login-ck-856213879846734125853.tk
@@ -2511,7 +2508,6 @@ ludiequip.es
 lunaclothing-my.sharepoint.com
 lunchzoo.com
 lvk.hop.ru
-lvov.arkadak.sarmo.ru
 lycroproducts-my.sharepoint.com
 lynkos.com.br
 lyrics.shiksha
@@ -2801,6 +2797,7 @@ mycoerver.es
 mydealz.live
 mydetails-mynetflix.com
 mydhl.express.dhl.tlfplc.fr
+myee-billings.com
 myee-issues.com
 myee-securelogin.com
 myee-support.uk
@@ -5107,7 +5104,6 @@ www.lloyd-securedservice.com
 www.lloyd-securityservices.com
 www.lloyd-servicebanking.com
 www.lloydbanking-onlineaccess.com
-www.lloydbanking-securedsecurity.com
 www.lloyds.payee.management
 www.lloydsmanage-accountsecurity.com
 www.lloydssecuredevice.uk
@@ -5134,7 +5130,6 @@ www.mbqcaraudio.co.uk
 www.mekasu.de
 www.memorialpetroniopinheiro.com.br
 www.messelive.tv
-www.metalcentar.com
 www.mew.one
 www.mickels-hamsterrad.de
 www.midyatmimaritas.com
