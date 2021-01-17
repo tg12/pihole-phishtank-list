@@ -151,6 +151,7 @@ access-decline-request.com
 access.deka-eu.com
 accessboaonlines.com
 accessibiltyorgligne.weebly.com
+accessopsd2-web.com
 accf-cambodia-france.com
 accordvending.com
 accorservorg.yolasite.com
@@ -195,6 +196,7 @@ adminweb2020-mailaccess.moonfruit.com
 adminzimbra.000webhostapp.com
 adnet8.com
 adobecloudpdf.wixsite.com
+ads-frnck.xyz
 ads-google-think.blogspot.com
 adsbusinessaccountcouponcampaigns.com
 adsbusinessaccountcreditcoupon.com
@@ -249,6 +251,7 @@ alejandrazarate.com
 alergiaalpolen.com
 alert-dev-hali.com
 alert-device-hali.com
+alert-device-newpayee.com
 alert-new-hali.com
 alert-onlineprevent.com
 alert-unknown-payee.live
@@ -283,7 +286,6 @@ alsolimangroup.com
 alternanetworks-my.sharepoint.com
 alternatifklinik.com
 alumdecor.ru
-amaokmsnco.temp.swtest.ru
 amaxcarrentals.com.au
 amazan.badbd.top
 amazan.mhcmmm.vip
@@ -465,7 +467,6 @@ aubootlegger.com
 aucoindesrues.com
 auduboninstitute-my.sharepoint.com
 aurickhotels.com
-auth-revoke.com
 auth-valid-dev.com
 auth2-limite.com
 authorcheck.com
@@ -901,7 +902,6 @@ ckmadae.com
 cla2020gov.com
 claimeventpubgmobile.com
 claimskin.in
-claimskinm4now.com
 claro-controle-downloader.m4u.com.br
 claslley.ml
 clayheart.com
@@ -1007,7 +1007,6 @@ correos.chile.cl.u1258545.cp.regruhosting.ru
 costruction.dev:443
 cotton-bottlenose-copper.glitch.me
 couchpop.com
-countrymall.in
 couponfinderpro.com
 courseworkwritingsite.com
 cox0.yolasite.com
@@ -1475,7 +1474,6 @@ eve292929.dothome.co.kr
 eveningfeedfun.com
 events.af
 eventsxmetros16.com
-everlastinginternetincome.com
 evidaac.com
 ew-con-confrimnations.000webhostapp.com
 excelbest.com
@@ -1643,7 +1641,6 @@ ftp.mixi.guru
 ftp.warfacebonus.hop.ru
 fubag-russian.ru
 fuentesfidedignas.com.mx
-fundasyrian.com
 funpeguy.com
 fuzedev2.com
 fxt27.csb.app
@@ -1994,6 +1991,7 @@ hudatama.com
 huilerieannor.com
 humani.biz
 hunterpowersport.com
+huntingsuccess.monster
 huntingtononline.ddns.info
 hutchison.ebill-confirmation.live
 hutoknepper.de
@@ -2223,6 +2221,7 @@ jurnal.stai-aljawami.ac.id
 justlookapp.com
 justsayingbro.com
 justuskennelclub.com.br
+jwazvxtfdszgtrrsyaedlomqah-dot-polished-shore-301017.uk.r.appspot.com
 jxzbbwsnkburjomvpogmoechta-dot-gl2021off.uk.r.appspot.com
 jynpyarknyqsojhadgzsnapzoi-dot-polished-shore-301017.uk.r.appspot.com
 jyotsacademy.co
@@ -2401,6 +2400,7 @@ lloyd-deregister-unauthorisedaccess.com
 lloyd-secure-account.com
 lloyd-servicedsecurities.com
 lloydbanking-onlineaccess.com
+lloydbanking-securelogin.com
 lloydcisecure.com
 lloydcsecurell.com
 lloyds-bank-device-alert.com
@@ -2421,6 +2421,7 @@ lloydsbank.login-personal-device-security.com
 lloydsbank.login-personal-devices.com
 lloydsbank.online-alert-security.com
 lloydsbank.online-auth-personal.com
+lloydsbank.online-auth-secure-verified.com
 lloydsbank.online-auth-secure-verify.com
 lloydsbank.online-auth-security-verify.com
 lloydsbank.online-auth-verify-secure.com
@@ -2439,6 +2440,7 @@ lloydsbank.protect-secure-prevent.com
 lloydsbank.secure-device-protect.net
 lloydsbank.secure-personal-device-login.com
 lloydsbank.secure-personal-device.com
+lloydsbank.security-personal-devices.com
 lloydsbank.unpair-unauthorised-devices.com
 lloydsbank.userprotect-data.com
 lloydsbankplc.online-personal-approve.com
@@ -2769,7 +2771,6 @@ musicisit.de
 mutatio.cl
 mux.refurbishments-london.co.uk
 mx0.arqsys.srv.br
-mxtube.net
 my-device-registration.com
 my-devices-halifax.com
 my-ee-billing-update.contact
@@ -2843,6 +2844,7 @@ natwest-secure.live
 natwest-verify.net
 natwest.nwolb-personal-device.com
 natwest.personal-login-online.com
+natwest.secure-auth-personal-device.com
 natwest.secure-auth-personal-login.com
 natwest.secure-personal-devices-login.com
 nebojsega.com
@@ -2903,8 +2905,11 @@ newpayeealerts.net
 newpayees-management.co.uk
 newpayees-portal.com
 newpayeeverification.net
+newpayments-fraudaction.com
+newpayments-newalerts.com
 newrafa.rafaah.net
 newregisterpayee.com
+newregistrationpayee-alert.com
 newrestricted-online-payee.com
 newrydramafestival.co.uk
 news-for.ru
@@ -3003,10 +3008,10 @@ o2-securebilling-update.com
 o2-service-account.com
 o2-updateprocess-billing.com
 o2.review-update.com
-o2.uk.cntrct01.com
 o2ebilling.com
 o2service-centre.com
 o2uk-updates.com
+oaxdjbkdecprmlfovzxtdjwqfo-dot-polished-shore-301017.uk.r.appspot.com
 objectstorage.us-ashburn-1.oraclecloud.com
 objectstorage.us-sanjose-1.oraclecloud.com
 obrazul.com.br
@@ -3027,7 +3032,6 @@ odhikar.com
 odontologicomonterrico.com
 ofertasparaguay.com
 offal.odoo.com
-office-quarantine-server.ue.r.appspot.com
 office356.my.id
 office365.cx
 office365.eu.vadesecure.com
@@ -3231,6 +3235,7 @@ paypal.com.0.security-confirmation.d72b69c8e37aec662e13e39d929d6e3d.as2.2u.se
 paypal.com.05925924b730bb369f87ad369fde0ffbf74a3c2.33s3.smoz.us
 paypal.com.service.id999.sorttheweb.com
 paypal.login-sevice.eu
+paypal.online-profile-update.com
 paypal.puttakonda-lakshminarasimhaswamy.com
 paypal.ugcs24.com
 paypal.verylegit.link
@@ -3326,6 +3331,7 @@ plataformaeducativa.se.jalisco.gob.mx
 play2win.buzz
 plog.com.br
 ploymentsruti.com
+plus100.000webhostapp.com
 plytecfi-my.sharepoint.com
 pmbonline.unmuha.ac.id
 pmiconnect-my.sharepoint.com
@@ -3493,6 +3499,7 @@ rakutewdasdax.xfvsdfsadasda.top
 ralakutran.yapoten.top
 raletapoku.relakutaten.top
 ralutaken.rottenta.top
+ramagyaschool.in
 ramgarhiamatrimonial.ca
 rapsbrag.weebly.com
 rasdaxdasd.lafdasdwq.top
@@ -3572,6 +3579,7 @@ restrict-mypayee.com
 restrict-newpayee-alert.com
 restrict-payee.com
 restricted-newonline-payee.net
+restricted-newpayee.com
 restricted-onlinepayee.com
 restriction-cancel.com
 retakuta.ralakuten.top
@@ -3652,7 +3660,6 @@ runescapeapk.com
 runescapelink.com
 runescapeservices.com
 ruralvia.mobusin.com
-rushabh2w.com
 russianamericanballet.com
 rusticscapes.com
 rvxymbdviczzqrcgtxacnaoimc-dot-polished-shore-301017.uk.r.appspot.com
@@ -3683,6 +3690,7 @@ salesjpstore.com
 saltrc.net
 sampatattoo.com
 sandbox.plantstny.com
+sandibad.fr
 sanjilkumar.com
 sanjoaquinvalleybrewfest.com
 santan-myverify.com
@@ -4008,6 +4016,10 @@ spaceandform.com
 spacedoing.com
 sparka-secu07.xyz
 sparka-secu12.xyz
+sparka-secu17.xyz
+sparka-secu18.xyz
+sparka-secu20.xyz
+sparka-secu21.xyz
 sparkassbank-de.com
 sparxinteriors.co.zw
 special-official.com
@@ -4029,6 +4041,7 @@ spotify-home.com
 spotify.update-billing.sctrlgin.com
 spropes-auntmillies-com.slite.com
 sqazywglthbllbqnuimqjwkbkv-dot-polished-shore-301017.uk.r.appspot.com
+squareteamss.com
 srv-auth.web.app
 sslseguridad.com
 sssons.in
@@ -4061,7 +4074,6 @@ stolizaparketa.ru
 stollgroup.coms.cso.gov.tt
 stomkinscommercial.com.aus.cso.gov.tt
 stop-payee-update.com
-stor.ee
 storage.googleapis.com
 storage.ning.com
 store.ankurnarula.org
@@ -4099,6 +4111,7 @@ superchief.org
 superpark-my.sharepoint.com
 suportecxacesso2020.com
 support-att.com
+support-suspended-account.com
 support.theiejmdsofeadf.com
 supportcenter-adf6caf09ec00b5adf6ca.sprodgrid.com
 supportcenter-bdf6caf09ec00b5adf6ca.sprodgrid.com
@@ -4403,6 +4416,7 @@ up.rev.ref.rbzqvn.ahis.com.bd
 updatealldomainash.web.app
 updatebilling.support
 updatebillingee.com
+updatebillingid.support
 updateinformationuk.com
 updating.creatorlink.net
 updted-access.demopage.co
@@ -4424,6 +4438,7 @@ usahometreasury.com
 use.ge
 usedcopiersaustin.com
 uselookstore.com.br
+user-paypal.i0t.top
 user-paypal.oz4.top
 user-restore.com
 users.tpg.com.au
@@ -4649,6 +4664,7 @@ whattsapp2020.qpoe.com
 whattsapps.faqserv.com
 whattsapps.misecure.com
 whitefordkenworth-my.sharepoint.com
+whitelakemoorings.com
 whypaymoredeals.com
 wifreight.cf
 wiidtgryqytvubdkacpjefnxij-dot-polished-shore-301017.uk.r.appspot.com
@@ -4719,7 +4735,6 @@ www.accountbill-ee.co.uk
 www.accountsecuritygoogle.com
 www.accountservice-o2.com
 www.activityeventsskinmlbb.zzux.com
-www.adex.it
 www.adnet8.com
 www.aenth.com
 www.afinephotographer.com
@@ -4777,6 +4792,7 @@ www.atendimentoe.sg-host.com
 www.att.com.gustavomatamoros.edu.co
 www.attemplate.com
 www.auth-chaseuserservice.ssmailer.com
+www.auth-verifyuser-plc.co.uk
 www.authorisation-security.com
 www.authorise-device-info.com
 www.authorise-my-newdevice.com
@@ -4858,6 +4874,7 @@ www.comboniane.org
 www.comprensivomarrosso.edu.it
 www.conapam.go.cr
 www.confirm-mynew-transactions.com
+www.confirm-your-new-payee.com
 www.consultax.cl
 www.consulting-gvg.com
 www.conteudoprodaisystringer.com
@@ -4883,6 +4900,7 @@ www.danapluss.com
 www.daniel-treufeld.de
 www.danielescivoli.it
 www.dataforce.co.uk
+www.dba.dk.erhverv-annonce-315732.art
 www.decaturilbgc.com
 www.declined-account.com
 www.deficitdeatencionperu.com
@@ -4936,6 +4954,7 @@ www.ecolinklogistics.co.ke
 www.ecotaskforce.com
 www.edoism.com
 www.ee-confirm-billingupdate.com
+www.ee-uk-billingupdate.com
 www.ee-ukbillingupdate.net
 www.ee-updatebilling-information.com
 www.egacal.edu.pe
@@ -5114,6 +5133,7 @@ www.lloyd-secure-online.com
 www.lloyd-securedservice.com
 www.lloyd-securityservices.com
 www.lloyd-servicebanking.com
+www.lloydbank-securedlogin.com
 www.lloydbanking-onlineaccess.com
 www.lloyds.payee.management
 www.lloydsmanage-accountsecurity.com
@@ -5177,6 +5197,7 @@ www.nakamistrad.com
 www.nastroadesivo.org
 www.naszlombard.pl
 www.needupdateuccard.buzz
+www.needupdateuccard.cyou
 www.needupdateuccard.top
 www.nelsonjustus.com.br
 www.netciti.id
@@ -5185,6 +5206,7 @@ www.netflixteams.com
 www.new-devices-alert.com
 www.new-mobile-security.co.uk
 www.new-payee-registration.com
+www.new-secured-hali.com
 www.new2.froid-guyader.fr
 www.newdevice-alerts.link
 www.newlifebiblechurch.org
@@ -5206,6 +5228,7 @@ www.nuanciel.net
 www.nwsecure-iproceed-icancel.com
 www.o2-billingauth-secure.com
 www.o2-billingsupport-update.com
+www.o2login.com
 www.o2service-centre.com
 www.odhikar.com
 www.officentry.com
@@ -5224,6 +5247,8 @@ www.payee-authorities.com
 www.payee-registered.com
 www.payee-verify-online.com
 www.payee-verify.digital
+www.payee-verifyportal.com
+www.payeeinfo.digital
 www.paymentcancel.com
 www.payments-uber.com
 www.paypal-rimborso.com
@@ -5315,11 +5340,14 @@ www.secure-online-login.com
 www.secure-online-payeemagement.com
 www.secure-payeeremoval.com
 www.secure.mwwi.pl
+www.securebankingonline-info.com
 www.secured-devicealert.com
 www.secured-devicealerts.com
+www.secured-deviceverfication.com
 www.secured-lloydbanking.com
 www.securedevice-register.com
 www.securedevice.co.uk
+www.securedlogin-lloydbank.com
 www.secureepayee-info-auth.com
 www.securesite-loginattempt.com
 www.security-device-hali.com
@@ -5327,6 +5355,7 @@ www.security-lloydbanking.com
 www.security-mappl-information-account.piiquarry.com
 www.security-new-device.co.uk
 www.security-online-stop.com
+www.securityforpayees.com
 www.sellerie-ethologique.com
 www.set-device-halisecure.com
 www.sgcc.bm
@@ -5357,6 +5386,8 @@ www.stevencrews.com
 www.stolizaparketa.ru
 www.studiogiardasrls.it
 www.suporteurgente.ml
+www.support-cancelpayees.com
+www.support-lloyd-verify-payee.com
 www.supportcenter-adf6caf09ec00b5adf6ca.sprodgrid.com
 www.supportcenter-bdf6caf09ec00b5adf6ca.sprodgrid.com
 www.supportcenter-cdf6caf09ec00b5adf6ca.sprodgrid.com
@@ -5417,6 +5448,8 @@ www.unrecognised-newpayee-online.com
 www.unregister-device-securelloyd.com
 www.update-my-webmail.gcdsexpress.com
 www.update-service.co
+www.updateuccard.club
+www.updateuccard.top
 www.updateuccard.xyz
 www.uscrissey.fr
 www.valuescaucus.org
@@ -5623,6 +5656,7 @@ zm.syrbf.com
 zmail221.appspot.com
 zoeg8.csb.app
 zohagdyj27bga1znahjjwa-on.drv.tw
+zona-segweb1-nb.com
 zonadns-1segvridadbn.com
 zonasegura-multibnt.com
 zonasegura-zdemovilapp.com
