@@ -119,7 +119,6 @@
 9khnh.app.link
 9qjja.top
 CNFPH.Me
-Cancelonlinelogin.com
 Deregister-unverified-seclloyd.com
 Lloyd-secure-device.com
 My3-securepayment.com
@@ -555,7 +554,6 @@ bansofsameriicas.com
 baobabburger.it
 bappeda.ketapangkab.go.id
 baradua.it
-barclaysplc.submit-appeal.com
 basvrmerkezgriskaytol.com
 bathwaresanitary.com
 batterybazaaronline.com
@@ -1343,6 +1341,7 @@ eehelp.co.uk
 eehelpcenter.live
 eenetworkservicing.co.uk
 eeproblem.com
+eeuk.help942.com
 effect-print.net
 egacal.edu.pe
 egyptmovingfurniture.com
@@ -2040,7 +2039,6 @@ info-configs.firebaseapp.com
 info-peringatan-pemblokiran.weebly.com
 info.ipromoteuoffers.com
 info.lionnets.com
-info.onlinebanking-devices.com
 infobank.app.link
 infobcp.com
 infobn-zonaseguradatos17.com
@@ -2611,6 +2609,7 @@ mccarthyelectrical.com
 mcelman.com
 mckennittfamily.com
 mdtec.com.ar
+me2.do
 meat.uniandes.edu.co
 meatball1215.club
 medamiaudette.getenjoyment.net
@@ -2621,6 +2620,7 @@ medviewairline.com
 meet.google.com
 meeting-23900123090123.bitbucket.io
 meetme.run
+megabrand.cn
 megacredi.com
 meimeifuli.co
 meinedkb.xyz
@@ -2766,7 +2766,6 @@ mycoerver.es
 mydealz.live
 mydetails-mynetflix.com
 mydhl.express.dhl.tlfplc.fr
-myee-billings.com
 myee-issues.com
 myee-securelogin.com
 myee-support.uk
@@ -3428,6 +3427,7 @@ quadfabrik.de
 qualitasc-my.sharepoint.com
 qubectravel.com
 quietdoorhardware.com
+quimica-infinito.com.co
 quinaroja.com
 quiz.takingfive.com
 quota.creatorlink.net
@@ -4438,6 +4438,7 @@ ventedirect0033.000webhostapp.com
 verf-ltdpay.solde-confirmation.ltd
 verfiz.me
 verfyme.creatorlink.net
+veriet.nl
 verificacionbcponline.reac-med.com
 verification-e-e.link
 verificationmessage.blob.core.windows.net
@@ -4750,7 +4751,6 @@ www.atendimentoe.sg-host.com
 www.att.com.gustavomatamoros.edu.co
 www.attemplate.com
 www.auth-chaseuserservice.ssmailer.com
-www.auth-verifyuser-plc.co.uk
 www.authorisation-security.com
 www.authorise-device-info.com
 www.authorise-my-newdevice.com
@@ -5329,7 +5329,6 @@ www.sky-confirmaccount.com
 www.smbc-ccrb.com
 www.smbc-ccrd.cc
 www.smbc-ccrd.com
-www.smdc-ccrd.cc
 www.smdc-ccrd.com
 www.smdc-crad.com
 www.snjtradelink.com
