@@ -462,7 +462,6 @@ authorcheck.com
 authorise-ee-billingupdate.com
 authorise-mydetails.com
 authorise-newpayee.live
-authorise-newpayments.live
 authorisemy-details.com
 authorisemy-transfer.com
 authorisemytransfer.com
@@ -611,7 +610,6 @@ billing-paymentcards.com
 billingaccount.live
 billingconfirm-myee.com
 billinginfo-mynetflix.com
-bimbino.000webhostapp.com
 bimboleinundbimbolines.com
 binarybenliveload.com
 biofinest.com
@@ -866,7 +864,6 @@ chr-cssnf.ga
 chulyonfr.creatorlink.net
 chungcuvinhomessmartcity.com.vn
 chuyennghiep.vn
-cib-c-onlin.cyou
 ciet-itac.ca
 cimeriletisimmerkez.web.app
 cimslp-my.sharepoint.com
@@ -903,7 +900,6 @@ cloud1.directnutrisciences.com
 clouddoc-authorize.firebaseapp.com
 clt1227564.bmetrack.com
 clt1234529.bmetrack.com
-cltnaruba.com
 clubeamigosdopedrosegundo.com.br
 clubedemergulho.com.br
 cmspin5k.club
@@ -1173,6 +1169,7 @@ dhl-prcel1.ishoripokhrel.com.np
 dhlvideo.id
 dialogoydeportes.net
 dicarlomedical.com
+dichthuatdongduong.com
 dichvuvnpt.com
 digitalbanking-mobile-signin.com
 digitalflashbacks.ca
@@ -1322,7 +1319,6 @@ ee-updatebilling-payments.com
 ee-updatebilling-uk.com
 ee.monthly-failed-payment.co.uk
 eebill-secureuk.com
-eebill-support.com
 eebilling-renew.com
 eehelp.co.uk
 eehelpcenter.live
@@ -1901,7 +1897,6 @@ howrse.5v.pl
 howtostopforeclosurequick.com
 hp-or.surge.sh
 hpqsbwtcyxabtobz-dot-owaonk399399393.uk.r.appspot.com
-hrbfdmsllmsreyjujcgafzjaln-dot-polished-shore-301017.uk.r.appspot.com
 href.li
 hrs-game.main.jp
 hrs.ngo
@@ -2552,7 +2547,6 @@ melaninpeopleshop.com
 members.theatrewomen.org
 memoirelyceen.free.fr
 mentoring.beautyforashes.org
-merck.fishawack.solutions
 meritroyal260.bet
 meritroyalbetgiris20.com
 merveyilmazericmimarlik.com
@@ -2649,7 +2643,6 @@ msdwt-k12-in-us-net.ga
 msdwt-k12-in-us-net.gq
 msdwt-k12-in-us-nettt.gq
 mtcc.unmuha.ac.id
-mufg.jp.shidsm.com
 multbancos.webnode.com.br
 mulwalaaccommodation.com.au
 mundovirtualhabbo.blogspot.com
@@ -2842,6 +2835,7 @@ noreply2redirect2.site44.com
 normativaeuropea-aggiornata.com
 norreply.paypal.jajaleen.com
 nortonknatchbull-my.sharepoint.com
+nosy-even-loaf.glitch.me
 notendur.hi.is
 notevocaux.wixsite.com
 noticias.canal22.org.mx
@@ -3103,7 +3097,6 @@ paypal-merchantloyalty.com
 paypal-my.sharepoint.com
 paypal-rimborso.com
 paypal-test.projektumfeld.de
-paypal-user-id10.com
 paypal-user-id4.com
 paypal-user-id9.com
 paypal.abdverse.com
@@ -3203,7 +3196,6 @@ plaincheck-f0068.firebaseapp.com
 planeta12.minobr63.ru:443
 plataformaeducativa.se.jalisco.gob.mx
 play2win.buzz
-playstation-link.000webhostapp.com
 plog.com.br
 plus100.000webhostapp.com
 plus998.000webhostapp.com
@@ -4194,7 +4186,6 @@ u1236242.cp.regruhosting.ru
 u15838okb.ha002.t.justns.ru
 u17527324.ct.sendgrid.net
 u2382462.ct.sendgrid.net
-u282610.ct.sendgrid.net
 u3041013.ct.sendgrid.net
 u3699884.ct.sendgrid.net
 u966905asm.ha005.t.justns.ru
@@ -4430,7 +4421,6 @@ webemailactivation.wapkiz.com
 webexert.com
 webfiddle.net
 webindextesting.pro
-webmail-4erff6uiughh.web.app
 webmail-6t4fwhg3wh.web.app
 webmail-73r3f3r.web.app
 webmail-81176.web.app
@@ -4614,7 +4604,6 @@ www.auth-securedevice.com
 www.authenticate-mypayees.com
 www.authorisation-security.com
 www.authorise-device-info.com
-www.authorise-my-newdevice.com
 www.authorise-my-newtransaction.com
 www.authorise-my-newtransactions.com
 www.authorise-myonlinebankingdetails.com
@@ -5301,6 +5290,7 @@ www.yetpack.com
 www.yoho.com.tw
 www.younge.co.za
 www.youweb-bancobpm-it-verifica-dati.riepilogodati.info
+www.zestapartments.com.au
 www.zhkrc.com
 www.zjgsyds.cn
 www.zjlei.com
