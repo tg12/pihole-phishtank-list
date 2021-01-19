@@ -738,6 +738,7 @@ cancel-unrecognised-newdevice-pairing.com
 cancellationrecipient.com
 cancelnewpayee-help.com
 cancelpayee-attempt.com
+cancelrecipients.com
 cancelsucessfulpayee.com
 cancelunrecognisedpayee.com
 caneba6718.wixsite.com
@@ -790,6 +791,7 @@ cefwebchat.chatbsservices.com.br
 celebyeah.com
 celiamay.com
 cellidplus.com
+centauruz.ru
 centec-am.com.br
 center-verificationw.wapka.website
 centerai.vot.pl
@@ -860,6 +862,7 @@ ciet-itac.ca
 cimeriletisimmerkez.web.app
 cimslp-my.sharepoint.com
 cingular-oac.qpass.com
+ciscondecor.com
 cityschools2013-my.sharepoint.com
 ciukpncloqhvetrudqxuqcgnjm-dot-polished-shore-301017.uk.r.appspot.com
 ckmadae.com
@@ -1051,7 +1054,6 @@ d1yjjnpx0p53s8.cloudfront.net
 d521e3ba-0de3-4eae-a9a8-bafefca61eda.htmlcomponentservice.com
 d5wxk.csb.app
 da822325-313f-4f85-b334-d9b00a2d64da.htmlcomponentservice.com
-daclando.ml
 dag-mot-lan.firebaseapp.com
 dailyexclusiveoffer.com
 dailymart.org
@@ -1136,7 +1138,6 @@ designferreira.com.br
 designfitters.com
 designstore.com.ec
 detect-new-payee.com
-deutschebnkng.digital
 deuxiemeclasse.fr
 dev-made-in-chlna.pantheonsite.io
 dev.klinikmatanusantara.com
@@ -1217,6 +1218,7 @@ dowwr.com
 doz.tode.cz
 dpd-shipping.com
 dpd-tracker.com
+dpdbillingerror.com
 dpexcavation.ca
 dpfoidspoifopdsifpoi.blogspot.com
 dprk.bandaacehkota.go.id
@@ -1402,6 +1404,7 @@ escuadrondelpanico.es
 esgcommercialbrokers.com
 eslickcreative.com
 espace-client.fr
+espace-voscomptes.is-certified.com
 espace1630585.weebly.com
 espacemessagerie.wixsite.com
 essayme.net
@@ -1665,6 +1668,7 @@ goldenstarkos.gr
 golfballsonline.com
 goliathbusinesscapital.com
 goo.su
+goodsource.cf
 google-account.ulcraft.com
 google-quality-rater-audit.com
 google.projectseries.co.in
@@ -1733,7 +1737,6 @@ gwartosahrto.000webhostapp.com
 gwisalltrack.com
 gxsb8.csb.app
 gymn2slv.ru
-gzoni.com
 h5brzd.webwave.dev
 habitatsiliconvalley.org
 hacktodo.com
@@ -1749,7 +1752,9 @@ hali.secureonlinealert.services
 halidevice-unregister.com
 halifax-devicesettings.com
 halifax-mydevices.com
+halifax-new-recipient-confirmation.com
 halifax-online-bank.com
+halifax-online-banking-settings.com
 halifax-payee-remove.com
 halifax-payee-settings.com
 halifax-payee.support
@@ -2108,6 +2113,7 @@ journeypacking.com
 jp-amazon.f0z.top
 jp-amazon.g2c.top
 jp-amazon.g3c.top
+jpspratapvihar.in
 jsbyv.app.link
 jsfiddle.net
 jsitor.com
@@ -2152,6 +2158,7 @@ ken.kulaklikdergisi.com
 kentridge.lk
 keramikadecor.com.ua
 kergfky.cf
+kerryuher.com
 keyabhatt.com
 keypointtraining-my.sharepoint.com
 keysianproperties.co.ke
@@ -2334,6 +2341,7 @@ lloydsbank.security-personal-devices.com
 lloydsbank.unpair-unauthorised-devices.com
 lloydsbankplc.online-personal-approve.com
 lloydsbankplc.secure-personal-device-login.com
+lloydspayee-secure.com
 lloyduk-online.com
 lloydunauthorisedpayee.com
 lms.ozyegin.edu.tr
@@ -2346,7 +2354,6 @@ lnky.in
 lntesaaccesso.com
 localbeani.myshopify.com
 localbintcoinis.com
-location-app.com
 locationimagery.com
 locksmithinjonesboroarkansas.com
 lofon-add.firebaseapp.com
@@ -2551,6 +2558,7 @@ mhmedicalinstitute.in
 mhnq.blondfinish.link
 mi.homedepot.com
 miansoft.com
+michaelmahony.org
 michelleconnollylpc.com
 micronotifications.com
 microsoft-excel.kr.jaleco.com
@@ -2682,6 +2690,7 @@ mysimsupport.com
 mysp.ac
 mytax-rebate.com
 mytheamsauthecent.wapgem.com
+mythpumpions.com
 mythree-authentication.com
 mythree-mylink.com
 mytrendcorner.com
@@ -2716,6 +2725,7 @@ nebutterflies.in
 nedbank.demdex.net
 nef.com.pk
 negociarbancopan.com
+netfiix.co-mauth.com
 netflex-paymentinfo.com
 netflix-appl.com
 netflix-billing-erroruk.com
@@ -3319,6 +3329,7 @@ raasdkusdaqwz.pokuiasdxaqexdaa.top
 rabi.ir
 rabofree.blogspot.com
 rabots.org
+radar-hit.it
 raddelmotalaka.com
 radiokorneuburg.at
 radiosouvenirs.be
@@ -3468,6 +3479,7 @@ review-corportion-term-serviice-of-pages.my.id
 review-corportions-term-of-service-pages.my.id
 review-corportions-term-of-serviice-page.my.id
 review-corportions-term-of-serviice-pages.my.id
+review-managesupport.sign.juontorbos.com
 review-my-newpayees.com
 review-my-newtransaction.com
 review-pages-serviice.my.id
@@ -3781,6 +3793,7 @@ signup.abdverse.com
 sikkertnabolag.dk
 silitrade-my.sharepoint.com
 sillyabba.com
+silvergaiden.com
 silverphoto.my1.ru
 silvertonradiators.co.za
 silviaadddmonce02.wixsite.com
@@ -3865,7 +3878,6 @@ sonsofgodonline.com
 soo.gd
 soportebn.digital
 sorinandronic.com
-sorinuri.com
 souaxwaoh.myfreesites.net
 soude-masi.firebaseapp.com
 souled.co.kr
@@ -4081,6 +4093,7 @@ thepantyhosequeen.com
 thepaperdesign.com
 theredefeinery.com
 thescrapescape.com
+theskarlet.com
 theumashow.com
 theuniversityoftomorrow.org
 thevoice.actor
@@ -4105,6 +4118,7 @@ timp.com.br
 tincintkintil.in
 tiny.cc
 tinyurl.com
+tinyurl.mobi
 tiregenie.com
 titelinedrillingintl.yolasite.com
 tivoli.nu
@@ -4194,6 +4208,7 @@ u2382462.ct.sendgrid.net
 u3041013.ct.sendgrid.net
 u3699884.ct.sendgrid.net
 u966905asm.ha005.t.justns.ru
+u981655ee4.ha005.t.justns.ru
 uae-appleld-pay.ssbcentar.info
 uat-internetloanapplication.cudl.com
 ubee.co.kr
@@ -4683,7 +4698,6 @@ www.cnxgroup.in
 www.codashop-ph2020.ezua.com
 www.codashop-phmlbb.ezua.com
 www.codecademy.com
-www.coffeeconpanna.com
 www.colloidalsilverone.com
 www.colorfastinv.com
 www.comboniane.org
@@ -4884,6 +4898,7 @@ www.itisrighi.fg.it
 www.jabezrealtyservices.com
 www.jacobhouse.community
 www.jahblues.com
+www.jbgroup.com.py
 www.jeffreybcam.net
 www.jeuxhtml5-orangefr.com
 www.joeypmemorialfoundation.com
@@ -4961,6 +4976,7 @@ www.misolo.com
 www.missbelattitude.com
 www.mistimbas.com
 www.mivtsystems.com
+www.mkj.com.pk
 www.mktbtk.com
 www.mls.ad.jp
 www.mobile-portail.live
@@ -4971,6 +4987,7 @@ www.mouadarrivalco.org
 www.msrsolutions.mx
 www.multived.com
 www.mxrr.com
+www.my-o2billing-service.com
 www.mybpos.net
 www.mymentalhealthday.org
 www.mymp3remix.in
@@ -5097,7 +5114,6 @@ www.reject-payee-alert.com
 www.removeaccess-mobilelogin.com
 www.removemypayee-assist-auth.com
 www.removepayee-auth.net
-www.removepayee-secure.net
 www.restrepohenao.com.co
 www.restrict-payee.com
 www.restricted-payee.com
