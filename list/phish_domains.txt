@@ -166,6 +166,7 @@ accurateofes.com
 acdl.hotramopen.com
 acesseatulizecaixa.com
 acessobbauto.com
+acessorestritob.com
 acessoriagoldbvfinanceira.business.site
 achatvente0033.000webhostapp.com
 aclshippingservice.com
@@ -910,7 +911,6 @@ codeblue.ch.net2care.com
 codecanyon.img.customer.envatousercontent.com
 col-maten.web.app
 collectspins6k.club
-colleenwilcoxsculpture.com
 collinsflg-my.sharepoint.com
 colocho-beard-shop.myshopify.com
 colocho-beradstyle.myshopify.com
@@ -1686,7 +1686,6 @@ gov.uk-dvla.org
 gov.uk-personal.org
 govuk-apply-grant.com
 govuk-claimtaxrebate.com
-govuk-covd.com
 grabyourcode.com
 grachan.jp
 graficabueno.com.br
@@ -2015,6 +2014,7 @@ invite.viber.com
 inx.lv
 ionos.de.gateway8.flexiserver3.turnosalud.com.ar
 ionos.de.kundeserver6.gateway43.saintmary.cl
+ip-107-180-75-41.ip.secureserver.net
 ip-148-66-133-207.ip.secureserver.net
 ip-184-168-166-154.ip.secureserver.net
 ipamokos.lt
@@ -2227,10 +2227,8 @@ lbcpzonasegurabeta.rf.gd
 lboindustrial.com.mx
 lcloud.location-app.com
 lcm0ybv2yxgtt49wr2el.us-south.cf.appdomain.cloud
-ld-icloud-auth-app.com
 ldsplanettt.yolasite.com
 le-diablotin-rouen.com
-leadsdubai.com
 learning.validate.santander.digital
 leboncoin.fr-demande-9126412.starfm.co.ke
 lebonoke.wixsite.com
@@ -2294,7 +2292,6 @@ livraisonexpress.customervalidationprotocol.com
 lizzweightwatchers.com
 ljka.top
 lksdkhsda.nguigdgeax.top
-lloyd-attentionrequired.com
 lloyd-deregister-unauthorisedaccess.com
 lloyd-secure-account.com
 lloyd-secure-online.com
@@ -3047,7 +3044,6 @@ panelweb-4cae2.web.app
 panxiyanqp.52doweb.cn
 pap-kl.com
 paperboatmedia.com
-parceldayr.tumblr.com
 parislab-my.sharepoint.com
 parkshopping-face.tk
 parmacityschooldistrict-my.sharepoint.com
@@ -3696,6 +3692,7 @@ security-fraudprevent.com
 security-mappl-information-account.piiquarry.com
 security-online-confirm.com
 security.session219233.info
+securityforpayees.com
 secvddetg785ebvcx.wixsite.com
 seeitourway.gq
 seha2all.com
@@ -4233,6 +4230,7 @@ umpalangkaraya.ac.id
 umzap.com
 una.saatrva.com
 unam.myfreesites.net
+unauthorised-devicesupport.com
 unauthorised-login-attempt872.com
 unauthorised-request.com
 unauthorisedlogin-attempt.com
@@ -4253,6 +4251,7 @@ unitus.mk.ua
 universalinsulators.com
 unlock-suspension.com
 unregister-new-mobiledevice.co.uk
+unregistered-payees.com
 unrifled-harpoon.000webhostapp.com
 uofc-my.sharepoint.com
 up.rev.ref.rbzqvn.ahis.com.bd
@@ -4293,6 +4292,7 @@ v.gd
 vaikis.eu
 valeosalesrep.com
 valerastik.000webhostapp.com
+validatemy-payees-issue.live
 validation-online-attempt.services
 validationsystem.creatorlink.net
 vamgfiro.000webhostapp.com
@@ -4303,6 +4303,8 @@ vaptvuptlab.com.br
 vbse.co.in
 vcv-custom.cl
 ve4erka.com
+vehicle-renewal-registration.com
+vehicle-renewal.com
 vehicle-tax-dvla.com
 vehicletax-registration.co.uk
 vellingekommun-my.sharepoint.com
@@ -4367,7 +4369,6 @@ vipsub.jdslt.com
 vipsub.shjud.com
 vipsub.shjuj.com
 vipsub.shjul.com
-vipsub.shjuy.com
 visione.co.id
 vitcomm.net
 vivesinpsoriasis.com
@@ -4511,7 +4512,6 @@ windowsupdateerror.com
 winfreyandco-my.sharepoint.com
 wingman.se
 winnice.com.tr
-wintecheducational.com
 wireconfirmation68c10a25442a3e13.blogspot.com
 wires-business-starter.webflow.io
 wise-stores.com
@@ -4635,7 +4635,6 @@ www.autosource.info
 www.avioni.ru
 www.azosimoveis.com
 www.ballincollege.com
-www.bamboobike.co.il
 www.bancomercantil-org.haxsecurity.org
 www.bangbuzz.fr
 www.bankcheckingsavings.com
@@ -4866,6 +4865,7 @@ www.hotelmontiazzurri.com
 www.hotramopen.com
 www.houseoftiresbcs.com
 www.hplcsecure-yourdevice.com
+www.hs-secure-acct.com
 www.hualish01.com
 www.huschhus.ch
 www.hwfsweden.se
@@ -4969,6 +4969,7 @@ www.mickels-hamsterrad.de
 www.midyatmimaritas.com
 www.miplab.net
 www.misolo.com
+www.missbelattitude.com
 www.mistimbas.com
 www.mivtsystems.com
 www.mktbtk.com
@@ -5000,7 +5001,6 @@ www.naithansturf.com
 www.nakamistrad.com
 www.nastroadesivo.org
 www.naszlombard.pl
-www.needupdateuccard.buzz
 www.needupdateuccard.club
 www.nelsonjustus.com.br
 www.netciti.id
@@ -5050,6 +5050,7 @@ www.p2.kenzoken.com
 www.paligcleaningservice.com
 www.pasarelasdepagos.com
 www.payee-registered.com
+www.payee-restricted.com
 www.payee-verify.digital
 www.payeeinfo.digital
 www.payees-authenticate.com
@@ -5111,6 +5112,7 @@ www.removepayee-auth.net
 www.removepayee-secure.net
 www.restrepohenao.com.co
 www.restrict-payee.com
+www.restricted-payee.com
 www.review-my-newtransaction.com
 www.revivetherapy.uk
 www.ricavato.com
@@ -5455,5 +5457,4 @@ zonasegura-zdemovilapp.com
 zonasegvra-bnonline1info.com
 zonawebsegura-1bnvirtual.com
 zpr.io
-zum.bi
 zxdasdasd.zxdfhgsfda.xyz
