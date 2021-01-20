@@ -79,6 +79,7 @@
 5b0f6cb9-0485-4fc7-9775-eb74bb45bbf6.htmlcomponentservice.com
 5bn0j.app.link
 5co.com
+5g-ee.co.uk
 5x.to
 5x726-alternate.app.link
 6034622.com
@@ -174,6 +175,7 @@ achatlboncoin.000webhostapp.com
 achatvente0033.000webhostapp.com
 aclshippingservice.com
 acortar.link
+action-reject-request.com
 actionfilmz.com
 activaciondeproductoss.com
 activadigital-1.com
@@ -248,9 +250,11 @@ alert-dev-hali.com
 alert-device-hali.com
 alert-device-newpayee.com
 alert-manage-payee.com
+alert-managerecent-payee.com
 alert-onlineprevent.com
 alert-page-halifax.com
 alert-pay-hali.com
+alert-restrictpayee-addition.com
 alert-safe-hali.com
 alert-unknown-payee.live
 alerts-eesupport.com
@@ -359,6 +363,7 @@ app44666604777.blogspot.com
 app66560000.blogspot.com
 apparats.org
 appidorg.yolasite.com
+appie.com.help454.com
 appieid.us.com
 apple-seelocation.com
 apple.com.services-and-support.com
@@ -460,7 +465,9 @@ aurickhotels.com
 auth-valid-dev.com
 authorcheck.com
 authorise-ee-billingupdate.com
+authorise-my-newpayment.com
 authorise-mydetails.com
+authorise-newpayment.live
 authorisemy-details.com
 authorisemy-transfer.com
 authorisemytransfer.com
@@ -733,6 +740,7 @@ caixa-acessobanking.epizy.com
 caixag3.sg-host.com
 caixas.sg-host.com
 calidum.cn
+california-edit.com
 callenderpress.co.uk
 calmaybalance.com
 calzadosiris.com
@@ -879,9 +887,11 @@ ciukpncloqhvetrudqxuqcgnjm-dot-polished-shore-301017.uk.r.appspot.com
 ckmadae.com
 cla2020gov.com
 claim-return-govuk.com
+claim-tax.com
 claimdl2021.000webhostapp.com
 claimeventpubgmobile.com
 claimskin.in
+claimtaxref.com
 claro-controle-downloader.m4u.com.br
 clayheart.com
 clck.ru
@@ -1388,6 +1398,7 @@ en.baikal-planet.ru
 encryptdrive.booogle.net
 encrypted-tbn0.gstatic.com
 endpointsportal.au-bbva-bancomerappnomina.cloud.goog
+endyy.com
 eneconpanama.net
 energygain.co.uk
 energynsolucoes.com.br
@@ -1464,7 +1475,6 @@ f80e476c-4329-4a82-ae2b-40a9bc5e96df.htmlcomponentservice.com
 facadetesting.com
 facbk.atspace.com
 facealert.fr
-facebook-49664.tk
 facebook-connect.roumanbk.com
 facebook-login.tbit.vn
 facebook.anasaounalsoud.eu
@@ -1614,7 +1624,6 @@ fzks.sectorreceive.link
 g-oogl-e.000webhostapp.com
 gabona-ca.000webhostapp.com
 gabungg-gruppwhattsapp18.ftp1.biz
-gadgadgdgdgdg.000webhostapp.com
 gadgetokt.ru
 galbob.fr
 galeano-store.com
@@ -1705,6 +1714,7 @@ graficabueno.com.br
 grandiose-luxurious-avocado.glitch.me
 grandmarketltd.co.uk
 granhongo.com
+gravitas.co.in
 greatmusica.com
 greenmattresscleaning.com
 gregmounsey.com
@@ -2035,7 +2045,6 @@ irisdigi-labs.com
 irstds.com
 irsverifygov.com
 is.gd
-ispc.in
 istoreline.com
 it-europe564598-com.filesusr.com
 it-friedli.ch
@@ -2143,7 +2152,6 @@ justlookapp.com
 justsayingbro.com
 justuskennelclub.com.br
 jvfinancialgroup2601.sharepoint.com
-jwazvxtfdszgtrrsyaedlomqah-dot-polished-shore-301017.uk.r.appspot.com
 jyotsacademy.co
 k12inc-my.sharepoint.com
 k934743878737.web.app
@@ -3454,7 +3462,6 @@ removepayee032.com
 removepayees.link
 remsy.app.link
 rencon.ch.net2care.com
-renkatcn.tenluraco.top
 renkatcn.tenlurajp.top
 renkatcn.tenluraoc.top
 rentyouracc.ru
@@ -3550,7 +3557,6 @@ ruekrew.com
 rukenycs.beax.tokyo
 rukenycs.beax.xyz
 ruktenyy.ireac.shop
-ruktenyy.ireac.tokyo
 ruktenyy.ireac.work
 runescape-promotions.com
 runescapeapk.com
@@ -3865,7 +3871,6 @@ smsorangesmsmessage.myfreesites.net
 smss-mms.yolasite.com
 smsverificationmms.myfreesites.net
 smwam.coms.cso.gov.tt
-sn.trapemf.net
 sniperdz.com
 snjtradelink.com
 snrsystem.com
@@ -3932,7 +3937,6 @@ sswebmail-4w5twsr.web.app
 st-amu-cz.my-free.website
 st4.ning.com
 st6.ning.com
-staging.weblineindia.com
 stand.fbcom-51831420.fleacontrolperth.com.au
 stand.fbcom-55014189.fleacontrolperth.com.au
 stand.fbcom-88510113.fleacontrolperth.com.au
@@ -4188,6 +4192,7 @@ trustedlegal.staging.wpengine.com
 ts.hust.edu.vn
 tsb-declinepayee.com
 tsb-deregister-unknowndevice.com
+tsb.derestrictedpayee-auth.com
 tsbonline-account.com
 tscit3-my.sharepoint.com
 tsecure-paxful.com
@@ -4235,6 +4240,7 @@ uk-uytdom.ru
 uk0qx.codesandbox.io
 ukash-wallet.biz
 ukcare.in
+ukhsbc.remove-helppayeehs.com
 ukpp-login.com
 ukresident-service.com
 ukresidential-servicesupport.com
@@ -4423,7 +4429,6 @@ w13g.com
 w6634s.webwave.dev
 wagrup-new.qhigh.com
 waikowhaiauto.co.nz
-walletledgerlive.com
 wallieget.com
 warqsagothphweeshqifpbrgul-dot-polished-shore-301017.uk.r.appspot.com
 watcherinsrisuk.000webhostapp.com
@@ -5046,6 +5051,7 @@ www.nwsecure-iproceed-icancel.com
 www.o2-billingauth-secure.com
 www.o2-billingsupport-update.com
 www.o2login.com
+www.o2mobile-billing.com
 www.o2service-centre.com
 www.odhikar.com
 www.officence.com
