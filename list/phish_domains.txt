@@ -253,7 +253,6 @@ alert-pay-hali.com
 alert-restrictpayee-addition.com
 alert-safe-hali.com
 alert-unknown-payee.live
-alerts-eesupport.com
 alerts-for-lloyds-bank.com
 alerts-new-payee.com
 alerts-payee-new.com
@@ -367,6 +366,7 @@ applepay-mania.com
 applepaymentpartner.com
 appleverificationalert.com
 appleverificationalert.com:443
+appltaucadastro.com
 appointment.beyondthebox.ph
 apporg.yolasite.com
 approvelogin.com
@@ -688,7 +688,6 @@ brn-actiwebsmstoen-web.com
 broad-medicine.com
 brooklynpaloma.com
 brotherequinox.com
-brudna-prawda.plebiscyt-lokalny.eu
 brunoalmeidanet.000webhostapp.com
 brusselsarport.be
 brynasglas-my.sharepoint.com
@@ -705,7 +704,6 @@ btverifysaadcbzx.yolasite.com
 bubblesrc166.com
 buckeye-express.weebly.com
 budgetsaudi-my.sharepoint.com
-buffalomerchants.com
 burdine-anderson.com.bitqprepare.xyz
 busanopen.org
 buttoned-joyous-cover.glitch.me
@@ -1183,7 +1181,6 @@ dispo.space
 disq.us
 distinctfreight.co.zw
 district3media.com
-divano.cl
 divineinternationals.com
 dixdomains.com
 djandjouboutique.000webhostapp.com
@@ -1250,7 +1247,6 @@ duemiglia.evoluzioneufficio.net
 duffelbagadventures.com
 durex.so
 dutrutalte.wixsite.com
-dvla-taxed.com
 dvla-vehicletax-rebate.com
 dvla.myvehicle-rebate.com
 dvla.support-schemeuk.com
@@ -1465,6 +1461,7 @@ facbk.atspace.com
 facealert.fr
 facebook-0416.cf
 facebook-0416.tk
+facebook-0914.gq
 facebook-connect.roumanbk.com
 facebook-login.tbit.vn
 facebook.anasaounalsoud.eu
@@ -1800,7 +1797,6 @@ heaterintwintersz.ams3.digitaloceanspaces.com
 heavenlymatches.com
 hecarabu.com
 hectorsantana.mx
-help-igcopyright.gq
 helpsantan-updatedevice.com
 hempmeds-my.sharepoint.com
 hendmissionoutreach.com
@@ -1863,6 +1859,7 @@ homs.com.br
 honda4fun.com
 hongboxin.com
 hortipower.co.uk
+host.spo-horus.com
 host4014.itelit.pro
 hostdime.restrepohenao.com.co
 hosting2021623.online.pro
@@ -1898,7 +1895,6 @@ hrs.ngo
 hrweb99.com
 hs-authenticatenewpayee.net
 hs-giveaways.ca
-hs-new-payeesupport.com
 hs-payeesupport.com
 hsbc.personal-online-login.com
 hsbc.uk.help.resolve-payee.co.uk
@@ -2363,7 +2359,6 @@ lofon-add.firebaseapp.com
 logatttmailemail.weebly.com
 logbromw.com
 login-authentication.com
-login-blockchain.web.app
 login-live.com-s02.info
 login-microsoftoutlook.questionpro.com
 login-secure-three.uk.com
@@ -2745,7 +2740,6 @@ netflix-billing-erroruk.com
 netflix-com.com
 netflix-info-renew-billing.com
 netflix-info-renewbilling.com
-netflix-log.com
 netflix-pre.com
 netflix-secure0010.redirectme.net
 netflix-teams.com
@@ -3144,7 +3138,6 @@ paypal.com.service.id999.sorttheweb.com
 paypal.online-profile-update.com
 paypal.personal-user-protectdata.com
 paypal.puttakonda-lakshminarasimhaswamy.com
-paypal.secure-uk-account.com
 paypal.verylegit.link
 paypalupdate.osamaalshareef.net
 paypalverification.allgamescheaper.com
@@ -3165,7 +3158,6 @@ peds-ortho.com
 peer.yourluv.co
 pembatalanpemblokiranfb2020.weebly.com
 pemberitahuan-masalah-facebook-anda.ga
-pemberitahuan-masalah-facebook-anda.ml
 pemberitahuan-masalah-facebook-anda.tk
 pemblokiranfb71.weebly.com
 pemblokirann011.weebly.com
@@ -3370,7 +3362,6 @@ raddelmotalaka.com
 radiokorneuburg.at
 radiosouvenirs.be
 raeknteu.rnakenlu.club
-raeknteu.rnakenlu.top
 raeluteka.lahateken.top
 rajarakgondola.com
 rajengineers.net
@@ -3753,7 +3744,6 @@ servckd001.weebly.com
 serverjpwebmail.weebly.com
 servernuovaintesa.com
 serverupdate.getforge.io
-service-account.4senales.com
 service-login.sso.bluewin.ch.tlfplc.fr
 service-messagerie-sms0.moonfruit.com
 service-uk-netflix.com
@@ -5001,7 +4991,6 @@ www.manage-payee-update.com
 www.marisaprieto.es
 www.martinlarosa.com
 www.masterdrive.com
-www.masteroffchess.com
 www.masuk.net
 www.mattiacoscione.it
 www.maxvirtude.com.br
@@ -5261,7 +5250,6 @@ www.taskade.com
 www.teachvlearn.com
 www.templatent.com
 www.tenetmicrosoft.skaps.com
-www.tennisplayer.fr
 www.termerosapepe.it
 www.theblisscoach.com.au
 www.thefocaltherapyfoundation.org
