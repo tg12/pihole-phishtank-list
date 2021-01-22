@@ -288,6 +288,7 @@ amazon-co.cloud
 amazon.co.jp.3wed.xyz
 amazon.co.jp.userupstade1.buzz
 amazon.co.jp.userupstade2.buzz
+amazon.co.jp.xisdhjksasdd1.buzz
 ambientaris.com
 ambienteprotegido.foregon.com
 ambrosecourt.com
@@ -668,6 +669,8 @@ bridgewaterma-my.sharepoint.com
 brighant.com
 brightbots.co.uk
 brigida_cossette.gitlab.io
+brigrestre.firebaseapp.com
+brigrestre.web.app
 brinetwork.com
 brn-actiwebsmstoen-web.com
 broad-medicine.com
@@ -817,7 +820,6 @@ chamstar.my
 chance-miracle.wixsite.com
 changzeyuan.com
 chantelray-my.sharepoint.com
-charismacosmetics.com
 charperimagedesign.com
 chat-whataspp.com
 chat-whatsapp-bdddgxi8odkrtkwi0oip1.ygto.com
@@ -959,6 +961,7 @@ confirmnew-payee.com
 confirmnew-payment.com
 confirmnewpayee.com
 confirmyour-new-payee.com
+congrezeter.web.app
 connexion-informations.com
 constructoravallereal.com
 consultax.cl
@@ -1130,13 +1133,11 @@ deregisterdevice-manage.com
 deregisterdevices-access.com
 deregisterdevicesetup-access.com
 deregisternewdevice-access.com
-deregisterpayee-auth.com
 desdeelamor.com
 designferreira.com.br
 designfitters.com
 detect-new-payee.com
 deuxiemeclasse.fr
-dev-made-in-chlna.pantheonsite.io
 dev.klinikmatanusantara.com
 dev.previewmysite.co.za
 device-identification.com
@@ -1388,6 +1389,8 @@ equipe-admin-gov-br.weebly.com
 equipos-inteligentesnet.myshopify.com
 er947745984387879.web.app
 erere.parhlobeta.com
+erfders-f6013.firebaseapp.com
+erfders-f6013.web.app
 erghyfjjkuhityujkjh.qwertuuiuoodasfdfgh.buzz
 ericsonci.com
 ersfilter-my.sharepoint.com
@@ -1404,7 +1407,6 @@ espacemessagerie.wixsite.com
 essayme.net
 essentialdesignday.blogspot.com
 essentialshoppingmall.com
-essiabo.temp.swtest.ru
 estudio27cr.com
 estudiomaskin.com
 eternityflooringcom-my.sharepoint.com
@@ -1424,6 +1426,7 @@ eveningfeedfun.com
 events.af
 eventsxmetros16.com
 evidaac.com
+ewrbanking.com
 excelbest.com
 exchangedictionary.com
 excited-rhinestone-tuba.glitch.me
@@ -1457,6 +1460,7 @@ facebook.hrbureaugh.com
 facebook.marketplace-item-93248.scheff.com
 facebook.vosena.co.ke
 facebooks-vn.tk
+faceboook-videoss-app.blogspot.com
 facsell.com
 fairauditors.com
 fairmarttrading.com
@@ -1743,13 +1747,16 @@ halifax-online-bank.com
 halifax-payee-remove.com
 halifax-payee-settings.com
 halifax-payee.support
+halifax-payments.team
 halifax-securebanking.team
 halifax-securelink.com
 halifax-security-de-register-device.com
 halifax-urgentaction.com
+halifax-verifybankingapp.team
 halifax.device-authentication-login.com
 halifax.deviceverificationalert.com
 halifax.secure-my-device.co.uk
+halisecure-iproceed-verify.com
 halisecure-iverify-proceed.com
 halisecure-iverify-setdevice.com
 halisecure-newdevice-verify.com
@@ -1827,7 +1834,6 @@ holdmembershipntfx.aulaseidec.com
 home.myfairpoint.net
 homebanqargena.com
 homehealthcare.ujatcare.com
-homemangersupportwellchangeweractivitezx.000webhostapp.com
 homologacao.madrugadaolanches.com.br
 homologacao.xocovid19.com.br
 homs.com.br
@@ -2016,7 +2022,6 @@ it-friedli.ch
 it.melnikhotels.com
 itau.gq
 itau.riweb.com.br
-itausaonline.000webhostapp.com
 itauunibanco.rf.gd
 itilscob5.ams3.digitaloceanspaces.com
 itsssl.com
@@ -2139,6 +2144,7 @@ keypointtraining-my.sharepoint.com
 keysianproperties.co.ke
 kh.rimsarem.com
 kh3wfp6f.easy.co
+kimihime.join7-net.tk
 kindussersattconnect.weebly.com
 kinstationery.com
 kisa.link
@@ -2553,7 +2559,6 @@ misdatos.viabcpactualizar.live
 missiondesjeunes.org
 missionshashank.org
 mistramitesyrequisitos.com
-mite-22632ceb-684f-4929-b7mntuy11.fra1.digitaloceanspaces.com
 mitrasolusiseragam.com
 mixi.guru
 mjayme9jdg9izxixmjeydgg.filesusr.com
@@ -2614,6 +2619,7 @@ mundovirtualhabbo.blogspot.com
 musicisit.de
 mutatio.cl
 mx0.arqsys.srv.br
+my-3.me
 my-device-registration.com
 my-devices-halifax.com
 my-ee-billing-update.contact
@@ -2858,6 +2864,7 @@ nwsecureolb-newpay-cancel.com
 nwsecurity-setdevice-icancel.com
 o2-authbill-secure.com
 o2-authprocess-billing.com
+o2-billingsupport-update.com
 o2-processbilling-update.com
 o2-secureauth-billing.com
 o2-securebilling-update.com
@@ -2865,7 +2872,6 @@ o2-service-account.com
 o2-updatebilling.support
 o2-updateprocess-billing.com
 o2.review-update.com
-o2.updatepaymentmethods.com
 o2ebilling.com
 o2login.com
 o2service-centre.com
@@ -3663,6 +3669,7 @@ secure47us-cox.webcindario.com
 secure57us-cox.webcindario.com
 secured-mypayee.com
 secured-vehicle-tax-payment.com
+secured-verifydevices.com
 securedallinformeansalot.com
 secureddsite.com
 securedhostpower.xyz
@@ -3833,6 +3840,7 @@ smbc-card.com.co
 smbc-card.com.rootlike.me
 smbc-card.kaxxza.com
 smbc-card.symoka.com
+smbc.serviceoo-jp.info
 smbcadmin.ytrertlaskfjmxkadd3dfgfg1sdfsasdxzv.xyz
 smbcscard.com
 smiertelne-szczepionki.eu
@@ -4034,6 +4042,7 @@ tek.link
 tekcentral.ie
 tekledgroup.com
 telalmakkah.com
+telecreditobcps.site
 telegra.ph
 telegrammatic-envir.000webhostapp.com
 telephoneacceuille.wixsite.com
@@ -4532,6 +4541,7 @@ www-europessign-com.filesusr.com
 www-info-lng.com
 www-paypal-com-login.menlosec.com
 www.123formbuilder.com
+www.3ct-dz.com
 www.4soulpower.systems
 www.51jianli.cn
 www.aalfin.com
@@ -4588,7 +4598,6 @@ www.appieid.us.com
 www.appleid.apple.com.ac-count.eu
 www.applesecure.login.virturu.com
 www.appupdatesecurehalifaxonlineappupdate-verification.titansgamestudio.ir
-www.arkofjesusministries.org
 www.arrowcase.com
 www.assiduousenterprising.com
 www.assnat.cm
@@ -4919,6 +4928,7 @@ www.leitersadvogados.com.br
 www.lgt-plc.com
 www.lightlink.com.cn
 www.linea1s.com
+www.lissetteborja-co.com
 www.livingwagenyc.org
 www.lizlav2.lizlavendermr.com.au
 www.lloyd-bankingreview.com
@@ -4940,6 +4950,7 @@ www.lloyduk-secure-device.com
 www.lloydveirfydevice-services.com
 www.logex.com.tr
 www.login-bank.org
+www.login-orange.cf
 www.maciel.med.br
 www.madrugadaolanches.com.br
 www.magnetarbpo.com
@@ -5161,6 +5172,7 @@ www.security-online-stop.com
 www.security-protection-team.com
 www.security.hs-payeereview.com
 www.securityforpayees.com
+www.serviciosaduaneros.ec
 www.set-device-halisecure.com
 www.sgcc.bm
 www.shaoguzhai.cn
@@ -5257,11 +5269,11 @@ www.verify-my-newtransaction.com
 www.verify-my-newtransfer.com
 www.verify-new-devices.com
 www.verify-newdeviceonline.com
-www.verify-newtransfers.com
 www.verify-now.co.uk
 www.verify.chase.billing.info.igualdad.cl
 www.verifymy-transfer.com
 www.verifymytransfer.com
+www.verifypayee-protect.com
 www.verifypayee-secure.com
 www.veronikastringquartet.com
 www.vices.eu
@@ -5321,6 +5333,7 @@ wzplh.app.link
 x2mqj8a.app.link
 xag42asz.appspot.com
 xavier-net.gq
+xavrykf.cluster030.hosting.ovh.net
 xaydungtamhoanganh.com
 xdoctor.gr
 xfasedqwezxdfq.xcasdaseqwezd.top
