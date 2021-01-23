@@ -246,7 +246,6 @@ alert-page-halifax.com
 alert-pay-hali.com
 alert-payee-lloyds.com
 alert-restrictpayee-addition.com
-alert-safe-hali.com
 alert-unknown-payee.live
 alertpayee-cancel.com
 alerts-for-lloyds-bank.com
@@ -379,6 +378,7 @@ arisebuildscom-my.sharepoint.com
 arislm.com
 arleiti.sslblindado.com
 armata-neagra.ro
+arreta.weebly.com
 arrow.kvalitne.cz
 arrowsurfandsport.com
 arslanlogistics.com
@@ -443,6 +443,7 @@ attrtttr-0ne0-condi-base-0ne.weebly.com
 attserverupdate2020.weebly.com
 attservices111.typeform.com
 attverificationofficeadmintenet.weebly.com
+attweww.weebly.com
 atual.microsistec.com.br
 atualizarcartao.kinghost.net
 atualizarcc.weebly.com
@@ -551,7 +552,6 @@ ber-vel.com
 berrycollege2-my.sharepoint.com
 bertges.com.br
 beryl-impartial-meteorite.glitch.me
-bespoqa.com
 bestchanqe.com
 bestfive.main.jp
 besthomeworkhelp.org
@@ -1446,7 +1446,6 @@ facadetesting.com
 facbk.atspace.com
 faccebook.club
 facealert.fr
-facebook-0901.cf
 facebook-0901.tk
 facebook-0914.ml
 facebook-connect.roumanbk.com
@@ -1896,6 +1895,7 @@ hutoknepper.de
 hvlegal.com.mx
 hwbcpa-my.sharepoint.com
 hyasozozadr5hdg.ygto.com
+hyderabadsproperties.com
 hyperurl.co
 hytg.info-aml.com
 i-cuadrado.com
@@ -2329,7 +2329,6 @@ localbintcoinis.com
 locationimagery.com
 locksmithinjonesboroarkansas.com
 lofon-add.firebaseapp.com
-logatttmailemail.weebly.com
 logbromw.com
 login-authentication.com
 login-ea.com
@@ -2634,7 +2633,6 @@ my3-login.com
 my3-three-co-uk.web.app
 my3-three-verify.web.app
 my3-valid.com
-my3.billing-paymentcard.com
 my3.uk-auth-d12.com
 my3billing-info.cc
 my3secureupdate.com
@@ -3735,7 +3733,6 @@ shifawll1.ae
 shift2.com
 shimaarutechies.com
 shimmer-heartbreaking-ticket.glitch.me
-shiny.link
 shipment-dhl-notification.000webhostapp.com
 shipmentstrackings.com
 shop.goldenageproject.org.uk
@@ -4475,6 +4472,7 @@ whattsapps.misecure.com
 whitefordkenworth-my.sharepoint.com
 whitelakemoorings.com
 whypaymoredeals.com
+wibe.godaddysites.com
 wifi.retinad.com
 wikiarch.cz
 willmartowing.com
@@ -5026,6 +5024,7 @@ www.nocontent-rztwjtyn.velocityhub.com
 www.nocontent-vnqlnxry.velocityhub.com
 www.nonozo.top
 www.noraconstravelandtours.com
+www.nougalet.com
 www.novacantu.pr.gov.br
 www.novinroyapolymer.com
 www.nuanciel.net
@@ -5325,7 +5324,6 @@ www.zonaseguraverifica.bcpviasbcp.com
 www2.micard.co.jp.rhttmt.vip
 www3.funcate.org.br
 wwwfacebcck2.000webhostapp.com
-wwwfacebookvn.pythonanywhere.com
 wwwusps-001-site1.gtempurl.com
 wypadki24.e-kei.pl
 wzplh.app.link
