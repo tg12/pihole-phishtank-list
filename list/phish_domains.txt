@@ -923,7 +923,6 @@ configuration-infos.firebaseapp.com
 confirm-my-newpayees.com
 confirm-my-newpayment.com
 confirm-my-newpayments.com
-confirm-mydetails.com
 confirm-mynew-payees.com
 confirm-mynew-payments.com
 confirm-mynew-tranfers.com
@@ -1326,7 +1325,6 @@ eislueqr.livedrive.com
 ekoda-recording.tokyo
 ekotienda.com.mx
 elavution-point-ck-856213735136158610687.tk
-elavution-point-ck-856213735136158610689.tk
 electrocoolhvacr.com
 elfin-adaptive-recorder.glitch.me
 eliotecae-my.sharepoint.com
@@ -1691,6 +1689,7 @@ gorseinonprimary.com
 gosarthi.in
 gouv-impot.cemerbas.com
 gouv-impots-remboursement.directionformen.com
+gov-supportgrant.com
 gov-testandtrace-support.com
 gov.uk-dvla.org
 govuk-claimtaxrebate.com
@@ -1905,6 +1904,7 @@ hsbc.uk.help.resolve-payee.co.uk
 hsbcinfo.com
 hsbcpayee.verificationhelp-account.com
 hsgprints.co.uk
+hssecurity-verify-iproceed.com
 ht.ly
 htiitrevcm.000webhostapp.com
 htl.li
@@ -2319,6 +2319,7 @@ lloyds-online-alerts.com
 lloyds-payeecancellations.com
 lloyds-uk-bank.com
 lloyds.fraudulent-payee.com
+lloyds.mobile-report-payment.com
 lloydsbank.deregister-payee-auth.com
 lloydsbank.help-personal-devices.com
 lloydsbank.login-personal-devices.com
@@ -2447,7 +2448,6 @@ mail.deregisterdevice-manage.com
 mail.flacland.com
 mail.flacland.ir
 mail.geekyjuice.com
-mail.grupbokeptatawhatsapp.eventtff82.ml
 mail.harmonmedical.net
 mail.helprasuwanepal.org.np
 mail.hfcfit.com
@@ -2553,7 +2553,6 @@ merchwibcpzack.github.io
 meritroyal260.bet
 meritroyalbetgiris20.com
 merveyilmazericmimarlik.com
-mesaggingsquare.com
 mesaggingsquare.net
 mesaggingsquare.org
 mesivtameorhatorah.org
@@ -2727,6 +2726,7 @@ myshop-bgx61.myinsales.ru
 mysimsupport.com
 mysp.ac
 mytax-rebate.com
+mytaxclaim-uk.com
 mytheamsauthecent.wapgem.com
 mythpumpions.com
 mythree-authentication.com
@@ -2764,10 +2764,10 @@ nebutterflies.in
 nedbank.demdex.net
 nef.com.pk
 negociarbancopan.com
-nelflixmijnsccount.com
 net-review-info.com
 netfiix.co-mauth.com
 netflix-accountrenewal.com
+netflix-alerts-uk.com
 netflix-appl.com
 netflix-billing-erroruk.com
 netflix-com.com
@@ -2810,6 +2810,7 @@ new-unrecognised-payment.com
 new.29studios.com
 newattmailupdate.weebly.com
 newdevice-assistance.com
+newdevice-cancellation.com
 newdevice-detected-deregister.com
 newdevice-notice.cc
 newdevicederegister-online.com
@@ -2992,6 +2993,7 @@ onlinegirlssexdate.creatorlink.net
 onlinenatw.com
 onlinepayee-restricted-service.com
 onlinepayees-authorisation.com
+onlinerebate.co.uk
 onlinesecure-authentication.com
 onlinesecureadd.link
 onlinesharepoint.typeform.com
@@ -3277,7 +3279,6 @@ presbyterian-park.azurewebsites.net
 prestige-art.ehost.tj
 prettypugpuppies.com
 preventsenior.com.br.cutercounter.com
-prf-gov-br.myfreesites.net
 prikany.com
 primeav.com.au
 primedealproperty.com
@@ -3528,7 +3529,6 @@ revolution-admin-cp-1998765431346824.tk
 revolution-admin-cp-1998765431346825.tk
 revolution-admin-cp-1998765431346826.tk
 revolution-admin-cp-1998765431346827.tk
-revolution-admin-cp-1998765431346828.tk
 revulution-admin198651306499785021.tk
 revulution-admin198651306499785029.tk
 revulution-admin198651306499785031.tk
@@ -3568,6 +3568,7 @@ rosalinas-initial-project-30ac52.webflow.io
 rotimi.pandaform.com
 rotseezunft.ch.tcorner.fr
 roupakids.blogspot.com
+routingsystm1.xyz
 roxburycommunitycolleg798-my.sharepoint.com:443
 royal-mail-parcel.co
 royalesc.ru
@@ -4291,6 +4292,7 @@ upcom-nearshore.eu
 updatealldomainash.web.app
 updateapplepay.com
 updatebilling-id1.support
+updatebilling-jan.com
 updatebilling-voda.com
 updatebillingid.support
 updated-billing.com
@@ -4696,7 +4698,6 @@ www.centrofuoristrada.com
 www.centromusicalpaternense.es:443
 www.chat-whatsappgrupjoinbokepweb.zzux.com
 www.chatwhatsapps.ezua.com
-www.check-a-payee.com
 www.check-newdevice-hali-secure.com
 www.chiarabernardi.it
 www.chipfc.com
@@ -4994,6 +4995,7 @@ www.lizlav2.lizlavendermr.com.au
 www.lloyd-bankingreview.com
 www.lloyd-bankingsecurity.com
 www.lloyd-onlinesecurity.com
+www.lloyd-securedbank.com
 www.lloyd-securityreview.com
 www.lloydbank-removedevice.com
 www.lloydbank-review.com
@@ -5218,11 +5220,9 @@ www.secured-devicealerts.com
 www.secured-deviceverification.com
 www.secured-instagram.veladocci.com
 www.secured-verifieddevices.com
-www.secured-verifydevice.com
 www.securedevice.co.uk
 www.securedlloyd-login.com
 www.securehalifax-devices.com
-www.securelloyd-unregister.com
 www.secureonline-accounts-signin.com
 www.security-deregisternewdevice.com
 www.security-deregisterpayees.com
@@ -5343,7 +5343,6 @@ www.verify.chase.billing.info.igualdad.cl
 www.verifymy-transfer.com
 www.verifymytransfer.com
 www.verifypayee-account.com
-www.verifypayee-protect.com
 www.veronikastringquartet.com
 www.vices.eu
 www.villasalento.puglia.it
