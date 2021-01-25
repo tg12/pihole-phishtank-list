@@ -581,7 +581,6 @@ biletinasamolet.ru
 billing-error-updateuk.com
 billing-my-ee.com
 billing-o2-updateauth.com
-billing-paymentcards.com
 billingaccount.live
 billinginfo-mynetflix.com
 bimboleinundbimbolines.com
@@ -1132,7 +1131,6 @@ digitalsevaka.com
 dimolo.activehosted.com
 dinas.com.au
 dipelnet.com.br
-direct-es-ging-7c8335.ingress-baronn.easywp.com
 directory-templates.com
 directwealth.ch
 discovercoastalvacations.com
@@ -1423,7 +1421,6 @@ facebook-01.ml
 facebook-02.tk
 facebook-0914.ml
 facebook-200100.gq
-facebook-accountt020400.webnode.com
 facebook-connect.roumanbk.com
 facebook-helpcontact.ml
 facebook-login.tbit.vn
@@ -1495,7 +1492,6 @@ finantrab.com
 finhive.net
 firebasestorage.googleapis.com
 firesidelodge.net
-firmadigital2pre506costaricacrcr2021.000webhostapp.com
 firstgraderecruitment-my.sharepoint.com:443
 firstideasltd.com
 firstpag.com.br
@@ -1532,7 +1528,6 @@ forwaynein.xyz
 foundation-admin-ck1611678230156011.tk
 foundation-admin-ck1611678230156012.tk
 foundation-admin-ck1611678230156014.tk
-foundation-admin-ck1611678230156015.tk
 foundation-admin-ck1611678230156016.tk
 foundation-admin-ck1611678230156017.tk
 foundation-admin-ck1611678230156018.tk
@@ -2358,7 +2353,6 @@ luckyelephantthai.com
 luckylkhraylbwal.blogspot.com
 luckyspin01.com
 luckyspinpubgmobilemetro.com
-luckyspintencents.com
 lucy-walker.com
 ludiequip.es
 lunaclothing-my.sharepoint.com
@@ -2636,7 +2630,6 @@ my.jcb.co.elbet.vip
 my.nativeforms.com
 my02billing.dev
 my3-login.com
-my3-three-co-uk.web.app
 my3-weblogin.com
 my3.uk-auth-d12.com
 my3billing-info.cc
@@ -2648,7 +2641,6 @@ mydealz.live
 mydetails-mynetflix.com
 mydevice-authorisation.com
 mydhl.express.dhl.tlfplc.fr
-myee-mylink.com
 myee-updateplan.com
 myethervaults.com
 myetherwallet.comim.org
@@ -2690,6 +2682,7 @@ nab-idchecker.com
 nacionalservicos.net.br
 nacoazs.xyz
 nagari.or.id
+nam10.safelinks.protection.outlook.com
 nancyhay.com
 nanohairtech.com
 naranja-users.auth0.com
@@ -2764,7 +2757,6 @@ newdevicesderegister-online.com
 newgrants.co.uk
 newlifeschooloftheology.com
 newonline-restrict-payee.com
-newpayee-error.com
 newpayee-tsb.com
 newpayee-unrecognised-online.com
 newpayees-authenticate.com
@@ -2954,7 +2946,6 @@ openoffice.com.pl
 openstreetmap.id
 operacionmultired1bn-web.com
 opfgmdm.creatorlink.net
-opheliasbrewery.com
 opjkk.creatorlink.net
 opretretopoptk.000webhostapp.com
 opsidposqidpoqsidpoiqspodiqsopdipqsd.blogspot.com
@@ -3294,6 +3285,7 @@ qualitasc-my.sharepoint.com
 qubectravel.com
 quietdoorhardware.com
 quinaroja.com
+quip.com
 quiz.takingfive.com
 quota.creatorlink.net
 qwrsmsxiauzhdzsxos66fq-on.drv.tw
@@ -4207,7 +4199,6 @@ umnnp-my.sharepoint.com
 umpalangkaraya.ac.id
 umzap.com
 unam.myfreesites.net
-unauthorise-bankpayees.com
 unauthorised-bankpayee.com
 unauthorised-lloydsaccount.com
 unauthorised-login-attempt872.com
@@ -4322,7 +4313,6 @@ verifymytransfer.com
 verifynewpayee.com
 verifyregistered-device.com
 verifyssdgfv.yolasite.com
-verifytermsaccess.godaddysites.com
 verivikasipemblokiran6061.tk
 verzeichnisse.creatorlink.net
 vhs.link
@@ -5031,10 +5021,8 @@ www.officentry.com
 www.officested.com
 www.officialliker.co
 www.okeyciyiz.com
-www.ones092.jp
 www.online-devicemanagement.com
 www.online-identity-verification-pages-management-services.my.id
-www.onlinesignin.co.uk
 www.optiontradingnri.com
 www.outlook-mailer.com
 www.p2.kenzoken.com
