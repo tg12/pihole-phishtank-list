@@ -21,6 +21,7 @@
 13b524.duckdns.org
 141.193.196.74:84
 141.193.196.75:84
+14899995-dot-integrating-ionos-zipp.ue.r.appspot.com
 14tokens.com
 154.30.211.130.bc.googleusercontent.com
 163.mailcn.org
@@ -287,11 +288,12 @@ amazan.badbd.top
 amazan.co.jp.jkhdasas.law
 amazingunbeatabledeals.com
 amaznde-com.webs.com
+amazojp.amaytg.xyz
 amazon-5y87s.xyz
 amazon-co.cloud
-amazon-jp-fd.xyz
 amazon-jp-pay.xyz
 amazon-jp-updates.xyz
+amazon-jp.pp2pp.xyz
 amazon-uki.xyz
 amazon.co.jp.1djklasjdnasioi.buzz
 amazon.co.jp.3wed.xyz
@@ -697,6 +699,7 @@ btinternetservices.com
 btmails1.yolasite.com
 btservicefibre.weebly.com
 btserviceinfo.weebly.com
+btsweb.weebly.com
 btverifysaadcbzx.yolasite.com
 bubblesrc166.com
 buckeye-express.weebly.com
@@ -725,7 +728,6 @@ cafeh.ie
 caixag3.sg-host.com
 caixas.sg-host.com
 caixasegurossl.com
-calderasnuevas.es
 california-edit.com
 callenderpress.co.uk
 calmaybalance.com
@@ -1075,7 +1077,6 @@ dba.dk.erhverv-annonce-315732.art
 dbd0dd.weebly.com
 dbjhkxn6.yolasite.com
 dbs-intbanking.com
-dbs-sg.asia
 dbs.rewardgateway.co.uk
 de-authorise-payee-account.com
 de-register-device-lloyds-online-banking.com
@@ -1847,7 +1848,6 @@ hjg.8ln3tw.cn
 hjg.macji.cn
 hjg.ncswnw.cn
 hjg.nfrlvwp.cn
-hjg.uuyjzmj.cn
 hjg.xilvgvr.cn
 hk.mikecrm.com
 hkagc.com
@@ -2033,7 +2033,6 @@ inx.lv
 ionos.de.gateway8.flexiserver3.turnosalud.com.ar
 ionos.de.kundeserver6.gateway43.saintmary.cl
 ip-107-180-75-107.ip.secureserver.net
-ip-148-66-133-207.ip.secureserver.net
 ip-184-168-166-154.ip.secureserver.net
 ipchichadf.tonohost.com
 ipetrokala.com
@@ -2568,7 +2567,6 @@ mester.info.hu
 metaltubos.com.br
 metrobankonline-new-system-login.duckdns.org
 metrobankonline-nwe-system-portal-login.duckdns.org
-metrobankonlinebankingports.com
 metroroyaleexodus.com
 metrorp16.com
 metrovip3.com
@@ -2664,6 +2662,7 @@ msdwt-k12-in-us-net.gq
 msdwt-k12-in-us-nettt.gq
 msdwt-org.ml
 mtcc.unmuha.ac.id
+mufg-cardn.jp.mufgjp.buzz
 multbancos.webnode.com.br
 mulwalaaccommodation.com.au
 mundovirtualhabbo.blogspot.com
@@ -3317,6 +3316,7 @@ promenadepop.com
 promptec.com
 propspark.com
 prosto-i-vkusno.com
+proszuby.ru
 protect.theresortweddings.com
 protect2.fireeye.com
 protection-newpayee-halifax.com
@@ -3494,7 +3494,6 @@ regiaocentrorsmg.websicredi.com.br
 regiaocentrorsmg.websicredi.com.br:443
 regina.ninetendev.com
 register-mobile-device.co.uk
-register-vehicle-tax.co.uk
 register-yourdevice.com
 registerdevice-payee.com
 registration-vehicle-tax.com
@@ -3961,6 +3960,7 @@ sparka-secu20.xyz
 sparka-secu21.xyz
 sparkassbank-de.com
 sparkasse-einloggen-filiale.com
+sparkasse.push-tan.app
 sparkassenfiliale.cloud
 sparkassenfiliale.link
 sparxinteriors.co.zw
@@ -4104,7 +4104,6 @@ tawreedss.com
 tax-rebatenew.com
 taxvehicle-registration.com
 tb915hdh89.mfs.gg
-teacultureoftheworld.com
 teamgrouppcl-my.sharepoint.com
 teamwlg.com
 tecasi.rs
@@ -4158,7 +4157,6 @@ theumashow.com
 theuniversityoftomorrow.org
 thietbihantbt.com
 thinkingpilates.com
-thomashignite.net
 thousandscolors.com
 three-billpayment.com
 three-renewal.co.uk
@@ -4417,7 +4415,6 @@ vilsbenindustries.com
 vinceduchene.cnbcreative.co.uk
 vinolab.bg
 vinshiwellness.com
-vintedpaiement.000webhostapp.com
 vipdomainshop.com
 vipfbtools.com
 vipixcreative.com
@@ -4685,6 +4682,7 @@ www.avioni.ru
 www.azosimoveis.com
 www.bagsignsprint.com
 www.ballincollege.com
+www.bamcasporinternetpe.com
 www.bancomercantil-org.haxsecurity.org
 www.bangbuzz.fr
 www.bankcheckingsavings.com
@@ -5135,7 +5133,6 @@ www.outlook-mailer.com
 www.p2.kenzoken.com
 www.paligcleaningservice.com
 www.pasarelasdepagos.com
-www.payee-denial.com
 www.payee-restricted.com
 www.payee-secure-cancellation.com
 www.paymentcancel.com
@@ -5194,7 +5191,6 @@ www.removeaccess-mobilelogin.com
 www.removemypayee-assist-auth.com
 www.removepayee-auth.net
 www.restrepohenao.com.co
-www.review-my-newtransaction.com
 www.revivetherapy.uk
 www.ricavato.com
 www.rioverdepar.com.br
@@ -5223,7 +5219,6 @@ www.secure-devicealert.com
 www.secure-devicelogin.com
 www.secure-deviceslink.co.uk
 www.secure-key-login.com
-www.secure-loginkey.com
 www.secure-my-payees.com
 www.secure-myaccountdetails.com
 www.secure-mytransfer.com
@@ -5407,6 +5402,7 @@ www.zonasegura1-bnperu.webmulempresa.com
 www.zonasegurabeta.viabcp.transferencia.bcp.sergiorozzi.it
 www.zonasegurainisaenwebreactivemosjuntoselperu.com
 www.zonaseguraverifica.bcpviasbcp.com
+www1.micard.co.jp.fsngdq.com
 www2.micard.co.jp.rhttmt.vip
 www3.funcate.org.br
 wwwfacebcck2.000webhostapp.com
