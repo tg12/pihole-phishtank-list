@@ -23,7 +23,6 @@
 141.193.196.74:84
 141.193.196.75:84
 14899995-dot-integrating-ionos-zipp.ue.r.appspot.com
-14tokens.com
 154.30.211.130.bc.googleusercontent.com
 163.mailcn.org
 18canlisohbet.xyz
@@ -464,7 +463,6 @@ att-credit.com
 att-db.com
 att-login-service.weebly.com
 att-loginz.com
-att-pay21.com
 att-secure-access.weebly.com
 att-servermail.com
 att-srv.com
@@ -730,7 +728,6 @@ btmails1.yolasite.com
 btseales.weebly.com
 btservicefibre.weebly.com
 btserviceinfo.weebly.com
-btsweb.weebly.com
 btverifysaadcbzx.yolasite.com
 bubblesrc166.com
 buckeye-express.weebly.com
@@ -1266,10 +1263,13 @@ drcarmenmora.com
 dreamsdirectaccess.com
 drivetransfer.co
 drmartens-norge.com
+drmartensgr.top
 drmartenshrvatska.org
 drmartenslreland.com
+drmartensmagasin.fr
 drmartensosta.com
 drmartensoutletdeutschland.com
+drmartenspraha.cz
 drmartensshoes.fi
 drmartensskooslo.com
 drmartenssverige.se
@@ -1351,7 +1351,6 @@ ee-manage-billing.com
 ee-mybilling-veri-secure.xyz
 ee-myservice.com
 ee-paybills.com
-ee-previous-bill.com
 ee-servicehub.com
 ee-uk-billingupdate.com
 ee-uk-billingupdate.net
@@ -1570,6 +1569,7 @@ fedlix.000webhostapp.com
 fedner.net
 feedilicious.com
 feeds.feedburner.com
+femfresh.vn
 fene-modi.firebaseapp.com
 ferienhof-gempel.de
 festivalfrostnews16.com
@@ -1584,6 +1584,7 @@ fiestanube.com.ar
 financiallifecoaching.builderallwp.com
 financialone.com.hk
 finantrab.com
+finapromerica.com
 finhive.net
 firebasestorage.googleapis.com
 firesidelodge.net
@@ -1809,6 +1810,7 @@ guillermo.co.uk
 guislaindufour.wixsite.com
 gunceliade.sg-host.com
 gunlock.buzz
+gurselreklam.com.tr
 gwenet.org
 gwisalltrack.com
 gxsb8.csb.app
@@ -1834,7 +1836,6 @@ halifax-payee.support
 halifax-securelink.com
 halifax-security-alerts-payee.com
 halifax-security-de-register-device.com
-halifax-uk.appcancel-plc.com
 halifax.authorise-payment.co
 halifax.device-authentication-login.com
 halifax.deviceverificationalert.com
@@ -1895,7 +1896,6 @@ hitman71hd-wixsite-com.filesusr.com
 hitsem.com
 hjg.8ln3tw.cn
 hjg.nfrlvwp.cn
-hjg.xilvgvr.cn
 hk.mikecrm.com
 hkagc.com
 hl7.org.ar
@@ -2103,7 +2103,6 @@ itau.riweb.com.br
 itauunibanco.rf.gd
 itfix.vn
 itilscob5.ams3.digitaloceanspaces.com
-itmsoftarctahas.co.uk
 itsssl.com
 ity2v7.webwave.dev
 ivangranda.com
@@ -2442,6 +2441,7 @@ lovedone3ww.weebly.com
 lp2m.umsu.ac.id
 lqg8u8.webwave.dev
 lsrc.org.ls
+lt-wetransfer00.000webhostapp.com
 ltitrk.com
 ltwvdb.webwave.dev
 lu9-my.sharepoint.com
@@ -2550,7 +2550,6 @@ mani.documantal.cc
 manidhara.com
 mapadamente.com.br
 mapeigroup-my.sharepoint.com
-maplanasationtrusnt.com
 mapleaiongroup.co.uk
 maquinasdecartaosemaluguel.com.br
 marantoptions.com.au
@@ -2583,7 +2582,6 @@ mccarthyelectrical.com
 mcelman.com
 mckennittfamily.com
 mdtec.com.ar
-me2.do
 meat.uniandes.edu.co
 medamiaudette.getenjoyment.net
 medicvanphuc.vn
@@ -2613,7 +2611,6 @@ messagiiee.moonfruit.com
 messengermail.moonfruit.com
 mester.info.hu
 metaltubos.com.br
-metrobankonline-new-system-login.duckdns.org
 metrobankonline-nwe-system-portal-login.duckdns.org
 metroroyaleexodus.com
 metrorp16.com
@@ -2922,6 +2919,7 @@ norreply.paypal.jajaleen.com
 nortonknatchbull-my.sharepoint.com
 notendur.hi.is
 notevocaux.wixsite.com
+noticeebay.temp.swtest.ru
 noticias.canal22.org.mx
 noutbookofff.ru
 novelii.com
@@ -2997,6 +2995,7 @@ olidooo.waca.tw
 olx-b.pl
 olx-paycore.vip
 olx.pl-online.link
+olx.pl.paysend.work
 olx.pl.transaction.oferta-payment.net
 olx.rwpay.ru
 omsd-a.tk
@@ -3325,8 +3324,10 @@ pphwm.app.link
 ppoq1.xyz
 ppoq5.xyz
 pqzf9.csb.app
+praffle.000webhostapp.com
 pramahikvision-mail.net
 praxis-pruem.de
+prayforindlon.000webhostapp.com
 premium-skin.net
 presbyterian-park.azurewebsites.net
 prestamos-reactivaperu2021-interbankenlinea.prestamo-online.com
@@ -3447,9 +3448,9 @@ rakutanh-co-jp.com
 rakutanh-co.jp
 rakutans-card.com
 rakutans-co-jp.com
+rakuten-il.xyz
 rakuten.co.jp.rakllen.xyz
 rakuten.co.jp.rakupln.xyz
-rakuten.co.jp.rakutuai.xyz
 rakuten.co.jp.raopten.xyz
 rakuteon.co.jp.9lgsboyh.cc
 rakuteon.co.jp.do8icnmw.cc
@@ -3706,6 +3707,7 @@ sbcgloballoginn.com
 sbcgloballoginz.com
 sbeyxegg.buyonlineb.su
 scalextricman.co.uk
+scaliersolutions.com
 scarblog1.wixsite.com
 scgrotto.org
 schaaf.ch.net2care.com
@@ -3957,6 +3959,7 @@ smsviabcp.bcpenlinea.peru.bcpvip.dentalreach.co
 smwam.coms.cso.gov.tt
 sniperdz.com
 snrsystem.com
+snsreaal-account.com
 snuggleexecute.com
 soaci.com
 soaringskiesrentals.com
@@ -4300,7 +4303,6 @@ uae-appleld-pay.ssbcentar.info
 uat-internetloanapplication.cudl.com
 ubee.co.kr
 ubsbank-online.com
-ubsv.at
 ucmxvip.com
 ucpubgtops.com
 ucxskin.com
@@ -4391,6 +4393,7 @@ valeosalesrep.com
 validate-newpayments.com
 validate-onlinesecurity.com
 validationsystem.creatorlink.net
+vallexm-stom.ru
 valleysupreme.com
 vamgfiro.000webhostapp.com
 vanmarckegroup-my.sharepoint.com
@@ -4447,7 +4450,6 @@ vezemkota.ru
 vhs.link
 via.hypothes.is
 viabccp.com
-viabcp.ink
 vicmonw.cekuj.net
 videobigo.com
 viettel-com-dot-c2c01-531c7.uc.r.appspot.com
@@ -4857,6 +4859,7 @@ www.dofus-newsletter.net
 www.dofus-touch-majs.com
 www.dolcevitabymerit.com
 www.domuterra.ch
+www.drmartensgr.top
 www.drmartensnobrasil.com
 www.drmartensosta.com
 www.dropbox.com
@@ -5009,7 +5012,6 @@ www.irequest-beneficiary-removal.com
 www.irsagov.com
 www.irscgov.com
 www.irskgov.com
-www.irslgov.com
 www.irsqgov.com
 www.irsygov.com
 www.irszgov.com
