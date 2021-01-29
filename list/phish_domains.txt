@@ -272,6 +272,7 @@ aliorbank.io
 alishasproducts.com
 alkab.com
 alkawaterdiy.com
+allcryptex.com
 alldomainmailagentupdate.web.app
 alliance4consumersusa.org
 allstarconverse2021.000webhostapp.com
@@ -450,7 +451,6 @@ att-db.com
 att-loginz.com
 att-secure-access.weebly.com
 att-servermail.com
-att-support22.me
 attde0000dndoooo000oooo.weebly.com
 attdomainfineservice.weebly.com
 attdomainsaveserice.weebly.com
@@ -751,6 +751,7 @@ carnesrubencircunvalacion.com.mx
 carpentryplusaz.com
 carrefour.googIe.casa
 carrytheskull.com
+carsea.com.co
 cartoesbancodobrasil.com
 carwash.tv
 casafruela.com
@@ -881,7 +882,6 @@ clubedemergulho.com.br
 cms.loopevo.com
 cnam.md
 cnl.snprobbx.pbz.r.de.a2ip.ru
-co-vid-tax-rebate.com
 co.uvpn.west.corp.tiaabankvoices-com.out.paypallogon.net
 coalcoman.net
 coaltur.com
@@ -1124,7 +1124,6 @@ detect-new-payee.com
 deuxiemeclasse.fr
 dev.klinikmatanusantara.com
 devakash.com
-device-identification.com
 device-registering.com
 device-securelink.co.uk
 device-securing.com
@@ -1713,7 +1712,6 @@ halifax-authorise-payee-add.com
 halifax-devicesettings.com
 halifax-mydevices.com
 halifax-online-bank.com
-halifax-payee-remove.com
 halifax-payee-settings.com
 halifax-securelink.com
 halifax-security-de-register-device.com
@@ -1781,7 +1779,6 @@ hmlkl.codesandbox.io
 hmp.me
 hmrc-rebates1.ru
 hmrc-rebates2.ru
-hmrcbillinginfo.com
 hmuk-refund.co.uk
 hmukgov-tax.com
 hn5a5e0c82ac790-my.sharepoint.com
@@ -1856,7 +1853,6 @@ icipedudu-my.sharepoint.com
 icl-trading.com
 id-orange-fo.wixsite.com
 id.ee.update.bill.secure.info.gorank.online
-identidadonlinezonasegurabcpbeta.000webhostapp.com
 identifiez-orange404.weebly.com
 identifiez-vous-avec-votre-compte.yolasite.com
 identifiez-vous2.wixsite.com
@@ -2148,6 +2144,7 @@ lcloud.location-app.com
 ldsplanettt.yolasite.com
 le-diablotin-rouen.com
 learning.validate.santander.digital
+leboncoin-paiement.web.app
 leboncoin.fr-demande-9126412.starfm.co.ke
 lebonoke.wixsite.com
 lecord.com
@@ -2402,7 +2399,6 @@ mastermindesolutions.com
 match.lookatmynewphotos.com
 materialspinpubgm.com
 mauriciomosse.com.ar
-mavro-office.000webhostapp.com
 mcafeecomactivates.com
 mcb-49.ovh
 mccarthyelectrical.com
@@ -2549,6 +2545,7 @@ my.nativeforms.com
 my02billing.dev
 my3-billing-info.com
 my3-login.com
+my3-secure-alerts.com
 mybigfatlistbuilder.com
 mycoerver.es
 mydetails-mynetflix.com
@@ -2791,6 +2788,7 @@ olgalowa.constantcontactsites.com
 olidooo.waca.tw
 olx.pl-getcash.life
 olx.pl-online.link
+olx.pl-platnosci.info
 olx.pl.paysend.work
 olx.pl.transaction.oferta-payment.net
 olx.rwpay.ru
@@ -3064,7 +3062,6 @@ plytecfi-my.sharepoint.com
 pmbonline.unmuha.ac.id
 pmiconnect-my.sharepoint.com
 pmth.o2o.my
-podela-flajera.rs
 pokercllub88.com
 poligrafiapias.com
 polpi4.wixsite.com
@@ -3218,6 +3215,9 @@ rakuten-il.xyz
 rakuten-in.buzz
 rakuten-ll.buzz
 rakuten-ll.xyz
+rakuten-lll.buzz
+rakuten-lll.cyou
+rakuten-lll.icu
 rakuteon.co.jp.tjaknntp.cc
 rakuteon.co.jp.tnkepuet.cc
 rakuteon.co.jp.upaaeojn.cc
@@ -3392,6 +3392,7 @@ s.codetasty.com
 s.free.fr
 s.id
 s.kekk.is
+s0mente-hoje.com
 s3.wasabisys.com
 s7-airlines.link
 saagksa.com
@@ -3617,6 +3618,7 @@ singin.bigpond.telstra.au.service.update.holidayhotelbatam.com
 sios.tech
 sirdarnell.org
 sis-prelevement.web.app
+sistelti.com
 sistema.gavadent.com
 sisteminformasipantaijepara.000webhostapp.com
 site-mvtnbfdr.websiteserver3.com
@@ -3876,9 +3878,7 @@ theavon.co.zw
 thebeachleague.com
 thebrownbutterblog.com
 thedarelite.com
-thedogatehim.com
 theeverydayconstitution.com
-thefurnittuureplace.business.site
 thehiphoppublicist.com
 thehorselife.uk
 themarbleshop.sharepoint.com
@@ -4265,6 +4265,7 @@ windowshost404902.s3-ap-southeast-1.amazonaws.com
 windowsupdateerror.com
 winfreyandco-my.sharepoint.com
 wingman.se
+winnebagorvs.com
 winnice.com.tr
 wireconfirmation68c10a25442a3e13.blogspot.com
 wires-business-starter.webflow.io
@@ -4439,7 +4440,6 @@ www.comprensivomarrosso.edu.it
 www.confirm-mynew-payments.com
 www.confirm-mynew-transaction.com
 www.confirm-mynew-transactions.com
-www.confirm-new-payment.com
 www.consulting-gvg.com
 www.conteudoprodaisystringer.com
 www.control.pw
@@ -4593,6 +4593,7 @@ www.hali-securesuite.com
 www.halifax-security-de-register-device.com
 www.halifax.secure-my-device.co.uk
 www.halifaxid.it
+www.halisecure-iverify-activity.com
 www.haroldhazard1-wixsite-com.filesusr.com
 www.hasmob.com
 www.hedaodesign.com
@@ -4736,7 +4737,6 @@ www.mypay-antifraud.co.uk
 www.mysenorita.in
 www.mysummercamps.com
 www.myunicredit.it
-www.mzaomjaco.top
 www.nabacc.com
 www.nabadmin.com
 www.nabaud.com
@@ -4902,9 +4902,7 @@ www.smbc-ccrd.com
 www.smbcuard-vpass.top
 www.smdc-caod.cc
 www.smdc-caod.com
-www.smdc-ccrb.cc
 www.smdc-ccrb.com
-www.smdc-corb.cc
 www.soysodimac.estudiarfacil.com
 www.spiritotarsogno.com
 www.stafftrainingsolutions.co.uk
