@@ -150,6 +150,8 @@ account-peringatan.weebly.com
 account-services-login.chinookoms.com
 account-update-services-live.g9fl9l.cn
 account-update.amazzon.com.jpo.sakfhwyasjcbnzuyq.top
+account-update.security.axnw9cia1ckeju30cpanxjbs.top
+account-update.security.msdcjeuwivnalxchuaiuwvgs.top
 account-update.security.syycgcajkcgwqocavh.top
 account.fido.validation.information.ssl-truechannel.radyotom.com.tr
 account.rkuten.co.jp.logindetails.jpw23tw7wrg8i328.com
@@ -295,6 +297,7 @@ amazon-jp-up.xyz
 amazon-jp-updates.xyz
 amazon-jp.azaza.wang
 amazon-jp.pp2pp.xyz
+amazon-prime.today
 amazon-suport-storejpouaskmeduiosaiuasaoukcom003.ga
 amazon.co.jp.3wed.xyz
 amazon.co.jp.3xvnczxas.buzz
@@ -678,7 +681,6 @@ bridgewaterma-my.sharepoint.com
 brighant.com
 brightbots.co.uk
 brigida_cossette.gitlab.io
-brinetwork.com
 brn-actiwebsmstoen-web.com
 broad-medicine.com
 brodcast6002.blogspot.com
@@ -934,7 +936,6 @@ conexionpos.com
 configuration-infos.firebaseapp.com
 confirm-my-newpayees.com
 confirm-my-newpayments.com
-confirm-my-newtransactions.com
 confirm-mynew-payees.com
 confirm-mynew-payments.com
 confirm-mynew-tranfers.com
@@ -1079,6 +1080,9 @@ dba.dk.log-ind-pa-dba.art
 dbd0dd.weebly.com
 dbs-approval.com
 dbs-digitaltoken.com
+dbs-friends-votes.club
+dbs-friends-votes.com
+dbs-friends-votes.work
 dbs.rewardgateway.co.uk
 dbssingapore.myshopify.com
 de-register-device-lloyds-online-banking.com
@@ -1251,7 +1255,6 @@ earthlinkhelpcenter.weebly.com
 eastonpreview.com
 easyquotes4you.com
 easyurl.me
-eaybal.000webhostapp.com
 ebay-diskussionsforen-de.iznikciniseramiksempozyumu.org
 ebay-seller.negative-feedback-posted.xyz
 ebay.co.uk.2912168371646.bid
@@ -1299,7 +1302,6 @@ ee.latestbill-failure.com
 ee.monthly-failed-payment.co.uk
 ee.uk.trg87.com
 eebill-failure.co.uk
-eebillingupdatesecure.com
 eehelp.co.uk
 eeinfo-billing.live
 eeonline-uk.com
@@ -1803,7 +1805,6 @@ hjg.kssxlw.cn
 hjg.ocjlryl.cn
 hjg.prkhetu.cn
 hjg.uhbvmqi.cn
-hjg.wwkfzb5.cn
 hjg.xqbkqye.cn
 hjg.ylxwznj.cn
 hjg.zgwvlsm.cn
@@ -2053,7 +2054,6 @@ join-whatsappk39k.itsaol.com
 join-whatsappk3jr.jkub.com
 join-whatsappk8wh.xxuz.com
 join-whatsappks9wb.xxuz.com
-join01grup.whatsapp-7791.ml
 joinchatgrupwhatsapp31.mrbonus.com
 joindewasa.qpoe.com
 joined-groupz-hot.jetos.com
@@ -2072,7 +2072,9 @@ jp-amazon.f-6.top
 jp-amazon.g-3.top
 jp-amazon.o1a.top
 jp-amazon.p-6.top
+jp-amazon.t-6.top
 jp-amazon.u1h.top
+jp-amazon.x-4.top
 jp-rakuten.a-1.top
 jp-rakuten.b-3.top
 jp-rakuten.b1t.top
@@ -3297,9 +3299,11 @@ rakuton.co.jp.1exi8hyf.cc
 rakuton.co.jp.2gj7bnp1.cc
 rakuton.co.jp.2sat40pw.cc
 rakuton.co.jp.7jdutsok.cc
+rakuton.co.jp.h6p9yvxp.cc
 rakuton.co.jp.hzskcuap.cc
 rakuton.co.jp.jr1a3eit.cc
 rakuton.co.jp.khdvl4ff.cc
+rakuton.co.jp.khoaq50z.cc
 rakuton.co.jp.uqnvdqes.cc
 ralakutran.yapoten.top
 raletapoku.relakutaten.top
@@ -3875,6 +3879,7 @@ suportecxacesso2020.com
 suportss-notifiication-identity-copyright.my.id
 support-att.com
 support-connexion.com
+support-ebay.generic.name
 support-yegz8-league-of-legends.000webhostapp.com
 supportfacbook.instarkspa.com
 supportin-info.ddns.net
@@ -4428,6 +4433,7 @@ www.alpinemountaingear.com.np
 www.alquileres.com.py
 www.amazon-check-co-jp.202181886876.top
 www.amazon-mz.best
+www.amazon.co.jp-qaq.ga
 www.amazon.de.signin.verification.openid.5935156.globthirsgare.cf
 www.amazon247.ga
 www.amazonlogistics-ap-northeast-1.amazonlogistics.jp
@@ -4690,7 +4696,6 @@ www.hotelbellevuecachan.com
 www.hotelmontiazzurri.com
 www.hotramopen.com
 www.houseoftiresbcs.com
-www.hs-delete-new-payee.com
 www.hualish01.com
 www.huschhus.ch
 www.hwfsweden.se
@@ -4809,7 +4814,6 @@ www.myo2-billing-error28.com
 www.mypay-antifraud.co.uk
 www.mysenorita.in
 www.mysummercamps.com
-www.nab-cancel-payid.com
 www.nab-payid-cancel.com
 www.nabacc.com
 www.nabadmin.com
@@ -4966,6 +4970,7 @@ www.sirdarnell.org
 www.skaypo.otzo.com
 www.smallspark.space
 www.smbc-card.egfhj.com
+www.smbc-card.hpdeng.com
 www.smbc-ccad.cc
 www.smbc-ccad.vip
 www.smbc-ccrd.cc
