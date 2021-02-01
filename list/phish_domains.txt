@@ -486,6 +486,7 @@ authsupport.com
 auto-bot.me
 auto-suchen-mobile.de
 auto24.email
+autoatendimento.caixaresidencial.com.br
 autodiscover.gre.ac.uk
 autodiscover.ryder-dutton.co.uk
 autodiscover.sandrsecurity.com
@@ -951,7 +952,6 @@ confirm-your-new-payee.com
 confirmaccount.ir
 confirmclpostingdetails.us
 confirmdados.com
-confirmmydetails.com
 confirmnew-payment.com
 confirmyour-new-payee.com
 connexion-informations.com
@@ -1269,7 +1269,6 @@ eastonpreview.com
 easyquotes4you.com
 easyurl.me
 ebay-diskussionsforen-de.iznikciniseramiksempozyumu.org
-ebay-seller.negative-feedback-posted.xyz
 ebay.co.uk.2912168371646.bid
 ebay.com.m.8itm.xyz
 ebay.dll.singin.de.pms-mingkee.com
@@ -1287,7 +1286,6 @@ ebuddynews.com
 eceadae-my.sharepoint.com
 ecomcrew.staging.wpengine.com
 economyfurnace-my.sharepoint.com
-ecopanaderia.com
 ecotaskforce.com
 ecusltd-my.sharepoint.com
 edje.com
@@ -1318,7 +1316,6 @@ eebill-failure.co.uk
 eehelp.co.uk
 eeinfo-billing.live
 eeonline-uk.com
-eeredirect-contract-info.com
 eeservice-securerebate.com
 eesupport-update.com
 effect-print.net
@@ -1599,7 +1596,6 @@ fuentesfidedignas.com.mx
 fugas.cl
 fundacionpares.cl
 funpeguy.com
-furigota.temp.swtest.ru
 fuzedev2.com
 fxt27.csb.app
 fzbfhn.webwave.dev
@@ -1742,7 +1738,6 @@ guillermo.co.uk
 guislaindufour.wixsite.com
 gulugalmarketing.com
 gunceliade.sg-host.com
-gunlock.buzz
 gwenet.org
 gwisalltrack.com
 gxsb8.csb.app
@@ -2287,7 +2282,6 @@ lloyds-uk-bank.com
 lloydsbank.authenticate-cancellation.com
 lloydsbank.deregister-payee-auth.com
 lloydsbank.login-personal-devices.com
-lloydsbank.online-auth-private-verify.com
 lloydsbank.online-auth-secure-verified.com
 lloydsbank.online-auth-update.com
 lloydsbank.online-auth-verify-secure.com
@@ -2623,6 +2617,7 @@ my02billing.dev
 my3-billing-info.com
 my3-login.com
 my3-secure-alerts.com
+my3-termination.co.uk
 myattnow.weebly.com
 mybigfatlistbuilder.com
 mycard.rithishoppy.in
@@ -3315,6 +3310,7 @@ rakuton.co.jp.1exi8hyf.cc
 rakuton.co.jp.2gj7bnp1.cc
 rakuton.co.jp.2sat40pw.cc
 rakuton.co.jp.7jdutsok.cc
+rakuton.co.jp.ftwsuth2.cc
 rakuton.co.jp.h6p9yvxp.cc
 rakuton.co.jp.hxeh5owr.cc
 rakuton.co.jp.hzskcuap.cc
@@ -3624,7 +3620,6 @@ servernuovaintesa.com
 serverupdate.getforge.io
 service-client-suivi.com
 service-envoi-client.com
-service-laposte-client.com
 service-messagerie-sms0.moonfruit.com
 service-uk-netflix.com
 service.acount.missing.watersun.com.br
@@ -3752,6 +3747,7 @@ smartubemedia.com
 smartusluga.xja.pl
 smash7289eui.fastpluscheap.com
 smbc-ccad.vip
+smbc-vab-suportione.ga
 smbcadmin.ytrertlaskfjmxkadd3dfgfg1sdfsasdxzv.xyz
 smbcc.kutternytg.work
 smbcc.kutternytg.xyz
@@ -3830,7 +3826,6 @@ spotty-honeysuckle-mammal.glitch.me
 sppourt.ct.lp.rqocckretcreta.com
 sppuort.rr.gg.rolulentaraten.com
 spropes-auntmillies-com.slite.com
-sprzedaje.to
 srv-auth.web.app
 sslseguridad.com
 sswebmail-4w5twsr.web.app
@@ -3892,7 +3887,6 @@ suportss-notifiication-identity-copyright.my.id
 support-att.com
 support-connexion.com
 support-ebay.generic.name
-support-yegz8-league-of-legends.000webhostapp.com
 supportfacbook.instarkspa.com
 supportin-info.ddns.net
 supportmail.webservis.ru
@@ -4123,6 +4117,8 @@ unionheightsresidental.com
 unipingratis.wikaba.com
 unique-aback-screwdriver.glitch.me
 uniquebaze.com
+uniswap-coin.com
+uniswap-coin.com:443
 uniswap-get.org
 uniswapv2.blockraft.xyz
 unitus.mk.ua
@@ -4447,6 +4443,7 @@ www.andrewcarr.org
 www.annazon-logintocp-jp.bnauaqo.buzz
 www.annazon-vpsupportinto-co-jp.isoajm-cxakl.top
 www.anthonyajohnson.com
+www.anz-help.info
 www.aomuabinhtien.com
 www.apkandroid.ru
 www.app-portalpersonalit.com
@@ -4848,6 +4845,7 @@ www.o2-billingauth-secure.com
 www.o2-billingsupport-update.com
 www.o2login.com
 www.odhikar.com
+www.ofertas-bluefridat.com
 www.officence.com
 www.officences.com
 www.officentry.com
@@ -4892,6 +4890,7 @@ www.prontofrioecuador.com
 www.psmkreditsyari.com
 www.pte.lt
 www.quotesfor.net
+www.r7imobiliaria.com
 www.radiolac.ch
 www.rajwebtechnology.com
 www.ramgarhiamatrimonial.ca
@@ -4947,7 +4946,6 @@ www.secure.mwwi.pl
 www.secure.runescape.com-nv.xyz
 www.secure.runescape.com-x.xyz
 www.secure2device.com
-www.secured-device-login.com
 www.secured-deviceverification.com
 www.securelloyd-device-unregister.com
 www.securelloyd-unknown-device.com
@@ -5049,7 +5047,6 @@ www.vassallo.com.ar
 www.venex-ca.com
 www.vereins.at
 www.verify-device-secruity.com
-www.verify-new-deivce.com
 www.verify-newdeviceonline.com
 www.verify.chase.billing.info.igualdad.cl
 www.verifymytransfer.com
@@ -5087,7 +5084,6 @@ www.whatsappsexyadultgroup18.mrslove.com
 www.whereinisrael.com
 www.wonderful.gr
 www.wvvwinterbabancaporinternetpe.com
-www.wvwvbancaporlnternet-lnterbankpe.com
 www.xjgyedu.cn
 www.xn--gmal-sya.com
 www.xpressimpresores.com
@@ -5210,6 +5206,7 @@ yuuu6.codesandbox.io
 yxirlwizz.tastypriceo.su
 z-showers.000webhostapp.com
 zacoindus.com
+zahnarzt-neugruendung.de
 zasobygwp.pl
 zaytouzo.buyonlined.su
 zeebracross.com
