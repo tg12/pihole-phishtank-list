@@ -940,7 +940,6 @@ confirm-mynew-payments.com
 confirm-mynew-tranfers.com
 confirm-mynew-transactions.com
 confirm-mynew-transfer.com
-confirm-mypayment.com
 confirm-mytransfer.com
 confirm-newpayments.com
 confirm-your-new-payee.com
@@ -1381,7 +1380,6 @@ er947745984387879.web.app
 erere.parhlobeta.com
 erickson.life
 ericsonci.com
-error-ee-payment.com
 error-paymentmy3.com
 ersfilter-my.sharepoint.com
 ertu.streamlink.to
@@ -1617,7 +1615,6 @@ generaloutlookverification.site.bm
 genie-alba.firebaseapp.com
 geninights.com
 genuineproperties.com
-geomekca.com
 georgestoychest.com
 geovanda.net
 gestoriadecredito.com.mx
@@ -2783,7 +2780,6 @@ nortonknatchbull-my.sharepoint.com
 notendur.hi.is
 notevocaux.wixsite.com
 noticias.canal22.org.mx
-notification-identity-checking-page-recovery.ga
 notification-identity-checking-page-recovery.gq
 notification-identity-office-recovery.gq
 noutbookofff.ru
@@ -2891,7 +2887,6 @@ onlinebusservice.com
 onlinecuentaes.com
 onlinenatw.com
 onlinenew-payee-restricted.com
-onlinepayee-deregister.com
 onlinepayee-restricted-service.com
 onlinepayees-authorisation.com
 onlinepayees-unauthorise.com
@@ -3014,7 +3009,6 @@ payee-portal-halifax.com
 payee-restricted.com
 payee-security-issue.xyz
 payee.id
-payeecancellationrequest.com
 payeenew-hali.com
 payeeonlinerevision.com
 payeeverify-login.com
