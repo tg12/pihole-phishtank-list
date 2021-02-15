@@ -302,7 +302,6 @@ amazen.co.jp.amso.bar
 amaznde-com.webs.com
 amazon-login.bar
 amazon.co.jp.cmsan.xyz
-amazon.co.jp.hdsfasd.buzz
 amazon.co.jp.xiangjapan0002.buzz
 amazon.co.jp.zhuangong011.buzz
 amazon.co.jp.zhuangong012.buzz
@@ -371,6 +370,7 @@ app-netfliix.u1239489.cp.regruhosting.ru
 app-onlinemobileappsecurehalifacxappsecure.mrtraveller.ir
 app-payee-cancel.com
 app-poloneix.com
+app-storage-gdh.s3.us-west-000.backblazeb2.com
 app.box.com
 app.diysurvivor.com
 app.ganoexcelcambodiaclinic.com
@@ -1109,7 +1109,6 @@ deregister-device-securedlloyd.com
 deregister-lloyd-unauthorisedaccess.com
 deregister-unrecognised-new-device-pairing.com
 desdeelamor.com
-desert-maddening-beam.glitch.me
 designferreira.com.br
 designfitters.com
 destinystar.live
@@ -2138,7 +2137,6 @@ kuberavc.com
 kubud.pl
 kuchkuchnights.com
 kuconline.com
-kuronekoyamato-g.top
 kusoe.edu.np
 kutschergwoelb.at
 kutt.it
@@ -2247,7 +2245,6 @@ lloyds-payeecancellations.com
 lloyds-uk-bank.com
 lloyds.payee-digital-reports.com
 lloyds.payeehold.com
-lloydsbank.auth-deregistration.com
 lloydsbank.authenticate-cancellation.com
 lloydsbank.cancellation-payee-auth.com
 lloydsbank.cancellation-payee-device-login.com
@@ -2804,6 +2801,7 @@ olx-dostawka.xyz
 olx-kurjer.xyz
 olx-myofficial-pay.xyz
 olx-pl-offerts.website
+olx-pl.bezpieczenstwo24.com
 olx-pl.paus-express.site
 olx-seller.pl
 olx-transfeer.info
@@ -2841,6 +2839,7 @@ olx.pl-weryf.me
 olx.pl-weryf.org
 olx.pl-zakupy.life
 olx.pl-zamowienie.surf
+olx.pl.bezpieczenstwo24.store
 olx.pl.oferta-payment.today
 olx.pl.transaction.oferta-payment.net
 olx.rwpay.ru
@@ -2991,6 +2990,7 @@ pay-pai-securty-verifyi-accunt-cmd.agr.ng
 pay-sera.web.app
 pay-today.cc
 pay.cdek-dostav.ru
+pay01-olx.pl
 payee-authenticateonline.com
 payee-cancel-help.com
 payee-my-hali.com
@@ -3089,6 +3089,7 @@ pl-19.ru
 pl-bankinvest.surge.sh
 pl-olx.oferta-payment.shop
 pl.olx-ofert.art
+pl.olx-ofert.design
 plaincheck-f0068.firebaseapp.com
 planeta12.minobr63.ru:443
 plasticaindia.com
@@ -3105,7 +3106,6 @@ policyfb-update.us
 poligrafiapias.com
 pomoc.o2.pl
 ponctuanceconectol.wixsite.com
-pontocertoonline.myddns.me
 pontofrio.webpremios.com.br
 pontosaireequisona.wixsite.com
 pontosita.myddns.me
@@ -3128,6 +3128,7 @@ post-fbcom-bgwb26ltf.saharamarinesc.com
 post-fbcom-y0plblzqfx.saharamarinesc.com
 post-suivi-service.com
 post.ch-0000000000006656446.u1294979.cp.regruhosting.ru
+post.ch-en-shortcut1.swisspost-com-b1440447.guidiroberto.com
 post.ch.u1293088.cp.regruhosting.ru
 postal.support
 postchtrackingorder.com
@@ -3253,10 +3254,8 @@ rakuten-market.buzz
 rakuten-market.cyou
 rakuten-market.xyz
 rakuten.co.jp-cookiespost.nfkdhz.rest
-rakuten.co.jp.506p2hjifv3y41g1uvyd07i7x7bxbpzgh1ynb8tu14.buzz
 rakuten.co.jp.paysafeid.xyz
 rakuten.co.jp.rakutenanv.xyz
-rakuten.co.jp.xyogo.com
 rakuten.mxuaxkwlo.work
 rakuten.serilcv.xyz
 rakutenbhuse.muolkawe.com
@@ -3267,7 +3266,6 @@ rakutenbhuse.muxareyur.cloud
 rakutenbhuse.muxareyur.com
 rakutenbkse.yuhxsdoer.work
 rakutenbkse.yuhxsdoer.xyz
-rakutenbkse.yuidxnd.tokyo
 rakutenluyaw.muxareyur.net
 rakutenluyaw.ouxawer-p.com
 rakutenluyaw.ouxawer-p.net
@@ -3381,7 +3379,6 @@ recovery-it-19966486547863125.tk
 redbysfrgroupebox.myfreesites.net
 rediractionid547012016089540218057.blogspot.com
 redirect-ca578.firebaseapp.com
-redirect.saeedalmasoudi.com
 redirect.viglink.com
 redirect.voici-news.fr
 redirecting-55f01.web.app
@@ -4210,7 +4207,6 @@ upscri.be
 uptp.edu.py
 uqr.to
 uralalrlines.com
-urbandispenser.com.ua
 urbenorte.com
 urgent-halifaxlogin.com
 url4938.fxod.net
@@ -4433,6 +4429,7 @@ winfreyandco-my.sharepoint.com
 wingman.se
 winnice.com.tr
 wireconfirmation68c10a25442a3e13.blogspot.com
+wirehaired-bead-brake.glitch.me
 wires-business-starter.webflow.io
 wisconsin-dmv-mv3001.com
 wisedu.co
