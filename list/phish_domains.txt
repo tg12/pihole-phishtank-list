@@ -43,7 +43,6 @@
 2noghte.com
 2step-authentication.com
 3-141-31-222.cprapid.com
-3-15-26-53.cprapid.com
 3-billing-alerts.co.uk
 301.es
 30ywc.codesandbox.io
@@ -419,6 +418,7 @@ arleiti.sslblindado.com
 armata-neagra.ro
 arnaudjan.wixsite.com
 arnazon.oo.jp.arnazon.esezbrv.xyz
+arnazon.oo.jp.arnazon.vsxdqam.xyz
 arnazon.oo.jp.arnazon.wbjhasn.xyz
 arnazon.oo.jp.arnazon.xfunkxn.xyz
 arrow.kvalitne.cz
@@ -1135,7 +1135,6 @@ dhl-prcel1.ishoripokhrel.com.np
 dhl.com-en-express.tracking.number.velius.com
 dhl.recruitmentplatform.com
 dhlgpi.com
-dhsaigbwiadk.000webhostapp.com
 dichvuvnpt.com
 digitalflashbacks.ca
 digitalmarketingforums.com
@@ -1164,7 +1163,6 @@ doclab-console-auth.firebaseapp.com
 docsend.com
 docsharex-authorize.firebaseapp.com
 dofus-eventoffi.com
-dofus-retro-forum.shop
 dokanyshop.com
 dologin.wixsite.com
 domeblade.com
@@ -1260,7 +1258,6 @@ ecoachievers.in
 ecomcrew.staging.wpengine.com
 economic-autumn-roarer.glitch.me
 economyfurnace-my.sharepoint.com
-economyharvest.com
 ecotaskforce.com
 ecusltd-my.sharepoint.com
 edje.com
@@ -1754,7 +1751,6 @@ haroldhazard1-wixsite-com.filesusr.com
 harrisonk12msus-my.sharepoint.com
 haseebsafitravels.com
 hasmob.com
-havaspeople.de
 havesequence.com
 hbtengxun.com
 hdmediahub.club
@@ -1807,7 +1803,6 @@ homologacao.xocovid19.com.br
 homs.com.br
 honda4fun.com
 honeyhyper.com
-hopestudioonline.com
 hortipower.co.uk
 hosting2021623.online.pro
 hosting2024700.online.pro
@@ -2825,7 +2820,6 @@ olx-biezpieczna-dostawa-pl.biz
 olx-dostawka.xyz
 olx-kurjer.xyz
 olx-myofficial-pay.xyz
-olx-paysera.pro
 olx-pl-offerts.website
 olx-pl.paus-express.site
 olx-seller.pl
@@ -2853,10 +2847,8 @@ olx.pl-pay.surf
 olx.pl-paycash.surf
 olx.pl-pieniadze.life
 olx.pl-pieniadze.live
-olx.pl-pieniadze.store
 olx.pl-przelew.live
 olx.pl-przelew.xyz
-olx.pl-safe.surf
 olx.pl-safecash.surf
 olx.pl-safely.surf
 olx.pl-safemoney.surf
@@ -3183,6 +3175,7 @@ primeav.com.au
 primeparkrealty.com
 print-mara.firebaseapp.com
 printtoner.com.mx
+privacyy-issue-notification-identityy.my.id
 privatkunden-dkb.biz
 prizeconsultancy.in
 probable-hickory-comte.glitch.me
@@ -3289,8 +3282,8 @@ rakuten.co.jp.xyogo.com
 rakuten.mxuaxkwlo.work
 rakuten.serilcv.xyz
 rakutenbhuse.muolkawe.com
-rakutenbhuse.muolkawe.shop
 rakutenbhuse.muolkawe.tokyo
+rakutenbhuse.muolkawe.work
 rakutenbhuse.muolkawe.xyz
 rakutenbhuse.muxareyur.cloud
 rakutenbhuse.muxareyur.com
@@ -3306,6 +3299,8 @@ rakutenluyaw.ouxawer-p.net
 rakutent.yuhxsdoer.tokyo
 rakutenuiou.mnuydxaw.shop
 rakutenuiou.mnuydxaw.work
+rakutenuiou.mnuydxaw.xyz
+rakutenuiou.muolkawe.cloud
 rakuteon.co.jp.tjaknntp.cc
 rakuteon.co.jp.ucoruruu.cc
 rakutjp.xyz
@@ -3323,7 +3318,6 @@ rakutnn.co.jp.bzjj06tl.cc
 rakutnn.co.jp.d64yczlu.cc
 rakutnn.co.jp.dk4hbjv5.cc
 rakutnn.co.jp.duaup4fm.cc
-rakutnn.co.jp.duaup4fm.shop
 rakutnn.co.jp.ef23cbxz.com
 rakutnn.co.jp.fmxaraf4.net
 rakutnn.co.jp.gq81qxki.cc
@@ -3429,6 +3423,16 @@ regiaocentrorsmg.websicredi.com.br
 regiaocentrorsmg.websicredi.com.br:443
 regina.ninetendev.com
 register-newpayee.com
+regulation-security-ck6789581264958600.tk
+regulation-security-ck6789581264958601.tk
+regulation-security-ck6789581264958602.tk
+regulation-security-ck6789581264958603.tk
+regulation-security-ck6789581264958604.tk
+regulation-security-ck6789581264958605.tk
+regulation-security-ck6789581264958606.tk
+regulation-security-ck6789581264958607.tk
+regulation-security-ck6789581264958608.tk
+regulation-security-ck6789581264958609.tk
 rekapuolam.blogspot.com
 rekuraten.yatenku.top
 rekutetenda.ralitentakuen.top
@@ -3951,7 +3955,11 @@ suporte.portaldostreaming.com
 suportecliente24h.com
 suportecxacesso2020.com
 suports-identity-page-notification.gq
+suports-identity-page-notification.my.id
 suports-notification-identity-page.ga
+suports-notification-secur-identiity.gq
+suports-page-notification-identity-recovery.ga
+suports-page-notification-identity-recovery.gq
 support-att.com
 support-connexion.com
 support-ebay.qantascope.fr
@@ -4538,10 +4546,10 @@ www.alpha-mail-server2.ddns.info
 www.alpinemountaingear.com.np
 www.alquileres.com.py
 www.amazon-amoe.buzz
+www.amazon-amoe.xyz
 www.amazon-check-co-jp.a9l.top
 www.amazon-check-co-jp.d9e.top
 www.amazon-check-co-jp.g6r.top
-www.amazon-check-co-jp.g7q.top
 www.amazon-check-co-jp.i3n.top
 www.amazon-check-co-jp.q4h.top
 www.amazon-check-co-jp.x6r.top
@@ -4550,6 +4558,7 @@ www.amazon.co-i.date
 www.amazon.de.signin.verification.openid.5935156.globthirsgare.cf
 www.amazonbusiness.cloud
 www.amazonlogistics-ap-northeast-1.amazonlogistics.jp
+www.amazonpays.buzz
 www.ambrosecourt.com
 www.ameport.org
 www.andares.com
