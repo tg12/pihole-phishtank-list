@@ -501,6 +501,7 @@ auth-new-via.com
 auth-securoros.serveftp.com
 auth-server3.xyz
 authenticate-mynewpayee.com
+authenticate-newlyadded-payee.com
 authorcheck.com
 authorise-myregistered-device.com
 authorise-thisdevice.com
@@ -1126,7 +1127,6 @@ dekasse-berliner.blogspot.com
 dekoro.es
 delayedinboxmails.s3.us-east.cloud-object-storage.appdomain.cloud
 delezhen.mashalezhen.com
-delivery.olx.pl-oferta.site
 delivery.olx.pl-safecash.us
 deliveryissuesresolved.s3.us-east.cloud-object-storage.appdomain.cloud
 deliverymail.support
@@ -1793,6 +1793,7 @@ help-dbs.net
 help-deny-mypayees.com
 help-deny-newpayees.com
 help-review-mypayments.com
+help-verify-my-newpayees.com
 hempmeds-my.sharepoint.com
 heppler.ch.net2care.com
 hepsbahis01.blogspot.com
@@ -1888,7 +1889,6 @@ hyasozozadr5hdg.ygto.com
 hyperurl.co
 i-cuadrado.com
 i-kiwi.com.ua
-i-obmcn.biz
 i-ta.cc
 ia801506.us.archive.org
 iamin.events
@@ -2038,7 +2038,6 @@ jellyfishkids.co.uk
 jenis9q.dx.am
 jetprinterrepairs.co.uk
 jewellerystore.com.au
-jgbolsas.com.ar
 jgjhgjhgjhg.com
 jhanjartv.com
 jibnubank.com
@@ -2091,7 +2090,6 @@ jp-amazon.o1q.top
 jp-amazon.s-1.top
 jp-amazon.s1x.top
 jp-amazon.t1w.top
-jp-amazon.u-7.top
 jp-amazon.v1q.top
 jp-amazon.w-1.top
 jp-rakuten.a-1.top
@@ -2143,7 +2141,6 @@ kb.growbydata.com
 kblessedmom.com.np
 kbmovers.co.za
 kecmanijada.com
-kelompok7dan9.000webhostapp.com
 kelpiesinc.com
 ken.kulaklikdergisi.com
 kenyaembassyjuba.com
@@ -2704,6 +2701,7 @@ neuconnectioned-lo.wixsite.com
 new-control-pamis.com
 new-devicehelp.com
 new-halibeneficiary.co.uk
+new-payee-decline-help.com
 new-payee-lloyds.com
 new-payee-security.com
 new-secure-payee.com
@@ -2852,6 +2850,7 @@ olx.pl-buy.online
 olx.pl-dostawa.website
 olx.pl-dostawa.work
 olx.pl-get.work
+olx.pl-getdelivery.work
 olx.pl-id109768.site
 olx.pl-id179205.site
 olx.pl-id510586.site
@@ -2912,6 +2911,8 @@ online.natwest-welfare.com
 online.support-natwest.com
 onlineactsmsbanacion.com
 onlineaibsecurityreview.com
+onlinebanking-login-accounts.com
+onlinebanking-logon-accounts.com
 onlinebusservice.com
 onlinenatw.com
 onlinenewpayee-check.com
@@ -3042,6 +3043,7 @@ payee-cancel-help.com
 payee-my-hali.com
 payee-portal-halifax.com
 payee-requestid.net
+payee-security-confirm-help.com
 payee-verifysecurity.com
 payee.id
 payeeconfirmation-lloydbank.com
@@ -3094,6 +3096,7 @@ pembatalannblockedfacebooks.ml
 pembatalannblockfacebook.tk
 pembatalanpemblokirans.cf
 pemblokiran.kozoa78.tk
+pendingdevices.link
 pengenjilat.duckdns.org
 pepsicola1-my.sharepoint.com
 perfect-chambray-fog.glitch.me
@@ -3443,7 +3446,6 @@ redlinerecruitment353-my.sharepoint.com:443
 redredget.com
 reduction-ligne.web.app
 reff-notice.com
-reff-urgant.com
 regency-pacific-a.gq
 regency-pacific-auth.cf
 regiaocentrorsmg.websicredi.com.br
@@ -3697,6 +3699,7 @@ securehalifaxonline-account.com
 securelloyds-helpteam.com
 securematicsrecruitment.co.uk
 securemy-logindetails.com
+securemyonline-banking.com
 securemypayee-assist-auth.com
 secureonlinecc.com
 securesquared.co.uk
@@ -3704,6 +3707,7 @@ securetsb-deregister-unknowndevice.com
 secureyourpayee.com
 security-app-payee.com
 security-mappl-information-account.piiquarry.com
+security-onlinebanking-signin.com
 security-process.link
 security-protectaccount.com
 securityupdatereview-365online.com
@@ -3947,7 +3951,6 @@ stjosephs.org.au
 stolizaparketa.ru
 stollgroup.coms.cso.gov.tt
 stomkinscommercial.com.aus.cso.gov.tt
-stopmal.live
 storage.googleapis.com
 storage.ning.com
 store.ankurnarula.org
@@ -4103,7 +4106,6 @@ thecardyousaved.onlinestoreamazon.monster
 thechillipicklecanteen.com
 thehiphoppublicist.com
 themarbleshop.sharepoint.com
-themarkadvantage.com
 themkdiaries.com
 thepantyhosequeen.com
 thepaperdesign.com
@@ -4129,7 +4131,6 @@ tivoli.nu
 tkx29.codesandbox.io
 tmp.pjspaintersqt.co.nz
 tmphysio.de
-tnteu.ac.in
 to-ken.biz
 toanhoc247.edu.vn
 todayif.com
@@ -4211,11 +4212,13 @@ ucpubgtops.com
 ugsome-tomorrows.000webhostapp.com
 ujs612.activehosted.com
 ujungkulon.org
+uk-confirmation.co.uk
 uk-cvd19grant.com
 uk-deliveries.support
 uk-deliverymail.support
 uk-live-help-chat.co.uk
 uk-mail.support
+uk-reverse.co.uk
 uk-uytdom.ru
 uk0qx.codesandbox.io
 ukash-wallet.biz
@@ -4607,6 +4610,7 @@ www.appupdatesecurehalifaxonlineappupdate-verification.titansgamestudio.ir
 www.argenticias.com
 www.arrowcase.com
 www.arthooil.com
+www.assessoriacref.com
 www.assnat.cm
 www.atc-ph.com
 www.atefnet.com
@@ -4631,6 +4635,7 @@ www.bankcheckingsavings.com
 www.bankofamericausa.qpoe.com
 www.baqala.me
 www.bcp.futbolfinanciero.com.pe
+www.bergsigboardingkennels.co.za
 www.bestchange.freelancers.ml
 www.billing-new.com
 www.binance-china.com
@@ -4913,7 +4918,6 @@ www.kbstitchdesigns.com
 www.kcfdc.org
 www.kisa.link
 www.klantenservicebelgies.com
-www.kommersant.ru
 www.kourabiika.eu
 www.kovolem.cz
 www.kristallsolucoes.com.br
@@ -4933,7 +4937,6 @@ www.linea1s.com
 www.livingwagenyc.org
 www.lizlav2.lizlavendermr.com.au
 www.lloyd-bankingsupport.com
-www.lloyd-securedattention.co.uk
 www.lloyd-services.com
 www.lloyd-verify-newpayee.com
 www.lloydbank-accountprotection.com
@@ -4981,7 +4984,6 @@ www.melodika.com.tr
 www.messelive.tv
 www.messenger-updates.ga
 www.metamask.cloud
-www.miamommy.com
 www.micup.eu
 www.midyatmimaritas.com
 www.miplab.net
@@ -5154,7 +5156,6 @@ www.savageconquest.com
 www.sct-pst.ml
 www.secure-authorisepayee.com
 www.secure-myaccountdetails.com
-www.secure-mylog-indetails.com
 www.secure-mytransfer.com
 www.secure-online-paye.com
 www.secure-onlinepayee.live
@@ -5402,7 +5403,6 @@ xurl.es
 xxx-com-dot-c2c01-531c7.uc.r.appspot.com
 xyproject.xtensio.com
 y3s2ye.webwave.dev
-yahooviewweb.weebly.com
 yakutcement.ru
 yann-decoration.fr
 yarekutenda.ratekute.top
