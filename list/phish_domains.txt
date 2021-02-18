@@ -585,7 +585,6 @@ bank-project.surge.sh
 banking.sparkasse.de-sicherheitsabfrage-id9174471931149.xyz
 banking.sparkasse.de.at-sicherheitsabfrage-id91744719342319.xyz
 bankloginonline.com
-bankmail.email
 bankofamerica-logins.dns05.com
 bankpayee-unauthorise.com
 bankpayee-unregister.com
@@ -771,7 +770,6 @@ bloomb2b.com
 bloquenegro.cl
 blubrown.com
 bluefish-digital.com
-blueribbons.org
 blueteak.0fees.us
 bmbhartischool.com
 bncrgestion.com
@@ -943,7 +941,6 @@ cew.safewallet.replayattack.us
 cf50l.csb.app
 cg-oe.snprobbx.pbz.r.de.a2ip.ru
 cg00737-wordpress-2.tw1.ru
-cgi-bin-rbaccess-rbcgi3m01f71f-f21ibrequest.top
 cgwcsd.org
 ch.marketing-gentleman.io
 ch.net2care.com
@@ -1237,7 +1234,6 @@ dekoro.es
 delayedinboxmails.s3.us-east.cloud-object-storage.appdomain.cloud
 delezhen.mashalezhen.com
 deliverry-safe.biz
-deliverry-safe.com
 deliverry-safe.info
 delivery-uk-support.help
 delivery.olx.pl-cashtransfers.online
@@ -1289,6 +1285,7 @@ dgfip-finances-gouv.cloud
 dgsols.com
 dhl.recruitmentplatform.com
 dichvuvnpt.com
+didierprey.wixsite.com
 digitalmarketingforums.com
 digitalmarketinginstituteinchandigarh.com
 digitalsevaka.com
@@ -1401,7 +1398,6 @@ easyquotes4you.com
 easyurl.me
 ebay-de-action-started.preequellapp.com
 ebay.billingfail.com
-ebay.bjerresgaard.net
 ebay.co.uk.2912168371646.bid
 ebay.com-brand-gwen-food-trailer-37353927.3567102.com
 ebay.com-itm-keystone-outback-25fb-290047.4367249.com
@@ -1657,7 +1653,6 @@ ferienhof-gempel.de
 festivalfrostnews16.com
 festivo.fi
 fetguet.c-agricole-inf.com
-ff-grup.kozoa78.cf
 ffffttyu.wixsite.com
 fghjr74rhudfguhtfguji.blogspot.com
 fhhw1u.webwave.dev
@@ -2052,7 +2047,6 @@ htl.li
 htlps-wwv.bancodebogota.com.co.aceitesymas.com.mx
 htm8932034.tonohost.com
 html.house
-http-block-fb.gq
 http-confirm-block.ga
 hualish01.com
 hubsu.ml
@@ -2136,7 +2130,6 @@ inntegrada.com
 inpost.pl-getdelivery.casa
 insta-gram.fr
 instagarm236vsvsv.000webhostapp.com
-instagram-account.neat-url.com
 instagram.com-hmza.jirani.essal.tg
 instagram.hop.ru
 instagramfacebook.click
@@ -3144,11 +3137,11 @@ olx.pl-dostawa.work
 olx.pl-getmoney.casa
 olx.pl-getorder.casa
 olx.pl-getorder.work
-olx.pl-id107019.site
 olx.pl-id495021.site
 olx.pl-id510586.site
 olx.pl-id629502.site
 olx.pl-id760296.site
+olx.pl-id907290.site
 olx.pl-konto.biz
 olx.pl-konto.net
 olx.pl-konto.shop
@@ -3306,7 +3299,6 @@ panamericano-financial-institution.negocio.site
 panelfate.com
 panelweb-4cae2.web.app
 panxiyanqp.52doweb.cn
-paparanapk.com
 paperboatmedia.com
 papuaadventure.com
 paracels.one
@@ -3382,7 +3374,6 @@ paypalupdate.osamaalshareef.net
 paypalverification.allgamescheaper.com
 paypalvsgooglecheckout.com
 paypial-us.com
-payrolldemo.8boxerp.com
 paysal.live
 payu.okta-emea.com
 pbb-acesso.com
@@ -3440,7 +3431,6 @@ pkk.depok.go.id
 pl-19.ru
 pl-bankinvest.surge.sh
 pl.m-olx.ga
-pl.olx-ofert.news
 plaincheck-f0068.firebaseapp.com
 planeta12.minobr63.ru:443
 plasticaindia.com
@@ -4045,6 +4035,7 @@ service8481.wixsite.com
 serviceclient.site44.com
 servicefacture.blogspot.com
 servicemail201.wixsite.com
+servicemailorange4.wixsite.com
 servicenotification1.godaddysites.com
 serviceoutade.groutmastersatlanta.com
 services-vodafone.com
@@ -4155,7 +4146,6 @@ smbc-cacd.jnexj.com
 smbc-card.caenw.com
 smbc-card.jsywn.com
 smbc-card.wzhyxx.com
-smbc-ccrd.cc
 smbcadmin.ytrertlaskfjmxkadd3dfgfg1sdfsasdxzv.xyz
 smbcwodeqingguoshoujicojp.top
 smbvidros.com
@@ -4922,9 +4912,7 @@ www.agri85.fr
 www.agrilogistica.it
 www.agsitesreis.com.br
 www.ahmeddawod.com
-www.aimazon.co.jp.support-overlook.buzz
 www.akhbarehaq.com
-www.aktivierungsdienst.de
 www.akturkharita.com
 www.alaskanmalamute.us
 www.alert-directonline.co.uk
@@ -4936,7 +4924,6 @@ www.alpha-mail-server2.ddns.info
 www.alpinemountaingear.com.np
 www.alquileres.com.py
 www.amarzonbilling.net
-www.amazon-amae.top
 www.amazon-amoe.buzz
 www.amazon-apay.buzz
 www.amazon-apay.cloud
@@ -4955,6 +4942,7 @@ www.amazonpays.buzz
 www.ambrosecourt.com
 www.ameport.org
 www.amgaccess.com
+www.amoeon.co.jp.veetqka.xyz
 www.amozan.szaisz.cn
 www.amozon.co.jp.japansning-amzoz.info
 www.andares.com
@@ -5118,7 +5106,6 @@ www.dofus-mmorpg.vip
 www.dolcevitabymerit.com
 www.domuterra.ch
 www.dreamcalzature.it
-www.drmartensmagasins.fr
 
 www.dropboxlogonsigninxpxs.murraybridgespeedwayclub.org.au
 www.dsastars.org
@@ -5297,11 +5284,9 @@ www.leitersadvogados.com.br
 www.lgt-plc.com
 www.lightlink.com.cn
 www.linea1s.com
-www.livingwagenyc.org
 www.lizlav2.lizlavendermr.com.au
 www.lloyd-bankingsupport.com
 www.lloyd-services.com
-www.lloydbank-accountreview.com
 www.lloydbank-cancel-payee-newlogin.com
 www.lloydbank-customer-online.com
 www.lloydbank-customers-online.com
