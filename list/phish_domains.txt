@@ -310,7 +310,6 @@ allegro-lokalnie.casa
 allegro-lokalnie.live
 allegro-lokalnie.shop
 allegro.24-pays.online
-allegrolokalnie.casa
 allegrolokalnie.pl
 allegrolokalnie.pw
 allegrolokalnie.uno
@@ -400,7 +399,6 @@ app-dec-access.com
 app-netfliix.u1239489.cp.regruhosting.ru
 app-onlinemobileappsecurehalifacxappsecure.mrtraveller.ir
 app-poloneix.com
-app-storage-jog.s3.us-west-000.backblazeb2.com
 app.box.com
 app.ganoexcelcambodiaclinic.com
 app.pandadoc.com
@@ -1520,7 +1518,6 @@ error-39427084.yabb.org.rw
 ersfilter-my.sharepoint.com
 ertu.streamlink.to
 es-ingdirect-app-7f42d6.ingress-daribow.easywp.com
-esafetech-bd.com
 escrow-tech.com
 escuadrondelpanico.es
 esgcommercialbrokers.com
@@ -1564,6 +1561,7 @@ expeditions-of-e.com
 expire-o2-billingupdate.com
 expire-o2-monthlybilling.com
 explorer.usweepstakes.com
+express-deliv-cust.com
 express-delivery.pl
 extracash-interlbank2021.com
 extravasatingmetalworker.com
@@ -1577,11 +1575,11 @@ f80e476c-4329-4a82-ae2b-40a9bc5e96df.htmlcomponentservice.com
 facadetesting.com
 facbk.atspace.com
 facealert.fr
+facebook-app001.duckdns.org
 facebook-login.tbit.vn
 facebook-marketplace-id44photo67181134666-item.com
 facebook-marketplace.item-90271.com
 facebook-notags-7likotq6hq.your-guide.net
-facebook-notags-badgx23xlh.your-guide.net
 facebook-security-id-pemblikran-news.duckdns.org
 facebook.anasaounalsoud.eu
 facebook.bahitom.com
@@ -1782,6 +1780,7 @@ getrobux.free.fr
 gfdgfcgfv.wixsite.com
 gfmfxefsrr-my.sharepoint.com
 gfxx.creatorlink.net
+gg.gg
 ghorana.com
 gianpub.com
 giffgaff-sim-support.com
@@ -1912,7 +1911,6 @@ halifax.device-authentication-login.com
 halifax.deviceverificationalert.com
 halifax.onlinepayee-disable.com
 halifax.secure-my-device.co.uk
-halifaxpayee-authorisation.com
 haliuk-secure-device.com
 hamc.org.in
 hamstermagic1.facebookhamster.repl.co
@@ -2143,7 +2141,6 @@ intermatico-v.webcindario.com
 intermaticon-e.webcindario.com
 intern.unibas-com.ch
 internationaleimmobilien.net
-internetbanking-tsb-signin.com
 intesa-id.com
 intesasecurweb.com
 intesasicurezzaonline.com
@@ -2404,7 +2401,6 @@ lecord.com
 lectiocolombia.com
 ledparade.nl
 legalshieldcorp-my.sharepoint.com
-legendary-stripe-fan.glitch.me
 legendoffender.com
 legendtitleagency.com
 legitgallery.com
@@ -2570,9 +2566,9 @@ m.4everproxy.com
 m.delivery.olx.pl-cashtransfers.store
 m.facebook.biz.closetsacorde.com
 m.faceebok.com-listing-item5782398638764.northmen262.com
-m.fb.profile.look4345.com
 m.olx.pl-cashtransfers.online
 m.olx.pl-cashtransfers.store
+m.olx.pl-orders.me
 m1oqm4.wixsite.com
 m42club.com
 m54af8.webwave.dev
@@ -3053,7 +3049,6 @@ o2-processbilling-update.com
 o2-securebilling-update.com
 o2-service-account.com
 o2-updatebillings.com
-o2-updatepayments.com
 obrasation-security-ck4779568231674986500.tk
 obrasation-security-ck4779568231674986501.tk
 obrasation-security-ck4779568231674986502.tk
@@ -3097,6 +3092,7 @@ olx-buypay.pl
 olx-dostavka.pl
 olx-kazakhstan.online
 olx-kurjer.xyz
+olx-pay.xyz
 olx-paybuy.com
 olx-pl-konto-ref.com
 olx-pl-offerts.website
@@ -3128,13 +3124,19 @@ olx.pl-konto.casa
 olx.pl-konto.cyou
 olx.pl-konto.net
 olx.pl-konto.shop
+olx.pl-orders.club
+olx.pl-orders.wiki
 olx.pl-payment.casa
 olx.pl-przesylka.info
 olx.pl-receive.casa
 olx.pl-safe.oferta-payment.me
 olx.pl-safecash.casa
 olx.pl-safeorder.casa
+olx.pl-save.casa
+olx.pl-savecash.casa
 olx.pl-savedelivery.casa
+olx.pl-savemoney.casa
+olx.pl-saveorder.casa
 olx.pl-savepay.casa
 olx.pl-shop.life
 olx.pl-shop.ltd
@@ -3155,6 +3157,7 @@ olxpl.guardpay.online
 olxpl.id23814.su
 olxpl.securepays.pw
 olxpt.delivery-v.me
+olxuainfo.site
 omertall.com
 omg-chksuspndemlhistorychkznumniym3.fra1.digitaloceanspaces.com
 omsd-auth-net.cf
@@ -3280,6 +3283,7 @@ palmosupso.wixsite.com
 panamericano-financial-institution.negocio.site
 panelweb-4cae2.web.app
 panxiyanqp.52doweb.cn
+papara.money
 paperboatmedia.com
 papuaadventure.com
 paracels.one
@@ -3457,6 +3461,7 @@ post-suivi-service.com
 post.ch-0000000000006656446.u1294979.cp.regruhosting.ru
 post.ch.u1293088.cp.regruhosting.ru
 postal.support
+postch-dj.top
 postchtrackingorder.com
 pourcontinueridauthenserweuronlineworking.000webhostapp.com
 powercase.shoplineapp.com
@@ -3834,7 +3839,6 @@ rreeufffsaussaa3.app.link
 rstools.club
 rubeeworks.com
 ruekrew.com
-rules.fb-com-27716368.f45t.com
 rules.fb-com-52432860.f45t.com
 rules.fb-com-63322503.f45t.com
 rules.fb-com-69843791.f45t.com
@@ -4017,7 +4021,6 @@ septikprime.ru
 sertyxese.myfreesites.net
 serv-secured-1.com
 server167147.nazwa.pl
-server522523.nazwa.pl
 servernuovaintesa.com
 serverupdate.getforge.io
 serveur987452.flywheelsites.com
@@ -4104,6 +4107,8 @@ simp.ly
 simpan-data-akun.cf
 simpan-data-akun.ga
 simpan-data-akun.gq
+simpan-data-akun.ml
+simpan-data-akun.tk
 simpletouchpos.com
 simsa.com.bo
 simtechglobal.com
@@ -4149,6 +4154,7 @@ smbc-card.ctrrr.com
 smbc-card.jsywn.com
 smbc-card.ordoos.com
 smbc-card.wzhyxx.com
+smbc-center.biz
 smbc-check.club
 smbc-check.cyou
 smbc-check.icu
@@ -4231,7 +4237,6 @@ sso.secureserver.net
 sswebmail-4w5twsr.web.app
 st-amu-cz.my-free.website
 stand.fbcom-51831420.fleacontrolperth.com.au
-stand.fbcom-55014189.fleacontrolperth.com.au
 stand.fbcom-88510113.fleacontrolperth.com.au
 starliker.net
 starmak.com.tr
@@ -4656,7 +4661,6 @@ verivikasi-pemblokiran-fb01.ml
 verivikasi-pemblokiran-fb01.tk
 verivikasi-pemblokiran-fb02.ml
 verivikasi-pemblokiran-fb03.gq
-verivikasi-pemblokiran-fb03.ml
 verzeichnisse.creatorlink.net
 vevobahis211.blogspot.com
 vevobahisbet.blogspot.com
@@ -4780,6 +4784,7 @@ webmailgobcom.creatorlink.net
 webmailsfr.moonfruit.com
 webmailsfrr.moonfruit.com
 webmall.storenewamazon.monster
+webmall.storenewrakuten.cyou
 webmallin.web.app
 webmial.calcplane.ga
 weboutlookstorageaccess.activehosted.com
@@ -4942,6 +4947,7 @@ www.amazon-check-co-jp.i3n.top
 www.amazon-check-co-jp.q4h.top
 www.amazon-check-co-jp.x6r.top
 www.amazon-line.buzz
+www.amazon-line.top
 www.amazon-toop.top
 www.amazon.de.signin.verification.openid.5935156.globthirsgare.cf
 www.amazonlogistics-ap-northeast-1.amazonlogistics.jp
@@ -5429,6 +5435,7 @@ www.officentry.com
 www.officested.com
 www.officialliker.co
 www.okeyciyiz.com
+www.olx-safepay.me
 www.online-securesite.com
 www.online.natwest-supportcentre.com
 www.online.natwest-welfare.com
@@ -5789,7 +5796,6 @@ yekih21957.wixsite.com
 yertredrevx.000webhostapp.com
 yetpack.com
 yoga.gift
-yogasharing.com
 youawecnufa.vysadetghasdx.top
 youngil.co.kr
 yourcashbackplus.co.uk
