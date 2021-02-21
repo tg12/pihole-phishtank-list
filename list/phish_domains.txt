@@ -173,7 +173,6 @@ account.paxful.com.unissenseafrica.com
 account5040.page.link
 accountauth.yahoo.reupdatehub.com
 accountchckecker-update-now.drpiza.com
-accounts-addedpayees.com
 accounts-newpayee.com
 accounts.paxful.com.paxful-security.com
 accounts.paxful.com.unissenseafrica.com
@@ -320,7 +319,6 @@ amaxcarrentals.com.au
 amaznde-com.webs.com
 amazon-jp-amazon-mailo.shop
 amazon.co.jp.aamazonk.buzz
-amazon.co.jp.bsdfasd.buzz
 amazon.co.jp.user.amazoncojp.cloud
 amazon.co.jp.useramazon.buzz
 amazonprime.servebeer.com
@@ -710,7 +708,6 @@ billing-errorhelp.com
 billing-my-ee.com
 billing-o2-failureupdate.com
 billing-o2-viaupdate.com
-billinginfo-mynetflix.com
 bimdur.com
 binance-china.com
 binarybenliveload.com
@@ -968,7 +965,6 @@ cimeriletisimmerkez.web.app
 cimslp-my.sharepoint.com
 cincinnatl-test.ebpages.com
 cingular-oac.qpass.com
-circularbrain.academy
 city-power.org
 citycouncil-refund.com
 cityschools2013-my.sharepoint.com
@@ -1067,6 +1063,7 @@ containerhouse.mn
 contarv.creatorlink.net
 content43532522.texservis.su
 contentmanians.com
+continue-page.servequake.com
 contomobile00.unaux.com
 contractcomplianceservices.com
 contractordoc.com
@@ -1684,7 +1681,6 @@ foundations-mx-19976486547863217.tk
 foundations-mx-19976486547863219.tk
 founders-1997312645882001.tk
 founders-1997312645882002.tk
-founders-1997312645882003.tk
 founders-1997312645882004.tk
 founders-1997312645882005.tk
 founders-1997312645882007.tk
@@ -1893,7 +1889,6 @@ halifax-securelink.com
 halifax-security-de-register-device.com
 halifax.device-authentication-login.com
 halifax.deviceverificationalert.com
-halifax.onlinepayee-disable.com
 halifax.secure-my-device.co.uk
 halifaxchecknewpayee.com
 haliuk-secure-device.com
@@ -2493,7 +2488,6 @@ lloydsbankplc.secure-prevent-auth.com
 lloydslogin.co
 lloydsplc-secure.com
 lloydsplc-unapprovetransfer.com
-lloyduk-deregister-device.com
 lloyduk-online.com
 lmasshop.com
 lms.ozyegin.edu.tr
@@ -2509,7 +2503,6 @@ logbromw.com
 login-authentication.com
 login-live.com-s02.info
 login-secure-three.uk.com
-login-web235817852.com
 login-webregistrobr.com
 login.sestyem.serviceon.jyotispecialschool.org
 loginboitevocale.wixsite.com
@@ -2620,7 +2613,6 @@ mail.secure-authenticationcheck.com
 mail.secure-payee-lloyds.com
 mail.secure-unauthorised-login.com
 mail.security-confirm-mypayments.com
-mail.unauthorisedrequestedpayees.com
 mail.unrecognisedrequestedpayee.com
 mail.verifikasixfacebook111.ml
 mail.verify-new-activity.com
@@ -2811,7 +2803,6 @@ mutatio.cl
 muxt.mi-me.com
 mx0.arqsys.srv.br
 my-02-billing.com
-my-3-billing-uk.com
 my-devices-halifax.com
 my-ee-billingservice.com
 my-site219.yolasite.com
@@ -3605,7 +3596,6 @@ rakutnn.co.jp.1snuahg4.cc
 rakutnn.co.jp.5gfbq9xj.cc
 rakutnn.co.jp.9y7bakpo.cc
 rakutnn.co.jp.bzjj06tl.cc
-rakutnn.co.jp.gq81qxki.cc
 rakutnn.co.jp.gtqkz4e2.cc
 rakutoen-1a5f.cc
 rakutoen-1urs.cc
@@ -4890,7 +4880,6 @@ www.amazon-amao.cyou
 www.amazon-amoe.buzz
 www.amazon-apay.buzz
 www.amazon-azon.cloud
-www.amazon-azon.cyou
 www.amazon-check-co-jp.a9l.top
 www.amazon-check-co-jp.c2u.top
 www.amazon-check-co-jp.c4u.top
@@ -4993,7 +4982,6 @@ www.chat-whatsapp.doctorhaddadpediatriayflores.cl
 www.chat-whatsappgrupjoinbokepweb.zzux.com
 www.chat.whatsapp.fvip38.com
 www.chatwhasstup.duckdns.org
-www.chatwhatsappnotnotofficial.duckdns.org
 www.chatwhatsapps.ezua.com
 www.check-accountdetails.com
 www.checkalertedpayments.com
@@ -5263,7 +5251,6 @@ www.lizlav2.lizlavendermr.com.au
 www.lloyd-onlinedepartment.com
 www.lloydbank-accountsecurebanking.com
 www.lloydbank-customer-device.com
-www.lloydbank-customer-online.com
 www.lloydbank-customers-online.com
 www.lloydbank-devices-support.com
 www.lloydbank-help-devicemanagement-gb.com
@@ -5397,7 +5384,6 @@ www.officentry.com
 www.officested.com
 www.officialliker.co
 www.okeyciyiz.com
-www.olx-safepay.me
 www.olx.pl.oformlenie-uslug.ru
 www.olx.pl.oformlenie-uslug.ru:443
 www.online-securesite.com
