@@ -70,7 +70,6 @@
 4574c5a83f3739528.temporary.link
 472a4262-a2a1-4785-b3aa-4816cba070ed.htmlcomponentservice.com
 48tlp.codesandbox.io
-4919g3rx.yolasite.com
 4jv02.app.link
 4pda.vip
 4ph.asia
@@ -175,6 +174,7 @@ accountauth.yahoo.reupdatehub.com
 accountchckecker-update-now.drpiza.com
 accounts-addedpayees.com
 accounts-newpayee.com
+accounts.paxful.com.paxful-security.com
 accounts.paxful.com.unissenseafrica.com
 accounts.sanpchat.com.ghasalah.com
 accountsummaryhomemain0custoemrfwe89ew.000webhostapp.com
@@ -501,6 +501,7 @@ authenticate-my-transfers.com
 authenticate-mynewpayee.com
 authenticate-newlyadded-payee.com
 authenticatesecure-check.com
+authenticationsecurerequest.com
 authentification-o.wixsite.com
 authorcheck.com
 authorise-thisdevice.com
@@ -730,6 +731,7 @@ biversum.com
 bizydev.com
 bklpbgbbwhpvlfsxztmkajbepppyhbxs-dot-onk89909.wn.r.appspot.com
 black-friday-magazineluiza.com
+bladeio9.com
 blandido.tonohost.com
 bless12.godaddysites.com
 bliiss.shop
@@ -1036,6 +1038,7 @@ compagnidiviaggio.net
 complaint-vk.000webhostapp.com
 compliance-central.com
 composito.com.br
+computrcomers.com
 comune.gioiadeimarsi.aq.it
 comunicazioniarubait.tumblr.com
 comvocesemprecef.com
@@ -1265,6 +1268,7 @@ directionroyalty.com
 directory-templates.com
 directpayementtransac.000webhostapp.com
 discovercoastalvacations.com
+dishub.landakkab.go.id
 diskussionsforen-ebay-de.test105227.test-account.com
 diskussionsforum-ebay-betrug-de-wst32.html-5.me
 disq.us
@@ -1515,6 +1519,7 @@ evening-whip-aster.glitch.me
 events.af
 everyfunnow.com
 evidaac.com
+evolluetek.com.br
 evotechss.com
 evroopt.life
 ewrbanking.com
@@ -1843,6 +1848,7 @@ grouppostmail.com
 groups-chats-whatsapps7.wikaba.com
 groups-whatsapps.otzo.com
 groupwhattsap.jkub.com
+grub-whatsaapmyj.duckdns.org
 grubbokep22.mrbonus.com
 grubwhatsapp.ezua.com
 grubwhatsapp18.mrslove.com
@@ -2114,7 +2120,6 @@ intermaticon-e.webcindario.com
 intern.unibas-com.ch
 internationaleimmobilien.net
 intesa-id.com
-intesasecurityweb.co
 intesasecurweb.com
 intesasicurezzaonline.com
 invitation-page-policy-notification-2021.my.id
@@ -2217,7 +2222,6 @@ joingrup18sexvidio.ourhobby.com
 joingrup18vidio.ourhobby.com
 joingrupme18.ourhobby.com
 joingrupmwsex18.ourhobby.com
-joingrupwhastappbokep.zzux.com
 joingrupwhatsapp81.wikaba.com
 joingrupwhatsapp99.xxuz.com
 joinmygrupwhatsapps.wikaba.com
@@ -2438,7 +2442,6 @@ lloydbank-online-payeesupport-gb.com
 lloydbank-paymenthold.com
 lloydbank-secured-managepayees-gb.com
 lloydbank-securedevice.com
-lloydbank-unauthorisedactivity.com
 lloydbanking-onlineaccess.com
 lloydbanking-secure-payee-attempt.com
 lloydbanking-secureinfo.com
@@ -2607,7 +2610,6 @@ mail.unauthorisedrequestedpayees.com
 mail.unrecognisedrequestedpayee.com
 mail.verifikasixfacebook111.ml
 mail.verify-new-activity.com
-mail.verify-registerdevice.com
 mail.vidativatriclub.com.br
 mail.warning.facebook-pemblokiran.online
 mail2.mclink.it
@@ -2644,7 +2646,6 @@ marjonhomes.com
 marketing-sense.co.uk
 marketinghbt-my.sharepoint.com
 marketplace-65985214.com
-marketplaceitem27813.xyz
 marketvit.by
 markirohainc.com
 massageandprayers.com
@@ -2900,7 +2901,7 @@ netservice-upd.tumblr.com
 network-detail-errorsuk.com
 network.innovatedm.com
 neuconnectioned-lo.wixsite.com
-neutrino1000.000webhostapp.com
+new-add-payee.com
 new-auth-via.com
 new-control-pamis.com
 new-devicehelp.com
@@ -3339,7 +3340,6 @@ pearlfilms.com
 peds-ortho.com
 peer.yourluv.co
 pelanta.com
-pembatalan-pemblokiran-new5.ml
 pembatalan-pemblokiran-new5.tk
 pemblokiranfb-2021.weebly.com
 pemblokiranfb.bzid.ga
@@ -3551,7 +3551,6 @@ raketenm-ri243.cc
 raketenm-tk23ia.cc
 raketenm-vcydv.cc
 raketenm-zq5et.cc
-rakozamz.rckutenm.top
 rakucatnn.co.jp.gsv34dgp.com
 rakucatnn.co.jp.hzg6edcd.cc
 rakucatnn.co.jp.k9bqefr3.cc
@@ -3906,6 +3905,7 @@ secure-helponline.misecure.com
 secure-hs-bc-authorise.com
 secure-lloyds-helpteamuk.com
 secure-myee-account.com
+secure-new-activity.com
 secure-new-paye.com
 secure-online-login.com
 secure-online-payeemagement.com
@@ -4180,7 +4180,6 @@ spropes-auntmillies-com.slite.com
 sprout-spangle-foxtail.glitch.me
 srbs1937.org
 srffinance02.pagedemo.co
-sri-frankfurt.org
 srivenkateshwaraeggs.com
 srv-auth.web.app
 sslseguridad.com
@@ -4321,7 +4320,6 @@ taksi-econom.ru
 talkingflight.com
 tambolin.adv.br
 tameerksa.com
-tan2go-services.com
 tan2godkb.com
 tanbo.main.jp
 tancentgamegroup.com
@@ -4403,6 +4401,8 @@ tighi.creatorlink.net
 tim-facebook-app.cf
 tim-facebook-app.ml
 tim-facebook-app.tk
+tim-facebook.cf
+tim-facebook.gq
 timeopinion.com
 tinjau-data-tim-facebook.cf
 tinjau-data-tim-facebook.gq
@@ -4592,7 +4592,6 @@ veracitedusitebc.000webhostapp.com
 verfiz.me
 verfyme.creatorlink.net
 verificationmessage.blob.core.windows.net
-verifiikasi-facebook-anda.weebly.com
 verifikasiifb6780.gq
 verifikasixfacebook111.ga
 verifikasixfacebook111.ml
@@ -4687,7 +4686,6 @@ w5czf.csb.app
 w6634s.webwave.dev
 waat.25u.com
 wagrup-new.qhigh.com
-waitiaodixoiasx.azurewebsites.net
 wallieget.com
 warning.facebook-pemblokiran.online
 watcherinsrisuk.000webhostapp.com
