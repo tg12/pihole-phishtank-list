@@ -545,7 +545,6 @@ banking.sparkasse.de-sicherheitsabfrage-id917a4471dds931149.xyz
 bankloginonline.com
 bankofamerica-logins.dns05.com
 bankofamericans-001-site1.dtempurl.com
-bankpayee-unregister.com
 bankpayees-unregister.com
 baradua.it
 baseconsultasia.com
@@ -1264,7 +1263,6 @@ dostawa-safe.name
 dostawa-safe.net
 dostawa-safe.org
 dostawa-safe.su
-dostawapl.pay-receive.xyz
 dota-hook.com
 dota2ez.top
 dota2og.top
@@ -1484,7 +1482,6 @@ explorer.usweepstakes.com
 exposablereach.com
 express-deliv-cust.com
 express-delivery.pl
-extracashpreapro-rapido-digital.com
 extravasatingmetalworker.com
 ey8jl.csb.app
 eye-lucir.com
@@ -2154,7 +2151,6 @@ joined-groupz-hot.jetos.com
 joingroup2.myz.info
 joingroupwhatsapp.hostarina.me
 joingrub-bokep18.wikaba.com
-joingrubmabarnotnot1.duckdns.org
 joingrubmabarnotnot2.duckdns.org
 joingrubmabarnotnot3.duckdns.org
 joingrubmabarnotnot4.duckdns.org
@@ -2497,7 +2493,6 @@ mail.confirmauthentication.com
 mail.delpaz.org
 mail.expire-o2-monthlybilling.com
 mail.facebook-pemblokira-id.duckdns.org
-mail.femtogen.com
 mail.flacland.com
 mail.geekyjuice.com
 mail.gmcconsulting.com.ng
@@ -2627,7 +2622,6 @@ meritroyal260.bet
 meritroyalbetgiris20.com
 merveyilmazericmimarlik.com
 mesquecamping.es
-messagerievocale3.wixsite.com
 messenger-updates.ga
 mester.info.hu
 metabacan.000webhostapp.com
@@ -2779,7 +2773,6 @@ mythree-contract.com
 myupdates-mynetflix.com
 myvodaphone-secure-update.com
 mzecz.webeden.co.uk
-n-jo.com
 n26-particuluar-n26-personal-own.boxofbusinessblogs.com
 n26i.com
 n3y67imqjqjx7zix253b54d47u-adwhj77lcyoafdy-www-paypal-com.translate.goog
@@ -2989,6 +2982,7 @@ olx-oplata.org
 olx-paczka.pl
 olx-paybuy.com
 olx-pl-konto-ref.com
+olx-pl.kcassa.info
 olx-pl.trackersdelivery.com
 olx-pt.pays-access.com
 olx-pt.pays-access.com:443
@@ -3000,11 +2994,12 @@ olx-ua.pays-security24.online
 olx.allegandirect.com
 olx.conactless-pay.store
 olx.delivery-n.me
+olx.kcassa.info
 olx.orderpl.club
 olx.orders-pls.biz
 olx.orders-pls.live
-olx.pl-0rder.design
-olx.pl-0rder.icu
+olx.orders-pls.vip
+olx.orders-pls.xyz
 olx.pl-logowanie.cyou
 olx.pl-logowanie.rest
 olx.pl-payout.surf
@@ -3030,9 +3025,9 @@ olx.pl.oferta-payment.link
 olx.pl.oferta-payment.today
 olx.pl.safepay.icu
 olx.pl.transaction.oferta-payment.net
-olx.poland-orders.fun
 olx.poland-orders.life
 olx.poland-orders.shop
+olx.qa.getpay.pw
 olx.rwpay.ru
 olxbank.cash
 olxbank.cc
@@ -3082,7 +3077,6 @@ onlineroisupportupdate.com
 onlinesecureadd.link
 onlinesharepoint.typeform.com
 onlineugyvitel.hu
-onlinez3mtb.myvnc.com
 oolx.pl
 oosk.tk
 ooxvocalor.yolasite.com
@@ -3307,7 +3301,6 @@ plpg.com.au
 plytecfi-my.sharepoint.com
 pmbonline.unmuha.ac.id
 pmiconnect-my.sharepoint.com
-poczta.pl-payouts.casa
 poczta.pl-payouts.icu
 poczta.pl-safepayouts.casa
 poczta.pl-savepay.icu
@@ -3484,7 +3477,6 @@ rakuten-setup.biz
 rakuten-setup.cloud
 rakuten-teach.cloud
 rakuten-teach.cyou
-rakuten.co.jp.101rakuten.buzz
 rakuten.co.jp.rakutenghkj.buzz
 rakuten.co.jp.rakutenpay.xyz
 rakuten.co.jp.rakutnenv.xyz
@@ -3493,6 +3485,7 @@ rakutene.co.jp.eryue.co
 rakutentet.bosfhdz.xyz
 rakutentety.amzzon.buzz
 rakuteoen.co.jp.uioerabkdffn.shop
+rakuteoen.co.jp.uioernokdffd.info
 rakutoen-1a5f.cc
 rakutoen-1urs.cc
 rakutoen-2ekz.cc
@@ -3606,7 +3599,6 @@ ref088372.com
 reference-login-ck7554689237691246869005.tk
 references-login-ck6374458213598764589538405.tk
 references-login-ck6374458213598764589538406.tk
-references-login-ck6374458213598764589538409.tk
 reff-notice.com
 regiaocentrorsmg.websicredi.com.br
 regiaocentrorsmg.websicredi.com.br:443
@@ -3714,6 +3706,7 @@ runescapeapk.com
 runescapeservices.com
 ruostgseanstrui704.000webhostapp.com
 russianamericanballet.com
+rust-nasal-popcorn.glitch.me
 ryanhcollier.com
 s-paypalinfo.ml
 s.free.fr
@@ -4704,6 +4697,7 @@ www-degelyehuda-org-il.filesusr.com
 www-europe564598-com.filesusr.com
 www-europessign-com.filesusr.com
 www-olxpl-safe.space
+www-olxpldelivery.xyz
 www-paypal-com-login.menlosec.com
 www.123formbuilder.com
 www.1ka.si
@@ -4881,6 +4875,7 @@ www.covid-19challengecoin.com
 www.covidmask24.com
 www.creativecombat.com
 www.credilatam.com
+www.creditsuissebanking.com
 www.crg.co.uk
 www.cursosmaquiagem.com
 www.cutt.ly
@@ -5366,7 +5361,6 @@ www.shalomtextiles.com
 www.shaoguzhai.cn
 www.shareholds.com
 www.sharepointle.com
-www.sharesbyte.com
 www.sharestion.com
 www.shebasecurity.com
 www.shoploja-america.com
