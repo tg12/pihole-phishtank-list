@@ -182,7 +182,6 @@ account.fido.validation.information.ssl-truechannel.radyotom.com.tr
 account.paxful.com.unissenseafrica.com
 account5040.page.link
 accountchckecker-update-now.drpiza.com
-accountdistant.com
 accountee-revision.com
 accountnetflix-billinginfo.com
 accounts-newpayee.com
@@ -223,7 +222,6 @@ admin-hostpoint.ch-customer-auth-login-b44152f8.compagniaguidedelletna.it
 admin.baragor.se
 admin.ipaoo.fr
 adminivericentrics.wapka.website
-adminupgrade.moonfruit.com
 adnet8.com
 adolfo-lara.com
 adporbe.club
@@ -604,7 +602,6 @@ banca-general3.webcindario.com
 bancaporinntermet-imtrbamk.digital
 bancaporinternet-net1nterbankpe1.com
 bancaporinternet-netinterbankpe11.com
-bancaporinternetl-interbarkpe4.com
 bancaporinternetsit.interbank.pe
 bancodecomercio.elegroup.com.pe
 bancogaliicia.com
@@ -1961,7 +1958,6 @@ grubbokep22.mrbonus.com
 grubwhatsaap.bokepindoviral.vipjoin.xyz
 grup-18plus.holzfam.com
 grup-wa-bokep18.wikaba.com
-grup-wanotnot2021.duckdns.org
 grup-whatsaapnotnot.cobra-jono7263.gq
 grup18bkppwa.duckdns.org
 grupbokep2021-fp.duckdns.org
@@ -2252,7 +2248,6 @@ instagramloginphotopost.herokuapp.com
 instagramprikolu.ru
 instagromn.com
 instant-online-support.com
-instapproject.000webhostapp.com
 institutoaxioma.com.ar
 intellectechinc.co.uk
 interac.arandanoseldinde.com
@@ -3349,7 +3344,6 @@ olx.pl.oferta-payment.today
 olx.pl.transaction.oferta-payment.net
 olx.pl.transfer-info.site
 olx.polska-oferla.club
-olx.polska-oferla.digital
 olx.polsko-oferta.life
 olx.polsko-oferta.live
 olx.rouder.info
@@ -3524,7 +3518,6 @@ pay-sera.web.app
 pay-today.cc
 pay.moban.com
 pay16-olx.pl
-pay17-olx.pl
 pay18-olx.pl
 pay19-olx.pl
 payecleboncoin.000webhostapp.com
@@ -4049,7 +4042,6 @@ royal.mail-redeliveries.com
 royalesc.ru
 royalmaii.co.uk.parcel445.com
 royalmail-confirm.com
-royalmail-delivery-auth.com
 royalmail-delivery.me
 royalmail-fee-parcel.com
 royalmail-fee-payment.com
@@ -5912,7 +5904,6 @@ www.loydsbank.co.uk-mydevices.uk
 www.maciel.med.br
 www.madrugadaolanches.com.br
 www.mahdistock.com
-www.mail-delivery.support
 www.mainehomeconnection.com
 www.makxiad.xyz
 www.malaysiamax.com
@@ -6295,7 +6286,6 @@ www.venixotechnologies.com
 www.vereins.at
 www.verify-my-newpayee-help.com
 www.verify-my-newpayee-support.com
-www.verify-my-newpayees-security.com
 www.verify-my-newpayees-support.com
 www.verify-mynew-devices.com
 www.verify-newdevicelogin.com
