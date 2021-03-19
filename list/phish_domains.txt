@@ -2203,7 +2203,6 @@ id008374.com
 identifiez-vous-avec-votre-compte.yolasite.com
 identify-newpayees.com
 identity-newpayees.com
-identity-payeemanagement.com
 identityalert-newpayees.com
 ideonpackaging-my.sharepoint.com
 ieecenhuovqsikthkxzmechvkt-dot-gl099898987fhkl.uk.r.appspot.com
@@ -2667,6 +2666,7 @@ login-secure-three.uk.com
 login-sign.godaddysites.com
 login-webregistrobr.com
 login.japannetbank.co.jp.bbgqz.com
+login.japannetbank.co.jp.whcfy.net
 login.live.dns-ssl.com
 login.microsoftonline.us
 login.notifications.royal.my-parcel-confirmation.com
@@ -3209,7 +3209,6 @@ norcaltc-my.sharepoint.com
 nordcity.by
 noreply-netelle.blogspot.com
 noreply2redirect2.site44.com
-noreplyattcurrentlyyahoomail.weebly.com
 norreply.paypal.jajaleen.com
 northcountyluxuryrealestate.com
 nortonknatchbull-my.sharepoint.com
@@ -3275,6 +3274,11 @@ o2renewbilling.com
 oamazon.hailuogo.net
 objectstorage.ap-chuncheon-1.oraclecloud.com
 obnsiujtazdghencwaepxxoquf-dot-gle39404049.rj.r.appspot.com
+observation-expert-ck5992746831259852649901.tk
+observation-expert-ck5992746831259852649902.tk
+observation-expert-ck5992746831259852649903.tk
+observation-expert-ck5992746831259852649904.tk
+observation-expert-ck5992746831259852649905.tk
 observatoriodeourofino.com.br
 obslive.oss-eu-west-1.aliyuncs.com
 obsydium.com
@@ -3346,7 +3350,6 @@ olx.pl-orders.cyou
 olx.pl-orders.surf
 olx.pl-orders.xyz
 olx.pl-portal.life
-olx.pl-safedealing.surf
 olx.pl-savedealing.surf
 olx.pl-savemoney.work
 olx.pl-saveorders.xyz
@@ -3597,7 +3600,6 @@ pell-mell-lookouts.000webhostapp.com
 pembatallan-pemblockirran.ga
 pembatallan-pemblockirran.gq
 pemblokiran-1.duckdns.org
-pemblokiran-2.duckdns.org
 pemblokiran-facbook.duckdns.org
 pemblokiran-fb8.starsbers8.gq
 pemblokiran.logindatafacebok.ml
@@ -3726,13 +3728,15 @@ professionalindemnityinsurance.com.mt
 projec.arq.br
 promcuscotravel.com
 promehedinti.ro
+promotion-payment-ck-45670008594652586551.tk
+promotion-payment-ck-45670008594652586552.tk
+promotion-payment-ck-45670008594652586554.tk
 promotion-point-ck78955547895462879541.tk
 promotion-point-ck78955547895462879542.tk
 promotion-point-ck78955547895462879543.tk
 promotion-point-ck78955547895462879544.tk
 promotion-point-ck78955547895462879545.tk
 promotion-point-ck78955547895462879546.tk
-promotion-point-ck78955547895462879547.tk
 promotion-point-ck78955547895462879548.tk
 promotion-point-ck78955547895462879549.tk
 promotion.boat4.de
@@ -3829,6 +3833,7 @@ rakuteen.co.jp.egdutpqs.cc
 rakuteen.co.jp.m8kucnao.com
 rakuteen.co.jp.m8ptxld0.cc
 rakuteen.co.jp.m8ptxld0.com
+rakutejp1.com
 rakuten-card.work
 rakuten.co.jp.rakutpo.xyz
 rakuten.co.jp.rakuuteen.xyz
@@ -3838,6 +3843,7 @@ rakutenss.rakuuqk.com
 rakuteten.rkiua.shop
 rakutetne.wrealoicp.club
 rakutteenne.yudfoiwer.club
+rakuttet.rausjk.net
 ramgarhiamatrimonial.ca
 ras-tracking.com
 ratuten.rakutenpe.icu
@@ -5142,7 +5148,6 @@ vukovarski-spomenar.com
 vvbzcdxbkprckhkctinikkisch-dot-gle39404049.rj.r.appspot.com
 vvipidm.com
 vvsmsmms.yolasite.com
-vwallet.top
 vwbank.inforia.net
 vwcguauzkivykozaeoxvkaornb-dot-gle39404049.rj.r.appspot.com
 vxhkuihraoyiiqyojoxrdpldxu-dot-gl099898987fhkl.uk.r.appspot.com
@@ -5351,7 +5356,6 @@ www.alessandromari.net
 www.alienfoodedibles.com
 www.alinhador3d.com.br
 www.allegro-lokalnie.club
-www.almondintegral.com
 www.alpha-mail-server2.ddns.info
 www.alpinemountaingear.com.np
 www.alquileres.com.py
@@ -5748,7 +5752,6 @@ www.grab.zenstream.com
 www.grub-mabar-efdeweyt.duckdns.org
 www.grubwa-1.duckdns.org
 www.grubwhatsaap.bokepindoviral.vipjoin.xyz
-www.grup-18plus.holzfam.com
 www.grup-wanotnot2021.duckdns.org
 www.grup-whatsappsexy.xxuz.com
 www.grup18bkppwa.duckdns.org
@@ -6011,7 +6014,6 @@ www.o2-uk-resolution.com
 www.o2-ukresolutions.com
 www.o2-updatefailure-via.com
 www.o2billingrenewal.com
-www.ofertadeportes.com
 www.office.com.lang-en.ga
 www.officence.com
 www.officences.com
@@ -6475,14 +6477,12 @@ xxxxxx.immowelt.ru
 xxxxxxx.immowelt.ru
 xyproject.xtensio.com
 y3s2ye.webwave.dev
-y5jdfeng.shop
 y6jdfen.shop
 yahoo-verfication.weebly.com
 yahooscreenupgrade.weebly.com
 yahooverification01.weebly.com
 yahserv-6674.weebly.com
 yakutcement.ru
-yamete27273773.000webhostapp.com
 yanbalecuador-001-site1.htempurl.com
 yastatic.net
 yauohwijrqefqyiywrxzejtqcw-dot-gl099898987fhkl.uk.r.appspot.com
@@ -6503,7 +6503,6 @@ youngil.co.kr
 youwingirisimiz.blogspot.com
 ypyztdoebuckpwjimctswtrbtv-dot-gl099898987fhkl.uk.r.appspot.com
 yshau.com
-yszdd9w8tm3nwcg1k5pq5w-on.drv.tw
 ytco.in
 yttevwtbwazqqggxcwpglexowd-dot-poised-bot-306515.uk.r.appspot.com
 ytthn.com
