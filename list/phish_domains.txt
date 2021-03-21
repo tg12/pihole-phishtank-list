@@ -304,7 +304,6 @@ aliciabot.azurewebsites.net
 aliorbank.io
 alishasproducts.com
 alkawaterdiy.com
-allcryptex.com
 allegro-m.pl
 allegro-pl-7e2a33.ingress-daribow.easywp.com
 allenhgm.com
@@ -347,7 +346,6 @@ amazon.co.jp.danyjashop.buzz
 amazon.co.jp.dtredtertt1.buzz
 amazon.co.jp.dtredtertt2.buzz
 amazon.co.jp.gasiqwe3.buzz
-amazon.co.jp.s1s33.xyz
 amazon.co.jp.sdjiapssan1.buzz
 amazon.co.jp.sdjiapssan2.buzz
 amazon.co.jp.solucionservnrsmintony002.ml
@@ -835,7 +833,6 @@ bpl.kr
 bqubixgnfhhkrhtkfcmvmojrlx-dot-gl099898987fhkl.uk.r.appspot.com
 br4.in
 br622.teste.website
-bradescodispositivo.myvnc.com
 brassunnysolar.blogspot.com
 bravobeveiliging-my.sharepoint.com
 brcgorhrnnqshfdfcnovtwqflg-dot-gle39404049.rj.r.appspot.com
@@ -1684,7 +1681,6 @@ facebook.promobulanan.com
 facebook1903.duckdns.org
 facebook2021-bug.take-free-1.gq
 facebookk.gearhostpreview.com
-facebooks2021-bug.take-free-1.gq
 fairauditors.com
 faith.bespawlersailors.com
 faktypolska7.b-cdn.net
@@ -1814,7 +1810,6 @@ fromattyahoomailnetfay.weebly.com
 frontiermail2.weebly.com
 fruernes.dk
 fsysbackup.com.br
-ftfracing.top
 ftp.lesterandco.com
 ftp.warfacebonus.hop.ru
 fuentesfidedignas.com.mx
@@ -2489,7 +2484,6 @@ kqjgcscejwazmsuvzeehgqitdg-dot-gle39404049.rj.r.appspot.com
 krabi.go.th
 kraftcarioca.com.br
 krakenrums.blogspot.com
-kreativekustomdesignz.com
 krieagle.com
 kscre.org
 kubud.pl
@@ -2880,9 +2874,11 @@ messagerie-orange-vocal-20215.yolasite.com
 messagerie-orange141.yolasite.com
 messagerie-vocal-orange-20215.yolasite.com
 messagerie-vocal-orange-20216.yolasite.com
+messagerie-vocal-orange-20218.yolasite.com
 messagerie-vocale-orange-202142.yolasite.com
 messagerie-vocale-orange-pro-202155.yolasite.com
 messagerie-vocale-orange-pro-202157.yolasite.com
+messagerie-vocale-orange-pro-202158.yolasite.com
 messagerie-vocale-par-sms-orange-202128.yolasite.com
 messagerie-vocale131.yolasite.com
 messagerie-vocale137.yolasite.com
@@ -3279,7 +3275,6 @@ odbieraj-nagrody.com.pl
 odhikar.com
 ofaqfdaybabzfphbdwzvqcpmwz-dot-gle39404049.rj.r.appspot.com
 offal.odoo.com
-offficce365.weebly.com
 office365-microsofet-secure.weebly.com
 office365.eu.vadesecure.com
 officeee.bubbleapps.io
@@ -3745,7 +3740,6 @@ puffing.com.pk
 pulihkan-accountt2303.webnode.com
 puntaarenas.cl
 purchaseorder100.000webhostapp.com
-pushnotification-c0mhyujm0ucn7y.com
 pwcs-bnm.ml
 pwcs-co.cf
 pwcs-co.ml
@@ -4249,7 +4243,6 @@ secure-paypal07.serveftp.com
 secure-registerpayee.com
 secure-request-cancellation.com
 secure-ssl-cdn.com
-secure-strato0f81c9ea.groupe-fr-complete.com
 secure-strato23019ee0.groupe-fr-complete.com
 secure-strato65e12161.groupe-fr-complete.com
 secure-user3auth.ddns.net
@@ -4334,6 +4327,7 @@ servicemaillaposte93.wixsite.com
 serviceoutade.groutmastersatlanta.com
 services-vodafone.com
 services.runescape.com-ca.ru
+services.runescape.com-cn.ru
 services.runescape.com-m.cc
 services.runescape.com-no.ru
 services.runescape.com-nu.ru
@@ -4576,7 +4570,6 @@ steven-coldwellbth9965.web.app
 sthqncsdidugbpykytaycffowt-dot-gl099898987fhkl.uk.r.appspot.com
 stimulus-claim.com
 stitch-statichosting-prod.s3.amazonaws.com
-stjosephs.org.au
 stolizaparketa.ru
 stollgroup.coms.cso.gov.tt
 stomkinscommercial.com.aus.cso.gov.tt
@@ -5202,7 +5195,6 @@ whare.100webspace.net
 whatsapp-com.forumz.info
 whatsapp-invitegrup.ddns.net
 whatsapp-join.jovirals.duckdns.org
-whatsapp.ayana1403.duckdns.org
 whatsapp.blazagency.com
 whatsapp18girl.4pu.com
 whatsappchat.zyns.com
@@ -5569,7 +5561,6 @@ www.chetskivilleroasters.com
 www.chiarabernardi.it
 www.choicefranchiseadvisors.com
 www.cibalvo.com
-www.cimbclickikn.cc
 www.clearviewpartners.in
 www.clinicasaudearo.com
 www.codashop-ph2020.ezua.com
@@ -6212,10 +6203,8 @@ www.stolizaparketa.ru
 www.structureui.com
 www.studiogiardasrls.it
 www.support-confirm-my-newpayments.com
-www.support-confirm-mytransfers.com
 www.support-confirm-newpayment.com
 www.support-confirmpayee.com
-www.support-confirmpayees.com
 www.support-confirmpayment.com
 www.support-my-new-device.com
 www.support-mynew-device.com
@@ -6229,7 +6218,6 @@ www.support-verify-mydevice.com
 www.support-verify-mydevices.com
 www.support-verify-newtransactions.com
 www.support-verify-newtransfers.com
-www.support-verifypayment.com
 www.support.live-purchase-protection.com
 www.supportmediateam.com
 www.supremeanimation.com
@@ -6329,7 +6317,6 @@ www.volarevic.com
 www.vulkanland-bio-safran.at
 www.w3go.me
 www.wallsailors.com
-www.washalgulfchemicals.com.sa
 www.washpucks.com
 www.wbrotherhood.com
 www.wearenaughty.com
