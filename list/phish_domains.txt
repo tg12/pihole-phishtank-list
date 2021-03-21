@@ -114,6 +114,7 @@
 67deac72043739575.tempsite.link
 6b92529b.
 6e33r.codesandbox.io
+728-blocking.forumz.info
 779zt.csb.app
 77auth.xyz
 7859de.xyz
@@ -352,6 +353,8 @@ amazon.co.jp.solucionservnrsmintony002.ml
 amazon.co.jp.twq56.com
 amazon.co.jp.x5598.buzz
 amazon.co.jp.yxnkznnhzgzhc2rncmd3ddu0nzm0mju2nzg1ngvnzgdmzghhc2zhc2y.amaoen.top
+amazon.co.jp1.844up.buzz
+amazon.co.jp1.dgg251.buzz
 amazonbb.icu
 amazoncojpxsja.xyz
 amazoncoukaddcard.000webhostapp.com
@@ -374,13 +377,11 @@ amoozin.com
 amoueon.emyr1.cn
 amozanm-rrbrb.cc
 amozanm-rrere.cc
-amozon-co-jp.wk16wop79pm1c4op45iu.aejk.xyz
 ams-eg.com
 ams3.digitaloceanspaces.com
 amz.servicecsl-jp.cc
 amznazon.co.jp.agjrrtrt.buzz
 amznazon.co.jp.fqwesd.buzz
-amznazon.co.jp.qfgeere.buzz
 amznazon.co.jp.qgdfhdfsdfsdf.buzz
 amznazon.co.jp.qgsd.buzz
 amznazon.co.jp.tgdasd.buzz
@@ -785,7 +786,6 @@ block-fb-id.ga
 block-fb-id.gq
 block-payee.com
 blocked-facebook7.forumz.info
-blocks-fb-id.cf
 blocks-fb-id.ga
 blocks-fb-id.ml
 blocks.rn86.ru
@@ -1667,6 +1667,11 @@ faceb00k20211.000webhostapp.com
 facebok-blocked.event794.tk
 faceboo.claimevnt-com.tk
 facebook-2003.duckdns.org
+facebook-blockir.cf
+facebook-blockir.ga
+facebook-blockir.gq
+facebook-blockir.ml
+facebook-blockir.tk
 facebook-login-customer-security-support-ticket-number-19485643.gmi.com.ng
 facebook-login.tbit.vn
 facebook-rentals.alaounalarabia.com
@@ -2747,7 +2752,6 @@ mail.hfcfit.com
 mail.inatel.pt
 mail.ingegneriaingonlin.com
 mail.jimdavidsoncolumn.com
-mail.joingrupwhtasapp.duckdns.org
 mail.klikbsi.id
 mail.lloydbank-connect-secure.com
 mail.lloydbank-help-secure.com
@@ -3001,7 +3005,6 @@ my-devices-halifax.com
 my-jcb-co-jp.bmpheyu.bar
 my-jcb-co-jp.edxfcbv.bar
 my-jcb-co-jp.epuirwz.bar
-my-jcb-co-jp.xdfshoz.bar
 my-jcb.mibishilengqueta.com
 my-jcb.myes.top
 my-jcb.vipbkys.top
@@ -3135,7 +3138,6 @@ newlien.site44.com
 newlifeschooloftheology.com
 newlive-procedure.com
 newonline-restrict-payee.com
-newpayee-protocol.com
 news-for.ru
 newsbrigade.com
 newsimdigital.com
@@ -3806,7 +3808,6 @@ rakuten--card.co.jp.aomkbn.bar
 rakuten-card.work
 rakuten.co.jp.rakutpo.xyz
 rakuten.co.jp.rakuttenn.xyz
-rakuten.co.jp.rakuuteen.xyz
 rakutencojp.gq
 rakutetne.wrealoicp.club
 rakuttet.rausjk.net
@@ -5194,7 +5195,6 @@ wgjflohpzqymtbuyiifinfphqh-dot-gl099898987fhkl.uk.r.appspot.com
 whare.100webspace.net
 whatsapp-com.forumz.info
 whatsapp-invitegrup.ddns.net
-whatsapp-join.jovirals.duckdns.org
 whatsapp.blazagency.com
 whatsapp18girl.4pu.com
 whatsappchat.zyns.com
@@ -5315,7 +5315,6 @@ www.alertedpayeeinfo.com
 www.alessandromari.net
 www.alienfoodedibles.com
 www.alinhador3d.com.br
-www.allegro-lokalnie.club
 www.alpha-mail-server2.ddns.info
 www.alpinemountaingear.com.np
 www.alquileres.com.py
@@ -5478,7 +5477,7 @@ www.amazonjpcvv.xyz
 www.amazonlogistics-ap-northeast-1.amazonlogistics.jp
 www.ambrosecourt.com
 www.ameport.org
-www.amoem-rn.com.ar
+www.amiozan.co-jp-azmazonmazonmazonamzoanm.buzz
 www.amozen.qcsgwq.cn
 www.amzn-primeaccount.com
 www.anamzomn.xyz
@@ -6013,7 +6012,6 @@ www.outlook-mailer.com
 www.overseasmexico.com.mx
 www.package-updates.support
 www.parcel-id-updates.support
-www.parcels.support
 www.pasarelasdepagos.com
 www.payee-management-request.com
 www.payee-notifydetected.com
