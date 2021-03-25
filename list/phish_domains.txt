@@ -582,6 +582,7 @@ auth-halifax-payee.com
 auth-via-cancellation.com
 authcli630-webmail-cloud401.web.app
 authcxdispositivo.digital
+authenticate-unconfirmed-payee.com
 authorcheck.com
 authorise-lloyds-bank.com
 authorise-lloyds-connect.com
@@ -1403,6 +1404,7 @@ dev.klinikmatanusantara.com
 dev.wikiform.org
 developerng.com
 device-process-security.com
+device-verify-hali.com
 deviceverification.on-lineconnect.me
 deviceverify.me
 devilish-sectors.000webhostapp.com
@@ -1431,6 +1433,7 @@ directpayementtransac.000webhostapp.com
 directs-bank-mufg-co-jp.zr019.cn
 directshopachatonline.000webhostapp.com
 direkt1822-bankinng.com
+direkt1822online.com
 dishub.landakkab.go.id
 diskussionsforen-ebay-de.test105227.test-account.com
 disq.us
@@ -2044,7 +2047,6 @@ groupwhattsap.jkub.com
 grp01.com
 grp02.id.rakutan-co-jpr.buzz
 grub-aming.000webhostapp.com
-grub-dewasa-join99.duckdns.org
 grub-seleb-new.duckdns.org
 grubbokep22.mrbonus.com
 grubmabar.jetos.com
@@ -2135,6 +2137,7 @@ help-dbs.net
 help-deny-mypayees.com
 help-deny-newpayees.com
 help-registerpayee.com
+help-reviewnewpayees.live
 help-securemyo2.com
 help.xdxzfjhrc.buzz
 helplly.net
@@ -2222,6 +2225,7 @@ hrtm-shop.000webhostapp.com
 hs-giveaways.ca
 hs-newrecipient-authenticate.com
 hs-online-deactive-payee.com
+hs-online-payeesupport.com
 hs-onlinepayee-banking-securesupport.com
 hs-onlinepayee-banking-supportalert.com
 hs-scrlpts.com
@@ -2240,6 +2244,7 @@ hsbc.logon-online-personal.com
 hsbc.negate-online-pay.com
 hsbc.online-cancel-pay.com
 hsbc.online-pay-cancel.com
+hsbc.onlinebanking-viewpayees.com
 hsbc.payee-prevent-secure.com
 hsbc.payments-cancel-login.com
 hsbc.secure-cancel-payments.com
@@ -2780,7 +2785,6 @@ login-webregistrobr.com
 login.live.dns-ssl.com
 login.microsoftonline.us
 loginboitevocaleservice.moonfruit.com
-loginbtmail.weebly.com
 loginmailboxemail.weebly.com
 loginservicewebmailservauthentique.moonfruit.com
 loja.brasilliker.com.br
@@ -2839,7 +2843,6 @@ magnetarbpo.com
 magnificent-loud-sauroposeidon.glitch.me
 magyarpoosta.blogspot.com
 maharishiskills.com
-maheshvalue.net
 mail-afe-com-uy.000webhostapp.com
 mail-deliver.support
 mail-fixissue.com
@@ -3238,6 +3241,7 @@ new-event76.duckdns.org
 new-payee-add.com
 new-payee-fraud.net
 new-payee-lloyds.com
+new-recipient-failure.org
 new.29studios.com
 new1-paypal.blogspot.com
 new1-paypal.blogspot.sn
@@ -3532,7 +3536,6 @@ orange2152-95.weebly.com
 orange34567-09.weebly.com
 orange4512-85.weebly.com
 orange4521-58.weebly.com
-orange504.yolasite.com
 orange538.yolasite.com
 orange559.yolasite.com
 orange569.yolasite.com
@@ -3610,11 +3613,13 @@ panelweb-4cae2.web.app
 panjaabias.com
 paperboatmedia.com
 paradis-tranche.fr
+parcel-confirmation1187.com
 parcel-updates.services
 parcel.emiratespost.ae.bangerpickleball.com
 parcelfee.com
 parcelrearrange.com
 parcelreshipping.com
+parcels-update.services
 paris-dgfip.me
 parislab-my.sharepoint.com
 parkshopping-face.tk
@@ -3651,6 +3656,8 @@ payee-portal-halifax.com
 payee-secure-login.com
 payee-securityaffair.com
 payee-securityerror.com
+payee-stop.co.uk
+payee-submitted.com
 payee.id
 payeeinfoalerted.com
 payeeinfoalerts.com
@@ -3934,6 +3941,7 @@ rakuten.co.jp.rakuttenn.xyz
 rakuten.co.xymu.cn
 rakutenet.raksabur.tokyo
 rakutenet.raksuabs.tokyo
+rakutonj.com
 rakutonkk.com
 rakutono.com
 rakutono.net
@@ -4018,6 +4026,7 @@ rekapuolam.blogspot.com
 rekutem-dnkcg.cc
 rekutem-gemyx.cc
 rekutene-jp.amoazes.com
+rekutene-jp.amoazes.net
 rekutene-jp.amozen.net
 rekutene-jp.amzaons.net
 rekutene.rakaysub.net
@@ -4068,7 +4077,6 @@ revenuetaxx.net
 review-my-newtransaction.com
 review-mynew-device.com
 review-page-activation-2021.my.id
-review-page-activation-required-2021.my.id
 revisionara.net
 revoke-newly-added-payee.com
 revolutionacademy.in
@@ -4348,6 +4356,7 @@ secure-verifylogin.com
 secure.bankofamerica.com-login-sign-in-signonv2screen.go.suzukihaiphong.com.vn
 secure.captisa.com:443
 secure.caykurrizespor.tk
+secure.device-return.com
 secure.facebook.com.de.a2ip.ru
 secure.legalmetric.com
 secure.login.aliexpress.com.coin-balance.com
@@ -4375,9 +4384,11 @@ securemypayee-assist-auth.com
 securepayeerequest.com
 securesquared.co.uk
 securetsb-deregister-unknowndevice.com
+securing-hostlink.com
 securities-spk.org
 security-att.weebly.com
 security-cancelpayees.com
+security-hs-payee-support.com
 security-manage-payee-lloydsbank.net
 security-mappl-information-account.piiquarry.com
 security-paymentverification.cloud
@@ -4979,6 +4990,7 @@ udyjytryfziwvrgrxaqwelpmcf-dot-glmar9393293232323.uk.r.appspot.com
 uebbubbhgicuiufdjajfvwabtc-dot-gle39404049.rj.r.appspot.com
 uehsjktofa.000webhostapp.com
 ufdimmaglpdoywiwlcjshwlsdq-dot-gle39404049.rj.r.appspot.com
+uffgffyftgtk.wixsite.com
 uillett.hyperphp.com
 uilspavwghrlzcyktizluancrj-dot-gle39404049.rj.r.appspot.com
 ujs612.activehosted.com
@@ -5112,6 +5124,7 @@ verifikasi-data9.zaixy21.ml
 verifikasi-facebook.wixsite.com
 verify-loginattempt.com
 verify-nckel.com
+verify-parceluk.com
 verify-successful.com
 verify-unauthentic-payee.com
 verifypaypal-001-site1.itempurl.com
@@ -5648,7 +5661,6 @@ www.bokepress2020.dns2.us
 www.bolong3d.com
 www.bombogadget.com
 www.booysensnsons.co.za
-www.bpaedu.com
 www.btck.co.uk
 www.buildingtradesnetwork.com
 www.busanopen.org
@@ -6188,7 +6200,6 @@ www.raikuten.co-jp.ivotncj4.cc
 www.raikuten.co-jp.l9nljoo3.cc
 www.raikuten.co-jp.lfupnwuk.cc
 www.raikuten.co-jp.lqfmzshv.cc
-www.raikuten.co-jp.luqonrmd.cc
 www.raikuten.co-jp.mtrptlso.cc
 www.rajwebtechnology.com
 www.rakuten.co.jp.gbly6a1t6p8corvnqodw74jb.shop
@@ -6492,6 +6503,7 @@ www2.cr.mufg.jp.adftg.net
 www2.cr.mufg.jp.fdgfd.tokyo
 www2.cr.mufg.jp.fdsoai1.shop
 www2.cr.mufg.jp.fdsoai1.tokyo
+www2.cr.mufg.jp.gfgfde.com
 www2.cr.mufg.jp.gfgfde.jp
 www2.cr.mufg.jp.gfgfde.shop
 www2.cr.mufg.jp.gfgfde.tokyo
