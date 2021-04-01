@@ -421,6 +421,7 @@ aparicio.website
 apesigam.com
 api.alqadam.uz
 api.bdisl.com
+api.cardsaison.jp
 api.stasto.eu
 apksfull.com
 aplicativo-caixa.atendimentos4.sg-host.com
@@ -857,7 +858,6 @@ bpl.kr
 bqubixgnfhhkrhtkfcmvmojrlx-dot-gl099898987fhkl.uk.r.appspot.com
 br4.in
 br622.teste.website
-bradesco-diaenoite.com
 brassunnysolar.blogspot.com
 bravobeveiliging-my.sharepoint.com
 brcgorhrnnqshfdfcnovtwqflg-dot-gle39404049.rj.r.appspot.com
@@ -927,7 +927,6 @@ camel-boutik.com
 canal-nantes-brest.fr
 cancel-new-payee-request.com
 cancel-payee-attempt.com
-cancelledrecipient.com
 canlisohbetlerde.com
 cannellandcoflooring.co.uk
 cantarinobrasileiro.com.br
@@ -1308,7 +1307,6 @@ darite-radost.000webhostapp.com
 dashboard.openbankstone.secstone.link
 dataupdaterequired.site44.com
 datelsolutions.co.uk
-datkt.club
 davidneujahr.com
 davitherbal.com
 davivienda.ingresopersonal.com
@@ -1317,7 +1315,6 @@ daybydana.top
 dazul.com.ar
 db-office365.000webhostapp.com
 dba-dk.co
-dba-pay.com
 dba.dk.erhverv-annonce-315246.xyz
 dbs-campinng.com
 dbs-votes-friend.com
@@ -1886,7 +1883,6 @@ galvanotehnik.rs
 gamecenterxpubgm.com
 gamefex.com
 gamipoint.com
-garyrbashford.com
 gas9623wgb.fastpluscheap.com
 gau-lighting.com
 gawvs.in
@@ -2198,9 +2194,7 @@ hrtm-shop.000webhostapp.com
 hs-bankingservices.com
 hs-bc-deauthorise-payment.com
 hs-giveaways.ca
-hs-newpayeecheck.com
 hs-online-deactive-payee.com
-hs-online-payeebanking-secure.com
 hs-online-payeesupport.com
 hs-onlinebanking-alertsupport-payee.com
 hs-onlinepayee-banking-securesupport.com
@@ -2330,7 +2324,6 @@ informpaymentnotice.com
 informwebmail.eastus2.cloudapp.azure.com
 infosecurityid.com
 infosprologinmatrisemomols.yolasite.com
-infringement-787859645123546871.tk
 infringement-787859645123546874.tk
 infringement-787859645123546876.tk
 infringement-787859645123546877.tk
@@ -2881,6 +2874,7 @@ mail.tsay017.c0dashop.com
 mail.utu.fi
 mail.wereldpas-formulier.info
 mail2.mclink.it
+mailaccounmymaildomailmallermail.weebly.com
 mailapplications.wixsite.com
 mailingteam25.godaddysites.com
 mailingteam62.godaddysites.com
@@ -3107,7 +3101,6 @@ motoftaoahgfoijzjbtrdvqjgh-dot-glmar9393293232323.uk.r.appspot.com
 mpnleiblepeanrjfdlzabmruiy-dot-gl099898987fhkl.uk.r.appspot.com
 mps-acceso.com
 mqyhnfcuvcddlokpvuvubxgzcn-dot-gle39404049.rj.r.appspot.com
-mroa8vt.000webhostapp.com
 ms-365.net
 ms-sms0.yolasite.com
 msnhotmailadminserverservice.weebly.com
@@ -3254,6 +3247,7 @@ netlana.com
 netorg4219258-my.sharepoint.com
 netorg5539223-my.sharepoint.com
 netorgft1393773-my.sharepoint.com
+netorgft1705483-my.sharepoint.com
 netorgft2223515-my.sharepoint.com
 netorgft7625533-my.sharepoint.com
 netprogress.net
@@ -3554,8 +3548,8 @@ onecreator.info
 onedocsb.atwebpages.com
 onedrive.com.secure.login.knowthyneighbor.net
 onedrive.live.com
+onemicrosoftonlinee.weebly.com
 onlbc2.com
-online-banking-accounts.com
 online-banking-personal-login.com
 online-delete-device.net
 online-mydebit-payments.com
@@ -4464,6 +4458,7 @@ servernuovaintesa.com
 serverupdate.getforge.io
 serveur987452.flywheelsites.com
 servicabbout.blogspot.com
+service-trackingswiss.com
 serviceclient.site44.com
 servicefacture.blogspot.com
 servicemail0012inf.wixsite.com
@@ -4493,6 +4488,7 @@ sfhiit.com
 sfirstrepublic.coms.cso.gov.tt
 sfr.provad.fr
 sfrmail1.wixsite.com
+sfrmailfr.wixsite.com
 sftp.usin.com
 sgkipqqatecosndzdwisnpxcjk-dot-gle39404049.rj.r.appspot.com
 sgmsugar.com.pk
@@ -4567,7 +4563,6 @@ sixhub.com.br
 sixpointpartners-my.sharepoint.com
 sjhsk.app.link
 skinmetroroyale.com
-skinseunefree2021.000webhostapp.com
 sklepkody.pl
 sknkhmlltctsdkkunawatwiqad-dot-gle39404049.rj.r.appspot.com
 skoolcast.co
@@ -4686,6 +4681,7 @@ sslseguridad.com
 sso.secureserver.net
 ssplsoft.com
 ssqbjxlizwszuhumnebriuynzi-dot-gle39404049.rj.r.appspot.com
+ssu.edu.ph
 sswebmail-4w5twsr.web.app
 st-amu-cz.my-free.website
 stadtsparkasse-giroverband3.xyz
@@ -5338,7 +5334,6 @@ webexcels.com
 webexert.com
 webfiddle.net
 webindextesting.pro
-webmail-orange0.yolasite.com
 webmail-sfr3.yolasite.com
 webmail-sso8uyg.web.app
 webmail.1stdomains.co.nz
@@ -5388,7 +5383,6 @@ whare.100webspace.net
 whatsaap18fx.dynserv.org
 whatsaapbkpfl.dynserv.org
 whatsap-vxcp.hotsexxmyclient.ga
-whatsap.joinxky.gq
 whatsapg.joinchatnw.gq
 whatsapp-grup.forumz.info
 whatsapp-join-grubbokep.001www.com
@@ -5631,10 +5625,8 @@ www.amazon-check-co-jp.s1l.top
 www.amazon-check-co-jp.s3x.top
 www.amazon-check-co-jp.s4s.top
 www.amazon-check-co-jp.s5n.top
-www.amazon-check-co-jp.s5p.top
 www.amazon-check-co-jp.s9w.top
 www.amazon-check-co-jp.t5l.top
-www.amazon-check-co-jp.t5p.top
 www.amazon-check-co-jp.t5r.top
 www.amazon-check-co-jp.t6c.top
 www.amazon-check-co-jp.t6n.top
@@ -5656,7 +5648,6 @@ www.amazon-check-co-jp.x5g.top
 www.amazon-check-co-jp.x7i.top
 www.amazon-check-co-jp.x7n.top
 www.amazon-check-co-jp.x7q.top
-www.amazon-check-co-jp.x8k.top
 www.amazon-check-co-jp.x9u.top
 www.amazon-check-co-jp.y5r.top
 www.amazon-check-co-jp.y7q.top
@@ -5749,7 +5740,6 @@ www.chat-whatsapp8jhvztulp7ajofk9jua3jfi3s5.duckdns.org
 www.chat-whatsapp8jhvztulp7ajofk9jua3jfiju3.duckdns.org
 www.chat-whatsappgrupjoinbokepweb.zzux.com
 www.chat.whaxtdtaxaqp.pvip9.com
-www.chatgroupwhatsapp.duckdns.org
 www.chatwhatsapp54.duckdns.org
 www.chatwhatsappgroupinvite.cf
 www.chatwhatsappgroups11.otzo.com
@@ -6417,7 +6407,6 @@ www.smarttechmarketing.com
 www.smbc-card.com.j246u2.cn
 www.smbc-crab.cc
 www.smbc-crad.top
-www.smbc-jp.top
 www.smbccarb.top
 www.smilenewyork.com
 www.somsavritalses.tonohost.com
@@ -6558,7 +6547,6 @@ www.webs.emotesfree-fire-garena1user.com
 www.whateverpizza.com
 www.whatsap.joinxky.gq
 www.whatsapg.joinchatnw.gq
-www.whatsapgz.gq
 www.whatsapp-18.ikwb.com
 www.whatsapp-grubsx1.zzux.com
 www.whatsapp.cartxbit621.ga
@@ -6659,6 +6647,7 @@ xkrjgluhzwsxtegjyzgpplnrzo-dot-gle39404049.rj.r.appspot.com
 xkuiyhbhafsvwxmtjttdvflinc-dot-gle39404049.rj.r.appspot.com
 xlfgxbpuiujqdrjliisnsxemjo-dot-gle39404049.rj.r.appspot.com
 xlqkqlphwtbnwapcaciscaneak-dot-gle39404049.rj.r.appspot.com
+xmeetme.tk
 xmley.codesandbox.io
 xmotbdbywfhqeemdkfgzzanfhn-dot-gle39404049.rj.r.appspot.com
 xn--42cah8clrbc6a3bj5fsedc1eta89a.com
