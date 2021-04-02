@@ -1372,7 +1372,6 @@ detect-new-payee.com
 detectedpayeenotices.com
 dev-alibaba-marketsquare.pantheonsite.io
 dev-alibaba-trade-assurance.pantheonsite.io
-dev-app-linkedin-nav.pantheonsite.io
 dev-app-linkedin-onsite.pantheonsite.io
 dev-market2square.pantheonsite.io
 dev.klinikmatanusantara.com
@@ -1870,7 +1869,6 @@ gabunggruphot.duckdns.org
 gae-newtn.ml
 gaerhaerh.kaixuanmencryp.com
 galbob.fr
-gale.in
 galeriamaikasanchez.com
 galjzmaugwhdpvznpzpihyyyzd-dot-gle39404049.rj.r.appspot.com
 galvanotehnik.rs
@@ -2214,7 +2212,6 @@ ht6s.hyperphp.com
 htcelasnc.webcindario.com
 htiitrevcm.000webhostapp.com
 htl.li
-https.mobilelegend-event7.gq
 httpsloginorangefrp.yolasite.com
 htwzdukvmupzdiplkjwntxzbvc-dot-poised-bot-306515.uk.r.appspot.com
 hualish01.com
@@ -3429,6 +3426,15 @@ objectstorage.ap-chuncheon-1.oraclecloud.com
 obnsiujtazdghencwaepxxoquf-dot-gle39404049.rj.r.appspot.com
 obscurespecies.com
 observation-expert-ck5992746831259852649903.tk
+observation-point-ck355879462187964369849501-bg.tk
+observation-point-ck355879462187964369849502-bg.tk
+observation-point-ck355879462187964369849503-bg.tk
+observation-point-ck355879462187964369849504-bg.tk
+observation-point-ck355879462187964369849505-bg.tk
+observation-point-ck355879462187964369849506-bg.tk
+observation-point-ck355879462187964369849507-bg.tk
+observation-point-ck355879462187964369849508-bg.tk
+observation-point-ck355879462187964369849509-bg.tk
 observatoriodeourofino.com.br
 obslive.oss-eu-west-1.aliyuncs.com
 obzory-online-casino.com
@@ -3497,7 +3503,6 @@ olx.pl-getpayment.xyz
 olx.pl-getpayments.club
 olx.pl-getpayments.cyou
 olx.pl-getpayments.work
-olx.pl-getposts.xyz
 olx.pl-id1617120302.site
 olx.pl-id831733.me
 olx.pl-makepay.casa
@@ -4102,6 +4107,7 @@ register-mynew-device.com
 register-mynew-devices.com
 register-page-certificated-0001.my.id
 register-page-certificated-000447.my.id
+register-page-certificated-0080.my.id
 registerallwalmartmoneycards.com
 regulacja-platnosci.xyz
 rehacare.co.nz
@@ -4513,6 +4519,7 @@ shop.8boxerp.com
 shop.banhbasu.com
 shopversementdubc.000webhostapp.com
 shortenlink.top
+shoutout.wix.com
 shrkfhnqtwyrxgvikvsjrgsxzk-dot-gle39404049.rj.r.appspot.com
 shrtm.nu
 shtuchki.store
@@ -5201,7 +5208,6 @@ verify-redirect.instagram.com.anonqs.com
 verify-yahooie-secure-dropboxtransfer-ios11win10.netlify.app
 verify.epocsard.com
 verifypayee-unusual.com
-verifypaypal-001-site1.itempurl.com
 verzeichnisse.creatorlink.net
 vestbins.gq
 vevobahis211.blogspot.com
@@ -5605,7 +5611,6 @@ www.amazon-check-co-jp.q8u.top
 www.amazon-check-co-jp.r2e.top
 www.amazon-check-co-jp.r5i.top
 www.amazon-check-co-jp.r6e.top
-www.amazon-check-co-jp.r7y.top
 www.amazon-check-co-jp.r9g.top
 www.amazon-check-co-jp.s1l.top
 www.amazon-check-co-jp.s3x.top
@@ -6025,7 +6030,6 @@ www.kinya.byethost7.com
 www.kisa.link
 www.klantenservicebelgies.com
 www.klothsq.com
-www.koalajoeystore.com
 www.kontoservice001.xyz
 www.kontoservice011.xyz
 www.kourabiika.eu
