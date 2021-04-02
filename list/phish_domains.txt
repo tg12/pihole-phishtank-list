@@ -180,7 +180,6 @@ access-revoke-app.com
 access.deka-eu.com
 access2cars.com.au
 accesshop0033.000webhostapp.com
-accf-cambodia-france.com
 accjh5-iiuyh-kffn.s3-eu-west-1.amazonaws.com
 accorservorg.yolasite.com
 account-netflix.secure-returngov-hm.com
@@ -227,7 +226,6 @@ adm-do-admin-web.000webhostapp.com
 admak.qa
 admin-founders-19984987624632165465600071.tk
 admin-founders-19984987624632165465600073.tk
-admin-founders-19984987624632165465600074.tk
 admin-founders-19984987624632165465600075.tk
 admin-founders-19984987624632165465600077.tk
 admin.baragor.se
@@ -323,7 +321,6 @@ allstarlax.com
 almawakebschool-my.sharepoint.com
 almotamadris.com
 alpha-lam.com
-alphalatrinidad.cl
 alpineridgefinancial.com
 alquilervillora.net
 alreaaiaa.com
@@ -344,6 +341,7 @@ amazon-user.auth.shop.jp.itp-2.xyz
 amazon.a1802.cn
 amazon.co.jp.521cw.top
 amazon.co.jp.afwrfdfd.buzz
+amazon.co.jp.avfrenniomrhyaoilshers002.cf
 amazon.co.jp.avfrenniomrhyaoilshers002.tk
 amazon.co.jp.colthes.club
 amazon.co.jp.fsddjc.com
@@ -1033,7 +1031,6 @@ chat-whatsapp8jhvztulp7ajofk9jua3jfij3.duckdns.org
 chat-whattapps1.modoscuro.club
 chatgrup.duckdns.org
 chaturbate-videos-free.000webhostapp.com
-chatwhatsapp54.duckdns.org
 chatwswhatsapp.my.id
 check-newpayee-halfax.com
 checkconfiguration2021prvintd.000webhostapp.com
@@ -1398,7 +1395,6 @@ dipelnet.com.br
 dipinstitute.org
 directboncoinonline.000webhostapp.com
 directory-templates.com
-direkt1822online.com
 dishub.landakkab.go.id
 disini33.duckdns.org
 diskussionsforen-ebay-de.test105227.test-account.com
@@ -1990,7 +1986,6 @@ grubwa.mrbasic.com
 grup-notnot.fouzen.cf
 grup-wa-bokep18.wikaba.com
 grup-whatsapp-bokep.xxxy.info
-grup-whatsapp-jepang18.duckdns.org
 grup-whatsapp-not-not.duckdns.org
 grupbokep-whatsapps.forumz.info
 grupdewasa17.otzo.com
@@ -2184,7 +2179,6 @@ hsbc.auth-paym-online.com
 hsbc.cancel-auth-payee.com
 hsbc.cancel-unauth-payment.com
 hsbc.deny-new-paym.com
-hsbc.gb-complete-online.com
 hsbc.gb-secure-online.com
 hsbc.online-cancel-pay.com
 hsbc.payee-deny.com
@@ -2444,7 +2438,6 @@ joinbokep.claimyourprizes.ml
 joinchatwhatsapp7.zzux.com
 joingroup.chatwa.duckdns.org
 joingroup2.myz.info
-joingrubwajs.duckdns.org
 joingrup-online.joingrupwhatsapp-2021new.tk
 joingrup3466.selleb-29.ml
 joingrup5fb.dynserv.org
@@ -2755,7 +2748,6 @@ login-liteacebook.com
 login-live.com-s02.info
 login-manage-payeeteam.com
 login-secure-three.uk.com
-login-security-authorization.com
 login-webregistrobr.com
 login.live.dns-ssl.com
 login.microsoftonline.us
@@ -3071,7 +3063,6 @@ monovative-my.sharepoint.com:443
 monremboursementgouv.blogspot.com
 monroy-proyectos.com
 monstercarp.rn86.ru
-montepaschigruppo.org
 monthly-o2-paymentsupport.com
 montmabesa1888.blogspot.com
 moodle.lms-su.com
@@ -3483,8 +3474,12 @@ olx.pl-id1617120302.site
 olx.pl-id831733.me
 olx.pl-makedeal.club
 olx.pl-makedeal.cyou
+olx.pl-makedeal.store
 olx.pl-makedeal.surf
+olx.pl-makedeal.work
 olx.pl-makedeal.xyz
+olx.pl-makedeals.casa
+olx.pl-makedeals.icu
 olx.pl-makedeals.xyz
 olx.pl-makepay.casa
 olx.pl-makepay.cyou
@@ -3498,6 +3493,7 @@ olx.pl-makepays.xyz
 olx.pl-newdeal.casa
 olx.pl-newdeal.cyou
 olx.pl-newdeal.xyz
+olx.pl-obecny.fun
 olx.pl-oferfa.casa
 olx.pl-pieniadze.space
 olx.pl-posta.xyz
@@ -3505,14 +3501,12 @@ olx.pl-posts.icu
 olx.pl-posts.store
 olx.pl-posts.surf
 olx.pl-safelyway.cyou
-olx.pl-safelyway.store
 olx.pl-safelyway.work
 olx.pl-safeposta.surf
 olx.pl-safeway.icu
 olx.pl-saveposta.club
 olx.pl-smsinfo.surf
 olx.pl-usluga.life
-olx.pl-weryfikacja.club
 olx.pl-weryfikacja.life
 olx.pl.3d-secure.cc
 olx.pl.oferta-payment.surf
@@ -3530,7 +3524,6 @@ olxpraca.pl
 omesqiwines.de
 omkqaqpdeghkmqxupdmromyqgr-dot-gle39404049.rj.r.appspot.com
 ommsd.cf
-omoobetinjucasto.com
 omsdd.gq
 omssd.cf
 on-me-ro.firebaseapp.com
@@ -3690,7 +3683,6 @@ patricepurnell.com
 patrickkestens-my.sharepoint.com
 patstracks.com
 paulmitchellforcongress.com
-paws.org.au
 pax4l.com
 paxful.client-protect.com
 paxful.com.ua
@@ -3717,7 +3709,6 @@ payee-securityerror.com
 payee-stop.co.uk
 payee-submitted.com
 payee.id
-payeeinfoalerts.com
 payeenew-hali.com
 payeercom.ru
 payeeurgentnotices.com
@@ -3793,7 +3784,6 @@ permajacktulsa.com
 persianashorizontes.com
 persistencepays.com
 perso.menara.ma
-personas-avvillas.com
 peru.payulatam.com
 peruzonazonasegvra-bnweb29.com
 peyvandgp.com
@@ -3825,6 +3815,7 @@ pl-19.ru
 pl-bankinvest.surge.sh
 pl-dane.link
 pl-obecny.club
+pl-obecny.info
 pl-obecny.live
 pl-obecny.shop
 pl-obecny.store
@@ -4215,7 +4206,6 @@ rolasellsrealestate.com
 roldanlogistica2-my.sharepoint.com
 romatermit.ro
 ronaldjamesgroup.co
-rongbachkim.tv
 ronigelo.blogspot.com
 ronin47design.com
 roomseverin.wixsite.com
@@ -4450,7 +4440,6 @@ servicefacture.blogspot.com
 servicemail0012inf.wixsite.com
 serviceoutade.groutmastersatlanta.com
 servicereportbiling.tk
-services-online-banking-logon.com
 services-vodafone.com
 services.runescape.com-cn.ru
 services.runescape.com-m.cc
@@ -4780,7 +4769,6 @@ suspfacebookcom-89956782.nightaway.ca
 suspfacebookcom-91329442.nightaway.ca
 suspfacebookcom-92089480.nightaway.ca
 suspfacebookcom-92434572.nightaway.ca
-suspfacebookcom-95787253.nightaway.ca
 suspfacebookcom-98239103.nightaway.ca
 suspicious-applepay.support
 sv.mikecrm.com
@@ -5320,7 +5308,6 @@ webmallin.web.app
 webmart.tw
 webmial.calcplane.ga
 weboutlookstorageaccess.activehosted.com
-webpage-zimbra-http.000webhostapp.com
 webservicocef.com
 webstories.eu
 webtreecom.000webhostapp.com
@@ -5362,7 +5349,6 @@ whatsappbokpgrup.wikaba.com
 whatsappchat.zyns.com
 whatsapps.instanthq.com
 whatsapps.mrslove.com
-whatsapptantetante8.duckdns.org
 whattsapp2020.qpoe.com
 whattsapps.misecure.com
 wheel1factory.net
@@ -5662,7 +5648,6 @@ www.chat-whatsapp8jhvztulp7ajofk9jua3jfi3s5.duckdns.org
 www.chat-whatsapp8jhvztulp7ajofk9jua3jfij3.duckdns.org
 www.chat-whatsapp8jhvztulp7ajofk9jua3jfiju3.duckdns.org
 www.chat-whatsappgrupjoinbokepweb.zzux.com
-www.chatwhatsapp54.duckdns.org
 www.chatwhatsappgroupinvite.cf
 www.chatwhatsappgroups11.otzo.com
 www.chatwswhatsapp.my.id
@@ -6261,7 +6246,6 @@ www.santoshwomencarehospital.com
 www.sarahstofel.com
 www.satkaniaiit.com
 www.savageconquest.com
-www.sbmc-card.in
 www.sbmc-center.com
 www.sceneray.com
 www.scstategives.com
@@ -6410,7 +6394,6 @@ www.vereins.at
 www.verificacaocardbancoitau.com
 www.verificapostepay.com
 www.verificationpayment.com
-www.verifikasi-pemblokiranx7.gq
 www.verifikasiblokir.kokovid.tk
 www.verify-payee-management-request.com
 www.verify.chase.billing.info.igualdad.cl
