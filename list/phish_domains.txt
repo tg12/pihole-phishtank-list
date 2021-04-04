@@ -197,6 +197,7 @@ accout-update-check-my-jcb-co-jp.alvnn.cn
 accout-update-check-my-jcb-co-jp.bcbnh.cn
 accout-update-check-my-jcb-co-jp.bcdlj.cn
 accout-update-check-my-jcb-co-jp.bcdlq.cn
+accout-update-check-my-jcb-co-jp.czyzgdiob.cn
 accout-update-check-my-jcb-co-jp.fkvykdkql.cn
 acczrty8-ikiuy-yoo.s3-eu-west-1.amazonaws.com
 acessobbauto.com
@@ -209,7 +210,6 @@ actcfwknexhykindluesavspam-dot-gle39404049.rj.r.appspot.com
 actionfilmz.com
 activacionesydesbloqueos.com
 activar.tus.transferencias.en.linea.viabcp.com.pe.vendum.ro
-active-page-dashboard-restriction.my.id
 active-page-term-dashboard-advanced.my.id
 active-page-term-dashboard-inc.my.id
 active-page-term-dashboard.com
@@ -799,7 +799,6 @@ blandido.tonohost.com
 bliiss.shop
 blinusa.com
 block-you-page.ga
-block-you-pages.ga
 blocked-yours-pages.gq
 blocks.rn86.ru
 blockschain.cc
@@ -1345,7 +1344,6 @@ destinationarcticcircle.com
 detect-new-payee.com
 detogroups.com
 dev-alibaba-marketsquare.pantheonsite.io
-dev-alibaba-trade-assurance.pantheonsite.io
 dev-market2square.pantheonsite.io
 dev.klinikmatanusantara.com
 devbasicsoft.com
@@ -1649,13 +1647,11 @@ eu.nuvuneu.com
 eugnerally-wixsite-com.filesusr.com
 eunefreeskinsrp.000webhostapp.com
 eurobankovnikredit.com
-eurohof.eu
 europemax.in
 eusa-lombo.firebaseapp.com
 evangelicalfriendsmission-my.sharepoint.com
 eve292929.dothome.co.kr
 event-neww01.xevent94.gq
-event125.se.ke
 event41.se.ke
 events-freefirebgid.com
 evidaac.com
@@ -1989,7 +1985,6 @@ grupwa18-tys.wikaba.com
 grupwhatsapp-biz.tk
 grupwhatsapp-bokep.forumz.info
 grupwhatsapp-com.duckdns.org
-grupwhatsapp.live18now.com
 grupwhatsappbudi01.duckdns.org
 grupwhatsappindoxnxx.duckdns.org
 grupwhatsappxxx.qeristeqr.ga
@@ -2287,7 +2282,6 @@ inpost.pl-saves.xyz
 inscrivez-vous0.yolasite.com
 insta-gram.fr
 instagram.hop.ru
-instagram.testmyprojects.tk
 instagram.vintweb.ir
 instagramhelpp.agency
 institutoaxioma.com.ar
@@ -2296,7 +2290,6 @@ interbahis452.blogspot.com
 interbahisgirin.blogspot.com
 interbahisgirisadresimiz2.blogspot.com
 interbahiss1.blogspot.com
-interbank-consultas.club
 interestingfurniture.com
 intergirisi.blogspot.com
 intermaticoline.com
@@ -2518,7 +2511,6 @@ kontoservice005.xyz
 kontoservice006.xyz
 kontoservice008.xyz
 kontoservice009.xyz
-kontoservice013.xyz
 koreiamotors.com.br
 korespodencja-online.host
 korespodencja-platnosc.fun
@@ -2903,12 +2895,10 @@ mesquecamping.es
 message-vocaleurl.yolasite.com
 messagerie-fixe-orange3.yolasite.com
 messagerie-fixe17.yolasite.com
-messagerie-fixe6.yolasite.com
 messagerie-llebon-coins.com
 messagerie-orange-pro-20212.yolasite.com
 messagerie-orange155.yolasite.com
 messagerie-vocale-orange100.yolasite.com
-messagerie-vocale162.yolasite.com
 messagerie-vocale164.yolasite.com
 messagerie-vocale168.yolasite.com
 messagerie22.yolasite.com
@@ -3257,7 +3247,6 @@ notification-facebokmail.de
 notification-page-claim-2021.my.id
 notification-page-claim-restriction.my.id
 notification-page-claim.my.id
-notifiicatiion-irecovry-suports-standardscommunity.gq
 notifypaymentsinfo.com
 notigtclient-banruralgt.com
 notnot.cyzjsj.duckdns.org
@@ -3384,7 +3373,6 @@ olx.getorder.icu
 olx.payd-info.site
 olx.payment-checking.com
 olx.pl-autoryzacja.xyz
-olx.pl-getpayment.icu
 olx.pl-getpayment.work
 olx.pl-getpayments.club
 olx.pl-id1617120302.site
@@ -3403,12 +3391,15 @@ olx.pl-safelyway.cyou
 olx.pl-safeway.icu
 olx.pl-sale.casa
 olx.pl-saves.store
+olx.pl-saves.xyz
 olx.pl-smsinfo.surf
 olx.pl-weryfikacja.life
 olx.pl-wprowadz.store
 olx.pl.3d-secure.cc
 olx.pl.oferta-payment.buzz
 olx.pl.oferta-payment.surf
+olx.pl.safe.payments-id.site
+olx.polska-oterfa.shop
 olx.rouder.info
 olx.rwpay.ru
 olx.safeorder.store
@@ -3745,7 +3736,6 @@ poczta.pl-makedeal.surf
 poczta.pl-makepays.casa
 poczta.pl-newdeal.casa
 poczta.pl-safes.club
-poczta.pl-safes.icu
 podsnejnaya.ru
 poised-bot-306515.uk.r.appspot.com
 polen-esquadrias.blogspot.com
@@ -3918,6 +3908,7 @@ rakuten.grp006.work
 rakuten.grp007.work
 rakuten.grp009.work
 rakutenr.co.jp.quete.top
+rakutonet.roaliuq.tokyo
 rakutonj.com
 rakutonte.jp.ratueq.com
 rakutonte.jp.reaihiw.shop
@@ -4055,7 +4046,6 @@ rm-fee.com
 rm-package-help.com
 rm-parcel3871.com
 rm-parcel4719.com
-rm-parcel6386.com
 rm-parcel7389.com
 rm-parcel7582.com
 rm-parcel7814.com
@@ -4343,7 +4333,6 @@ share.chamaileon.io
 share.hsforms.com
 sharefiles.app.link
 sharelink.sn.am
-sharepoint-mobile.weebly.com
 shifawll1.ae
 shift2.com
 shimaarutechies.com
@@ -4957,7 +4946,6 @@ uytgfjnmjggjhwilly.weebly.com
 uz9zoiz9vqbutkpvdyp0tg-on.drv.tw
 uzrlcqeknffghnvofxmfcwjmfl-dot-gle39404049.rj.r.appspot.com
 v.gd
-v3ntjpf5z5zavmi.ddns.net
 v9.vc
 vaikis.eu
 valenteplay.com.br
@@ -5172,7 +5160,6 @@ westportvillagegallery.com
 westsfamily.com
 wetransferee.000webhostapp.com
 wfnnhmleoipkzxgmbfogaxdrgo-dot-gle39404049.rj.r.appspot.com
-wfucsrk.cn
 wg1385932.virtualuser.de
 wgjflohpzqymtbuyiifinfphqh-dot-gl099898987fhkl.uk.r.appspot.com
 whare.100webspace.net
@@ -5219,7 +5206,6 @@ wkzhgs.com
 wlake-aa.ml
 wmvnwrknlprunvavsjygtsmtjf-dot-gle39404049.rj.r.appspot.com
 wmzhlieremguv.tonohost.com
-woeac00373.s3.eu-north-1.amazonaws.com
 woobooking.cmsmart.net
 woodcountyd-a.ga
 woodworkpalace.com
@@ -5436,7 +5422,6 @@ www.chat-whatsappgrupjoinbokepweb.zzux.com
 www.chatwhatsappgroupinvite.cf
 www.chatwhatsappgroups11.otzo.com
 www.chatwhatsappgrupbokep.cf
-www.chatwhatsappgrupbokep.tk
 www.chetskivilleroasters.com
 www.chiarabernardi.it
 www.choicefranchiseadvisors.com
@@ -5877,7 +5862,6 @@ www.parcels-update.services
 www.pasarelasdepagos.com
 www.payee-management-security-alert.com
 www.payee-management-verify-request.com
-www.payee-secure-login.com
 www.payee-security-affair.com
 www.paymentattemptinfo.com
 www.payments-awaiting.help
