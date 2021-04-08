@@ -51,7 +51,6 @@
 247.48.198.104.bc.googleusercontent.com
 2482689012.yolasite.com
 24a69f75.orson.website
-24owauspolicy.weebly.com
 25tnr.app.link
 2c3262d59d2716553.tempsite.link
 2f0e2b9c590073489f82edf022826b77d4944aff63bcab34475de3a3apaneid.s3-web.eu-de.cloud-object-storage.appdomain.cloud
@@ -177,7 +176,6 @@ accesso-protetto-clienti.com
 accjh5-iiuyh-kffn.s3-eu-west-1.amazonaws.com
 accorservorg.yolasite.com
 account-netflix.secure-returngov-hm.com
-account-son.000webhostapp.com
 account.fido.validation.information.ssl-truechannel.radyotom.com.tr
 account.paxful.com.unissenseafrica.com
 accountbilling-ee-secure.com
@@ -450,8 +448,10 @@ arimanurung.skom.id
 arisebuildscom-my.sharepoint.com
 arislm.com
 arleiti.sslblindado.com
+arm79875.wixsite.com
 armata-neagra.ro
 arnaoone.co.ip.vzvacoe.cn
+arnazon-update-account.kwxdyk.cn
 arnazoon.co.jp.vjhsfxc.cn
 aromatic.webenliven.in
 arrow.kvalitne.cz
@@ -947,6 +947,7 @@ chatwhatsapp.diamonffgratiss.ml
 chatwhatsappgrupbokep.tk
 chaussuredrmartenss.fr
 check-newpayee-halfax.com
+check.amazon-sbver.ga
 checking-my-account.mixh.jp
 checkvk.hop.ru
 chevreriepierrealaya.fr
@@ -1140,7 +1141,6 @@ cuddl.id
 cuny620-my.sharepoint.com
 cup0p.app.link
 currentlyfromattverificationupdate1.weebly.com
-currentlyfromupdateserviceyahoo.weebly.com
 cursomemokids.com.br
 cusercrist.surveysparrow.com
 cusstomerservicee.blogspot.com
@@ -1758,6 +1758,7 @@ gilbertassnmgt.com
 giris-papara.net
 gite-lafage.com
 
+giveaway-online.000webhostapp.com
 giveawayroyale16.com
 gkigqoz1u3mxphqsckqkxr8k3mbnmuk-com.cf
 gkjx168.com
@@ -1926,6 +1927,7 @@ hermes-my-package.com
 herz-law.co.il
 hetershaven.net
 heylink.me
+hfjgjgtgj.yolasite.com
 hgaexdozbdxdmlrhndccuyxaxt-dot-gl099898987fhkl.uk.r.appspot.com
 hgn2t.app.link
 hhhehdrofpjltxerompmlkxgea-dot-gle39404049.rj.r.appspot.com
@@ -2000,7 +2002,6 @@ hs-paymentsecurityalert.com
 hsbc.cancel-unauth-payment.com
 hsbc.cancel-unauthorised-payments.com
 hsbc.deny-new-paym.com
-hsbc.logon-cancel-payee.com
 hsbc.payee-deny.com
 hsbc.paym-auth-deny.com
 hsbc.remove-payee-secure.com
@@ -2155,7 +2156,6 @@ ipv4x-201-88-101-77.nl
 irenterprises.in
 irequest-beneficiary-removal.com
 irisdigi-labs.com
-irs-claim.net
 irstds.com
 is.gd
 isamayy.com
@@ -2248,7 +2248,6 @@ joudialbarat.blogspot.com
 joul.co.kr
 jp-amazon-check.a1t.top
 jp-amazon-check.c15.top
-jp-amazon-check.kn2.top
 jp-amazon.p6o.top
 jp110.amazoncojpaccountsafe.ga
 jptechdocsign.net
@@ -2272,7 +2271,6 @@ just-eat.co.uk.sul4x4.com
 justgot.gonevis.com
 justlookapp.com
 justsayingbro.com
-justuskennelclub.com.br
 jvd6.hyperphp.com
 jvfinancialgroup2601.sharepoint.com
 jwrmdctbhstpklcdvbfgznhkii-dot-gle39404049.rj.r.appspot.com
@@ -3119,6 +3117,7 @@ olx.getorder.work
 olx.payd-info.site
 olx.payment-checking.com
 olx.pl-autoryzacja.xyz
+olx.pl-buy.surf
 olx.pl-getpayment.work
 olx.pl-makedeal.work
 olx.pl-payed.surf
@@ -3173,6 +3172,7 @@ onailsupply.com
 oncopharma-ae.com
 one-3w6kjxwn4.vercel.app
 oneaim.lu
+oneattonline.weebly.com
 oneclickchatbot.com
 onecreator.info
 onedrive.live.com
@@ -3227,6 +3227,7 @@ orange.iobeya.com
 orange.moonfruit.com
 orange602.yolasite.com
 orange622.yolasite.com
+orange624.yolasite.com
 orangeci.answers.dimelo.com
 orangefr67.yolasite.com
 orangemail12.yolasite.com
@@ -3424,6 +3425,7 @@ pl-weryfikacja.world
 pl-wprowadz.info
 pl.inpost-oferta.su
 pl.olxdelivery.com
+placowka-pocztowa.club
 plain583.mipropia.com
 plan-o2-monthlypayments.com
 planeta12.minobr63.ru:443
@@ -3440,6 +3442,8 @@ plytecfi-my.sharepoint.com
 pmbonline.unmuha.ac.id
 pmiconnect-my.sharepoint.com
 pnvkjgbchjtwczggloosbncebo-dot-gle39404049.rj.r.appspot.com
+poczta.pl-buy.shop
+poczta.pl-buy.surf
 poczta.pl-getpayment.cyou
 poczta.pl-makepays.casa
 poczta.pl-newdeal.casa
@@ -3627,6 +3631,7 @@ rakuten.grp03-id.work
 rakuten.grp05-id.work
 rakuten.idbi.work
 rakuten.idd55.work
+rakuten.ld01.work
 rakuten.lo0ol.work
 rakuten.oo01.work
 rakuten.qoiop.work
@@ -3971,6 +3976,7 @@ security-mappl-information-account.piiquarry.com
 security-unapproved-payee.com
 security.hs-authorize-online.com
 securityupdatereview-365online.com
+seductionlearning.com
 segurabetaviabcp.com
 sehmwdfgtnjepodlaucnctqxap-dot-gle39404049.rj.r.appspot.com
 seivino.it
@@ -4257,7 +4263,6 @@ sudkeuceihlmaxsnblrlwhhuil-dot-gl099898987fhkl.uk.r.appspot.com
 suelunn.com
 suissrava.cloudaccess.host
 suitecred.com.br
-sukoon-e-dil.org
 sultanbetgirisadresimiz.blogspot.com
 sultanbetgirisadresimiz1.blogspot.com
 summer7559srz.fastpluscheap.com
@@ -4488,6 +4493,7 @@ tweakdoor.com
 twfgadfuverwzhwigymnewsuyn-dot-gle39404049.rj.r.appspot.com
 twowheelcool.com
 twqmelcinzffbgfxpdcnpsonke-dot-gle39404049.rj.r.appspot.com
+twtr.to
 txpqzgmhmivcvqwozsekyuavwd-dot-poised-bot-306515.uk.r.appspot.com
 txzllhpquzshdkbsjitxadzlgi-dot-gle39404049.rj.r.appspot.com
 tyacvhyxtjfhqtauvubhjpriwv-dot-gle39404049.rj.r.appspot.com
@@ -4817,6 +4823,7 @@ wekwonamfxqucbpaazieheuvva-dot-gle39404049.rj.r.appspot.com
 well-made-iron.surge.sh
 wellboreng.com
 wellingtoncloud-my.sharepoint.com
+wellsasn.weebly.com
 wellsfargos.aicsolutions.co.za
 welyadzkzynmifvwfoijegzimg-dot-gle39404049.rj.r.appspot.com
 wengler-group.com
@@ -4974,6 +4981,7 @@ www.amazon-check-co-jp.x8g.top
 www.amazon-check-co-jp.y5r.top
 www.amazon-gcatech.com
 www.amazon-tokyoj.live
+www.amazon.co-jp-azimanoanm.xyz
 www.amazon.de.signin.verification.openid.5935156.globthirsgare.cf
 www.amazonlogistics-ap-northeast-1.amazonlogistics.jp
 www.ambrosecourt.com
@@ -5064,7 +5072,6 @@ www.centroocular.com.br
 www.cg6.net
 www.charly-design.fr
 www.chat-whatsapp.doctorhaddadpediatriayflores.cl
-www.chat-whatsapp8jhvztulp7ajofk9jua3jfij3.duckdns.org
 www.chat-whatsappgrupjoinbokepweb.zzux.com
 www.chatwhatsappgroups11.otzo.com
 www.chiarabernardi.it
@@ -5159,7 +5166,6 @@ www.emeraldtextiles.pk
 www.empresas-lnterlbnlk-pe.com
 www.empresas.netinterbank.interbol-portal.com
 www.enbolivia.com
-www.enyumusic.com
 www.epos-card.com
 www.epos-card.vip
 www.equalchances.org
@@ -5578,7 +5584,6 @@ www.servllces.runescape.com-mv.ru
 www.sgcc.bm
 www.shalomtextiles.com
 www.shareholds.com
-www.sharepointen.com
 www.sharepointle.com
 www.sharestion.com
 www.shortlink.net
@@ -5716,6 +5721,7 @@ www.whatsapptantetante8.duckdns.org
 www.windocyte.com
 www.wokrdlifemilss.tonohost.com
 www.wonderful.gr
+www.www.runescape.com-tp.ru
 www.xianzns.com
 www.xjgyedu.cn
 www.xn--gmal-sya.com
