@@ -177,7 +177,6 @@ accorservorg.yolasite.com
 account-netflix.secure-returngov-hm.com
 account.fido.validation.information.ssl-truechannel.radyotom.com.tr
 account.paxful.com.unissenseafrica.com
-accountbilling-ee-secure.com
 accountbilling-security.com
 accounts-google-sign-in.com
 accounts-newpayee.com
@@ -325,7 +324,6 @@ amazon-co-jp.zhongxiaoyang.top
 amazon-id-safety-center-signin-openid-page-max-infomation.jgbyly.bar
 amazon-id-safety-center-signin-openid-page-max-infomation.josgws.bar
 amazon-id-safety-center-signin-openid-page-max-infomation.jzuwjw.bar
-amazon.co.jp.shjqsan.buzz
 amazon.co.jp.twq56.com
 amazon.fsddjc.com
 amazon.gunzejp.com
@@ -371,7 +369,6 @@ angularjs-qgoay2.stackblitz.io
 animalwelfareinc.org
 animericconcept.com
 anjoe.com
-ankama-prize.com
 ankama-store.xyz
 annarborhandsonmuseum-my.sharepoint.com
 annftcpqerpqnyabwgjlnblilu-dot-gle39404049.rj.r.appspot.com
@@ -471,7 +468,6 @@ asadg43sdsa.appspot.com
 ascent-scaffolding.co.uk
 asdsadf.000webhostapp.com
 ash14213.mfs.gg
-asia-firstnews.com
 asiadiscoversolutions.azureedge.net
 asiastarchsolutions.com
 asiiadinova.goosecreektradingpost.com
@@ -842,7 +838,6 @@ buzzgraphics.net
 bvbahealthypharmacy.com
 bvridnaenqucnotzhuovhpfgea-dot-gle39404049.rj.r.appspot.com
 bwplusburaidah.com
-bycakxbglgyvkfpcpxndwbdogd-dot-gle34354569099988.uk.r.appspot.com
 byoko.co.kr
 byygw.csb.app
 bzqnlhz.cn
@@ -1022,6 +1017,7 @@ cloud102.hostgator.com:2096
 clouddoc-authorize.firebaseapp.com
 clt1234529.bmetrack.com
 clubeamigosdopedrosegundo.com.br
+cmies.ca
 cn28538.tmweb.ru
 cnam.md
 cnl.snprobbx.pbz.r.de.a2ip.ru
@@ -1107,7 +1103,6 @@ cpanelpourcontinuerhqnfghjkackmailercom.000webhostapp.com
 cpc.cx
 cpjpainting.co.uk
 cpu30691.mfs.gg
-cr-mufg.1558008.com
 cr-mufg.7566258.com
 cr-mufg.7566321.com
 cr-mufg.7566963.com
@@ -1207,6 +1202,7 @@ ddestudent.kuk.ac.in
 ddnbflkzhpkwrvpnmkbkzrhwyw-dot-gle39404049.rj.r.appspot.com
 de-register-device-lloyds-online-banking.com
 de.gethuman.com
+de37443.xyz
 de9632.xyz
 dealerzone.greatnortherncabinetry.com
 dealtix.com
@@ -1275,7 +1271,6 @@ digitalmps-it.org
 dimolo.activehosted.com
 dipelnet.com.br
 dipinstitute.org
-directs-bank-mufg-co-jp.baoguoli.top
 directs-bank-mufg-co-jp.cnzhb.cn
 discordaccountcp.000webhostapp.com
 discordprofilecc.000webhostapp.com
@@ -1343,7 +1338,6 @@ dpd-unpaid.com
 dpfoidspoifopdsifpoi.blogspot.com
 dqjychiodigvqpzwekrjbkxspn-dot-gle39404049.rj.r.appspot.com
 dranathaliamatos.com.br
-drawgames.top
 drivetransfer.co
 drmartensbrando.com
 drmartensoutlethu.com
@@ -1429,7 +1423,6 @@ ee-servicehub.com
 ee-verify-billing-secure.com
 eehelp.co.uk
 eeonline-alerts.com
-eepayments.net
 eeservice-securerebate.com
 efashion.world
 efcgeprdhpurmdkbglxqavpgbv-dot-gle39404049.rj.r.appspot.com
@@ -1608,7 +1601,6 @@ fax.gruppobiesse.it
 fb-pageconfirmation.tk
 fb-privacy-1000000024875112562451117-tw.tk
 fb-privacy-1000000024875112562451118-tw.tk
-fb-privacy-1000000024875112562451119-tw.tk
 fb-privacy-1000000024875112562451120-tw.tk
 fb-privacy-10000000248751199542387655901-hk.tk
 fb-privacy-10000000248751199542387655906-hk.tk
@@ -2133,6 +2125,7 @@ information-page-claim-00001.my.id
 informwebmail.eastus2.cloudapp.azure.com
 infosecurityid.com
 infosprologinmatrisemomols.yolasite.com
+infowmotor.temp.swtest.ru
 ing-esdirecting.pro
 ingaveiculos.creatorlink.net
 ingegneriaingonlin.com
@@ -2367,7 +2360,6 @@ korespodencja-platnosc.cyou
 korespodencja-platnosc.website
 koskas.activehosted.com
 kovolem.cz
-kozlaw-validate.com
 kozlaw-validates.com
 kozlaws.com
 kqcjntvqgdynoxlubbrdwaxiyo-dot-gle39404049.rj.r.appspot.com
@@ -2438,7 +2430,6 @@ lfelelei.agilecrm.com
 lgbtstlouis.com
 lgjdlvjxqsfjnydqnqxzobmsdt-dot-gle39404049.rj.r.appspot.com
 lgsvmfhsowllqqzuwrjhdlqheu-dot-gle39404049.rj.r.appspot.com
-libertyypmedia.com
 library.foraqsa.com
 licensekeysfree.org
 licogi18.com.vn
@@ -2513,7 +2504,6 @@ lloyduk-newdevice-registered-online.com
 lloyduk-newpayee-approved-online.com
 lloyduk-online.com
 lloysecauth.com
-lltlkp.cn
 lmgxzmmkheehnixsnhktkdmkgr-dot-gle39404049.rj.r.appspot.com
 lmhwyryicszneuzbwmzkgwxzus-dot-gle39404049.rj.r.appspot.com
 lms.ozyegin.edu.tr
@@ -2581,7 +2571,6 @@ m42club.com
 m54af8.webwave.dev
 macfnkgqcypvrtoumspfbicwyd-dot-gle39404049.rj.r.appspot.com
 machinta.com
-maciel.med.br
 macjakarta.com
 madrugadaolanches.com.br
 mafacturefreemobile.blogspot.com
@@ -2657,7 +2646,6 @@ marjaharmon.com
 marjonhomes.com
 marketinghbt-my.sharepoint.com
 marketplace-65985214.com
-marketplace-housing-listing32456.com
 marketvit.by
 massimobacchini.com
 matbetgir1.blogspot.com
@@ -2680,7 +2668,6 @@ mclainjonesproperties.com
 mclaren-arg.ga
 mclaren-mo.gq
 mclarren.gq
-mcns.co.za
 mcpss-dic.tk
 mdurucan.com
 me-helpdesk-fbclid8949837273742.live
@@ -3212,6 +3199,7 @@ onlinesharepoint.typeform.com
 onlinesohbet55.xyz
 onlinesohbet99.xyz
 onlineugyvitel.hu
+onlineverify.weebly.com
 onlinezeel.optimal.mn
 onsparks-dab.blogspot.com
 ooxvocalor.yolasite.com
@@ -3447,7 +3435,6 @@ pl-weryfikacja.world
 pl-wprowadz.info
 pl.inpost-oferta.su
 pl.olxdelivery.com
-placowka-pocztowa.club
 plain583.mipropia.com
 plan-o2-monthlypayments.com
 planeta12.minobr63.ru:443
@@ -3658,10 +3645,8 @@ rakuten.lo0ol.work
 rakuten.post-japan04.work
 rakuten.qoiop.work
 rakuten.rakutenshop09.work
-rakuten.rakutenshop10.work
 rakuten.rakutenshop12.work
 rakutonet.jp.raweine.cc
-rakutonet.jp.rawqek.cc
 rakutonet.roaliuq.tokyo
 ramgarhiamatrimonial.ca
 raxwzcmueemsrxvqnstijzulzk-dot-gle39404049.rj.r.appspot.com
@@ -3758,7 +3743,6 @@ revolution-admin-100002030038264578189.tk
 revolution-admin-100002030038264578190.tk
 revolution-admin-100002030038264578211.tk
 revolution-admin-100002030038264578213.tk
-revolution-admin-100002030038264578214.tk
 revolution-admin-100002030038264578216.tk
 revolution-admin-100002030038264578219.tk
 revolutionacademy.in
@@ -4307,7 +4291,6 @@ stylifehomedecors.com
 suapromocaodejunho.com
 subpav.org
 successgroup.org
-sucursalveriftcpersonas.com
 sucursapersonastransacionebancolombiaccomn.small-business-solutions.biz
 sucuvirtcolba.com
 sudkeuceihlmaxsnblrlwhhuil-dot-gl099898987fhkl.uk.r.appspot.com
@@ -4575,7 +4558,6 @@ u3699884.ct.sendgrid.net
 u3703558.ct.sendgrid.net
 uajttelworuzltgqjlzbmzdgvz-dot-gle39404049.rj.r.appspot.com
 uammvcqlmluyhtaerunpmsvmok-dot-gle39404049.rj.r.appspot.com
-uapdate.amezona.buzz
 uat-internetloanapplication.cudl.com
 ubee.co.kr
 ubsbank-online.com
@@ -4892,7 +4874,6 @@ whatsapp.join-grupbokep2021.tk
 whatsapp18girl.4pu.com
 whatsappchat.zyns.com
 whatsappekssam.duckdns.org
-whatsappgroup.grub-wastapp-2021.tk
 whatsapps.instanthq.com
 whatsapps.mrslove.com
 whattsapp2020.qpoe.com
