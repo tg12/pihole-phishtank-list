@@ -169,7 +169,6 @@ access.deka-eu.com
 access2cars.com.au
 accessdevice-secure.me
 accesso-protetto-clienti.com
-accjh5-iiuyh-kffn.s3-eu-west-1.amazonaws.com
 accorservorg.yolasite.com
 account-netflix.secure-returngov-hm.com
 account.fido.validation.information.ssl-truechannel.radyotom.com.tr
@@ -178,7 +177,6 @@ accountbilling-ee-secure.com
 accountbilling-security.com
 accountchckecker-update-now.drpiza.com
 accounts-google-sign-in.com
-accounts-login-telekom.com
 accounts-newpayee.com
 accounts.paxful-security.com
 accounts.paxful.com.paxful-security.com
@@ -328,6 +326,7 @@ amazon-id-safety-center-signin-openid-page-max-infomation.jzuwjw.bar
 amazon.co.jp.shjqsan.buzz
 amazon.co.jp.twq56.com
 amazon.fsddjc.com
+amazon.gunzejp.com
 amazon.gunzejp.net
 amazon.sjxlzxhwksmwdoauwjdazksjqsdlcuasskrhwn8qskawoskahs9.xyz
 amazoncomjpgvheqowri.xyz
@@ -1571,7 +1570,6 @@ faktypolska7.b-cdn.net
 faleupas.kissr.com
 famous8536ylu.allsalelist.com
 fanfaronquays.com
-fanssoibahhh.vipcom1-xyz.cf
 fanxtv.info
 fasdfasdfasdfas345wetasdf.000webhostapp.com
 fashionphotographycourse.com
@@ -2056,7 +2054,6 @@ id-ee-securecustomer-online-passwordreset.s3.eu-gb.cloud-object-storage.appdomai
 id.ee.update.bill.secure.info.gorank.online
 id.sls.g.u.1yerqfxfm.mastery.edu.sa
 id.sls.g.u.lvyam1qt.renesaschool.edu.bd
-identification-portail.yolasite.com
 identifiez-vous-avec-votre-compte.yolasite.com
 ideonpackaging-my.sharepoint.com
 idsvls57.yolasite.com
@@ -2572,7 +2569,6 @@ mail.bancoitaucard.com
 mail.charperimagedesign.com
 mail.cmuhawaii.com
 mail.enrollmoreclientsbootcamp.com
-mail.fbpage-rules-5812937.com
 mail.harmonmedical.net
 mail.helprasuwanepal.org.np
 mail.hfcfit.com
@@ -2585,7 +2581,6 @@ mail.liveloginoffice.com
 mail.lloysecauth.com
 mail.login-liteacebook.com
 mail.mymp3remix.in
-mail.netflix.billing-australia.com
 mail.netflixpartycanada.com
 mail.o2-confirm-billing-info.com
 mail.o2-failure-billing-update.com
@@ -2661,7 +2656,6 @@ mdurucan.com
 me-helpdesk-fbclid8949837273742.live
 meat.uniandes.edu.co
 medacademy-a.tk
-mediclinicabudhabi.org
 mediclinicdubaimall.net
 medspecialtybilling.com
 mee-ralbead.com
@@ -3315,7 +3309,6 @@ pay.moban.com
 pay.olx.pl.link-id784815.net.ru
 pay16-olx.pl
 pay22-olx.pl
-pay41-olx.pl
 paychekout.000webhostapp.com
 payee-confirmationid.net
 payee-my-hali.com
@@ -3456,6 +3449,7 @@ portalaereo.com
 portale-web-app.com
 portale.web.mps.info.fpl.ma
 posadalalucia.com.ar
+post.swiss.prohoster.biz
 postalservices.support
 postch-dl.top
 postchtrackingorder.com
@@ -4211,7 +4205,6 @@ sso.secureserver.net
 ssplsoft.com
 ssqbjxlizwszuhumnebriuynzi-dot-gle39404049.rj.r.appspot.com
 sswebmail-4w5twsr.web.app
-ssxxl.nl
 stadtsparkasse-giroverband10.xyz
 stadtsparkasse-giroverband16.xyz
 stadtsparkasse-giroverband18.xyz
@@ -4497,7 +4490,6 @@ twtr.to
 txpqzgmhmivcvqwozsekyuavwd-dot-poised-bot-306515.uk.r.appspot.com
 txzllhpquzshdkbsjitxadzlgi-dot-gle39404049.rj.r.appspot.com
 tyacvhyxtjfhqtauvubhjpriwv-dot-gle39404049.rj.r.appspot.com
-tyanrmak.com
 tyrecentre.ru
 tyzwox.webwave.dev
 tzamereth.co.il
@@ -4977,14 +4969,12 @@ www.amazon-check-co-jp.u7o.top
 www.amazon-check-co-jp.v4s.top
 www.amazon-check-co-jp.w7p.top
 www.amazon-check-co-jp.x8g.top
-www.amazon-check-co-jp.y5r.top
 www.amazon-gcatech.com
 www.amazon-tokyoj.live
 www.amazon.co-jp-aiizmoanm.xyz
 www.amazon.co-jp-aizmnoanm.xyz
 www.amazon.co-jp-aozimanoan.xyz
 www.amazon.co-jp-azimanoanm.xyz
-www.amazon.co-jp-azmoan.xyz
 www.amazon.de.signin.verification.openid.5935156.globthirsgare.cf
 www.amazonlogistics-ap-northeast-1.amazonlogistics.jp
 www.ambrosecourt.com
@@ -5043,7 +5033,6 @@ www.bolong3d.com
 www.bombogadget.com
 www.booysensnsons.co.za
 www.brasilgraf.com
-www.brooks-polska.com
 www.brooks-sneakers.us
 www.brooks-turkiye.com
 www.brookscanadashoes.ca
@@ -5506,7 +5495,6 @@ www.raikuten.co-jp.9ckbmtqs.cc
 www.raikuten.co-jp.9f1r4nrc.cc
 www.raikuten.co-jp.bk6mocqu.cc
 www.raikuten.co-jp.bo8pdlt5.cc
-www.raikuten.co-jp.dibk9iqf.cc
 www.raikuten.co-jp.xn4qtfgs.cc
 www.raikuten.co-jp.ydossmjn.cc
 www.rajwebtechnology.com
