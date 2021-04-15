@@ -192,7 +192,6 @@ account-netflix.secure-returngov-hm.com
 account-support-safty-center-amazon-co-jp.bbed.top
 account.fido.validation.information.ssl-truechannel.radyotom.com.tr
 account.paxful.com.unissenseafrica.com
-accountbilling-security.com
 accounts-newpayee.com
 accounts.paxful-security.com
 accounts.paxful.com.bitsope.com
@@ -421,6 +420,7 @@ arcomindia.com
 ardatrzm.com
 arenillas.gob.ec
 arenzbsz.000webhostapp.com
+areuzmnz.000webhostapp.com
 areyourobotornot.blogspot.com
 argaautorepair.com
 argenahomebanqbe.com
@@ -511,7 +511,6 @@ authorisemytransfer.com
 authorize-paxful.com
 authorsationsetting-lloydsmanagement.com
 authrysmiuozdfhspmailssocl.web.app
-authyoabjhtvflxnqmailssocl.web.app
 auto24.email
 autoamzn.com
 autoatendimento.caixaresidencial.com.br
@@ -942,7 +941,6 @@ chirpme.net
 chirurgie-estetica.md
 chitterlings.com
 chregetioper.flywheelsites.com
-christianpay.000webhostapp.com
 chronopostfrlivraison8.blogspot.com
 chronopostvalidation.blogspot.com
 chungcuvinhomessmartcity.com.vn
@@ -1208,6 +1206,7 @@ demo.samretpechfinance.com
 demo.trandinhnam.com
 denuihuongson.com.vn
 deny-application-access.com
+deppages.my.id
 deregister-device-halifax.com
 deregister-device-securedlloyd.com
 deregister-lbpayee.com
@@ -1624,7 +1623,6 @@ fktevfabinwwgxvcqcvwmexjpe-dot-gle39404049.rj.r.appspot.com
 flavena.co.rs
 floorsdirectltd.co.uk
 floridadep-gov-in.gq
-flowingspringsgolf.com
 flowtork.com
 flqmkxelztegbfmtxootpjbkpe-dot-gle39404049.rj.r.appspot.com
 fly-pay.info
@@ -1980,7 +1978,6 @@ hs-verify-payeecancellation.com
 hsbc-g-com.000webhostapp.com
 hsbc.auth-deny-payees.com
 hsbc.auth-new-payees.com
-hsbc.cancel-payeesinfo.co.uk
 hsbc.cancel-paym-online.com
 hsbc.cancel-payments-made.com
 hsbc.decline-new-paym.com
@@ -2042,7 +2039,6 @@ icecosenergyltd.com
 icipedudu-my.sharepoint.com
 iczvayilwnhafzsnxekvdymnmq-dot-gl099898987fhkl.uk.r.appspot.com
 id-ee-securecustomer-online-passwordreset.s3.eu-gb.cloud-object-storage.appdomain.cloud
-id-supporto-app.com
 id.ee.update.bill.secure.info.gorank.online
 id.sls.g.u.1yerqfxfm.mastery.edu.sa
 ideapublicschools-auth-adobe.ml
@@ -2148,7 +2144,6 @@ ipjgcomynhbwcdmbiecmlkhxjg-dot-gle39404049.rj.r.appspot.com
 ipkobp.pw
 iplogger.ru
 ippa.or.id
-ipyahu.com
 irenterprises.in
 irequest-beneficiary-removal.com
 irisdigi-labs.com
@@ -3039,7 +3034,6 @@ ofaqfdaybabzfphbdwzvqcpmwz-dot-gle39404049.rj.r.appspot.com
 oferaronskind.com
 offal.odoo.com
 office365.eu.vadesecure.com
-officealert-systems.co.uk
 officeee.bubbleapps.io
 officialevent.way.live
 officialismsschwartze.net
@@ -3594,6 +3588,7 @@ rempitem.agilecrm.com
 remsy.app.link
 rencon.ch.net2care.com
 rentyouracc.ru
+renvzsa.000webhostapp.com
 repartidoor.com
 repl-mess.myfreesites.net
 replug.link
@@ -3621,6 +3616,7 @@ revert-payee-request.com
 review-my-newtransaction.com
 review-mynew-device.com
 review-page-activation-2021.my.id
+reviewhelppage.my.id
 reviewonl-request.com
 revisionara.net
 revolution-admin-100002030038264578189.tk
@@ -3819,7 +3815,6 @@ secure.caykurrizespor.tk
 secure.device-return.com
 secure.facebook.com.de.a2ip.ru
 secure.legalmetric.com
-secure.login.aliexpress.com.coin-balance.com
 secure.oldschool.com-ez.ru
 secure.oldschool.com-hg.ru
 secure.oldschool.com-mn.ru
@@ -3957,7 +3952,6 @@ signin.ea-winter.com
 signin.ebay.de.whyymedia.com.au
 signin.eday.co.uk.ws.ayisapi.dllsigninusingssl1puserid.kzbzd9n59c7tggswrvcvewuihebw7.menara-anugrah.co.id
 signin.eday.co.uk.ws.eayi.sapi.dllsignin.usingssl.9x9bdd880tj5elgyowg9r6qtn9idtl.artisste.cf
-signin01.kauf-eday.de
 signinattcomv.weebly.com
 sihla.uk
 sikikoparoles.com
@@ -4014,6 +4008,7 @@ smbc-card.com.aipler.com
 smbc-card.com.jpqwo98dhiqwq8.com
 smbc-card.com.omhgj.com
 smbc-card.hosteons16.tokyo
+smbc-card.hosteons18.tokyo
 smbc-card.shiseidoo2.tokyo
 smbc-card.shiseidoo3.tokyo
 smbc-card.shopdealjp.tokyo
@@ -4545,7 +4540,6 @@ validationsystem.creatorlink.net
 valurant.ml
 vanglzuawcothhvwuzndneishd-dot-gle39404049.rj.r.appspot.com
 vanmarckegroup-my.sharepoint.com
-vantbh.shop
 vanvleetfamilyfarm.com
 variazione-pin.com
 vbozlubquasoodkeczwekrwtef-dot-gle39404049.rj.r.appspot.com
@@ -4706,7 +4700,6 @@ webexcels.com
 webexert.com
 webfiddle.net
 webindextesting.pro
-weblestrans-aliyuntransfer.web.app
 webmail-sso8uyg.web.app
 webmail.accenter.answerivecovid19.com
 webmail.bakari.com.pl
@@ -4781,7 +4774,6 @@ wmzhlieremguv.tonohost.com
 woahehertlakrjewroijdlsaf.buzz
 womedeluxespa.com
 woodcountyd-a.ga
-wooden-resolute-dichondra.glitch.me
 woodworkpalace.com
 wordonlinexd.tonohost.com
 wordpress-577898-1869265.cloudwaysapps.com
@@ -4847,7 +4839,6 @@ www.aimazon.bv5qx71lmr9je.buzz
 www.aimazon.co-jp-8avhup6brqzm.buzz
 www.aimazon.co-jp-hn4g8ufyvl0d.xyz
 www.aimazon.co-jp-lv08n8vrzwo7.xyz
-www.aimazon.co-jp-r09bmc1zzbub.xyz
 www.aimazon.co-jp-ythmf4tj1cyv.xyz
 www.aimazon.d7m3cngq.cc
 www.alaskanmalamute.us
@@ -5200,6 +5191,7 @@ www.join-whatapp.otzo.com
 www.joindewasa.qpoe.com
 www.joingrupnotnot-official.duckdns.org
 www.joinngrubwa.itsaol.com
+www.jp-bank-japanpost.xyz
 www.jptechdocsign.net
 www.kashmir-packages.com
 www.kbstitchdesigns.com
@@ -5356,7 +5348,6 @@ www.progarchives.com
 www.programmasviluppo.com
 www.promehedinti.ro
 www.protecctionline.tonohost.com
-www.provincerealestate-homesagent.com
 www.prueba1log.tonohost.com
 www.pte.lt
 www.qdevtools.com
@@ -5419,6 +5410,7 @@ www.ronaldjamesgroup.co
 www.rondelbarrilito.com
 www.rotarysnehaveedu.com
 www.runescape.com-wsvs.top
+www.s.id
 www.salesnksportsqn.top
 www.samducksports.com
 www.sancotradebd.com
@@ -5607,6 +5599,7 @@ www2.cr.mufg.jp.macys10.tokyo
 www2.cr.mufg.jp.skhayashi2.tokyo
 www2.cr.mufg.jp.uberx.tokyo
 www2.cr.mufg.jp.uberx2.tokyo
+wwws.jp-bank.japanpost.jp
 wypadki24.e-kei.pl
 wzplh.app.link
 x.yakinindaki-kizlar42.xyz
