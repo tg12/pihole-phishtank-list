@@ -414,7 +414,6 @@ appleid.apple.com.vhee33.com
 appleid.locationinfo.ru
 applepaymentpartner.com
 appleverificationalert.com
-appleverificationalert.com:443
 applewriters.com
 appmiseajourconnectfromagenceregionnalconnect.u977365cx7.ha005.t.justns.ru
 apporg.yolasite.com
@@ -1000,7 +999,6 @@ cliniqtec.com
 clnhjxdwkdcjesyxufzejeyvid-dot-gle39404049.rj.r.appspot.com
 cloud-one-drive.com
 cloud1.directnutrisciences.com
-cloud102.hostgator.com:2096
 clouddoc-authorize.firebaseapp.com
 clt1234529.bmetrack.com
 clubeamigosdopedrosegundo.com.br
@@ -1311,7 +1309,6 @@ dota2og.top
 dotdre.com
 dotilo.com
 douuodwoman.com
-doveadolescentservices-my.sharepoint.com:443
 dowaba-s2dhl.blogspot.com
 downehouseschool-my.sharepoint.com
 dowwr.com
@@ -1624,7 +1621,6 @@ financiallifecoaching.builderallwp.com
 financialone.com.hk
 finansuotojas.lt
 
-firstgraderecruitment-my.sharepoint.com:443
 firstireland.com
 fitlineintegratorialimentari.com
 fiuf89ufgigigi.yolasite.com
@@ -2756,7 +2752,6 @@ moneyviewfinance.in
 monirshouvo.github.io
 monitor254.co.ke
 monomobileservice.yolasite.com
-monovative-my.sharepoint.com:443
 monremboursementgouv.blogspot.com
 monroy-proyectos.com
 monstercarp.rn86.ru
@@ -3359,7 +3354,6 @@ pics.lookatmynewphotos.com
 pilisklima.hu
 pinezaki.com
 pinkoliveentertainment.com
-pinnaclepipingandservice-my.sharepoint.com:443
 pismo-online.link
 piteqdiwdkjxpcwdbnbtntawuj-dot-gl909989876787.uk.r.appspot.com
 pixelbenchmarks.com
@@ -3369,7 +3363,6 @@ pl-19.ru
 pl-bankinvest.surge.sh
 plain583.mipropia.com
 plan-o2-monthlypayments.com
-planeta12.minobr63.ru:443
 planstelecomsarl.com
 plasticaindia.com
 plataformaeducativa.se.jalisco.gob.mx
@@ -3574,13 +3567,11 @@ redirect.viglink.com
 redirect.voici-news.fr
 redirecting-55f01.web.app
 redlinegym.com
-redlinerecruitment353-my.sharepoint.com:443
 redpotatobelize.com
 redredget.com
 reduction-ligne.web.app
 reebe.snprobbx.pbz.r.de.a2ip.ru
 regiaocentrorsmg.websicredi.com.br
-regiaocentrorsmg.websicredi.com.br:443
 regina.ninetendev.com
 register-my-device.com
 register-mynew-device.com
@@ -3690,7 +3681,6 @@ rosesattar.com
 rotimi.pandaform.com
 rotseezunft.ch.tcorner.fr
 roupakids.blogspot.com
-roxburycommunitycolleg798-my.sharepoint.com:443
 royal-deliverypay.com
 royal-pay-shippingfee.com
 royal.mail-fee-payment.com
@@ -3818,7 +3808,6 @@ secure-ssl-cdn.com
 secure-verify-new-payment.com
 secure-webapps.srvicescs.allsukajuijeg.com
 secure.bankofamerica.com-login-sign-in-signonv2screen.go.suzukihaiphong.com.vn
-secure.captisa.com:443
 secure.caykurrizespor.tk
 secure.device-return.com
 secure.facebook.com.de.a2ip.ru
