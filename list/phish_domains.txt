@@ -137,7 +137,6 @@ DarkgreenInsistentGeneric.mailserver.repl.co
 Deregister-unverified-seclloyd.com
 a-kom.tn
 a0537673.xsph.ru
-a0538168.xsph.ru
 aadaedu-my.sharepoint.com
 aaekt.app.link
 aagiineqxbcmnkdnceowacqnpi-dot-gle39404049.rj.r.appspot.com
@@ -258,6 +257,7 @@ aliciabot.azurewebsites.net
 alienpharmabd.com
 alimajed1.com
 alkawaterdiy.com
+allegro.3lokallnie.online
 allegro.mojlokallnie.online
 allergotek.sa
 alliance4consumersusa.org
@@ -452,6 +452,7 @@ att.computer
 att_t1.godaddysites.com
 attcfthg.weebly.com
 attemptdetectedpayment.com
+attincoming.weebly.com
 attitudetransportes.com.br
 attkdga.weebly.com
 attkfjfr.weebly.com
@@ -462,6 +463,7 @@ attnett.yolasite.com
 attpro-emailverificationdomainloginpagjpkhdjj.weebly.com
 attpro-emailverificationdomainloginpagjpkhdjv.weebly.com
 attsgfh.weebly.com
+attusers.weebly.com
 atualizacao-online547864.com
 atualizaonline2533.com
 atualizarcartao.kinghost.net
@@ -976,7 +978,6 @@ community-0208495162.saintsolomon1.com
 community-0911316748.saintsolomon1.com
 community-7723924173.saintsolomon1.com
 community-pagesupports-business-page.ga
-community-pagesupports-business-page.gq
 complete.juliec1.repl.co
 compliance-central.com
 composito.com.br
@@ -1108,7 +1109,6 @@ dashboard-paxful.com
 dashboard.wonderfo.land
 dataupdaterequired.site44.com
 datelsolutions.co.uk
-datenaktualisierung-pruefung.de
 davideautos.de
 davitherbal.com
 davivenda-738.webcindario.com
@@ -2153,7 +2153,6 @@ jtkyktjvrobtabomzjjwmpqmyz-dot-poised-bot-306515.uk.r.appspot.com
 juanthradio.com
 judithleoni.com
 judysigner.cafe24.com
-juegosresueltos.com
 jueimssdnngahlnvuwcfalvuby-dot-gl099898987fhkl.uk.r.appspot.com
 jueresources.com
 jugosdelvalle.com.mx
@@ -2523,7 +2522,6 @@ main.d1pokn4hef5zk.amplifyapp.com
 main.d1wm5yrxvx4xa.amplifyapp.com
 main.d297c2yt8lktld.amplifyapp.com
 main.d340w0rs0ab6uq.amplifyapp.com
-main.d4br92p7wj3o5.amplifyapp.com
 maindiscount.su
 makem102day.com
 makerupya.com
@@ -2705,6 +2703,7 @@ mutatio.cl
 muwoughmczhpszelnkddksywto-dot-gle39404049.rj.r.appspot.com
 muxt.mi-me.com
 mvibtqxgurrssohjbqebvnzckp-dot-gl099898987fhkl.uk.r.appspot.com
+mvotmmn.cn
 mw2hbg7ev0a.typeform.com
 mwebwebclientvalidation.moonfruit.com
 mwjwjispzyemmdsbuwppumsuxh-dot-gle39404049.rj.r.appspot.com
@@ -2954,8 +2953,14 @@ olx.pl-safe.oferta-payment.stream
 olx.pl-safebuy.icu
 olx.pl-safebuy.work
 olx.pl-safebuyed.icu
+olx.pl-safebuyed.work
+olx.pl-safebuyed.xyz
 olx.pl-safebuys.cyou
 olx.pl-safebuys.work
+olx.pl-savebuys.cyou
+olx.pl-savebuys.shop
+olx.pl-savebuys.work
+olx.pl-savebuys.xyz
 olx.pl-savedcash.work
 olx.pl-savescash.xyz
 olx.pl.payment-move.net.ru
@@ -3494,7 +3499,6 @@ revolution-admin-10000002003001234567891021.tk
 revolution-admin-10000002003001234567891022.tk
 revolution-admin-10000002003001234567891024.tk
 revolution-admin-10000002003001234567891026.tk
-revolution-admin-10000002003001234567891030.tk
 revolution-admin-10000002003001234567891036.tk
 revolution-admin-1000020300389264567812345660.tk
 revolution-admin-1000020300389264567812345664.tk
@@ -3776,6 +3780,7 @@ shohidurrahman.info
 shopeextradron.wpdevcloud.com
 shorrtener.herokuapp.com
 shortenlink.top
+shortu.be
 shoutout.wix.com
 showcontent.xyz
 shrkfhnqtwyrxgvikvsjrgsxzk-dot-gle39404049.rj.r.appspot.com
@@ -3847,8 +3852,8 @@ smbc-card.com.artsycraftsymom.co
 smbc-card.com.asianjunkie.co
 smbc-card.com.jpqwo98dhiqwq8.com
 smbc-vip.com
+smbc.goldvip2861.vip
 smbcwodeqingguoshoujicojp.top
-smcc-cacc.dhxzmn.vip
 smconecta.cl
 smediaphotography.com
 smeo.org.mx
@@ -4692,7 +4697,6 @@ www.amakuzon.co.jp.xqyfiioj.top
 www.amaomazonpay.xyz
 www.amazccon.co-jp.cc
 www.amazon-ams.xyz
-www.amazon-check-co-jp.c5j.top
 www.amazon-check-co-jp.c8z.top
 www.amazon-check-co-jp.d1f.top
 www.amazon-check-co-jp.e4p.top
@@ -4728,6 +4732,7 @@ www.amazonlogistics-ap-northeast-1.amazonlogistics.jp
 www.ambrosecourt.com
 www.ameport.org
 www.amiceclinicamedica.com
+www.amozan.co.jp.account-amoueoncom.shop
 www.amzrzon.xyz
 www.anildo-motta.com
 www.anssmoca.club
@@ -4836,7 +4841,6 @@ www.designerforuiq.com
 www.designerforuiy.com
 www.designerlakehouse.com
 www.dexlerholdings.com
-www.dfeuje.com
 www.dfo.com.my
 www.digitaltaxmatters.co.uk
 www.dineroalinstante-viabcp.com
@@ -5474,6 +5478,7 @@ y3s2ye.webwave.dev
 yaciti.cn
 yahoomaillinkini.weebly.com
 yahoos-initial-project-cf784a.webflow.io
+yahooupdatecenters.weebly.com
 yahoouu.weebly.com
 yakinindaki-kizlar42.xyz
 yakutcement.ru
