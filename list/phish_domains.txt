@@ -312,6 +312,7 @@ amazon.k-jp.co
 amazon.kh60a.cn
 amazon.o-jp.co
 amazon.o28rg.cn
+amazon.sunmoon8556.vip
 amazon.sunmoon8576.vip
 amazon.t-jp.co
 amazon.u-jp.co
@@ -2199,6 +2200,7 @@ jp-amazon.f5x.top
 jp-amazon.f6x.top
 jp-amazon.f9x.top
 jp-amazon.spl1.top
+jp-amazon.spl2.top
 jptechdocsign.net
 jqoctwysoxeflahlrasjjdyzpe-dot-gl099898987fhkl.uk.r.appspot.com
 jqyenafeadrrjmgikrnxnpjfuc-dot-gle39404049.rj.r.appspot.com
@@ -2248,7 +2250,6 @@ karunruk.com
 kashmir-packages.com
 kassdrprhriaubkwkqjhpbdbsd-dot-poised-bot-306515.uk.r.appspot.com
 katanyacin.com
-kawakami.etec-m.com
 kb.growbydata.com
 kbclhhjsncqiiymdncgjlposkh-dot-gl099898987fhkl.uk.r.appspot.com
 kblessedmom.com.np
@@ -2814,7 +2815,6 @@ my-website-log-in.cloudns.cl
 my.jcb.co.jp.myjnl.com
 my.narmsinc.org
 my.nativeforms.com
-my.ts3carb.com.embwizard.com
 my02billing.dev
 my2ktop.company.site
 my2ktop.ecwid.com
@@ -3042,6 +3042,7 @@ olx-check.com
 olx-dostawka-paytransfer.tk
 olx-group.com
 olx-my.xyz
+olx-paydelivery.com
 olx-payments.host
 olx-pl-konto-ref.com
 olx-pl.pl-payment.xyz
@@ -3053,7 +3054,6 @@ olx.kontospl.cam
 olx.pl-getsell.cyou
 olx.pl-oplata-cash.xyz
 olx.pl-safe.oferta-payment.stream
-olx.pl-safebuy.work
 olx.pl-safebuyed.icu
 olx.pl-safebuyed.xyz
 olx.pl-safebuys.cyou
@@ -3061,12 +3061,14 @@ olx.pl-safebuys.work
 olx.pl-safety.oferta-payment.stream
 olx.pl-savebuy.club
 olx.pl-savebuy.shop
+olx.pl-savebuyed.cyou
 olx.pl-savebuys.shop
 olx.pl-savebuys.xyz
 olx.pl-savescash.xyz
 olx.pl.payment-move.net.ru
 olx.polskaoferk.cyou
 olx.rwpay.ru
+olx.sale-info.online
 olxdelivery.pl
 olxpl.rouder.info
 olxpraca.pl
@@ -3195,6 +3197,7 @@ pagjwziifojszgrlcaordtotvo-dot-gle39404049.rj.r.appspot.com
 paiement-direct-instantane.cf
 paiement-instantane.cf
 paiement-securise.tk
+paiementinstantane.cf
 paiementleboncoin.com
 paiementsecur.com
 paintyourmemory.com.au
@@ -3297,7 +3300,6 @@ pichinca20202.tonohost.com
 pichincha-notifi.webcindario.com
 pichincha0002.webcindario.com
 pichinchabanweb.tonohost.com
-pichinchnfh.atwebpages.com
 picnic.industries
 pics.lookatmynewphotos.com
 pideciisa.com
@@ -3523,7 +3525,6 @@ raxwzcmueemsrxvqnstijzulzk-dot-gle39404049.rj.r.appspot.com
 rayone.com.jo
 rb.gy
 rbcmontgomery.com
-rblxapi-logger.000webhostapp.com
 rd8um.app.link
 rdargeaktplrbhbiagyenwglns-dot-gl099898987fhkl.uk.r.appspot.com
 rdbqvxlywwozvxqeykujqiptdf-dot-gle39404049.rj.r.appspot.com
@@ -4011,6 +4012,7 @@ sorinandronic.com
 soshassistance.wixsite.com
 soshassistance2.wixsite.com
 soshassistance7.wixsite.com
+soshoptanslatesitebc.000webhostapp.com
 sotly.me
 souaxwaoh.myfreesites.net
 soude-masi.firebaseapp.com
@@ -4095,7 +4097,6 @@ starttsboxfile.myfreesites.net
 stateagencybe.tumblr.com
 statenewsharyana.com
 static-ak-fbcdn.atspace.com
-stcmo.net
 steamproxy.net
 steven-coldwellbth9965.web.app
 sthqncsdidugbpykytaycffowt-dot-gl099898987fhkl.uk.r.appspot.com
@@ -5036,7 +5037,6 @@ www.fructidor.com
 www.fundacioires.org
 www.futboles.shop
 www.futuretroveschool.com
-www.gaiarec.org
 www.gammanu1947.com
 www.genericracermotorcycles.com
 www.genesisprime.net
@@ -5122,7 +5122,6 @@ www.indeedcontract.com
 www.infamepichinlog.tonohost.com
 www.info-full18.2waky.com
 www.inlnk.ru
-www.inonwoven.com
 www.instagram.ettastore.com.ng
 www.instagram.o1u.de
 www.interactive.uk.net
@@ -5355,7 +5354,6 @@ www.rps-group.net
 www.runescape.com-fe.ru
 www.runescape.com-wsvs.top
 www.s.id
-www.sagacontratrading.com
 www.salesnksportsqn.top
 www.samducksports.com
 www.samnetakademi.com.tr
