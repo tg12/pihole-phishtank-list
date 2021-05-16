@@ -686,7 +686,6 @@ auth-payeeprotection.com
 authcli630-webmail-cloud401.web.app
 authetica-wlpasi.web.app
 authorise-connectionhost.com
-authorise-latestpayee.com
 authorisemytransfer.com
 authorize-paxful.active-paxful.com
 authorsationsetting-lloydsmanagement.com
@@ -1177,7 +1176,6 @@ clouddoc-authorize.firebaseapp.com
 clt1234529.bmetrack.com
 clubeamigosdopedrosegundo.com.br
 cluebazar.com
-cmb-frdsp2.com
 cnam.md
 cnl.snprobbx.pbz.r.de.a2ip.ru
 co.uvpn.west.corp.tiaabankvoices-com.out.paypallogon.net
@@ -1615,6 +1613,7 @@ eliturbrasil.com.br
 elizabethkazeem.com
 ellenronaldskeene.com
 elomo.ro
+eloncoins.space
 email.2020cycling.cc
 email.touchbasepro.com
 email302.com
@@ -2104,7 +2103,6 @@ hs-verifynew-onlinebanking-payees.com
 hsbc.co.uk.payeeasecures.com
 hsbc.co.uk.payeexsecures.com
 hsbc.co.uk.securesapayees.com
-hsbc.online-paym-confirmation.com
 hsbc.payeenew-verify.com
 hsbc.remove-payee-secure.com
 hsbc.uk.issue-recipients-validation.info
@@ -2779,6 +2777,7 @@ mfacebook.blogspot.rs
 mfacebook.blogspot.ru
 mi-air-onedrive.com
 mi.homedepot.com
+micard-login.buzz
 micr0s0ftverify.nicepage.io
 microcav.square.site
 microsoft-excel.kr.jaleco.com
@@ -3065,10 +3064,15 @@ olx-pl.safe-delivery.win
 olx-uzyskiwanie.pl
 olx.o-plata.com
 olx.olxkonstosx.casa
+olx.olxkonstosx.cyou
+olx.olxkonstosx.shop
 olx.olxkonstosx.work
 olx.olxkonstosx.xyz
-olx.pkkontos.shop
 olx.pl-gotpay.cyou
+olx.pl-gotpays.cyou
+olx.pl-gotpays.icu
+olx.pl-gotpays.shop
+olx.pl-gotpays.xyz
 olx.pl-orderpaid.icu
 olx.pl-orderspaid.icu
 olx.pl-orderspaid.work
@@ -3078,7 +3082,6 @@ olx.pl-savedbuy.work
 olx.pl-savedpay.xyz
 olx.pl.paying-securs.ru
 olx.rwpay.ru
-olx.xdelivery.xyz
 olxpl.delivery-u.com
 olxpl.rouder.info
 olxpraca.pl
@@ -3102,7 +3105,6 @@ onlinehalifax-account.com
 onlinepakistanlegaladvice.com
 onlinepayee-restricted-service.com
 onlineroisupportupdate.com
-onlinesgalicia.tonohost.com
 onlineshoppaimentachat.000webhostapp.com
 onlinesohbet50.xyz
 onlinesohbet9.xyz
@@ -3333,7 +3335,6 @@ polskapoczta.olxkonstosx.work
 polskapoczta.pkkontos.casa
 polskashoes.top
 pomoc.o2.pl
-ponimalsoline.buzz
 pontofrio.webpremios.com.br
 popcornapp.360guide.in
 populartraders.co.in
@@ -4221,7 +4222,6 @@ toquedsol.com
 torontotreeexperts.ca
 total.direct-energie.com
 tow1.photoclub-ebroicien.fr
-towngreececontestt.000webhostapp.com
 tpq74.codesandbox.io
 tpservices.runescape.com-nu.ru
 tpservlces.runescape.com-nu.ru
@@ -4408,7 +4408,6 @@ verificationmessage.blob.core.windows.net
 verifikasi-akun-pengaturan.weebly.com
 verifikasi-blockeds8.forumz.info
 verifikasiid6.wixsite.com
-verify-hostlink.com
 verify.paypal-verifysms.com
 vertrauenbrokers.com
 verzeichnisse.creatorlink.net
@@ -5306,6 +5305,7 @@ www.yuuban.mx
 www.zimbabwe.net.za
 www.zjgsyds.cn
 www.zonasegurabeta.viabcp.transferencia.bcp.one21.in
+www1.micard-login.buzz
 wygodnemeble.eu
 wypadki24.e-kei.pl
 wzplh.app.link
