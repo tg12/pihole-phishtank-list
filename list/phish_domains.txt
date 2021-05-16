@@ -365,6 +365,7 @@ accorservorg.yolasite.com
 accoun-info.000webhostapp.com
 accoun-twit.000webhostapp.com
 account-adobe-auth.azurewebsites.net
+account-nuev.000webhostapp.com
 account.mtb-banking.com
 account.paxful.com.unissenseafrica.com
 accounts.paxful.com.unissenseafrica.com
@@ -454,6 +455,7 @@ alicesecurity.ro
 alicetruecolors.com.mx
 aliciabot.azurewebsites.net
 alimajed1.com
+alirezap.ml
 alkawaterdiy.com
 allegro-llokallnie.online
 allegro-lokalniie.fun
@@ -529,7 +531,6 @@ amozanm-rrere.cc
 ams-eg.com
 ams3.digitaloceanspaces.com
 amtransport-us.tk
-analogrebellion.com
 anarchitecturestudio.com
 anarelledufour.website2.me
 anazon.co.jp.cloudconedomnuzomashipo002.tk
@@ -630,6 +631,7 @@ artriumphtraffic.gq
 artriumphtraffic.ml
 artriumphttraffic.tk
 aruba-iv.blogspot.com
+asb-mobile-login-respond.rcdesigns.co.nz
 ascent-scaffolding.co.uk
 ash14213.mfs.gg
 asiadiscoversolutions.azureedge.net
@@ -966,6 +968,7 @@ bridgewaterma-my.sharepoint.com
 brigida_cossette.gitlab.io
 britainwestmotorsport.com
 briztrade.com
+brmrentcars.cz
 brodcast6002.blogspot.com
 brooksrunningitalia.com
 broomesoho.ml
@@ -1041,6 +1044,7 @@ carnegieproperty-my.sharepoint.com
 carwash.tv
 casadasreceitas.com
 casafruela.com
+casasandiegopuerto.com
 casaverdeatelie.com
 case-fun.com
 casosapple.com-verificacionapple.com
@@ -1112,6 +1116,7 @@ chat-whatsapp.vizvaz.com
 chatgrupwhatsapp1.duckdns.org
 chatgrupwhatsapp18.duckdns.org
 chatgrupwhatsapp8.duckdns.org
+chatwatsapgropp90.duckdns.org
 chcmrsde.tk
 check-newpayee-halfax.com
 checkpoint7.tk
@@ -1142,6 +1147,7 @@ ckwgruppe.service-now.com
 cla2020gov.com
 claim-irs.com
 claro-controle-downloader.m4u.com.br
+classroominbloom.com
 claus.bz
 clayheart.com
 cleanupcongresspac.com
@@ -1169,7 +1175,6 @@ cluebazar.com
 cnam.md
 cnl.snprobbx.pbz.r.de.a2ip.ru
 co.uvpn.west.corp.tiaabankvoices-com.out.paypallogon.net
-coalcoman.net
 coanwilliams.com
 coastwholesaleappliances-my.sharepoint.com
 cocovip.net
@@ -1259,6 +1264,7 @@ cpu30691.mfs.gg
 cr.mufg.jp.yuanjj.com
 crackaworld.com
 cranetech.com.br
+crazy-bangla.com
 createchsoft.com
 creation-creationact-215192311.atwebpages.com
 creative-console.com
@@ -1412,6 +1418,7 @@ dhlgpi.com
 diasdecompraryganar.com
 dichvuvnpt.com
 die-post-swiss-id-19782635812.psd2any.com
+dimehuxley.com
 dimlikemenowcontest5.000webhostapp.com
 dimolo.activehosted.com
 dioceseoftrincomalee.org.lk
@@ -1788,6 +1795,7 @@ firstflight.com.my
 firstireland.com
 fitlineintegratorialimentari.com
 fiuf89ufgigigi.yolasite.com
+fixe-messagerie2.yolasite.com
 fixertawa.blogspot.com
 fixitestore.com
 fizikagroup.ru
@@ -1856,7 +1864,6 @@ gabyt.net
 gaiarec.org
 galbob.fr
 galicia-online.tonohost.com
-galiciahomeban.tonohost.com
 galiciasonliine.tonohost.com
 galicix289289.mipropia.com
 gallery.thegemfox.com
@@ -1909,6 +1916,7 @@ glomediamarketinginstitute.com
 glossmeup.ae
 glsword.com
 glszlgjgogjczksworcsktrmng-dot-poised-bot-306515.uk.r.appspot.com
+glui.eu
 gmaiil-access.000webhostapp.com
 gmail-auth.com
 gmaillgve.ebpages.com
@@ -1965,6 +1973,7 @@ grup-wa-bokep18.wikaba.com
 grupo-cajamar.com
 grupoabi.cl
 gruposcherman.com.br
+grupwa-hotviral2.duckdns.org
 grupwa18-tys.wikaba.com
 grupwhatsapbokep.duckdns.org
 gscommunityspirit.greenschool.org
@@ -2532,7 +2541,10 @@ localbusinesscitationbuilding.com
 lodgewallisplains.com
 lofon-add.firebaseapp.com
 logicafinanciera.com.co
+login-account-id3214.web.app
 login-authentication.com
+login-canada-cr2.web.app
+login-canada1.web.app
 login-live.com-s02.net
 login-secure-three.uk.com
 login-webregistrobr.com
@@ -2848,7 +2860,6 @@ my-jcb.thrteens678a.vip
 my-site219.yolasite.com
 my-transactions-netflix.com
 my.modulbankl.ru
-my.moduulbank.ru
 my.nativeforms.com
 my02billing.dev
 my2ktop.company.site
@@ -3050,17 +3061,16 @@ olx.olxkonstosx.shop
 olx.olxkonstosx.work
 olx.olxkonstosx.xyz
 olx.pl-gotpay.cyou
-olx.pl-gotpays.cyou
 olx.pl-gotpays.icu
 olx.pl-gotpays.shop
 olx.pl-gotpays.xyz
 olx.pl-orderedpays.xyz
 olx.pl-orderpaid.icu
-olx.pl-orderspaid.icu
 olx.pl-orderspaid.work
 olx.pl-paidorder.cyou
 olx.pl-savedbuy.work
 olx.pl-savedpay.xyz
+olx.pl.delivery.oferta-payment.email
 olx.pl.paying-securs.ru
 olx.rwpay.ru
 olxpl.delivery-u.com
@@ -3270,7 +3280,6 @@ pichinbasededato.tonohost.com
 pichinca20202.tonohost.com
 pichincha-notifi.webcindario.com
 pichincha0002.webcindario.com
-pichinchabanweb.tonohost.com
 pichinchaweebb.tonohost.com
 pichinchban.mipropia.com
 pichver5.tonohost.com
@@ -3449,6 +3458,7 @@ raketenm-tk23ia.cc
 raketenm-vcydv.cc
 raketenm-zq5et.cc
 raktuen.co.jp.mnwyt.com
+raktune.co.jp.jyzrh.com
 rakuten.co.jp.rakutennvvip.xyz
 rakuten.co.jp.rakuyln.xyz
 rakuten.email-belluna1.tokyo
@@ -3546,6 +3556,7 @@ review-mynew-device.com
 review-page-activation-2021.my.id
 review-record.info
 reward-claim20.duckdns.org
+reward-ml72.duckdns.org
 rewco234mmuni.ru
 rextraening.dk
 rfjrvaal.ml
@@ -3594,6 +3605,7 @@ rotseezunft.ch.tcorner.fr
 round.ahiretrading.repl.co
 roupakids.blogspot.com
 router-9443ae07-a990-4b7d-9bb7-13a637bfdc80.eastus.cloudapp.azure.com
+royal.mail-redelivery4x7z.com
 royal.mail-redelivery4z7x.com
 royal.mail-redelivery7x2z.com
 royalmail.details-sec-verify0.com
@@ -3956,6 +3968,7 @@ stateagencybe.tumblr.com
 statenewsharyana.com
 static-ak-fbcdn.atspace.com
 stcmo.net
+steamcommnunitty.com
 steamcornrnurnity.com
 steamproxy.net
 steanncommuniuty.com
@@ -4040,6 +4053,7 @@ szgfujaebtlzdjusbmhvtwlgdk-dot-gle9392420309493993.rj.r.appspot.com
 t-online-de.net
 t-online.de.rongouniversitychaplaincy.com
 t.co
+t.dsecure-2.com
 t.mails.total.direct-energie.com
 t.marketing1.william-reed.com
 t.mktla.com
@@ -4221,6 +4235,7 @@ transferpricing.firs.gov.ng
 transit-e.com
 translate.sogoucdn.com
 translateinshopflux.000webhostapp.com
+travelingbeats.com
 travisusd-my.sharepoint.com
 tregollsschool-my.sharepoint.com
 trelock.com
@@ -4525,6 +4540,7 @@ whattsapps.misecure.com
 whitefordkenworth-my.sharepoint.com
 whoachile.com
 whoisnooey.com
+wholesalebagoutlet.com
 wifi.retinad.com
 wijanpedia.com
 wikiarch.cz
@@ -5106,6 +5122,7 @@ www.reconfirmpost287846656.us
 www.recso.org
 www.reddotarms.com
 www.regina.ninetendev.com
+www.reward-ml72.duckdns.org
 www.rguga.ro
 www.rioexpress.live
 www.rioverdepar.com.br
