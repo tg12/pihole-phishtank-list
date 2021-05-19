@@ -407,7 +407,6 @@ accoun-twit.000webhostapp.com
 account-adobe-auth.azurewebsites.net
 account-bik.000webhostapp.com
 account-center.us-amazon.net
-account-nuev.000webhostapp.com
 account-sami.000webhostapp.com
 account.mtb-banking.com
 account.paxful.com.unissenseafrica.com
@@ -515,7 +514,6 @@ alliedenthospital.com
 allstarlax.com
 allwalletsconnect.com
 almawakebschool-my.sharepoint.com
-almond-natural-othnielia.glitch.me
 almotamadris.com
 alpha-lam.com
 alphabio.envolvelabs.com.br
@@ -529,7 +527,6 @@ alternatifklinik.com
 alumdecor.ru
 aluminumtrailer.tk
 amankan-facebook.weebly.com
-amaonzon.co.jp.pjqvbl.cn
 amaozaon.co.jp.cqzxfzk.cn
 amaozaon.co.jp.kjidknk.cn
 amaozm.ngkjj.com
@@ -627,6 +624,7 @@ antaresns.com
 antiguatabernaqueirolo.com
 aol-redirecct.weebly.com
 aolsecurityverificationmail.weebly.com
+aolwebmailer00.weebly.com
 apesigam.com
 api.alqadam.uz
 api.bdisl.com
@@ -821,7 +819,6 @@ bancoiinng.site44.com
 bancopichinchaecucom.mipropia.com
 banhywkaie.com
 bank-of-america-secure00.dns05.com
-bankdata.temanggungkab.go.id
 bankprozess3.xyz
 bannerb.net
 banpichinchaweb.webcindario.com
@@ -1583,6 +1580,7 @@ driverschoice.sg
 drivetransfer.co
 drlucyspelman.com
 drmartensgreecegr.com
+drmartenshophu.com
 drmartensportugal.top
 drmartenssale.me
 dropboxpremiumpay.weebly.com
@@ -2025,7 +2023,6 @@ gettingonpreaching.ga
 gfmfxefsrr-my.sharepoint.com
 gfxx.creatorlink.net
 gg.gg
-ggdrop.net.ru
 gguor.by
 ghislain.dartois.pagesperso-orange.fr
 ghorana.com
@@ -2101,7 +2098,6 @@ groworldinternational.com
 grub-videoviral-2021.duckdns.org
 grubbokep22.mrbonus.com
 grubtantenadiah.crotteros.cf
-grubvideoabgviral-2021.duckdns.org
 grup-wa-bokep18.wikaba.com
 grupdewasacrottt.zyns.com
 grupoabi.cl
@@ -2112,6 +2108,7 @@ grupwalink.duckdns.org
 grupwhatsapbokep.duckdns.org
 gscommunityspirit.greenschool.org
 gshylemunfozjatqlskzsevesu-dot-poised-bot-306515.uk.r.appspot.com
+gsprodukt.cz
 gtahouse4cash.ca
 gudanggamismuslimah.com
 gudieleisurefarm.org
@@ -2302,10 +2299,8 @@ ijobs.vn
 iksanthesharp.postown.net
 ikuhzdswpx.pfirmann-bau.de
 ikulutugrowthacademy.com
-image-1ump1428b.btlyngby.dk
 image-30h0dld1t.btlyngby.dk
 image-ctjmpwhs.btlyngby.dk
-image-hum2ciiuf.btlyngby.dk
 image-m4fin203.btlyngby.dk
 image-qjgx6bwyz.btlyngby.dk
 image-s74q4pu1pn.btlyngby.dk
@@ -2426,6 +2421,7 @@ janemontessorigh.com
 jbjwoqarhqdjrxuaesxembfmev-dot-glex9394293032.oa.r.appspot.com
 jccstl-my.sharepoint.com
 jcmitalia.it
+jdsfjksjf.weebly.com
 jedgzyqatehdcjjpcujigduapq-dot-glex9394293032.oa.r.appspot.com
 jeffreybcam.net
 jenis9q.dx.am
@@ -2756,7 +2752,6 @@ m.tpservlces.runescape.com-nu.ru
 m.tpservlices.runescape.com-nu.ru
 m.tpservllces.runescape.com-nu.ru
 m.tpsservices.runescape.com-dg.ru
-m.tpsservices.runescape.com-n.ru
 m.tpsservices.runescape.com-no.ru
 m.tpsservices.runescape.com-ov.ru
 m.tpsservlces.runescape.com-no.ru
@@ -2950,10 +2945,8 @@ mobilefb-h84k1dhb4w.88live.tv
 mobilefb-s5k5tyjfh.88live.tv
 mobilefb-s80ytncdon.88live.tv
 mobilefb-v2nhjoqs.88live.tv
-mobilefb-we1uxtnp.88live.tv
 mobilefb-yhl8vr5iv.88live.tv
 mobiliablog.com.au
-mobilityservices.info
 mobipay-systems.com
 mobsuemil.com
 mockup.metradigitalmedia.com
@@ -3185,7 +3178,6 @@ olx-dostawka-paystill.ml
 olx-group.com
 olx-pay-ua.com
 olx-pl-konto-ref.com
-olx-pl.3dsecure-pay.com
 olx-pl.o-plata.com
 olx-pl.safe-delivery.win
 olx-plpay.com
@@ -3198,11 +3190,13 @@ olx.olxoferta25.art
 olx.olxoferta25.casa
 olx.olxoferta25.cyou
 olx.olxoferta25.digital
+olx.pays-id.live
 olx.pl-give.cyou
 olx.pl-give.icu
 olx.pl-give.work
-olx.pl-giveorder.club
+olx.pl-giveordered.xyz
 olx.pl-giveorders.shop
+olx.pl-giveorders.work
 olx.pl-givesale.xyz
 olx.pl-givesold.cyou
 olx.pl-givesold.icu
@@ -3210,15 +3204,16 @@ olx.pl-givesold.shop
 olx.pl-orderpaid.icu
 olx.pl-orderspaid.work
 olx.pl-paidorder.cyou
-olx.pl-safeordered.club
 olx.pl-safepaid.club
 olx.pl-safepaid.cyou
 olx.pl-safepaid.icu
 olx.pl-safepaid.work
 olx.pl-savedpay.xyz
 olx.pl.delivery.oferta-payment.email
+olx.pl.id-items.pw
 olx.pl.id-transfer.pw
 olx.pl.pays-3ds.site
+olx.pt.savedpaid.cyou
 olx.rwpay.ru
 olxoferta25.casa
 olxoferta25.cyou
@@ -3366,7 +3361,6 @@ pay.moban.com
 pay11-olx.info
 pay16-olx.info
 pay16-olx.pl
-pay17-olx.info
 pay18-olx.info
 payee-my-hali.com
 payee-portal-halifax.com
@@ -3460,6 +3454,7 @@ pmiconnect-my.sharepoint.com
 po.do
 poa0932-securepage.000webhostapp.com
 poczta.pl-giveorders.shop
+pocztapolska.olxoferta25.casa
 pocztowyonline.com
 pocztowypl.com
 poised-bot-306515.uk.r.appspot.com
@@ -3562,7 +3557,6 @@ qare.nl
 qb-bg.co.rs
 qbocd.csb.app
 qdevtools.com
-qecbtyqd.ml
 qgjlxqsnuzgdvstnxgbwnqyiuv-dot-glex9394293032.oa.r.appspot.com
 qimecgyciqtlnmpomcvqxhmfye-dot-poised-bot-306515.uk.r.appspot.com
 qnbfinzb.com
@@ -3748,7 +3742,6 @@ roupakids.blogspot.com
 rover-car.000webhostapp.com
 rover-jef.000webhostapp.com
 royal.mail-redelivery2x7j.com
-royal.mail-redelivery2x7z.com
 royal.mail-redelivery4x7z.com
 royalmail.details-sec-verify0.com
 royalpostcards.be
@@ -3827,7 +3820,6 @@ se-connecter-au-webmail-la-poste--lapostenet0.yolasite.com
 seahoss.com
 seamcommunty.com
 sebat-dhl.blogspot.com
-secuaction.l0gauthentificationjovactivesecure.justns.ru
 secur-recovery-standardcommunity-identity.my.id
 secure-halifax-device.com
 secure-halifaxaccount.com
@@ -5342,7 +5334,6 @@ www.smartblackout.com
 www.smarttechmarketing.com
 www.smbc-co.cc
 www.smbc-co.vip
-www.smbc-jp.buzz
 www.smbc.co.jp.srbnv.com
 www.smbscdesenfgk.com
 www.sohbetbul.net
@@ -5556,7 +5547,6 @@ ycmzkys.cn
 ycohcdaahi.yokuaileyitian.top
 ydrdkbcff.yolasite.com
 yeltbook.com
-yeobcdachi.yandaoshi.top
 yeohobachi.jintianhaoduo.top
 yetpack.com
 yfaznrxdhvpfctbsnehtlmwjyp-dot-glex9394293032.oa.r.appspot.com
