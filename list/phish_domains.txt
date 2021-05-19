@@ -402,7 +402,6 @@ accesstrade.live
 acconfirmacion8.webcindario.com
 accorservorg.yolasite.com
 accoun-dimo.000webhostapp.com
-accoun-info.000webhostapp.com
 accoun-twit.000webhostapp.com
 account-adobe-auth.azurewebsites.net
 account-bik.000webhostapp.com
@@ -551,7 +550,6 @@ amazon.aactv.cn
 amazon.co.jp.y2j3o8.com
 amazon.eabom.cn
 amazon.gzwj56.cn
-amazon.jg69.cn
 amazon.jp-c.live
 amazon.jp-cv.win
 amazon.wifisecurity.cn
@@ -574,7 +572,6 @@ ams-eg.com
 ams3.digitaloceanspaces.com
 amtransport-us.tk
 amxxxcvz.com
-anamzo.areqp.com
 anaozm.ctgcs.com
 anaozm.gaoxk.com
 anaozm.mag26.com
@@ -660,7 +657,6 @@ apsrexcfb.000webhostapp.com
 aqtv.tv
 archost.net.au
 arcomindia.com
-arebzsx.000webhostapp.com
 aremnzsx.000webhostapp.com
 areyourobotornot.blogspot.com
 argaautorepair.com
@@ -737,6 +733,7 @@ attnet4.aidaform.com
 attnett.yolasite.com
 attonlinecustomerupdateservice.weebly.com
 attsender.weebly.com
+attservicesserverlgin.weebly.com
 attsignajkaksehejajaske.weebly.com
 atualizacao-online547864.com
 atualizaonline2533.com
@@ -1471,6 +1468,7 @@ dc68038816b218a7e905e8d08fa0658f-dot-gle9392420309493993.rj.r.appspot.com
 dcb8005513248f089c271b7abf1e1c38-dot-gle9392420309493993.rj.r.appspot.com
 dd8b9b34ee7916c549db8fc4a54a919a-dot-gle9392420309493993.rj.r.appspot.com
 ddnqwssx.tk
+de-id-197cnqa71b7daab29sab21scj01asad4shga7891.xyz
 de-register-device-lloyds-online-banking.com
 de1647.xyz
 de6987.xyz
@@ -1639,7 +1637,6 @@ easyquotes4you.com
 easyurl.me
 eba0200d0c.nxcli.net
 eba0c31e2fa8eb2e7f5d7e7e64e6f32a-dot-gle9392420309493993.rj.r.appspot.com
-ebay.co.uk.2912168371646.bid
 ebay.com-brand-gwen-food-trailer-37353927.3567102.com
 ebay.com-itm-keystone-outback-25fb-290047.4367249.com
 ebay.payment-issues-help.com
@@ -1777,6 +1774,7 @@ ervlces.runescape.com-tp.ru
 esdfg5345yjuynt.ru
 esgcommercialbrokers.com
 eslickcreative.com
+esorteshtmailupdate.weebly.com
 espace-client-red-sfr-fr.ibancosantander.net
 espace-client.fr
 essence.co.th
@@ -2681,7 +2679,6 @@ login-webregistrobr.com
 login.arnazon.session-1654254.cloud
 login.leadtradingsystem.com
 login.microsoftonline.us
-login.office365.online.apic68e93c.realnetconsult.com
 login.vdohnovenie.org.ua
 login.xn--blockchan-7sb.net
 loja.brasilliker.com.br
@@ -2889,7 +2886,6 @@ mi-air-onedrive.com
 mi.homedepot.com
 micardhk-bnsimwhuqom.com
 micardhk-bqehfi.com
-micardhk-bsqihdj.com
 micr0s0ftverify.nicepage.io
 microcav.square.site
 microsoft-excel.kr.jaleco.com
@@ -3050,6 +3046,7 @@ nef.com.pk
 neltfxix.blogspot.com
 nemgroup.in
 nero.egybest.site
+net9726attmailer0nilnedomainsecure.weebly.com
 netbeast.com.br
 netflix-com.com
 netflix.sourceaudio.com
@@ -3141,7 +3138,6 @@ oa5.a0001.net
 oaklynmade.com
 oauolzftkdxmbkhesnhqpbirrh-dot-glex9394293032.oa.r.appspot.com
 oberpiskoihof.it
-obhdoxgetkjwiesxxchgzumdqv-dot-gle39404049.rj.r.appspot.com
 objectstorage.ca-montreal-1.oraclecloud.com
 observatoriodeourofino.com.br
 obslive.oss-eu-west-1.aliyuncs.com
@@ -3212,8 +3208,12 @@ olx.pl-savedpay.xyz
 olx.pl.delivery.oferta-payment.email
 olx.pl.id-items.pw
 olx.pl.id-transfer.pw
+olx.pl.item-payset.pw
+olx.pl.items-rek.site
 olx.pl.pays-3ds.site
+olx.pt.safepaid.cyou
 olx.pt.savedpaid.cyou
+olx.pt.savedpays.icu
 olx.rwpay.ru
 olxoferta25.casa
 olxoferta25.cyou
@@ -3604,6 +3604,7 @@ raketenm-vcydv.cc
 raketenm-zq5et.cc
 rakuten.co.jp.rakutennvvip.xyz
 rakuten.co.jp.rakuyln.xyz
+rakuten.email-belluna3.rest
 rakuten.email-belluna3.shop
 rakuten.email-belluna4.tokyo
 rakuten.email-eyeco1.tokyo
@@ -3658,7 +3659,6 @@ rejestracja-dostawy.com
 rejestracja-ogloszenia.com
 rekapuolam.blogspot.com
 reketun.21ndd.com
-rekuten.wuin2o.cn
 relevant.systems
 relieffund.freeinternetz.com
 remillardconsulting.com
@@ -3741,7 +3741,6 @@ round.ahiretrading.repl.co
 roupakids.blogspot.com
 rover-car.000webhostapp.com
 rover-jef.000webhostapp.com
-royal.mail-redelivery2x7j.com
 royal.mail-redelivery4x7z.com
 royalmail.details-sec-verify0.com
 royalpostcards.be
@@ -4065,6 +4064,7 @@ sparkasse-datnesicherungsteam.com
 sparkasse-hannover.work
 sparkasse-push.de
 sparkasse.de-dsgvoihrdatenschutz.cf
+sparkasse.de-id-197cnqa71b7daab29sab21scj01asad4shga7891.xyz
 sparkasse.secure-scert.com
 sparkassen-service-mail100.xyz
 sparkasseservicedienst2.xyz
@@ -4865,7 +4865,6 @@ www.chaussuresbrookssoldes.com
 www.cheapbrooksaustralia.com
 www.chiarabernardi.it
 www.chiliz.asia
-www.chilltek.co.za
 www.clinicasaudearo.com
 www.cloudsraindrop.com
 www.codashop-ph2020.ezua.com
