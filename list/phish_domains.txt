@@ -1152,6 +1152,7 @@ caracasmateriais.blogspot.com
 card-amazon.activity-servei.shop
 card.rakutein-iue.shop
 card.rakutein-kie.shop
+card.rakuteon-asc.shop
 cardano-wallet.web.app
 cardinmgmt.com
 careduhch.wixsite.com
@@ -1193,7 +1194,6 @@ cedyna-sfnca.com
 cedynan.bar
 cedynan.net
 cedynan.rest
-cedynan.space
 cedynan.tokyo
 cefwebchat.chatbsservices.com.br
 celebrations-cew.com
@@ -2014,7 +2014,6 @@ fmqseczoms.web.app
 fnati.net.ru
 fnati.ru
 fnatic2020.com
-fnatics.icu
 foamnflow.com
 focar.vn
 focushrd3.com
@@ -2354,7 +2353,6 @@ huntingtononline.ddns.info
 huso.buu.ac.th
 hutoknepper.de
 hux8e9k-jcun3k-iu83930lk.s3.us-east-2.amazonaws.com
-hvacrepair.in
 hwbcpa-my.sharepoint.com
 hxxpssaisoncard.baczz.com
 hyasozozadr5hdg.ygto.com
@@ -2555,7 +2553,10 @@ jp-amazon.2ico.top
 jp-amazon.3ico.top
 jp-amazon.5uut.top
 jp-amazon.icd1.top
+jp-amazon.tess1.top
+jp-amazon.tess2.top
 jp-amazon.tess3.top
+jp-amazon.tess5.top
 jptechdocsign.net
 jruagbccrgiytfwurdgrzjomin-dot-poised-bot-306515.uk.r.appspot.com
 jsbyv.app.link
@@ -3281,6 +3282,7 @@ olx-pl-konto-ref.com
 olx-pl.o-plata.com
 olx-pl.safe-delivery.win
 olx-plpay.com
+olx-wplata.today
 olx.o-plata.com
 olx.pl-fastdelivery.cyou
 olx.pl-fastdelivery.icu
@@ -3293,6 +3295,7 @@ olx.pl-fastordered.work
 olx.pl-fastordered.xyz
 olx.pl-fastordering.icu
 olx.pl-fastordering.xyz
+olx.pl-fastpay.cyou
 olx.pl-get.safe.oferta-payment.works
 olx.pl-give.work
 olx.pl-givecash.cyou
@@ -3339,7 +3342,6 @@ onlinebancapinchi.sytes.net
 onlinebancogalicia.mipropia.com
 onlinegaliciaweb.webcindario.com
 onlinehalifax-account.com
-onlinelbcweb.000webhostapp.com
 onlinepayee-restricted-service.com
 onlineroisupportupdate.com
 onlineshoppaimentachat.000webhostapp.com
@@ -3382,7 +3384,6 @@ orangevalechamber.com
 orcapm.com
 org-nr.yolasite.com
 organicreviews.net
-oricocsfb.com
 orionnebulaltd.co.ke
 orlandoareavacations.orlandoareavacation.com
 orln.plstarpl.site
@@ -3552,6 +3553,7 @@ plataformaeducativa.se.jalisco.gob.mx
 platonov.ws
 platotech.com.au
 please.net.ru
+ploferta365.xyz
 plog.com.br
 plutosmto.com
 plytecfi-my.sharepoint.com
@@ -3582,7 +3584,6 @@ pornseks.zyns.com
 portal.hardwarecheck.net
 portal.prizegiveaway.net
 portal.prizesforall.com
-portale.app.mps.movingstar-rollstuhl.ch
 posadalalucia.com.ar
 postalecerticocdeacces.duckdns.org
 postchtrackingorder.com
@@ -3710,6 +3711,7 @@ rakuten.address012.top
 rakuten.address013.top
 rakuten.address015.top
 rakuten.address017.top
+rakuten.algsqrgke005.top
 rakuten.co.jp.eofwtez.cn
 rakuten.co.jp.rakutennvvip.xyz
 rakuten.co.jp.rakuyln.xyz
@@ -3717,7 +3719,6 @@ rakuten.email-eyeco3.tokyo
 rakuten.licalziaustrichjlt001.top
 rakvten-1z9u.cc
 rakvten-2w0o.cc
-rakvten-dnb4.cc
 ralfralsen.online
 ramgarhiamatrimonial.ca
 rapidrecognition.co.uk
@@ -4742,7 +4743,6 @@ vixas.atwebpages.com
 vk.cc
 vk.com
 vkalathur.in
-vkrxsodiapahhaytcijafjolju-dot-glex9394293032.oa.r.appspot.com
 vmi454420.contaboserver.net
 vmpcc.arthurdods.co.uk
 vobimobi.com
@@ -4753,7 +4753,6 @@ vodafone.bill1820.com
 vodafone.paying-accounts.com
 vodafone.payment-registration.com
 vodafonenotice.com
-voicemessagingtermvoipinfo.azurewebsites.net
 voipoid.com
 volazi.page.link
 voscomptesenligne.labanquepostale.alohaha-s-urf4.com
@@ -4899,7 +4898,6 @@ wrap.co
 wriot-alternate.app.link
 wsxwaaaa.web.app
 wu7q5.app.link
-wurst-tripple.web.app
 wvk12-my.sharepoint.com
 wvwv.xn--zonsegurasbn1cmp-hmb1nth.com
 ww17.casas-cb-compras.com
@@ -4918,7 +4916,6 @@ www.5thavegroominglounge.com
 www.95l7o4rtl6x2bnr3s.wisuda.ump.ac.id
 www.aalfin.com
 www.accountsecuritygoogle.com
-www.adamant.ru
 www.adnet8.com
 www.adscouponaccountscampaign.com
 www.advent.ist
@@ -5372,7 +5369,6 @@ www.normativa-sicurezza-verifica.app.sicurty-login.com
 www.novinroyapolymer.com
 www.nuanciel.net
 www.nwsecure-iproceed-icancel.com
-www.oaklynmade.com
 www.obuwiedr.com
 www.oefurniture.ph
 www.offf.to
