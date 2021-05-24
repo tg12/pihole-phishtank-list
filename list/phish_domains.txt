@@ -349,7 +349,6 @@
 89df92b4112a1687b1a6276c9b7dccba-dot-gle9392420309493993.rj.r.appspot.com
 89faa17d814f7451f6ade84bf2ffa4b2-dot-gle9392420309493993.rj.r.appspot.com
 8ab923d1844a59d7a841dfcb1c090d0e-dot-gle9392420309493993.rj.r.appspot.com
-8bd5dc96275b1303349162dbacb177ba-dot-gle9392420309493993.rj.r.appspot.com
 8c2499f4add94e96a21c765b0c8ab967-dot-gle9392420309493993.rj.r.appspot.com
 8c50395523a714bd43b3bac8ae440ecd-dot-gle9392420309493993.rj.r.appspot.com
 8d84e55dcc950b1b3b691aba7fd54cf5-dot-gle9392420309493993.rj.r.appspot.com
@@ -589,6 +588,7 @@ amazon.co.jp.y2j3o8.com
 .crlkxop.cn
 .earxwlv.cn
 .trytgna.xyz
+amazon.gxboban.cn
 amazon.hongbaoqunssh.cn
 amazon.keusmu.cn
 amazon.lznkuj.cn
@@ -623,6 +623,7 @@ anamzo.fkita.com
 anaozn.140o.com
 anaozn.279o.com
 anaozn.3s3q.com
+anaozn.3simg.com
 anaozn.hbtpf.com
 anaozn.iapcac.com
 anaozn.jfdz6.com
@@ -630,6 +631,7 @@ anaozn.ky-ks.com
 anaozn.metmeg.com
 anaozn.monqp.com
 anaozn.oilqp.com
+anaozn.op008.com
 anaozn.pda86.com
 anaozn.satqp.com
 anarchitecturestudio.com
@@ -750,6 +752,7 @@ assessoria-finan.webnode.pt
 assets.cdnxz.com
 assistenzaintesaonline.com
 assoalhosmadeiras.blogspot.com
+astebi.com
 aswatnissa.org
 asyabahisgiris1.blogspot.com
 atagucsea.com
@@ -838,6 +841,7 @@ b96ff070e78109a072ee2a196b2c54d9-dot-gle9392420309493993.rj.r.appspot.com
 bacafsxptliiqmycgekfdsugci-dot-poised-bot-306515.uk.r.appspot.com
 baccredomatic.crowdicity.com
 backnote.notelet.so
+backyardkilimani.com
 bag-macben.eu
 bakerrecklaw.com
 balitransithotel.com
@@ -1002,6 +1006,7 @@ bk.fkip.ulm.ac.id
 bk.pay30-olx.info
 bklpbgbbwhpvlfsxztmkajbepppyhbxs-dot-onk89909.wn.r.appspot.com
 bkresder-pould.web.app
+blgtvet.cn
 bliiss.shop
 blinusa.com
 blocks.rn86.ru
@@ -1011,6 +1016,7 @@ blog.fatimaesportes.com.br
 blog.ifeixiao.com
 blog.powerlexis.ru
 blog.premiershop.com.br
+blog.puriumcorp.com
 blog.secure.runescape.com-wsvs.top
 blog.weiwanjia.com
 blogdoaltivo.com.br
@@ -1396,7 +1402,6 @@ cq95753.tmweb.ru
 crackaworld.com
 cranetech.com.br
 crawfishtogogo.com
-crazy-bangla.com
 createchsoft.com
 creative-console.com
 creativecombat.com
@@ -1531,6 +1536,7 @@ deregister-lloyd-unauthorisedaccess.com
 descentmeeting.com
 desdeelamor.com
 design101.com.br
+designandcraftsmanship.com
 desk.incompass-co-za.com
 deskeservice.com
 detect-new-payee.com
@@ -1578,6 +1584,7 @@ dmcaremoval-2883901933.info-protech.be
 dmcaremoval-4342790770.info-protech.be
 dmcaremoval-8678193660.info-protech.be
 dmcaremoval-9233591927.info-protech.be
+dmcaremoval-9310889618.info-protech.be
 dmtechnologies.co.in
 dnoadxtszwxfhhiagmgrqhgsgf-dot-gle9392420309493993.rj.r.appspot.com
 dobrinescudobrev.ro
@@ -1878,7 +1885,6 @@ facebookappealcase17756222.web.app
 facebookappealcase18411144.web.app
 facebookappealcase18776483892.web.app
 facebookappealcase187777774.web.app
-facebookappealcase1884716666.web.app
 facebookappealcase18877777.web.app
 facevotes.fr
 fairauditors.com
@@ -1993,6 +1999,7 @@ fnatic2020.com
 foamnflow.com
 focar.vn
 focushrd3.com
+foggymommy.com
 foliar.pl
 folignocrediti.it
 foma-ura-lote.firebaseapp.com
@@ -2130,6 +2137,7 @@ goldpackrio.com.br
 golfballsonline.com
 goo.su
 goodboys01.com
+goodfou.com
 google-quality-rater-audit.com
 google.accoumts.ga
 googleads.g.doubleclick.net
@@ -2153,6 +2161,7 @@ grievance.gpshyampur.org.in
 grintechindia.com
 grms.cit.net
 grocery-store.4pillarglobal.com
+gropwa-18new.duckdns.org
 grosshandel-mevida.de
 grottedisaledesenzano.com
 group-18-sans.wikaba.com
@@ -2197,6 +2206,7 @@ halifax.deregister-cancellation-payee-secure-auth.com
 halifax.deviceverificationalert.com
 haliuk-secure-device.com
 halojor872.temp.swtest.ru
+haloor872i.temp.swtest.ru
 han.gl
 handipadel.com
 handmadebyamber.ca
@@ -2295,6 +2305,11 @@ hsbcinfo.com
 ht.ly
 htl.li
 htmlorb.com
+httpdmcaremoval-0499293210.info-protech.be
+httpdmcaremoval-2237885532.info-protech.be
+httpdmcaremoval-2693581604.info-protech.be
+httpdmcaremoval-2883901933.info-protech.be
+httpdmcaremoval-9233591927.info-protech.be
 https-skinbaron.stream
 httpservices.runescape.com-nu.ru
 httpservlces.runescape.com-fe.ru
@@ -2382,6 +2397,7 @@ india-cosme-shop.com
 indiankitchenfood.com
 indianriverschools-inn.cf
 indiquez-votre-compte-orange19.yolasite.com
+indomotorlestari.com
 industriasecurity.com
 inflatecountry.com
 info-card-up.gmlouna.shop
@@ -2577,6 +2593,7 @@ kblessedmom.com.np
 kdkince.com
 kdlscaffolding.co.uk
 kdocs.us
+keamanan-fb.duckdns.org
 kecmanijada.com
 keepspiritdesign.com
 keflewjfewnfewnfewfewojnfwefjwfjkw.efewfewfeweewe.repl.co
@@ -2603,6 +2620,7 @@ klockorochsmycken.se
 klsjdlfkjqslfkjsdlkfjldsfjldsf.blogspot.com
 klveiculosmontealto.com.br
 km4o0.codesandbox.io
+koderspot.com
 kojd6.app.link
 kokoalets.dx.am
 konfirmasi-identitas.weebly.com
@@ -2777,6 +2795,7 @@ luckylkhraylbwal.blogspot.com
 lucy-walker.com
 ludiequip.es
 lumixmoto.com
+lumpy-fearless-duke.glitch.me
 lunaclothing-my.sharepoint.com
 lutfaakter.buet.ac.bd
 lycroproducts-my.sharepoint.com
@@ -3068,8 +3087,10 @@ my2ktop.ecwid.com
 mybtbillinpdf-002.weebly.com
 mybtbillinpdf-003.weebly.com
 mybtbillinpdf-01.weebly.com
+mybtpdfbill-01.weebly.com
 mybtworldsupport.weebly.com
 myburbankvacations.com
+mychampionshipteam.com
 mychat-17grupsd.duckdns.org
 mycoerver.es
 myee-billing-info.com
@@ -3228,6 +3249,7 @@ oceantires.com
 oceetee-my.sharepoint.com
 odbieraj-nagrody.com.pl
 odoraparfumerie.com
+oestemarine.com.br
 offal.odoo.com
 office365.auto1.casb.beta.forcepointgov.com
 office365.corkfips.fpcasbdev.com
@@ -3260,7 +3282,9 @@ olx-pl-konto-ref.com
 olx-pl.o-plata.com
 olx-pl.safe-delivery.win
 olx-plpay.com
+olx-wplata.cards
 olx-wplata.today
+olx.dostawa-1617291260.site
 olx.pl-fastdelivery.icu
 olx.pl-fastdelivery.shop
 olx.pl-fastdelivery.work
@@ -3292,6 +3316,7 @@ olx.polskaoferta24.shop
 olx.polskaoferta24.xyz
 olx.rwpay.ru
 olx.santanderbankcard.com
+olx.shop-delivery.xyz
 olxoferta25.cyou
 olxpl.rouder.info
 olxpraca.pl
@@ -3381,6 +3406,7 @@ outlook1541489.webcindario.com
 outlookcom119.yolasite.com
 outlookhelpdesk.activehosted.com
 outlooks-initial-project-24b704.webflow.io
+outlooksecure00.weebly.com
 outravantagem.com
 ow.ly
 owambewww.com
@@ -3467,6 +3493,7 @@ pearlfilms.com
 pedrorei.com
 peds-ortho.com
 peer.yourluv.co
+pemersatuindo.duckdns.org
 pepsicola1-my.sharepoint.com
 perabetgirs.blogspot.com
 perinasas.it
@@ -3548,6 +3575,7 @@ polen-esquadrias.blogspot.com
 polskapoczta.ploferta365.live
 polskapoczta.ploferta365.xyz
 pomoc.o2.pl
+pongkit.com
 pontofrio.webpremios.com.br
 pontosemdobroresgate.southcentralus.cloudapp.azure.com
 popcornapp.360guide.in
@@ -3718,6 +3746,7 @@ ralfralsen.online
 ramgarhiamatrimonial.ca
 rapidrecognition.co.uk
 raukten.dnsta.com
+ravindergasmohali.com
 rayone.com.jo
 rb.gy
 rbcmontgomery.com
@@ -4057,6 +4086,7 @@ shortenlink.top
 shoutout.wix.com
 shrtm.nu
 shtuchki.store
+shyxs.cn
 sibautomation.com
 sicherheitsicherheits.de
 sicurty-login.com
@@ -4076,7 +4106,6 @@ simonschaminee.nl
 simp.ly
 simple.traceym.repl.co
 simplesolutionsdemo.com
-sincronizzasmartweb.com
 sindicombustiveis.com.br
 sindikatizvrsnihsluzbi.com
 sios.tech
@@ -4157,6 +4186,7 @@ snde-cerb.com.hnjwssj.cn
 snde-cerb.com.medonji.cn
 snde-cerb.com.ujbmukf.cn
 snde-cerb.com.xwysxbc.cn
+sndhbyt.weebly.com
 snip43.duckdns.org
 sniperdz.com
 snprobbx.pbz.r.uk.a2ip.ru
@@ -4187,6 +4217,7 @@ sp477389.sitebeat.site
 sp579813.sitebeat.com
 sp701876.sitebeat.site
 spaceandform.com
+spahnbgn.weebly.com
 spakasi7.club
 sparkasse-datnesicherungsteam.com
 sparkasse-hannover.work
@@ -4254,6 +4285,7 @@ stateagencybe.tumblr.com
 static-ak-fbcdn.atspace.com
 stcmo.net
 steamcommnunty.com
+steamcommunitly.ru
 steamcommunniitly.ru
 steamcomuniitly.ru.com
 steamcornrnurnity.com
@@ -4367,6 +4399,8 @@ tcaconnect.ac-page.com
 tcta-my.sharepoint.com
 td.2easyauth.com
 td.2web-ca.com
+td.accesscard1.com
+td.cardaccess1.com
 teamgoogle125590.psee.ly
 teamgrouppcl-my.sharepoint.com
 tecflex.com.br
@@ -4470,8 +4504,10 @@ timeline-h85gisrd6.higeminternational.org
 timeline-hg8q7sw0i.carolynsteele.ca
 timeline-osi06khcjn.zidmy.co
 timeline-pmy8a8j8.carolynsteele.ca
+timeline.fbcom-3reacj195.kets.sd
 timeline.fbcom-81b4xejpx4.kets.sd
 timeline.fbcom-bnxl5e5h.kets.sd
+timeline.fbcom-cg7o4pkuig.kets.sd
 timeline.fbcom-f27dkt7wxr.kets.sd
 timeline.fbcom-iih4xkqv2.kets.sd
 timeline.fbcom-m36so1oll.kets.sd
@@ -4547,6 +4583,7 @@ trsresourcing-my.sharepoint.com
 true-fish.ru
 true.rachelbaine.com
 truenorthmarine.net
+trynbyonknwfdinbmezvswrvor-dot-gle39404049.rj.r.appspot.com
 ts.hust.edu.vn
 ts3card.com.spdmj.com
 tsecure-paxful.com
@@ -4659,6 +4696,7 @@ utilizzamps.com
 utrackafrica.com
 uugyjlgzyizxmwsqmletmdbeyx-dot-poised-bot-306515.uk.r.appspot.com
 uvulin.com
+uwmhstgcokecqohpahbfekgsvd-dot-gle39404049.rj.r.appspot.com
 uxbmx.cf
 uy02.cf
 uycuifaok.vebgrlwwj.top
@@ -4694,7 +4732,6 @@ verificationmessage.blob.core.windows.net
 verifikasi-blockeds8.forumz.info
 verifvirtual004.webcindario.com
 verify-aut-mobileser.cloudns.cl
-verify-your-acccount.my.id
 verify.paypal-verifysms.com
 versus-go.ru
 vertrauenbrokers.com
@@ -4716,6 +4753,7 @@ viabccp.com
 viabcpzoniasegurabeta.link
 viamobte.blogspot.com
 viandjo.com
+video-bokepnew.duckdns.org
 video.nikitamirzani.duckdns.org
 videobigo.com
 viettel-com-dot-c2c01-531c7.uc.r.appspot.com
@@ -4766,6 +4804,7 @@ vtennis.vn
 vthlwcho.tk
 vtsnaps.com
 vtxmail2018.myfreesites.net
+vvebrnailupdate.weebly.com
 vvipidm.com
 vvsmsmms.yolasite.com
 vwbank.inforia.net
@@ -5442,6 +5481,7 @@ www.rguga.ro
 www.rigidspanking.com
 www.rioexpress.live
 www.rioverdepar.com.br
+www.rm-parcel11429-uk.com
 www.rokuten.co.jp.bjlmjgm.cn
 www.ronaldjamesgroup.co
 www.rondelbarrilito.com
