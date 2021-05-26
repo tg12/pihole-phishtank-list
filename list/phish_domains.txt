@@ -80,7 +80,6 @@
 26e19ad4cd9925dbfb990200e373f3d6-dot-gle9392420309493993.rj.r.appspot.com
 2721b4dba4257979c007aa8aaee1e7a7-dot-gle9392420309493993.rj.r.appspot.com
 272b37b1b4550a339c251d9e2f75ab9a-dot-gle9392420309493993.rj.r.appspot.com
-274785ebb77b60e76cbf2e8686101ae9-dot-gle9392420309493993.rj.r.appspot.com
 299kensingtonroad.my.webex.com
 29f229dcd5f90338e375828bdc7f48b9-dot-gle9392420309493993.rj.r.appspot.com
 2a64329a9ce18ef240fa831696ae2f92-dot-gle9392420309493993.rj.r.appspot.com
@@ -128,7 +127,6 @@
 410aedf320a836e50fd2d091c1d2ebde-dot-gle9392420309493993.rj.r.appspot.com
 4148e481137bf6ad6a2923bf50da4c8b-dot-gle9392420309493993.rj.r.appspot.com
 417ff3a1360d7e071e8d3544049b5c0d-dot-gle9392420309493993.rj.r.appspot.com
-41fd5c1554729fdeab61ebd052c8fff1-dot-gle9392420309493993.rj.r.appspot.com
 4216cd4307e7ed1eceedc6731b41052d-dot-gle9392420309493993.rj.r.appspot.com
 42542a0251f7fd696702f019d7dceae2-dot-gle9392420309493993.rj.r.appspot.com
 42e381ec-b86b-49f1-a24d-75834d1779f4.id.repl.co
@@ -176,7 +174,6 @@
 5cd553e797fa87a46eb2f54efd247c30-dot-gle9392420309493993.rj.r.appspot.com
 5d8fbbb48b80a793c18f473d1451fd56-dot-gle9392420309493993.rj.r.appspot.com
 5de886d37a8376d7fd2584227f379cb0-dot-gle9392420309493993.rj.r.appspot.com
-5f91b662478f93ea5e2ccba0a99216c4-dot-gle9392420309493993.rj.r.appspot.com
 5ff68caac9277db19bd43f435c1a6724-dot-gle9392420309493993.rj.r.appspot.com
 5nlro.moneyfat.work
 5x.to
@@ -255,7 +252,6 @@
 89df92b4112a1687b1a6276c9b7dccba-dot-gle9392420309493993.rj.r.appspot.com
 8ab923d1844a59d7a841dfcb1c090d0e-dot-gle9392420309493993.rj.r.appspot.com
 8c2499f4add94e96a21c765b0c8ab967-dot-gle9392420309493993.rj.r.appspot.com
-8c50395523a714bd43b3bac8ae440ecd-dot-gle9392420309493993.rj.r.appspot.com
 8d84e55dcc950b1b3b691aba7fd54cf5-dot-gle9392420309493993.rj.r.appspot.com
 8dcda833a6a2eecddc21ac89566e5cad-dot-gle9392420309493993.rj.r.appspot.com
 8dw5g.codesandbox.io
@@ -298,7 +294,6 @@ a1911bd4b77236ddca75209a621d5c6e-dot-gle9392420309493993.rj.r.appspot.com
 a20c98760e777fef8f55eaeb13727250-dot-gle9392420309493993.rj.r.appspot.com
 a2f0041d3ac2216319f12d2fcb112563-dot-gle9392420309493993.rj.r.appspot.com
 a4643f734310eb700fcc4b7435dd2f26-dot-gle9392420309493993.rj.r.appspot.com
-a544ebe0bc3875bc9fbfe646a997de7b-dot-gle9392420309493993.rj.r.appspot.com
 a63cb375c50493fd412b462ded53e578-dot-gle9392420309493993.rj.r.appspot.com
 a6951275f076873a9a0e7602bee3f0b9-dot-gle9392420309493993.rj.r.appspot.com
 a9f55895f5bfeff9655e81661af139b4-dot-gle9392420309493993.rj.r.appspot.com
@@ -306,6 +301,7 @@ aabratahyijlbadernachwalmarhala.blogspot.com
 aadaedu-my.sharepoint.com
 aadc4c461c6c0195dc9325b5f727a904-dot-gle9392420309493993.rj.r.appspot.com
 aaekt.app.link
+aaengineers.pk
 aalbashop.com
 aamo.com.au
 aanaqa.com
@@ -313,6 +309,7 @@ aarogyamcafe.com
 abcexpresslogistics.com
 abe38ae774eea6358adf56b105639c0c-dot-gle9392420309493993.rj.r.appspot.com
 abicluster.com
+abraz.com.br
 absaonline2021.website2.me
 absolutepleasure.com.my
 abtekdoor.com
@@ -324,10 +321,12 @@ accorservorg.yolasite.com
 account-adobe-auth.azurewebsites.net
 account-update-services-live.ffsryx.rest
 account-update-services-live.jlswzsm.top
+account-verification-paypal.ml
 account-who.000webhostapp.com
 account.account-cn.com
 account.paxful.com.unissenseafrica.com
 accounts.paxful.com.unissenseafrica.com
+accounts.zetagmail.com
 accovnt-updata.amazom-co-jp.buzz
 acd80aae5512e2626cf7e3d6bf763236-dot-gle9392420309493993.rj.r.appspot.com
 acessar-segura-itacred.net
@@ -364,6 +363,7 @@ adobe-docs-asset.azurewebsites.net
 adobe-file.azurewebsites.net
 adobe-login-token.azurewebsites.net
 adobe-manage-account.azurewebsites.net
+adobe-online-files.azurewebsites.net
 adpunemploymentclaims.sharefile.com
 adressemailperso.wixsite.com
 ads-google-think.blogspot.com
@@ -485,7 +485,9 @@ amazon.lznkuj.cn
 amazon.research-inspect.shop
 amazon.ubrqwp.bar
 amazon.wifisecurity.cn
+amazon.zz89.xyz
 amazon.zzbcy.bar
+amazon.zzsif.bar
 ambientaris.com
 ambienteprotegido.foregon.com
 ambrosecourt.com
@@ -509,7 +511,6 @@ anamzo.assqp.com
 anamzo.fkita.com
 anaozm.flnts.com
 anaozn.140o.com
-anaozn.3simg.com
 anaozn.c-e-h.com
 anaozn.gxkqn.com
 anaozn.jfdz6.com
@@ -520,6 +521,7 @@ anaozn.op008.com
 anaozn.pda86.com
 anaozn.zmddsjc.com
 anarchitecturestudio.com
+anazom.co.jp.ekkjw.com
 anazom.co.jp.lmnamdorecehrticutolennamvmovo.cf
 anazom.co.jp.lmnamdorecehrticutolennamvmovo.ga
 anazom.co.jp.lmnamdorecehrticutolennamvmovo.gq
@@ -600,6 +602,7 @@ armata-neagra.ro
 armatheatre.org
 arnaanno.ip.dalaben.cn
 arnozom.co.ip.azmcgmd.xyz
+arnozom.co.ip.azmcgmda.xyz
 arnozom.co.ip.bhtmlit.cn
 arnozom.co.ip.dabizhi.cn
 arnozom.co.ip.hwuuluc.cn
@@ -663,9 +666,11 @@ attnet4.aidaform.com
 attnett.yolasite.com
 attnetworkupdate.weebly.com
 attsersjksfknet.weebly.com
+atualiza-informativo-itacard.com
 atualizacao-online547864.com
 atualizaonline2533.com
 aubootlegger.com
+auburn-ny.com
 aucoeurdedaiva.com
 aucoindesrues.com
 auduboninstitute-my.sharepoint.com
@@ -696,6 +701,7 @@ awptdh.webwave.dev
 ayaproperty.com
 ayjegvgm.livedrive.com
 ayvwdrn.cn
+az2aweb.com
 azb3s.cf
 azse.xyz
 azurefetcherstorage.blob.core.windows.net
@@ -715,7 +721,6 @@ b58b8522ebafbb30005d1b1dd149a0c4-dot-gle9392420309493993.rj.r.appspot.com
 b67226540b023cd895503a0a31fcc77d-dot-gle9392420309493993.rj.r.appspot.com
 b7f14c7867433112f236109c99ef13b3-dot-gle9392420309493993.rj.r.appspot.com
 b8236c35077d36abaeba22ddc96fb059-dot-gle9392420309493993.rj.r.appspot.com
-b82a35f2b848b8d69556e0dc00a3b2d1-dot-gle9392420309493993.rj.r.appspot.com
 b86zz.getlift.casa
 b96ff070e78109a072ee2a196b2c54d9-dot-gle9392420309493993.rj.r.appspot.com
 bacafsxptliiqmycgekfdsugci-dot-poised-bot-306515.uk.r.appspot.com
@@ -926,6 +931,7 @@ bonusvulkanvegasde.clinicadofeminino.com
 book.uz
 bookersbridge.com
 bookfbs.evangsamuelministries.com
+booktanica.com
 bosnewpaye.com
 bostacelso.thats.im
 bowmanconsultinggroup-my.sharepoint.com
@@ -958,6 +964,7 @@ bt-service.yolasite.com
 btmailsupport.weebly.com
 btsecurebusiness.weebly.com
 buapobriikyhorxlnxpvxqoefp-dot-gle9392420309493993.rj.r.appspot.com
+buidinju.com
 bujikena.web.app
 buscabing.com
 businessemailss.biz
@@ -991,9 +998,11 @@ c972430e01c733a2637d7b4196d96f15-dot-gle9392420309493993.rj.r.appspot.com
 c97e94dbad76e678e4b3f16b2d48cad5-dot-gle9392420309493993.rj.r.appspot.com
 c985-endesa-vente-en-ligne.wbc-prod.com
 c9d8dac6946366bc7e79c75e22e0880b-dot-gle9392420309493993.rj.r.appspot.com
+ca.amrazonvip.info
 cache.nebula.phx3.secureserver.net
 cadacosaalseulloc.cresidusvo.info
 cahierjeux2021.com
+caixasupor.temp.swtest.ru
 cajuecastanha.art.br
 calebsusenyos.com
 calidadsvida247.webcindario.com
@@ -1056,6 +1065,7 @@ celtabets.blogspot.com
 celtabets2020.blogspot.com
 cema-fossano.it
 centec-am.com.br
+centellasgonzales.net
 centerai.vot.pl
 centericmailinwebs.wapka.website
 centerprotectuser-argentina.com
@@ -1093,9 +1103,11 @@ chat-whatsapp.vizvaz.com
 chatgrubwa-id.duckdns.org
 chatgrupwhatsapp1.duckdns.org
 chatgrupwhatsapp18.duckdns.org
+chatwatshap6321.duckdns.org
 chatwhatsapp22.duckdns.org
 chatwhatsapp25.duckdns.org
 chatwhatsappgroups00020.duckdns.org
+chatwhatsappgroups00022.duckdns.org
 chatwhatsapppgroppp1.duckdns.org
 check-newpayee-halfax.com
 checkkkakonpqesss1.000webhostapp.com
@@ -1132,6 +1144,7 @@ cl04932.tmweb.ru
 cla2020gov.com
 claim-irs.com
 claimdmfree98.duckdns.org
+claimeventterbaru22.duckdns.org
 clanbig.com
 claro-controle-downloader.m4u.com.br
 classifyfare.com
@@ -1184,7 +1197,6 @@ comments-5438397558.allesinorde.nu
 comments-5988365176.allesinorde.nu
 comments-6871979110.allesinorde.nu
 communicourt-my.sharepoint.com
-communiityfeedbacklive.ml
 community-0208495162.saintsolomon1.com
 community-0911316748.saintsolomon1.com
 community-7723924173.saintsolomon1.com
@@ -1282,9 +1294,11 @@ csmoenay.com
 csnhc-in-or.ga
 csnuis.shop
 cssnf-a.gq
+cssnfr-shrr.ml
 csss.co.jp
 cteam-my.sharepoint.com
 cu60131.tmweb.ru
+cuiseurriz.xyz
 cuo.kr
 curentlyattnetlogin.weebly.com
 curitibaportoeseletronicos.com.br
@@ -1353,7 +1367,6 @@ dccc1d789d568897d1f84844dcbd773f-dot-gle9392420309493993.rj.r.appspot.com
 dd8b9b34ee7916c549db8fc4a54a919a-dot-gle9392420309493993.rj.r.appspot.com
 ddmdetekg.jbocexgcq.top
 ddnqwssx.tk
-de-id-197cnqa71b7daab29sab21scj01asad4shga7891.xyz
 de-register-device-lloyds-online-banking.com
 de1647.xyz
 de278dc517fafe5071917468dac485f4-dot-gle9392420309493993.rj.r.appspot.com
@@ -1507,7 +1520,6 @@ e-shlnegarment.com
 e061215a84f0fcd005723450cebade79-dot-gle9392420309493993.rj.r.appspot.com
 e116fb6cf746a483710062848d5b673a-dot-gle9392420309493993.rj.r.appspot.com
 e15b96fbb32873e26c5b7e9c016d6be5-dot-gle9392420309493993.rj.r.appspot.com
-e29a7d69ec836864344dd666b7b61928-dot-gle9392420309493993.rj.r.appspot.com
 e4ra.byethost8.com
 e58dffc1b3309348bce76faf5ed967ec-dot-gle9392420309493993.rj.r.appspot.com
 e60b25693ee744e31c3d0eb4e794e162-dot-gle9392420309493993.rj.r.appspot.com
@@ -1734,7 +1746,6 @@ faturadigiital-hiper.net
 fax.gruppobiesse.it
 fb-elavution-1000072423664773884586151-pe.tk
 fb-recovery-10000743687594539346443-pe.tk
-fb-recovery-10000743687594539346444-pe.tk
 fb.expressturkeyi.com
 fb.probox.lk
 fbcfacebody.com
@@ -2366,6 +2377,7 @@ joeytorres.com
 johannessscinders.de
 johnsutherlin43.org
 join-grupwhatsapp18.forumz.info
+join-whatsap18.mypi.co
 join-whatsappk8wh.xxuz.com
 joinchatwhatsapp7.duckdns.org
 joingroup2.myz.info
@@ -2373,6 +2385,7 @@ joingrupberbagi.duckdns.org
 joingrupdewasa.duckdns.org
 joingrupsangeee.duckdns.org
 joingrupwhatsapp6.duckdns.org
+joinvideo.duckdns.org
 jojo0.xyz
 joloaddidascontest2.000webhostapp.com
 joudialbarat.blogspot.com
@@ -2386,6 +2399,7 @@ jp-amazon.tess1.top
 jp-amazon.tess3.top
 jp-amazon.tess5.top
 jptechdocsign.net
+jqpcs.moneyfat.work
 jruagbccrgiytfwurdgrzjomin-dot-poised-bot-306515.uk.r.appspot.com
 js8js.getlift.work
 jsbyv.app.link
@@ -2592,6 +2606,7 @@ lms.ozyegin.edu.tr
 lnk.pmlti-etai-2.ovh
 
 lnkmeup.com
+lnstafollowersappeal.xyz
 lnstalam.eu
 localbusinesscitationbuilding.com
 lodgewallisplains.com
@@ -2605,6 +2620,7 @@ login.leadtradingsystem.com
 login.microsoftonline.us
 login.vdohnovenie.org.ua
 login.xn--blockchan-7sb.net
+loginorange28.yolasite.com
 loginorangefr82.yolasite.com
 loginyahoomanageccount.weebly.com
 lognhdeydggddatt.weebly.com
@@ -2629,6 +2645,7 @@ lumixmoto.com
 lumpy-fearless-duke.glitch.me
 lunaclothing-my.sharepoint.com
 lutfaakter.buet.ac.bd
+luxefortlauderdale.com
 lycroproducts-my.sharepoint.com
 lynkos.com.br
 lyzsobepxcrkqdujpzdrwexjdk-dot-poised-bot-306515.uk.r.appspot.com
@@ -2778,6 +2795,7 @@ mcafeecomactivates.com
 mcaixa.avisosms.link
 mccarthyelectrical.com
 mclaren-ff.ga
+mclaren-org.ml
 mclaren-tgr.tk
 mcpss-u-org.ml
 mdurucan.com
@@ -2802,6 +2820,7 @@ mentoring.beautyforashes.org
 merchant-pay.info
 merchantawareness.com
 meritroyalbetgiris20.com
+merrillstoneproducts.com
 merveyilmazericmimarlik.com
 mesquecamping.es
 messagerie-orange164.yolasite.com
@@ -2860,6 +2879,7 @@ mjaymu1hetu3dgg.filesusr.com
 mjaymu1hetuymhro.filesusr.com
 mjaymufwcmlsmde5dgg.filesusr.com
 mjkkennel.com
+mkcaresolutions.com
 mkengineering.com.my
 mkiuyhakauywa.blogspot.com
 mlbbclaim.duckdns.org
@@ -3057,6 +3077,7 @@ nozed-uname.firebaseapp.com
 nra.gov.np
 nrk.one
 nullrefer.com
+numerounoexterminators.com
 nuovesicurezzeonline.com
 nuvuneu.com
 nv.snprobbx.pbz.r.de.a2ip.ru
@@ -3094,6 +3115,7 @@ office365.eu.vadesecure.com
 office365share.weebly.com
 officeee.bubbleapps.io
 officehomeprodprv.northeurope.cloudapp.azure.com
+officeosaaa.duckdns.org
 officialevent.way.live
 officialismsschwartze.net
 ogz6d.codesandbox.io
@@ -3161,14 +3183,12 @@ olxpraca.pl
 omesqiwines.de
 on-me-ro.firebaseapp.com
 oncopharma-ae.com
-ondaen.311f7j9hl.cn
 oneaim.lu
 oneclickchatbot.com
 onecreator.info
 onedrive.live.com
 onedrives-w1ltd.co.uk
 onewaybaitulloh.id
-onewuyehwfqwdad.com
 onkingshop.com
 onlbc2.com
 online-support-cox.000webhostapp.com
@@ -3180,6 +3200,7 @@ online.natwest-welfare.com
 online.visual-paradigm.com
 onlinebancapinchi.sytes.net
 onlinebancogalicia.mipropia.com
+onlinedrive.duckdns.org
 onlinegaliciaweb.webcindario.com
 onlinehalifax-account.com
 onlinepayee-restricted-service.com
@@ -3247,6 +3268,7 @@ outlooks-initial-project-24b704.webflow.io
 outlooksecure00.weebly.com
 outravantagem.com
 ow.ly
+owa493.web.app
 owambewww.com
 owaupgradeservice3.myfreesites.net
 ozaydininsaat.com
@@ -3267,6 +3289,7 @@ pages-help-center-2021.my.id
 pagincolm.com
 paiementleboncoin.com
 paksarhadgoods.duskypot.com
+paminfed.com
 panahtimes.com
 panamafinancialacademy.com
 pancakeswapswallet.live
@@ -3378,6 +3401,7 @@ pics.lookatmynewphotos.com
 picyako.com
 pideciisa.com
 pil.nxn.mybluehost.me
+pinalegland.com.datasenter.no
 pinchcha.atspace.cc
 pinezaki.com
 pinkdoormedia.com
@@ -3392,10 +3416,10 @@ pkhnm.ac.in
 pl-19.ru
 pl.pl2021.ru
 plan-o2-monthlypayments.com
+planetbait.co.uk
 plantaexterior.000webhostapp.com
 plasticaindia.com
 plataformaeducativa.se.jalisco.gob.mx
-platonov.ws
 platotech.com.au
 please.net.ru
 ploferta365.cyou
@@ -3508,6 +3532,7 @@ pubgmobile.com.xxucpubg.com
 puffing.com.pk
 puntaarenas.cl
 puntobohemio.com
+purethoughts.com
 pushpadant.com
 pvgzfgmab0j.typeform.com
 pwpbzbyhpxjfaaufoeqzqpqmj.rockcoastclothing.com
@@ -3588,12 +3613,10 @@ rakuten.licalziaustrichjlt009.top
 rakuten.licalziaustrichjlt013.top
 rakuten.licalziaustrichjlt014.top
 rakutoen.jp.dsgvzio.cn
-rakvten-1z9u.cc
 rakvten-2w0o.cc
 ralfralsen.online
 ramgarhiamatrimonial.ca
 rapidrecognition.co.uk
-raukten.dnsta.com
 ravindergasmohali.com
 rayone.com.jo
 rb.gy
@@ -3699,7 +3722,6 @@ rmzengenharia.blogspot.com
 rn3pc9bqfbv.typeform.com
 roadgo.co.uk
 roccobonheur1-my-cheetah-website-copy.cheetah.builderall.com
-rocketdropped.com
 rockysite.net
 rodinagermaniya.ru
 rohrreinigung-bissendorf.de
@@ -3828,6 +3850,7 @@ secure290.inmotionhosting.com
 securebanking-tsb.com
 secured-mypayee.com
 securehalifaxonline-account.com
+securelinesafe.duckdns.org
 securematicsrecruitment.co.uk
 securemy-logindetails.com
 securesiteapp.com
@@ -3927,6 +3950,7 @@ share.hsforms.com
 sharefiles.app.link
 sharelink.sn.am
 shayamal.com
+shein-konkurs.pl
 shifawll1.ae
 shimaarutechies.com
 shohidurrahman.info
@@ -4040,6 +4064,7 @@ soapy-icy-driver.glitch.me
 soaringskiesrentals.com
 sobisparkss-poser.blogspot.com
 soci-molen.web.app
+societygals.com
 sofe-firma.firebaseapp.com
 soft.yahame.top
 solbjerg-my.sharepoint.com
@@ -4236,7 +4261,6 @@ taumiq.com
 tawreedss.com
 tb915hdh89.mfs.gg
 tcaconnect.ac-page.com
-tcdx.000webhostapp.com
 tcta-my.sharepoint.com
 td.2easyauth.com
 td.2web-ca.com
@@ -4295,6 +4319,7 @@ thescrapescape.com
 theshoutout.co.ke
 thespinvinyl.com
 theumashow.com
+thewomenshome-org.tk
 thodur0.com
 three-retail-live.devicetradein.co.uk
 tiendaunikas.com
@@ -5029,6 +5054,7 @@ www.hasmob.com
 www.hbomaxfreetrial.com
 www.hdtechinc.com
 www.helpdesk-tech.com
+www.hibaelegance.com
 www.hide-windows.com
 www.holidayinnboston.com
 www.homs.cl
@@ -5101,6 +5127,7 @@ www.joingrupwhatsapp6.duckdns.org
 www.joinngrubwa.itsaol.com
 www.jptechdocsign.net
 www.jrhayley.plus.com
+www.kamcobank.com
 www.kashmir-packages.com
 www.kbstitchdesigns.com
 www.kikawashop.com
@@ -5234,6 +5261,7 @@ www.obuwiedr.com
 www.oefurniture.ph
 www.offf.to
 www.officialliker.co
+www.ok3e8j9t3rotohqp2.wisuda.ump.ac.id
 www.om-cars.be
 www.onlineroisupportupdate.com
 www.orabu.it
@@ -5261,6 +5289,7 @@ www.pokermagazine.com
 www.postaleaccedi.com
 www.posten-post.it
 www.powr.io
+www.ppowerinter.com
 www.primetoto.com
 www.produvicexpress.com
 www.proe.cz
@@ -5532,6 +5561,7 @@ xtw42.mjt.lu
 xucdaxleimwudtposjrquwdtrj-dot-poised-bot-306515.uk.r.appspot.com
 xugbyvpvwezdiomalkqxqylaxh-dot-poised-bot-306515.uk.r.appspot.com
 xurl.es
+xxpyrettablazexx.com
 xxx-com-dot-c2c01-531c7.uc.r.appspot.com
 xymscvrvmvpkkbpgteeecnsaad-dot-poised-bot-306515.uk.r.appspot.com
 xyproject.xtensio.com
