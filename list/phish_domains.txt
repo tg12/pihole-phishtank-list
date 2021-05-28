@@ -15,6 +15,7 @@
 10-go.com
 2
 11bp7.trk.elasticemail.com
+11d6k.trk.elasticemail.com
 11dbs.com
 11z673.moneyfat.link
 123formbuilder.com
@@ -135,6 +136,7 @@
 5c82e400b5054335d1f6c5c2604b3fb8-dot-gle9392420309493993.rj.r.appspot.com
 5cd553e797fa87a46eb2f54efd247c30-dot-gle9392420309493993.rj.r.appspot.com
 5d8fbbb48b80a793c18f473d1451fd56-dot-gle9392420309493993.rj.r.appspot.com
+5dddab7e824197370.temporary.link
 5de886d37a8376d7fd2584227f379cb0-dot-gle9392420309493993.rj.r.appspot.com
 5nlro.moneyfat.work
 5x.to
@@ -239,7 +241,6 @@ account-update-services-live.ffsryx.rest
 account-update-services-live.jlswzsm.top
 account-verification-paypal.ml
 account.account-cc.com
-account.account-cn.com
 account.center-amazon.cc
 account.paxful.com.unissenseafrica.com
 accounts.paxful.com.unissenseafrica.com
@@ -253,7 +254,6 @@ acesseasuafaturahiperonline.net
 acessefaturahiiper.net
 acessobbauto.com
 acessobradesco.digital
-acquacentro.com.br
 acrobat-cloud-services.azurewebsites.net
 act-logix-cd.tk
 act-logix-co.ga
@@ -280,13 +280,16 @@ adobe-docs-asset.azurewebsites.net
 adobe-file.azurewebsites.net
 adobe-login-token.azurewebsites.net
 adobe-manage-account.azurewebsites.net
+adobe-new-files.azurewebsites.net
 adobe-online-files.azurewebsites.net
+adobess-secondary.z13.web.core.windows.net
 adpunemploymentclaims.sharefile.com
 adressemailperso.wixsite.com
 ads-google-think.blogspot.com
 adsbusinesscampaingscoupons.com
 adsbusinesscreditaccountcampaign.com
 adscouponsbusinessaccount.com
+advanced2606.inmotionhosting.com
 advancedwoodworks.ro
 advent.ist
 adx-exchancesegu2bn-gibcx.com
@@ -395,13 +398,16 @@ amazon.co.jp.y2j3o8.com
 .vpncn2.com
 amazon.hodokcd.cn
 amazon.mglxlg.bar
+amazon.qgpdlz.bar
 amazon.qgtbly.bar
 amazon.research-inspect.shop
+amazon.rgcflp.bar
 amazon.sh-letao.com
 amazon.tgckwn.bar
 amazon.ugjsre.bar
 amazon.uyhnfg.bar
 amazon.xgkglm.bar
+amazon.zdrtkj.bar
 amazon.zgprlt.bar
 amazon.zzbcy.bar
 amazon.zzsif.bar
@@ -449,7 +455,6 @@ anazom.co.jp.lmnamdorecehrticutolennamvmovo04.ga
 anazom.co.jp.lmnamdorecehrticutolennamvmovo04.gq
 anazom.co.jp.lmnamdorecehrticutolennamvmovo05.cf
 anazon.co.jp.qfdsf.top
-anazon.jp.co.pech15.cn
 andersonstrategic.com.au
 andishenegah.ir
 andromedaassociation.com
@@ -460,6 +465,7 @@ animalwelfareinc.org
 animericconcept.com
 anjoe.com
 annarborhandsonmuseum-my.sharepoint.com
+annazon-oiskdp-com.xuiapl.top
 annazon-omkalb-com.oiidkl.top
 annazon-uisnab-co-jp.uiaosn.buzz
 anniewright-my.sharepoint.com
@@ -526,6 +532,8 @@ arnozom.co.ip.d0pv7.shop
 arnozom.co.ip.dabizhi.cn
 arnozom.co.ip.dwyynhl.cn
 arnozom.co.ip.hwuuluc.cn
+arnozom.co.ip.ppz143.cn
+arnozom.co.ip.r7wb1n.cn
 arnozom.co.ip.zcaqpvy.cn
 aromatic.webenliven.in
 arrow.kvalitne.cz
@@ -560,6 +568,7 @@ asp403r.paperless.com.pe
 asrhygvzgbfseuflywixxzucyi-dot-poised-bot-306515.uk.r.appspot.com
 assessoria-finan.webnode.pt
 assets.cdnxz.com
+assistancecertpl.ga
 assistenzaintesaonline.com
 assoalhosmadeiras.blogspot.com
 aswatnissa.org
@@ -588,6 +597,7 @@ attverifysecurity.weebly.com
 attyahoomailverificationservice343.weebly.com
 atualizacao-online547864.com
 atualizaonline2533.com
+atyuzsnc.000webhostapp.com
 aubootlegger.com
 auburn-ny.com
 aucoindesrues.com
@@ -667,6 +677,7 @@ bansheng.ltd
 baovesusonglcxt.com
 baradua.it
 barbershop-chairs.ru
+barclays.authlogin-app.com
 batterybazaaronline.com
 bbcartoes.net
 bbclientes.com
@@ -690,6 +701,7 @@ benamejicityofbaseball.com
 benjim.com
 benrefamdksi.blogspot.com
 ber-vel.com
+berbagi-video-viral-terbaru2021.duckdns.org
 berrycollege2-my.sharepoint.com
 bestfive.main.jp
 besthomeworkhelp.org
@@ -865,6 +877,7 @@ breakevents.de
 breakingthelimits.com
 bredbanque--email.web.app
 brgaymap.com
+briboutique.com
 brickgeocaching.co.uk
 bridgewaterma-my.sharepoint.com
 brigida_cossette.gitlab.io
@@ -876,10 +889,13 @@ brookspromo.fr
 broomesoho.ml
 brudesh.org
 bsm-pro.com
+bsnaajjsjsnaa.weebly.com
 bss.edu.ge
 bt-service.yolasite.com
 btmailsupport.weebly.com
 btpdfbill.weebly.com
+btpdfbillbusiness.weebly.com
+bucalis-pagos.cl
 bujikena.web.app
 buscabing.com
 businessemailss.biz
@@ -887,6 +903,7 @@ bussines.lacuisinedetchems.com
 buycookiesonline.eu
 buycrystalmeth.se
 buyelectronicsnyc.com
+bwfslu.com
 bwnhmelc.tk
 bwplusburaidah.com
 byoko.co.kr
@@ -1063,6 +1080,7 @@ clone-7473c.web.app
 cloud1.directnutrisciences.com
 clouddoc-authorize.firebaseapp.com
 cloudlimitconnect.s3.ca-tor.cloud-object-storage.appdomain.cloud
+clsmoneys.com
 clt1234529.bmetrack.com
 clubeamigosdopedrosegundo.com.br
 cluebazar.com
@@ -1163,6 +1181,7 @@ cpc.cx
 cpjpainting.co.uk
 cpu30691.mfs.gg
 cq65431.tmweb.ru
+cr18979.tmweb.ru
 crackaworld.com
 craigrichardsonmedicare.com
 craigslist.post.102839202.ravnairva.com
@@ -1374,6 +1393,7 @@ ds7.main.jp
 dsgcbeonline.com
 dspofipsdoifopsdifposidopfi.blogspot.com
 dtiblog.com
+dtlvbuzz.com
 duffelbagadventures.com
 dulichanpin.com
 duongngan.com
@@ -1537,17 +1557,20 @@ esgcommercialbrokers.com
 eslickcreative.com
 espace-client-red-sfr-fr.ibancosantander.net
 espace-client.fr
+espacemobile-clien.wixsite.com
 essence.co.th
 estetika2z.com
 estudiomaskin.com
 eternityflooringcom-my.sharepoint.com
 etrack05.com
+eturnurlhorgm.weebly.com
 eu.nuvuneu.com
 eugnerally-wixsite-com.filesusr.com
 eurobankovnikredit.com
 eusa-lombo.firebaseapp.com
 evangelicalfriendsmission-my.sharepoint.com
 eve292929.dothome.co.kr
+eventspinmobilelegends.duckdns.org
 everydayprintingservices.com
 evote.brittoprojukti.com
 evotechss.com
@@ -1574,7 +1597,6 @@ f-hiipercard-online.net
 f-online-magazinii.net
 f-pembatalan.forumz.info
 f0545531.xsph.ru
-f10383d62b02cf0b77794c6c38b6dedc-dot-gle9392420309493993.rj.r.appspot.com
 f6fr7.codesandbox.io
 f9w1lned0ruqblxi6jahwotak.filesusr.com
 facabook.in
@@ -1591,6 +1613,7 @@ facebookappeal-case10351001.web.app
 facebookappealcase177741444.web.app
 facebookappealcase18411144.web.app
 facebookappealcase1848848888.web.app
+facebookworldofbikers.blogspot.com
 facevotes.fr
 fairauditors.com
 faithcitychapel.org
@@ -1869,6 +1892,7 @@ groupwhattsap.jkub.com
 growasiacapital.id
 groworldinternational.com
 grp01.id.rakuten.co.jp
+grub-efdewe.duckdns.org
 grubbokep22.mrbonus.com
 grubwavideoviral2021.duckdns.org
 grubwhatsap-invit.duckdns.org
@@ -1978,6 +2002,7 @@ homs.com.br
 honda4fun.com
 honeyhyper.com
 horanataxilacc.com
+horosho.house
 host-3e01e.web.app
 hosting2021623.online.pro
 hosting2024700.online.pro
@@ -2004,6 +2029,7 @@ hrms.projects-codingbrains.com
 hrs-game.main.jp
 hs-giveaways.ca
 hs-online-protection-secure-portal.com
+hsbc-security-cancelpayees1.com
 hsbc.remove-payee-secure.com
 hsbcinfo.com
 ht.ly
@@ -2015,6 +2041,7 @@ httpdmcaremoval-2883901933.info-protech.be
 httpdmcaremoval-9233591927.info-protech.be
 httpdmcaremoval-9742697748.info-protech.be
 httpervices.runescape.com-gf.ru
+httpervlces.runescape.com-gf.ru
 https-skinbaron.stream
 httpservices.runescape.com-m.ru
 httpservices.runescape.com-nu.ru
@@ -2471,6 +2498,7 @@ lnstalam.eu
 localbusinesscitationbuilding.com
 lodgewallisplains.com
 lofon-add.firebaseapp.com
+loghomesnetwork.com
 logiin-srff-waa439.000webhostapp.com
 login-aeon.top
 login-authentication.com
@@ -2527,6 +2555,7 @@ m.ervlces.runescape.com-fe.ru
 m.ervlces.runescape.com-oa.ru
 m.ervlces.runescape.com-tp.ru
 m.ervllces.runescape.com-n.ru
+m.httpervlces.runescape.com-gf.ru
 m.httpservices.runescape.com-gf.ru
 m.httpservlces.runescape.com-ov.ru
 m.httpsservices.runescape.com-dg.ru
@@ -2596,6 +2625,7 @@ mail.jimdavidsoncolumn.com
 mail.joyarrington.com
 mail.kamcobank.com
 mail.klikbsi.id
+mail.koderspot.com
 mail.lemonyellowsun.com
 mail.madballoons.net
 mail.netflixpartycanada.com
@@ -2636,6 +2666,7 @@ maquinasdecartaosemaluguel.com.br
 marceluoribeiro.weebly.com
 marckloper.vzpla.net
 margamassociates.com
+margaretabailey.com
 margarita.md
 margin.today
 mariaeugeniafm.vzpla.net
@@ -2669,6 +2700,7 @@ mccarthyelectrical.com
 mclaren-al.cf
 mclaren-al.ml
 mclaren-ff.ga
+mclaren-n.ml
 mclaren-org.cf
 mclaren-org.ml
 mclaren-tgr.tk
@@ -2873,7 +2905,6 @@ netbeast.com.br
 netfl-css.gq
 netflix-com.com
 netflix-login.my.id
-netflix.jackjona.live
 netflix.sourceaudio.com
 netflix.tiendasicam32.net
 netflixloginhelp.com
@@ -3019,6 +3050,7 @@ olx.pl-saving.xyz
 olx.pl-savingcash.cyou
 olx.pl-savingcash.xyz
 olx.pl-savingmoney.icu
+olx.pl-savingmoney.shop
 olx.pl-secure.oferta-payment.cards
 olx.pl-success.work
 olx.pl-successorder.xyz
@@ -3072,6 +3104,7 @@ opfgmdm.creatorlink.net
 opjkk.creatorlink.net
 opsidposqidpoqsidpoiqspodiqsopdipqsd.blogspot.com
 optika-anda.hr
+optimistic-sutherland.64-31-24-210.plesk.page
 optus-au.blogspot.com
 optus-com-au.blogspot.com
 optusnet-com.blogspot.com
@@ -3101,7 +3134,6 @@ orlandoareavacations.orlandoareavacation.com
 orquestaloshispanos.com
 osh2.labour.go.th
 osmaslo.ru
-osmnye.com
 osterholtdesigns.com
 osun.cz
 otomoto-h229.net
@@ -3112,6 +3144,7 @@ ouraring-my.sharepoint.com
 ourevolution.com
 ourlovmess.wordpress.com
 ourtimecom4.yolasite.com
+ourtimeee8.godaddysites.com
 outlook12861.activehosted.com
 outlook1541489.webcindario.com
 outlookcom119.yolasite.com
@@ -3147,6 +3180,7 @@ pakhitrading.com
 paksarhadgoods.duskypot.com
 palletschepmexico.com
 panahtimes.com
+pancake-test.pages.dev
 pancakeswap.streamingfast.io
 panelweb-4cae2.web.app
 panjaabias.com
@@ -3190,6 +3224,7 @@ paymentfailure-assistant.com
 paymentnotificationnow.blogspot.com
 payments-olx-ua.pw
 payments-olx-ua.su
+paynpalrewards.000webhostapp.com
 paypal-inc-userupdatenuber7925570844.blogspot.com
 paypal-me-alessandra-martini.com
 paypal-merchantloyalty.com
@@ -3579,8 +3614,10 @@ rotimi.pandaform.com
 rotseezunft.ch.tcorner.fr
 round.ahiretrading.repl.co
 roupakids.blogspot.com
+royal.mail-delivery-gb43982.com
 royal.mail-redeliverr5t4r.com
 royal.mail-redelivery9r4k.com
+royalmail.co.ukmailhelp.org
 royalpostcards.be
 rplg.co
 rqv1m.moneyfat.world
@@ -3693,7 +3730,7 @@ securemy-logindetails.com
 securemybtmicrosfttogindropboxupdate.weebly.com
 securesiteapp.com
 securesquared.co.uk
-security-of-your-page002863720.owwnjv2dro-e9249ek1k6kr.p.runcloud.link
+securitebp.bounceme.net
 securitybankpostale.myftp.org
 securityupdatereview-365online.com
 seductionlearning.com
@@ -3730,6 +3767,7 @@ service-client00-my-cheetah-website.free.builderall.com
 service-lkdn2020.gacconstrutora.com.br
 serviceclient.site44.com
 servicefacture.blogspot.com
+servicemail010.wixsite.com
 servicemail2255.wixsite.com
 serviceoutade.groutmastersatlanta.com
 services-vodafone.com
@@ -3791,6 +3829,7 @@ sharedpointincefax.weebly.com
 sharefiles.app.link
 sharelink.sn.am
 sharepoint.akbidbinahusada.ac.id
+sherryhigdon.com
 shifawll1.ae
 shimaarutechies.com
 shohidurrahman.info
@@ -3927,7 +3966,6 @@ souvenirsplace.com
 sp477389.sitebeat.site
 sp701876.sitebeat.site
 spaceandform.com
-spahnbgn.weebly.com
 spakasi7.club
 sparkasse-datnesicherungsteam.com
 sparkasse-hannover.work
@@ -4136,8 +4174,8 @@ thechillipicklecanteen.com
 thecircleclub.pk
 theckenberg.ml
 theduecfoinv.com
-theecstaticschedule.co.uk
 thefeelingwhole.com
+theglashouse.com
 thehiphoppublicist.com
 thelibraryofohara.co
 thelifeco-corporate.com
@@ -4205,6 +4243,12 @@ timeline.fbcom-iih4xkqv2.kets.sd
 timeline.fbcom-m36so1oll.kets.sd
 timeline.fbcom-xgddn0ngfg.kets.sd
 timelinefacebook-6359057539.britischeinkaufen.de
+timelineimages-0802041993.financialdesign.mx
+timelineimages-1114358978.financialdesign.mx
+timelineimages-1208825578.financialdesign.mx
+timelineimages-4340644561.financialdesign.mx
+timelineimages-5530746617.financialdesign.mx
+timelineimages-7162439491.financialdesign.mx
 timelineimages-8123301992.financialdesign.mx
 tinify.ir
 tinyl.uk
@@ -4267,6 +4311,7 @@ tremanisk.com
 treqbqjhsjgjajjkajhushhaggha.gq
 treqin.com
 tresd.com
+tresuicv.weebly.com
 triathlonontario-my.sharepoint.com
 trilles157.typeform.com
 trsresourcing-my.sharepoint.com
@@ -4452,6 +4497,7 @@ viandjo.com
 video-bokepnew.duckdns.org
 video-bokp21.duckdns.org
 videobigo.com
+vidioviral-ojol-full.duckdns.org
 viettel-com-dot-c2c01-531c7.uc.r.appspot.com
 view.anwomen.cn
 view.sfzjmus.cn
@@ -4505,6 +4551,8 @@ vtennis.vn
 vthlwcho.tk
 vtsnaps.com
 vtxmail2018.myfreesites.net
+vurrentlymana1.com
+vurrentlymana11.com
 vvipidm.com
 vvsmsmms.yolasite.com
 vwbank.inforia.net
@@ -4557,6 +4605,7 @@ webbugtracckings.com
 webcentricmenu.wapka.website
 webdatamltrainingdiag842.blob.core.windows.net
 webdemoapp.com
+webdisk.financialdesign.mx
 webexert.com
 webfamily.com.br
 webfiddle.net
@@ -4591,6 +4640,7 @@ wellingtoncloud-my.sharepoint.com
 wellsfargoreminderautomaticaedlogs.weebly.com
 wellsfargos.aicsolutions.co.za
 wengler-group.com
+wenjiandashi.com
 westportvillagegallery.com
 wg1385932.virtualuser.de
 wgcxdgv.cn
@@ -4627,6 +4677,7 @@ wirtschaft.baesweiler.de
 wisconsin-dmv-mv3001.com
 wisemensyndicate.com
 wish-to-see-in-the-world.my.id
+wivova4111.wixsite.com
 womedeluxespa.com
 woodcountyd-a.ga
 woodworkpalace.com
@@ -4933,6 +4984,7 @@ www.hotel-pontos.gr
 www.hotgrub.mlbb732.ga
 www.hrzkpj.com
 www.httpervices.runescape.com-gf.ru
+www.httpervlces.runescape.com-gf.ru
 www.httpservices.runescape.com-nu.ru
 www.httpservices.runescape.com-tp.ru
 www.httpservlces.runescape.com-m.ru
@@ -5042,6 +5094,7 @@ www.m.ervlces.runescape.com-oa.ru
 www.m.ervlces.runescape.com-tp.ru
 www.m.ervllces.runescape.com-n.ru
 www.m.httpervices.runescape.com-gf.ru
+www.m.httpervlces.runescape.com-gf.ru
 www.m.httpservices.runescape.com-gf.ru
 www.m.httpservlces.runescape.com-ov.ru
 www.m.httpsservices.runescape.com-dg.ru
@@ -5265,6 +5318,7 @@ www.smbc-card-vpass.cn
 www.smbc-card.com.mjsu3.com
 www.smbc-co.vip
 www.smbc.co.jp.mjsu3.com
+www.smbc.com.champlux.com
 www.smbscdesenfgk.com
 www.sot9zigzy6rtyhjsn.wisuda.ump.ac.id
 www.soysodimac.estudiarfacil.com
@@ -5387,6 +5441,7 @@ www.zimbabwe.net.za
 www.zjgsyds.cn
 www2.nnicard.co.jp.htmlorb.com
 www3.vpsassenpjco.com
+www6-mtb.zyns.com
 www_jaccs_co_jp.akfkhk.bar
 wxlyspdzsnxfytymrhbqigo.rockcoastclothing.com
 wypadki24.e-kei.pl
