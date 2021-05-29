@@ -258,7 +258,6 @@ adobe-login-token.azurewebsites.net
 adobe-manage-account.azurewebsites.net
 adobe-new-files.azurewebsites.net
 adobe-online-files.azurewebsites.net
-adobess-secondary.z13.web.core.windows.net
 adpunemploymentclaims.sharefile.com
 ads-google-think.blogspot.com
 adsbusinesscampaingscoupons.com
@@ -375,7 +374,6 @@ amazon.aactv.cn
 amazon.bignian.top
 amazon.co.jp.y2j3o8.com
 .vpncn2.com
-amazon.cqhcnt.cn
 amazon.dghrlk.bar
 amazon.hgyrlx.bar
 amazon.hodokcd.cn
@@ -410,7 +408,6 @@ amidabuli.com
 amininstitute.com
 amjadschool.ca
 amoazm.nnjds.com
-amonzom.co.ip.m9qz0i.cn
 amozanm-rrbrb.cc
 amozanm-rrere.cc
 amprojanitorial.com
@@ -1001,7 +998,6 @@ chatwhatsapp020.duckdns.org
 chatwhatsapp22.duckdns.org
 chatwhatsapp25.duckdns.org
 chatwhatsappgroups00020.duckdns.org
-chatwhatsapppgroppp1.duckdns.org
 check-newpayee-halfax.com
 checkkkakonpqesss1.000webhostapp.com
 checkpayroll.creatorlink.net
@@ -1185,7 +1181,6 @@ csgocyber.ru
 csgoequal.com
 cslmonley-to.com
 csnhc-in-or.ga
-csnuis.shop
 cspichinserv.mipropia.com
 cssnf-a.gq
 cssnfr-shrr.ml
@@ -1592,7 +1587,6 @@ facebook.eventspinff.wtf
 facebook.hrbureaugh.com
 facebookappeal-case10351001.web.app
 facebookappeal1888884.web.app
-facebookappealcase177741444.web.app
 facebookappealcase18411144.web.app
 facebookappealcase1848848888.web.app
 facebookappealcase7174747444.web.app
@@ -1656,7 +1650,6 @@ fdjfashion.com
 fdx.co.th
 feceboolk.blogspot.com
 fecrns.000webhostapp.com
-fecrnx.000webhostapp.com
 federalaccesscredit.com
 fedexvoyager.com
 fedner.net
@@ -1889,7 +1882,6 @@ gufbkk.cn
 guidizontech.com
 guillermo.co.uk
 gukcentrl.ru
-guldur.net
 gumsurgerycapecod.com
 gwenet.org
 gwisalltrack.com
@@ -2128,7 +2120,8 @@ inlnk.ru
 inmps.me
 inno.surf
 innoaura.com
-inpost.ploferta365.cyou
+inpost.pl-savingpaid.icu
+inpost.pl-savingpays.xyz
 inps-ep.com
 insecurity-fanpage-warnings-440232359956io.ml
 instafollowers.azurewebsites.net
@@ -2193,7 +2186,6 @@ itau.gq
 itau.riweb.com.br
 itcheepdesk.com
 iueorh.skydigitech.io
-ivyleaguekids.org
 iyfmixxmsadfnoumcsmgwueqcq-dot-poised-bot-306515.uk.r.appspot.com
 izcalttia.com
 izegqihr.gq
@@ -2580,7 +2572,6 @@ mafacturefreemobile.blogspot.com
 magnetarbpo.com
 magyarpoosta.blogspot.com
 mail-generali.com
-mail.arigo.ng
 mail.bestbusinesscommunity.com
 mail.blogdoaltivo.com.br
 mail.charperimagedesign.com
@@ -3024,6 +3015,7 @@ olx.pl-savingcash.cyou
 olx.pl-savingcash.xyz
 olx.pl-savingmoney.icu
 olx.pl-savingmoney.shop
+olx.pl-savingpaid.icu
 olx.pl-savingpays.icu
 olx.pl-savingpays.shop
 olx.pl-savingpays.work
@@ -3175,6 +3167,7 @@ pastelink.net
 pateltutorials.com
 pathayescon.cl
 pathikareps.com
+patnabasket.com
 patricepurnell.com
 patrickkestens-my.sharepoint.com
 paulmitchellforcongress.com
@@ -3226,14 +3219,12 @@ pep83.org
 pepsicola1-my.sharepoint.com
 perabetgirs.blogspot.com
 perinasas.it
-peringatanpemblokiran00.weebly.com
 permajacktulsa.com
 persistencepays.com
 perso.menara.ma
 peru.payulatam.com
 peruzonazonasegvra-bnweb29.com
 pesc.pw
-pescar.org.ar
 petiteisabelle.wixsite.com
 petroasiacorp.com
 pgevmp.getenjoyment.net
@@ -3470,7 +3461,6 @@ rakuten_co_jp.popy889.vip
 ralfralsen.online
 ramgarhiamatrimonial.ca
 ranchomasjid-88016c.ingress-erytho.easywp.com
-randomstring.ochi-si-dinte.is-uberleet.com
 rapidrecognition.co.uk
 rayone.com.jo
 rb.gy
@@ -4065,7 +4055,6 @@ switch.com.kw
 swrd.swgchilastra.com
 sxecofg.gq
 sylviamclain-my.sharepoint.com
-syncrefund-com.stackstaging.com
 syriagaleri.com
 sysbcodveiahnzhhcgtanghaue-dot-gle9392420309493993.rj.r.appspot.com
 t-online-de.net
@@ -4512,7 +4501,6 @@ vtennis.vn
 vthlwcho.tk
 vtsnaps.com
 vtxmail2018.myfreesites.net
-vurrentlymana1.com
 vurrentlymana11.com
 vvipidm.com
 vvsmsmms.yolasite.com
@@ -4636,6 +4624,7 @@ wirtschaft.baesweiler.de
 wisconsin-dmv-mv3001.com
 wisemensyndicate.com
 wish-to-see-in-the-world.my.id
+wiuqdqbhwbdhq.bounceme.net
 wivova4111.wixsite.com
 womedeluxespa.com
 woodcountyd-a.ga
@@ -4714,7 +4703,6 @@ www.aomazon.buzz
 www.apjor.com
 www.apkandroid.ru
 www.app-suivi.com
-www.app.id-lk.cn
 www.appieid.us.com
 www.appleid.apple.com.ac-count.eu
 www.archost.net.au
@@ -5222,6 +5210,7 @@ www.psservlices.runescape.com-n.ru
 www.rackenfordlabs.com
 www.radioilhadamagia.com
 www.rajwebtechnology.com
+www.rakuten.co.jp.ecm4b4.cn
 www.ramgarhiamatrimonial.ca
 www.rb.gy
 www.rdor.in
