@@ -387,7 +387,6 @@ amazon.uyhnfg.bar
 amazon.xgkglm.bar
 amazon.zdrtkj.bar
 amazon.zgprlt.bar
-amazon.zzsif.bar
 amazon.zzznj.bar
 amazoncom.j6b1r6.cn
 amazonvip.aijourney.cn
@@ -626,6 +625,7 @@ bancopichinchaecucom.mipropia.com
 banhywkaie.com
 bank-of-america-secure00.dns05.com
 bankiigalicia.ihostfull.com
+banking.sparkasse.de-19cn81cna7e910aag4h159ab18a92ps81du89.xyz
 banking.sparkasse.de-19cn81cna7e910ag2h1v9ab18a9ps81u89.xyz
 banking.sparkasse.de-19cn81cna7e910agh1v9a12b18a9ps81u89.xyz
 banking.sparkasse.de-19cn81cna7e9110ag2h1v9ab18a9ps281u89.xyz
@@ -1271,7 +1271,6 @@ dhltrack.pvi.pl
 dichvuvinaphone.vn
 dichvuvnpt.com
 die-post-swiss-id-19782635812.psd2any.com
-digresspainter.com
 dimolo.activehosted.com
 dipelnet.com.br
 direct-smbc.com
@@ -2106,7 +2105,6 @@ innoaura.com
 inpost.dostawa-oferla.casa
 inpost.dostawa-oferla.shop
 inpost.dostawa-oferla.website
-inpost.dostawa-orders.casa
 inpost.pl-otrzymac.icu
 inpost.pl-safelycash.work
 inpost.pl-savingpaid.icu
@@ -2116,6 +2114,7 @@ inpost.pl.dostawa-oferla.club
 inpost.pl.dostawa-oferla.cyou
 inpost.pl.dostawa-oferla.store
 inpost.pl.dostawa-oferla.website
+inpost.pl.olx-club.store
 inps-ep.com
 insecurity-fanpage-warnings-440232359956io.ml
 instafollowers.azurewebsites.net
@@ -2609,7 +2608,6 @@ mail.hfcfit.com
 mail.ims-fe.com
 mail.ing-direct-verifica.info
 mail.joyarrington.com
-mail.kamcobank.com
 mail.klikbsi.id
 mail.koderspot.com
 mail.laurabrooksdesign.com
@@ -2929,7 +2927,6 @@ newsimdigital.com
 newton-in-comnmn.tk
 newworldcaseblog.com
 nexoinmobiliario.pe
-nfservices.duckdns.org
 ngservercloudupdati.cloudedupdated.repl.co
 ngx273.inmotionhosting.com
 nhuagpwcuxyzlwmbwnjppeafex-dot-poised-bot-306515.uk.r.appspot.com
@@ -2998,7 +2995,6 @@ obslive.oss-eu-west-1.aliyuncs.com
 ocaque-domen.firebaseapp.com
 oceantires.com
 oceetee-my.sharepoint.com
-ocerder.yundaobaoxhi.com
 odoraparfumerie.com
 oestemarine.com.br
 of7dh0jxy4s.typeform.com
@@ -3345,6 +3341,7 @@ poised-bot-306515.uk.r.appspot.com
 pokajca.web.app
 polen-esquadrias.blogspot.com
 polkastarter.group
+polska-dostawa24.casa
 polskapoczta.dostawa-oferla.casa
 polskapoczta.dostawa-oferla.club
 polskapoczta.dostawa-oferla.store
@@ -3384,6 +3381,7 @@ preventsenior.com.br.cutercounter.com
 preview.dvbuilder.com
 previsaocontabilidade.com.br
 priivacy-recovry-protections-identity.ga
+priivasiipaqessakonnn.000webhostapp.com
 prikany.com
 primeparkrealty.com
 print-mara.firebaseapp.com
@@ -3503,7 +3501,6 @@ rakuten.email-fukuske4.tokyo
 rakuten.email-fukuske5.shop
 rakuten.email-fukuske7.bar
 rakuten.email-fukuske7.shop
-rakuten.email-fukuske9.tokyo
 rakuten.email-nissen12.tokyo
 rakuten.email-nissen21.cloud
 rakuten.email-styleup5.tokyo
@@ -4114,6 +4111,7 @@ swrd.swgchilastra.com
 sxecofg.gq
 sylviamclain-my.sharepoint.com
 syriagaleri.com
+szczepienia-polska.pl
 t-online-de.net
 t-online.de.rongouniversitychaplaincy.com
 t.co
@@ -4195,7 +4193,6 @@ thepaperdesign.com
 theprintingdirectory.co.uk
 thescrapescape.com
 theshoutout.co.ke
-thesignatureselection.com
 thespinvinyl.com
 theumashow.com
 thewomenshome-org.tk
@@ -5215,6 +5212,7 @@ www.oefurniture.ph
 www.offf.to
 www.officialliker.co
 www.olx.pl.dostawa-orders.store
+www.olx.polska-dostawa24.casa
 www.olx.uz
 www.om-cars.be
 www.onlineroisupportupdate.com
@@ -5239,7 +5237,6 @@ www.personasbcr-citas.com
 www.pharmaglobiz.com
 www.philipapadelio.org
 www.piandizano.it
-www.pinkdoormedia.com
 www.pixigifts.ae
 www.pokermagazine.com
 www.polskapoczta.pl.dostawa-orders.store
