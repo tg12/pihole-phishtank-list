@@ -368,7 +368,6 @@ amazon-login.gephgpherut.club
 amazon-login.jp.thegfggfhfg.club
 amazon-login.uhngphgphd.club
 amazon-login.zdzfzffdf.club
-amazon-officiai.servequake.com
 amazon.56cjntw.cn
 amazon.5l3qbeg.cn
 amazon.7tzgspk.cn
@@ -377,7 +376,6 @@ amazon.account-security.amo-2.shop
 amazon.bignian.top
 amazon.co.jp.y2j3o8.com
 .vpncn2.com
-amazon.ctlfw.bar
 amazon.hodokcd.cn
 amazon.iqups.bar
 amazon.jp-login.trutnnvdesign.club
@@ -399,6 +397,7 @@ amazon.zdrtkj.bar
 amazon.zgprlt.bar
 amazon.zzznj.bar
 amazoncom.j6b1r6.cn
+amazonserver.avniucz.shop
 amazonserver.sionmuvz.shop
 amazonvip.aijourney.cn
 amazow.gq
@@ -451,14 +450,12 @@ ansivenews.com
 anszvg.000webhostapp.com
 antaresns.com
 antiguatabernaqueirolo.com
-aol202ljfbvh.weebly.com
 apesigam.com
 api.alqadam.uz
 api.bdisl.com
 api.stasto.eu
 apicola.eu
 apoga.net
-apostalservconnect.webnode.fr
 app-dec-access.com
 app.box.com
 app.pandadoc.com
@@ -1324,7 +1321,6 @@ dopeydog.co.nz
 dortchandassociates.com
 dostawa-oferla.casa
 dostawa-oferla.club
-dostawa-orders.xyz
 dostawa-safe.su
 dostawaolx.pl
 dota-hook.com
@@ -1596,12 +1592,10 @@ fatura-digital-hiper.net
 fatura-digitalhiiper.net
 fatura-hiperdigital.net
 faturadigiital-hiper.net
-faturahiiiiipercard.net
 fax.gruppobiesse.it
 fb-pagecontent-1000383846577483993452.tk
 fb-pagecontent-1000383846577483993453.tk
 fb-pagecontent-1000383846577483993454.tk
-fb-pagecontent-1000383846577483993455.tk
 fb-pageregconfirm-10000171615626261251105.tk
 fb.expressturkeyi.com
 fb.probox.lk
@@ -2524,6 +2518,7 @@ lycee-ozanam35.fr
 lycroproducts-my.sharepoint.com
 lying-oval-interest.glitch.me
 lynkos.com.br
+lyonens.000webhostapp.com
 lyzsobepxcrkqdujpzdrwexjdk-dot-poised-bot-306515.uk.r.appspot.com
 lzmkcgr.cf
 m-facebook.mypi.co
@@ -2874,6 +2869,7 @@ myrm-unpaidfee.com
 mysait-my.sharepoint.com
 mysoulaura.com
 mysp.ac
+mysql.runescape.com-gb.ru
 myupdates-mynetflix.com
 n26-particuluar-n26-personal-own.boxofbusinessblogs.com
 n2q30.giveeconomy.link
@@ -3061,6 +3057,10 @@ olx.info-payer.com
 olx.pl-fastdelivery.work
 olx.pl-otrzymac.shop
 olx.pl-otrzymac.xyz
+olx.pl-safecosts.cyou
+olx.pl-safecosts.icu
+olx.pl-safecosts.shop
+olx.pl-safecosts.work
 olx.pl-safecosts.xyz
 olx.pl-safelycash.icu
 olx.pl-safelycash.work
@@ -3289,6 +3289,7 @@ philipapadelio.org
 phillipmill176545.clickfunnels.com
 phogovip.vn
 photographybyallen.com
+phpmyadmin.runescape.com-gb.ru
 phreshphoto.com
 phx.chromeproxy.net
 piccadely.com.ar
@@ -3336,10 +3337,10 @@ please.net.ru
 plog.com.br
 plutosmto.com
 plytecfi-my.sharepoint.com
+pma.runescape.com-gb.ru
 pmiconnect-my.sharepoint.com
 po.do
 pocketcard-vnqpsni.com
-poczta.pl-savingmoney.work
 poczta.pl-srodki.icu
 poczta.pl-successpay.shop
 pocztowyonline.com
@@ -3671,7 +3672,6 @@ runescape.com-wsvs.top
 runescapeapk.com
 runescapeservices.com
 rvices.runescape.com-we.ru
-ryjpy.bar
 s-paypalinfo.ml
 s.free.fr
 s.id
@@ -4090,7 +4090,6 @@ suddenly.top
 suelunn.com
 sugar.mpowerenergy.com
 suiss-post-livrais.blogspot.com
-suitecred.com.br
 sultanbetgirisadresimiz.blogspot.com
 sultanbetgirisadresimiz1.blogspot.com
 sumairakhanray.org
@@ -4595,7 +4594,6 @@ walletconnectsync.net
 walletinterlink.com
 wallets-connect.icu
 walletsappsconnects.com
-walletsconnectdapp.com
 walletsconnectlink.com
 walletxvalidation.com
 wallieget.com
@@ -5198,6 +5196,7 @@ www.memoires-et-theses.com
 www.mercadopago-segurobr.com
 www.messelive.tv
 www.metamask.cloud
+www.metamask.hellokidsbd.com
 www.metamask.onl
 www.methodetr.com
 www.meusabor.com.br
@@ -5220,6 +5219,7 @@ www.mybpos.net
 www.myeeyouree.com
 www.mymentalhealthday.org
 www.myo2-billing-error28.com
+www.mysql.runescape.com-gb.ru
 www.mysummercamps.com
 www.nakamistrad.com
 www.natwest.secured-online-verify.com
@@ -5265,8 +5265,10 @@ www.peronaci.it
 www.personasbcr-citas.com
 www.pharmaglobiz.com
 www.philipapadelio.org
+www.phpmyadmin.runescape.com-gb.ru
 www.piandizano.it
 www.pixigifts.ae
+www.pma.runescape.com-gb.ru
 www.pokermagazine.com
 www.polskapoczta.pl.dostawa-orders.store
 www.post-u22dredelivery.com
