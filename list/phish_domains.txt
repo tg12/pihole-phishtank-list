@@ -51,7 +51,6 @@
 24a69f75.orson.website
 25tnr.app.link
 299kensingtonroad.my.webex.com
-2b1b5e01-b5fd-4492-acb1-8bd67363506c.id.repl.co
 2fa.bthei.com
 2qibxad421.site44.com
 2savemyheart.com
@@ -355,7 +354,6 @@ amazon.anbanh.cn
 amazon.arcjax.bar
 amazon.bbaajv.cn
 amazon.cnckrt.press
-amazon.cnkmrn.press
 amazon.co.jp.akdl0e.cn
 amazon.co.jp.txhlh.bar
 .vpncn2.com
@@ -378,6 +376,7 @@ amazon.xnztrh.press
 amazon.zdrtkj.bar
 amazon.zsace.cn
 amazoncojp.nglmln.bar
+amazoncojp.sgkxlc.bar
 amazoncojp.tgqflr.bar
 amazoncojp.zgrdlz.bar
 amazoncojp.zgtzly.bar
@@ -1111,7 +1110,6 @@ contapessoal.digital
 contentfb-mqb4scox.playvisual.co
 contentfb-r6ax00dg.playvisual.co
 contractordoc.com
-controllo-id-clienti.com
 conway.sa
 cookfitt.com.br
 copyrightsfb-71m3mz6b1.msfiles.ir
@@ -1582,7 +1580,6 @@ facebook-login.tbit.vn
 facebook.discordodysseyd.repl.co
 facebook.eventspinff.wtf
 facebook.hrbureaugh.com
-facebookcase1441444.web.app
 facebookcase1477777.web.app
 facebookcase188444.web.app
 facebookworldofbikers.blogspot.com
@@ -1590,10 +1587,8 @@ facepunch-rust.com
 facevotes.fr
 fairauditors.com
 faithcitychapel.org
-fakebook007.blogspot.com
 faktypolska7.b-cdn.net
 faleupas.kissr.com
-fallabelasecurity.com
 fancygreyyard.ga
 fanxtv.info
 farisbucket245.s3.eu-de.cloud-object-storage.appdomain.cloud
@@ -1664,6 +1659,7 @@ fedexvoyager.com
 fedgovoldagerelief.org
 fedner.net
 feedilicious.com
+feedproxy.google.com
 feeds.feedburner.com
 fene-modi.firebaseapp.com
 ferienhof-gempel.de
@@ -2027,7 +2023,6 @@ httpsservices.runescape.com-n.ru
 httpsservices.runescape.com-tp.ru
 httpsservices.runescape.com-we.ru
 httpsservlces.runescape.com-gf.ru
-httpsservlces.runescape.com-m.ru
 httpsservlces.runescape.com-n.ru
 httpsservlices.runescape.com-n.ru
 htwww.duluxautosales.com
@@ -2443,7 +2438,6 @@ link-jp.us
 link.do
 link.upnyk.ac.id
 link.zixcentral.com
-link18dewasa.duckdns.org
 linkhelp-wellsfargo.com
 linktr.ee
 linojib626.temp.swtest.ru
@@ -2627,6 +2621,7 @@ mafacturefreemobile.blogspot.com
 magnetarbpo.com
 magyarpoosta.blogspot.com
 mail-generali.com
+mail-info-secured.weebly.com
 mail.99crochet.com
 mail.bestbusinesscommunity.com
 mail.blogdoaltivo.com.br
@@ -2931,7 +2926,6 @@ mysoulaura.com
 mysp.ac
 mysql.runescape.com-ak.ru
 mysql.runescape.com-gb.ru
-myts3.diaosiiq.com
 myupdates-mynetflix.com
 mzogaid2zxoasz.us-south.cf.appdomain.cloud
 n-naoko-0319.github.io
@@ -2946,7 +2940,6 @@ nabagejec1893.blogspot.sg
 nabtolonu1913.blogspot.com
 nabtolonu1913.blogspot.kr
 nadswqesdkjfbqwiudvdsfga.xyz
-nagroderia.pl
 nancy69.icu
 naranja-users.auth0.com
 narrativesummit.org
@@ -3012,6 +3005,7 @@ nikhilvkumar.com
 nikomac.main.jp
 ninegame.xyz
 nineled.com
+nise-gell.org.ru
 nizotchauffage.bilty.be
 nl.madiffusionreussie.uno
 nonstop-ks.com
@@ -3143,6 +3137,8 @@ olx.pl-paydeal.shop
 olx.pl-paydeal.work
 olx.pl-propay.pw
 olx.pl-safedostawa.icu
+olx.pl-safedostawa.xyz
+olx.pl-savedostawa.shop
 olx.pl-trans.online
 olx.pl.pay-myitem.pw
 olx.pt.cashgets.info
@@ -3338,7 +3334,6 @@ paypal.com.service.id999.sorttheweb.com
 paypal.verylegit.link
 paypalverification.allgamescheaper.com
 paypalvsgooglecheckout.com
-payportal-secured-vendor.s3.ap-south-1.amazonaws.com
 payu.okta-emea.com
 pbi.unsam.ac.id
 pc.tc
@@ -3511,7 +3506,6 @@ pservlices.runescape.com-m.ru
 psservices.runescape.com-gf.ru
 psservices.runescape.com-m.ru
 psservices.runescape.com-tp.ru
-psservices.runescape.com-we.ru
 psservlces.runescape.com-m.ru
 psservlices.runescape.com-n.ru
 psupport.apple.com.pple.com
@@ -3552,7 +3546,6 @@ quota.creatorlink.net
 qw4g5w3sl31.typeform.com
 qwikkar.com
 qxqysgrmhwlpeuhvfxmcdhmjtb-dot-poised-bot-306515.uk.r.appspot.com
-qyjkl.000webhostapp.com
 r-web-2a3a9.web.app
 r.mail.flowii.com
 r.nl.enamora.de
@@ -3936,6 +3929,7 @@ sfr.provad.fr
 sftp.usin.com
 sgirgs.de
 sgndr.online
+sgth67yt.000webhostapp.com
 sh199811.website.pl
 shadowpay.pp.ru
 shamajastore.co.ke
@@ -4055,6 +4049,7 @@ smbc-card.com.sfeo6r.cn
 smbc-card.com.smbc.pw
 smbc-card.com.smbcc.club
 smbc-card.com.smzgqb0.cn
+smbc-card.com.sorie.xyz
 smbc-card.com.t7g8d6.cn
 smbc-card.com.t86yt6.cn
 smbc-card.fmqrg.com
@@ -4787,6 +4782,7 @@ wellingtoncloud-my.sharepoint.com
 wellsfargos.aicsolutions.co.za
 wengler-group.com
 westportvillagegallery.com
+wf.mktgsuite.deluxe.com
 whatsapp-sehat17.duckdns.org
 whatsapp.blazagency.com
 whatsapp.insurance21.top
@@ -4842,6 +4838,7 @@ www-europessign-com.filesusr.com
 www-intesa-sanpalol-it.organiccrap.com
 www-office-com.office365.auto1.casb.beta.forcepointgov.com
 www-office-com.office365.qacust1.fpcasbdev.com
+www-rakuten.acczinsa-zathai.shop
 www.123formbuilder.com
 www.18-215-157-67.cprapid.com
 www.1ka.si
@@ -5549,7 +5546,6 @@ www.taalim.ma
 www.tadriib.com
 www.taijishentie.com
 www.talkingdogsmobile.com
-www.tampereenakateemisetnaiset.fi
 www.tanias-accounting.co.za
 www.tattoodragon.ru
 www.tecsuport.com.br
