@@ -1258,6 +1258,10 @@ dmtechnologies.co.in
 dnr.rs
 doc.google.com
 doclab-console-auth.firebaseapp.com
+docomo.ne.cijp.xyz
+docomo.ne.cqjp.xyz
+docomo.ne.cwjp.xyz
+docomo.ne.cyjp.xyz
 docomo.ne.oajp.xyz
 docomo.ne.objp.xyz
 docomo.ne.odjp.xyz
@@ -1610,7 +1614,6 @@ fbcom-s7otrmgi0.wakimart.com.kh
 fbcom-w2abzwx6o.homebet88.me
 fbcom-wtcsucu1.streamsteam.ca
 fbdmca-9680207222.dimitristranos.com
-fbmaintenance-pages-invitation.my.id
 fbnotification-01442367587.becoffee.co
 fbpages-claim-center.my.id
 fbrent.ru
@@ -2343,7 +2346,6 @@ lcdjh.codesandbox.io
 ldsplanettt.yolasite.com
 le-diablotin-rouen.com
 le-site-web-de-messagerieboxxfrr.yolasite.com
-le-site-web-de-yikol20096beydentcom.yolasite.com
 leadsconnect.online
 leapstcyran.fr
 learning.trisakti.id
@@ -3006,7 +3008,6 @@ office365.auto1.casb.beta.forcepointgov.com
 office365.corkfips.fpcasbdev.com
 office365.eu.vadesecure.com
 office365.ulsango56odnew.ru
-office365message-listentovoicemessage-messageoffceaudiomessagem.s3.eu-de.cloud-object-storage.appdomain.cloud
 office365voice-messagelisten-voicemessagecenter.s3.eu-de.cloud-object-storage.appdomain.cloud
 office365voicemessage-releasemessage-messagelistenvoicemessagex.s3.eu-de.cloud-object-storage.appdomain.cloud
 officedal.ey.r.appspot.com
@@ -3274,7 +3275,6 @@ pichincha-930.webcindario.com
 pichincha-a-c-t.webcindario.com
 pichincha-msj.byethost7.com
 pichincha-notifi.webcindario.com
-pichincha-oficial2.000webhostapp.com
 pichincha-osm.webcindario.com
 pichincha0002.webcindario.com
 pichincha0004.webcindario.com
@@ -4655,7 +4655,6 @@ wireconfirmation68c10a25442a3e13.blogspot.com
 wires-business-starter.webflow.io
 wirtschaft.baesweiler.de
 wisconsin-dmv-mv3001.com
-womedeluxespa.com
 woodworkpalace.com
 workprotocoles-com.webs.com
 worldlabcu.com
@@ -4810,7 +4809,6 @@ www.centraleconsulta.net
 www.chadhapapers.com
 www.chaishaica.com
 www.chat-whatsappgrupjoinbokepweb.zzux.com
-www.chatwhatsapp22.duckdns.org
 www.chatwhatsappgroups11.otzo.com
 www.chiarabernardi.it
 www.cla2020gov.com
@@ -5584,7 +5582,6 @@ zekkafreitas-vando-magazine.cheetah.builderall.com
 zenixmachines.com
 zeyxfyjyp.pvvmnfyex.top
 zfhub.com.br
-zfrmz.com
 zi-3-gporange1.free.builderall.com
 zimadmin.000webhostapp.com
 zimbra-a4aef.web.app
