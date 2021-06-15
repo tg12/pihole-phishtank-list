@@ -190,6 +190,8 @@ account-adobe-auth.azurewebsites.net
 account-managing.com
 account-update-services-live.ffsryx.rest
 account.paxful.com.unissenseafrica.com
+accountfirestorm3.000webhostapp.com
+accountfirestorm5.000webhostapp.com
 accountliveout.freecluster.eu
 accountpichi00.000webhostapp.com
 accountpichi000.000webhostapp.com
@@ -326,7 +328,6 @@ alumdecor.ru
 alutek.com.ar
 alvanrado.github.io
 amakatiawaziwayo.com
-amaozn.dsygk.com
 amaozn.sdied.com
 amaxcarrentals.com.au
 amaz0n.co.jp.zvrqz64.cn
@@ -479,6 +480,7 @@ arnozom.co.ip.ppzq174a.xyz
 arnozom.co.ip.r7wb1n.cn
 arnozom.co.ip.z40uig.cn
 arnzaon.customer-payment-infomations-verify.tk
+arnzaon.verify-infomations.gq
 aromatic.webenliven.in
 arozoma.d2s6nvv.cn
 arrow.kvalitne.cz
@@ -777,6 +779,7 @@ blog.secure.runescape.com-wsvs.top
 blog.weiwanjia.com
 blog.www.m.blog.secure.runescape.com-wsvs.top
 blogdoaltivo.com.br
+blogger.azureedge.net
 blogsbro.com
 blogupdate.org
 blok-faceboook.mypi.co
@@ -851,6 +854,7 @@ buzzsi.com.au
 bwnhmelc.tk
 bwplusburaidah.com
 byoko.co.kr
+bytesengineering.com
 byygw.csb.app
 bzrider.com
 c-om.be
@@ -1323,10 +1327,8 @@ docomo.ne.vljp.xyz
 docomo.ne.vmjp.xyz
 docomo.ne.vnjp.xyz
 docomo.ne.vojp.xyz
-docomo.ne.vpjp.xyz
 docomo.ne.vqjp.xyz
 docomo.ne.vrjp.xyz
-docomo.ne.vujp.xyz
 docomo.ne.vxjp.xyz
 docomo.ne.vyjp.xyz
 docomo.ne.zejp.xyz
@@ -1715,7 +1717,6 @@ form.jotform.com
 forms.gle
 
 forms.zohopublic.com
-formulatelive.com
 forumasik.com
 forumgal.mipropia.com
 forums.rstools.club
@@ -1762,7 +1763,6 @@ gajaraet.com
 gala2403.github.io
 galbob.fr
 galcbheoo9.byethost33.com
-galicia-online-hbsegurity6.000webhostapp.com
 galicia-security.webcindario.com
 galicia001.webcindario.com
 galicix289289.mipropia.com
@@ -2183,7 +2183,6 @@ interthlmn.000webhostapp.com
 intraburry.co.zw
 intrnett-baking-sgdbss.com
 invest.jalisco.gob.mx
-invincible-superficial-tote.glitch.me
 invitation-page-policy-notification-2021.my.id
 invitation-pages-advanced-notification-2021.my.id
 invoice.vrizm.com
@@ -2774,6 +2773,7 @@ miolkoijhjhjhb.gq
 mipymescolombiana.com
 mirandaassociates.biz
 mirbuketoff.market
+mireprojectfl.000webhostapp.com
 mispffun.ml
 missionshashank.org
 mitrasolusiseragam.com
@@ -3081,7 +3081,6 @@ olx.pl-livedeal.work
 olx.pl-livesdeal.cyou
 olx.pl-panel.website
 olx.pl-ready.cyou
-olx.pl-ready.shop
 olx.pl-ready.work
 olx.pl-readyconfirm.xyz
 olx.pl-safedostawa.icu
@@ -4212,6 +4211,7 @@ thechillipicklecanteen.com
 theckenberg.ml
 thedailytelegraph.xyz
 theduecfoinv.com
+theendreaban.000webhostapp.com
 theepic.in
 thefeelingwhole.com
 theglashouse.com
@@ -4475,6 +4475,7 @@ validation-newpayee.com
 validationsystem.creatorlink.net
 vanbuy.ir
 vanchuyentienphat.com
+vankonlikegalice0.000webhostapp.com
 vanmarckegroup-my.sharepoint.com
 vanvleetfamilyfarm.com
 vb.biz.ua
@@ -4538,6 +4539,7 @@ vimanodanichgardia2.americommerce.com
 vinfish-oiwemails.web.app
 vins-royet.fr
 violatv.com
+vip.bitcoinprofit.wallfirm.link
 virtual1dattss.com
 visione.co.id
 vitaliumglobal.com
@@ -5535,7 +5537,6 @@ yakutcement.ru
 yastatic.net
 ydrdkbcff.yolasite.com
 yetpack.com
-yexx0sgce1j6w6togl9ryseu.wisuda.ump.ac.id
 yj4iejst3dom5obrvumw3ohsoe-adwhj77lcyoafdy-translate.translate.goog
 yonoauctionmarttz.com
 yoqueknk.tk
@@ -5556,6 +5557,7 @@ yvesauzon0-mon-site-web-cheetah.cheetah.builderall.com
 yvessgaspard-mon-site-web-cheetah.free.builderall.com
 yzczvwjwyebrmrlgopbibszdzx-dot-poised-bot-306515.uk.r.appspot.com
 z-pay.biz
+z2g0.skysafe.codes
 z3voicrxxvs.typeform.com
 z542movsqr7pbgb36p6khjgy5e-adwhj77lcyoafdy-translate.translate.goog
 zahlbaum.de
