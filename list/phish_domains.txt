@@ -220,7 +220,6 @@ admin.cmxparts.com
 admin.ipaoo.fr
 adminivericentrics.wapka.website
 adminiwebkingnet.wapka.website
-adminsuport.godaddysites.com
 adnet8.com
 adobe-auth-app.azurewebsites.net
 adobe-docs-asset.azurewebsites.net
@@ -381,6 +380,7 @@ amidabuli.com
 amininstitute.com
 amnazon.co.jp.csbhm.cn
 amnazon.co.jp.cxzlw.cn
+amnzsnxz.000webhostapp.com
 amoaozn.jp.0efvvn.cn
 amoaozon.jp.z2nccur9.cn
 amozanm-rrbrb.cc
@@ -604,7 +604,6 @@ bancoonline-ing-8a1861.ingress-erytho.easywp.com
 bancopichinchaecucom.mipropia.com
 bancwebpchincha.byethost31.com
 bancwebpchincha01.000webhostapp.com
-bancwebpchincha04.000webhostapp.com
 bancwebpichinchservics.000webhostapp.com
 banhywkaie.com
 bank-of-america-secure00.dns05.com
@@ -787,7 +786,6 @@ bltnkddwelevohqufcyunigxcz-dot-poised-bot-306515.uk.r.appspot.com
 blubrown.com
 bncawebpichincha.000webhostapp.com
 bncitabancariacr.com
-bo7pg.z6.web.core.windows.net
 bodegalatinacorp-my.sharepoint.com
 boerekulture.co.za
 bogdonovlerer.com
@@ -964,13 +962,13 @@ chat-whatsapp.doctorhaddadpediatriayflores.cl
 chat-whatsapp.vizvaz.com
 chat-whatsqp.com
 chatwa184.dynserv.org
-chatwhatsap-grub18.duckdns.org
 chatwhatsap-grubid.duckdns.org
 chatwhatsapp.dynip.org
 chatwhatsapp20.dynip.org
 chatwhatsappgroups00046.duckdns.org
 check-newpayee-halfax.com
 checkpayroll.creatorlink.net
+checkpointpagesverifysupportcenter.my.id
 checnotifymails.weebly.com
 chellemason.com
 chemcoplast.com
@@ -1307,7 +1305,6 @@ docomo.ne.bejp.xyz
 docomo.ne.bfjp.xyz
 docomo.ne.bvjp.xyz
 docomo.ne.bwjp.xyz
-docomo.ne.bxjp.xyz
 docomo.ne.cqjp.xyz
 docomo.ne.eajp.xyz
 docomo.ne.ebjp.xyz
@@ -2628,7 +2625,6 @@ malufaproducciones.com
 malukutenggarakab.go.id
 mamgoapaaoiz8xix.us-south.cf.appdomain.cloud
 manage.fanshuyou.com
-manageronlinesupport10b.com
 manateetreeservice.com
 mange.google.com.brunocpa.com
 manners.pk
@@ -2802,7 +2798,6 @@ modularmovements-my.sharepoint.com
 moj.aktiv.rs
 molinf.website
 momentoslemadrid.com
-mon-noel-a-sable.fr
 moncompteenligneactivation.fr
 moneyviewfinance.in
 monirshouvo.github.io
@@ -3132,7 +3127,6 @@ optika-anda.hr
 optimizepressexperts.com
 optus-au.blogspot.com
 optus-com-au.blogspot.com
-optus-help-service.weebly.com
 optusnet-com.blogspot.com
 or-ca.love
 ora-n.yolasite.com
@@ -3267,7 +3261,6 @@ paypal-merchantloyalty.com
 paypal-my.sharepoint.com
 paypal-test.projektumfeld.de
 paypal-ticketid36.com
-paypal-ticketid39.com
 paypal-ticketid61.com
 paypal-ticketid762.com
 paypal.ca.purchasekindle.com
@@ -3959,6 +3952,7 @@ smartgos.com
 smartmco.com
 smartusluga.xja.pl
 smashpc.org
+smbc-card.co.caed.buzz
 smbc-card.co.caed.club
 smbc-card.co.jsp.monster
 smbc-card.com.a10eut7.cn
@@ -4089,6 +4083,7 @@ static-ak-fbcdn.atspace.com
 stcmo.net
 steamcommunitiy.ru
 steamcomunnitly.ru.com
+steamdesktop.info
 steamproxy.net
 steamroll.org.ru
 steancomunnity.ru
@@ -4153,7 +4148,6 @@ suppliers.bitshepherd.org
 support-att.com
 support-verify-my-newpayments.com
 support.orderup.net.au
-supportbp.temp.swtest.ru
 supportnetflix14.info
 supurttviituu.byethost13.com
 surveyheart.com
@@ -4529,7 +4523,6 @@ verififcacionf.webcindario.com
 verifikasi-blockeds8.forumz.info
 veriflegalpost.my.id
 verify-page-account.my.id
-verify-scotia.web.app
 verify.paypal-verifysms.com
 versementpos.ddns.net
 verufy.000webhostapp.com
