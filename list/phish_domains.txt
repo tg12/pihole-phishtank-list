@@ -182,8 +182,12 @@ acaroid-rain.000webhostapp.com
 accesso-web-sella.com
 accesstrade.live
 account-adobe-auth.azurewebsites.net
+account-crank.000webhostapp.com
+account-kingdom.000webhostapp.com
 account-managing.com
+account-mug.000webhostapp.com
 account-update-services-live.ffsryx.rest
+account.activedirectory.windowsazure.orvetrust.com
 account.paxful.com.unissenseafrica.com
 accountliveout.freecluster.eu
 accountmorestop14.000webhostapp.com
@@ -224,6 +228,7 @@ adobe-auth-app.azurewebsites.net
 adobe-docs-asset.azurewebsites.net
 adobe-file-en.azurewebsites.net
 adobe-file.azurewebsites.net
+adobe-files-support.azurewebsites.net
 adobe-login-token.azurewebsites.net
 adobe-manage-account.azurewebsites.net
 adobe-new-docs.azurewebsites.net
@@ -241,6 +246,7 @@ adx-exchancesegu2bn-gibcx.com
 aecbank.net
 aehreaj.harehaerje.xyz
 aeromarine.ws
+aerorescate.co
 affiliationupcoming.mipropia.com
 affordablesignguys.com
 afiliacionweb1.mipropia.com
@@ -258,7 +264,6 @@ agrimetiersmartinique.fr
 agroengworks.com
 ah.com.ge
 ahyiyou.com
-ai4ehr.com
 aichappraisers.com
 aijcs.blogspot.com
 aimozon.co-jp.nudx3u7p.cc
@@ -355,7 +360,9 @@ amazon.anbanh.cn
 amazon.aqbyl.cn
 amazon.bbaajv.cn
 .vpncn2.com
+amazon.jp-co.casa
 amazon.jp.aqwbq.cn
+amazon.jp.new360.top
 amazon.kcgly.cn
 amazon.nnwgxxe.cn
 amazon.snmlrs.cn
@@ -527,6 +534,7 @@ atlascomect.net
 atmostechnology-my.sharepoint.com
 atriumlandscape-my.sharepoint.com
 att.enterice.com
+att00admin0.weebly.com
 attemptdetectedpayment.com
 attmailsupport.yolasite.com
 attmanagementsupport.weebly.com
@@ -608,11 +616,13 @@ bankingalicias.ihostfull.com
 bankngaliciaa.ihostfull.com
 bannerb.net
 banonlin.000webhostapp.com
+banquepostale-connexion.cf
 banquepostale-connexion.tk
 banreservasdigital.com
 baovesusonglcxt.com
 baradua.it
 barclaysmfb.com
+barearmstees.us
 bas9casc3.qwe-dasd-asd.workers.dev
 basketstevemadden.fr
 batterybazaaronline.com
@@ -758,6 +768,7 @@ bklpbgbbwhpvlfsxztmkajbepppyhbxs-dot-onk89909.wn.r.appspot.com
 bkpjoinchatviralfacebook.duckdns.org
 bliiss.shop
 blinusa.com
+blissfulhomeng.com
 blocks.rn86.ru
 blog-hub.azurewebsites.net
 blog.befroush.net
@@ -891,6 +902,7 @@ casosapple.com-verificacionapple.com
 castcome.berlinmode.com
 castennisacademy.be
 castillohousing-my.sharepoint.com
+caterteenager.com
 catfishedbycarlos.com
 catholiccharities-org.tk
 cawapay743.temp.swtest.ru
@@ -937,6 +949,7 @@ cevadeliveryservices.com
 cew.safewallet.replayattack.us
 cf10073.tmweb.ru
 cf50l.csb.app
+cfaemaiatrofa.org
 cfpsacademy.lk
 cg-oe.snprobbx.pbz.r.de.a2ip.ru
 cg00737-wordpress-2.tw1.ru
@@ -1047,6 +1060,7 @@ collinsflg-my.sharepoint.com
 colorworxonline.com
 columbiaps-my.sharepoint.com
 columbus.shortest-route.com
+comcastweb.gowebsite.us
 comigocombr.creatorlink.net
 comments-6871979110.allesinorde.nu
 comments-8599381286.allesinorde.nu
@@ -1149,6 +1163,7 @@ ctformation.com
 ctma-tech.com
 cubachristianbrotherhood.org
 cudowny-bon.click
+currenstlyattyahoo.weebly.com
 currentily.weebly.com
 currentlyattmail.yolasite.com
 currentlyattmailsupport.yolasite.com
@@ -1307,7 +1322,6 @@ docomo.ne.eujp.xyz
 docomo.ne.hcjp.xyz
 docomo.ne.hdjp.xyz
 docomo.ne.hejp.xyz
-docomo.ne.hfjp.xyz
 docomo.ne.hgjp.xyz
 docomo.ne.hhjp.xyz
 docomo.ne.hnjp.xyz
@@ -1434,6 +1448,7 @@ dspofipsdoifopsdifposidopfi.blogspot.com
 dth.com.np
 dtiblog.com
 dtrexx.com.ng
+dublinersalicante.com
 duffelbagadventures.com
 dulichanpin.com
 duongngan.com
@@ -1600,6 +1615,7 @@ eusa-lombo.firebaseapp.com
 evangelicalfriendsmission-my.sharepoint.com
 eve292929.dothome.co.kr
 eventdetail113.nhely.hu
+eventgamesonline.duckdns.org
 evhagus.bennqi.pro
 evote.brittoprojukti.com
 evotechss.com
@@ -1623,6 +1639,7 @@ ey8jl.csb.app
 eye-lucir.com
 eyeshinevisioncare.com
 f-pembatalan.forumz.info
+f0547734.xsph.ru
 f6fr7.codesandbox.io
 f938b6643466464280a6220437dd0fc7.svc.dynamics.com
 f9w1lned0ruqblxi6jahwotak.filesusr.com
@@ -1935,6 +1952,7 @@ gxsb8.csb.app
 gz32tf89tx00xz.byethost11.com
 h5brzd.webwave.dev
 ha.micesrunescape.com-we.ru
+habitantoftheworld.com
 haerh.ofasldas.xyz
 haerhaer.raosdlgdaf.xyz
 hagit-simantov.co.il
@@ -2045,6 +2063,7 @@ href.li
 hrms.projects-codingbrains.com
 hrs-game.main.jp
 hs-giveaways.ca
+hsbc.co.uk.securealertsx.com
 hsbc.remove-payee-secure.com
 hsbcinfo.com
 hsdirectionimpdgfpfnancespublquesauthcong.justns.ru
@@ -2098,8 +2117,10 @@ idea390.com
 ideal.baynee.in
 ideeinventore.com
 identifiez-vous-avec-votre-compte.yolasite.com
+identifiez-vous-espace-menu-orange.moonfruit.com
 identifiez-vous-pour-continuer.yolasite.com
 identifiez-vous505.yolasite.com
+identifiez-vous83.wixsite.com
 ideonpackaging-my.sharepoint.com
 ifatechniques.com
 igricekonzole.com
@@ -2232,6 +2253,7 @@ jameshallybone.co.uk
 jamesng.name
 janijszentkiralyi.com
 jaybgroup.com
+jaypatel101.github.io
 jbkorea-school.com
 jccstl-my.sharepoint.com
 jcmitalia.it
@@ -2256,6 +2278,7 @@ joecamera.net
 joeypmemorialfoundation.com
 joeytorres.com
 johannessscinders.de
+join-groupbfcx.get-log51.ga
 join-grupwhatsapp18.forumz.info
 join-whatsappk8wh.xxuz.com
 joinchtt6.grupviralind2021.duckdns.org
@@ -2308,6 +2331,7 @@ kartlosfarmsltd.com
 karunruk.com
 kashmir-packages.com
 kassdrprhriaubkwkqjhpbdbsd-dot-poised-bot-306515.uk.r.appspot.com
+kbl-ltd.co.jp
 kblessedmom.com.np
 kdlscaffolding.co.uk
 kecmanijada.com
@@ -2494,7 +2518,6 @@ loftygemsschools.com.ng
 login-authentication.com
 login-live.com-s02.net
 login-made-in-china-com-virtual-office.pantheonsite.io
-login-onedrive-office365.web.app
 login-onlinebanking-suntrust-olb.net
 login-webregistrobr.com
 login.microsoftonline.us
@@ -2619,6 +2642,7 @@ mail2.mclink.it
 mailboite02.wixsite.com
 maillog.azurewebsites.net
 mailmanager.engineread.gq
+mailorange03.wixsite.com
 mailserver7656566.blob.core.windows.net
 mailupgrade2info.site44.com
 main.d1i1a5k3y7apj6.amplifyapp.com
@@ -2628,6 +2652,7 @@ main.d1yp4e5uy8b7hr.amplifyapp.com
 main.d2a83muimmulfq.amplifyapp.com
 main.d3m1onvz6klva1.amplifyapp.com
 main.d3nxoqyvkrnko9.amplifyapp.com
+main.d3utswtfznfw6l.amplifyapp.com
 main.dgaajyopddhcg.amplifyapp.com
 main.turbomotors.lv
 majestyhelmet.top
@@ -2650,6 +2675,7 @@ marckloper.vzpla.net
 margarita.md
 margin.today
 mariaeugeniafm.vzpla.net
+mariomassagetherapy.ca
 marjaharmon.com
 marjonhomes.com
 marketcgocom.info
@@ -2715,6 +2741,7 @@ messagerie-orange231.yolasite.com
 messagerie-vocal-orange-202113.yolasite.com
 messagerie-vocale262.yolasite.com
 messagerievocaleor24.wixsite.com
+messagerievocaleor8.wixsite.com
 mester.info.hu
 metaltubos.com.br
 metamack.io
@@ -2738,6 +2765,7 @@ microsoft-excel.kr.jaleco.com
 microsoftonedlrlve.typeform.com
 microsoftonline-jkfhfkfighrnrkfkgjgkfk.mybluemix.net
 microsoftupgrade.odoo.com
+microsoftvoicemessage-office365voicemessage-releaseandlistentov.s3.eu-de.cloud-object-storage.appdomain.cloud
 microsoftwebserver.mfs.gg
 microsofy.creatorlink.net
 midasbuyeventsnow.com
@@ -2823,6 +2851,7 @@ mosvisa24.ru
 mounmae.github.io
 mrketsc-csgo.com
 ms-365.net
+msg.ec
 mskkfffff.weebly.com
 msn-365.com
 msnserviceverifivation.wordpress.com
@@ -2897,6 +2926,7 @@ nabagejec1893.blogspot.com
 nabagejec1893.blogspot.sg
 nabtolonu1913.blogspot.com
 nabtolonu1913.blogspot.kr
+nacionwebseguridad.ddns.net
 nameiswayhouse.000webhostapp.com
 nancy69.icu
 naranja-users.auth0.com
@@ -3122,6 +3152,8 @@ ooxvocalor.yolasite.com
 op-prison.fr
 op-xi-nine.web.app
 openoffice.com.pl
+openoffice360docs.ddns.net
+openoutlookdocs.hopto.org
 openworldoutcomes.com
 operacionmultired1bn-web.com
 opfgmdm.creatorlink.net
@@ -3169,6 +3201,7 @@ orange782.yolasite.com
 orangeetmoi.fr-lndex.cf
 orangemessagerie.icon.io
 orangevalechamber.com
+orangeweb0.weebly.com
 orcapm.com
 ordenamientoecologico.oaxaca.gob.mx
 ordenesticccc.com
@@ -3421,6 +3454,7 @@ promehedinti.ro
 promo-vk.ffalok.site
 proprofs.com
 propspark.com
+proquafile.com
 prosecmalta.com
 prosto-i-vkusno.com
 protect.prositedemos.com
@@ -3470,9 +3504,11 @@ quicklook.cyou
 quinaroja.com
 quintanaevents.co
 quip.com
+quizzical-payne.23-95-9-12.plesk.page
 quota.creatorlink.net
 qw4g5w3sl31.typeform.com
 qwikkar.com
+qwikl.co
 qxqysgrmhwlpeuhvfxmcdhmjtb-dot-poised-bot-306515.uk.r.appspot.com
 r-web-2a3a9.web.app
 r.mail.flowii.com
@@ -3530,7 +3566,6 @@ rakuten.visa-japan4.club
 rakuten.visa-japan5.shop
 rakutennu.xyz
 rakutoon-dxr5n.cc
-rakutoon-up8kp.cc
 rakutoon-zwryn.cc
 ralogic547.temp.swtest.ru
 ramgarhiamatrimonial.ca
@@ -3688,6 +3723,7 @@ s.alchemer.com
 s.free.fr
 s.id
 s.kekk.is
+s.next-amz.eu
 s.yam.com
 saagksa.com
 saar05-leichtathletik.de
@@ -3745,8 +3781,8 @@ sdvsdv.ad-hebenstreit.de
 se-connecter-au-webmail-la-poste--lapostenet0.yolasite.com
 seahoss.com
 seamcommunty.com
-search.rakuten.co.jp.gnyhrj.shop
 sebat-dhl.blogspot.com
+secuirtyglobal.info
 secur-recovery-standardcommunity-identity.my.id
 secure-halifax-device.com
 secure-halifaxaccount.com
@@ -3783,8 +3819,10 @@ securepdffile.zba11.com
 secureredirect-citizensbank.com
 securesiteapp.com
 securesquared.co.uk
+security-olinepasse.hopto.org
 securityupdatereview-365online.com
 seductionlearning.com
+seeoutlookdocs.myvnc.com
 seg.megatendencias.com.br
 segtrackba.com.br
 seguranc68.dominiotemporario.com
@@ -3823,6 +3861,7 @@ service-client00-my-cheetah-website.free.builderall.com
 service-lkdn2020.gacconstrutora.com.br
 serviceclient.site44.com
 servicefacture.blogspot.com
+serviceorange12.wixsite.com
 services-online2998.000webhostapp.com
 services-vodafone.com
 services.runescape.com-m.cc
@@ -3930,6 +3969,7 @@ situs-pemulihan-resmi0.webnode.com
 sixpointpartners-my.sharepoint.com
 siyknlplbiwvuxvckflpgiedol-dot-poised-bot-306515.uk.r.appspot.com
 sizumoney.duckdns.org
+sk83635ag9ss.wixsite.com
 skinbaronmpj.tk
 skinbarontow.ml
 sklad-hub.ru
@@ -4009,6 +4049,7 @@ somandopontoita2021.myddns.me
 soneyamks.com
 sonne-medoon.firebaseapp.com
 sonofabridge.com.net2care.com
+sophistiqueparfum.com.br
 soporte-tecnico354654.000webhostapp.com
 sopportesigthlm.mipropia.com
 soshastudio.ir
@@ -4672,6 +4713,7 @@ webuyitback.co.za
 webuyworkshopequipment.com
 wecluihfrf-76tygh.web.app
 weddingstaffcompanies.com
+wehixeg673.temp.swtest.ru
 weissins365-my.sharepoint.com
 wellingtoncloud-my.sharepoint.com
 wellsfargos.aicsolutions.co.za
@@ -4942,6 +4984,7 @@ www.ezapostille.com
 www.ezblox.site
 www.facebook.com-marketplace-93839.mediaryte.co
 www.fastel.ph
+www.favouritelevel.com
 www.faxitalia.com
 www.fb.probox.lk
 www.featuresfusionnsw.net
@@ -4964,6 +5007,7 @@ www.formtools.com
 www.fortrader.com
 www.fotocopiasburjassot.es
 www.framesming.cyou
+www.freecaseprep.com
 www.freedomtonight.com
 www.freegsm.co
 www.froid-guyader.fr
@@ -4988,9 +5032,11 @@ www.golfballsonline.com
 www.goumbalos.thats.im
 www.gps.org.br
 www.grocery-store.4pillarglobal.com
+www.grup-mabar-yotuber.zzux.com
 www.grup-whatsappsexy.xxuz.com
 www.grupbkp.r80.se.ke
 www.grupwhatsappviral.zzux.com
+www.grupwhatsappviralterbaru.zzux.com
 www.ha.micesrunescape.com-we.ru
 www.habbocreditosparati.blogspot.com
 www.hali-securesuite.com
@@ -5191,6 +5237,7 @@ www.myeeyouree.com
 www.myethekwallet.org
 www.myetherswallet.org
 www.myetheruwallet.org
+www.mygroupwhtsappjoin.xxuz.com
 www.myhealthcareshop.ru
 www.mymentalhealthday.org
 www.myo2-billing-error28.com
@@ -5436,12 +5483,14 @@ www.wellsfargos.aicsolutions.co.za
 www.whatsapp-18.ikwb.com
 www.whatsapp-grubsx1.zzux.com
 www.wonderful.gr
+www.worktopia.app
 www.www-bancoestado.cl.traintalk.com.au
 www.www.m.blog.secure.runescape.com-wsvs.top
 www.www.m.pservices.runescape.com-nu.ru
 www.xianzns.com
 www.xjgyedu.cn
 www.xn--gmal-sya.com
+www.xn--polkasarter-eb9e.com
 www.yalena.me
 www.yaqoobi.org
 www.yournetworkingiq.com
@@ -5558,7 +5607,6 @@ yoqueknk.tk
 youngil.co.kr
 yourbtlogin.weebly.com
 youthful-aryabhata-5cb53d.netlify.app
-youwhatereadyforyou.000webhostapp.com
 youwingirisimiz.blogspot.com
 yshau.com
 yszdd9w8tm3nwcg1k5pq5w-on.drv.tw
