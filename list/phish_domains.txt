@@ -337,7 +337,6 @@ amazon-co-jp.youtian8356.vip
 amazon-jp.amazonnes.xyz
 amazon.2dsm3.cc
 amazon.account-update.info.sio2.xyz
-amazon.account-update.jp.info.yio2.xyz
 amazon.anbanh.cn
 amazon.aqbyl.cn
 amazon.bbaajv.cn
@@ -1321,7 +1320,6 @@ docomo.ne.qnjp.xyz
 docomo.ne.qojp.xyz
 docomo.ne.qsjp.xyz
 docomo.ne.qujp.xyz
-docomo.ne.qvjp.xyz
 docomo.ne.qwjp.xyz
 docomo.ne.qyjp.xyz
 docomo.ne.rbjp.xyz
@@ -1341,6 +1339,8 @@ docomo.ne.rzjp.xyz
 docomo.ne.tijp.xyz
 docomo.ne.tpjp.xyz
 docomo.ne.trjp.xyz
+docomo.ne.twjp.xyz
+docomo.ne.txjp.xyz
 docomo.ne.vnjp.xyz
 docomo.ne.zejp.xyz
 docomo.ne.zljp.xyz
@@ -1441,7 +1441,6 @@ ecusltd-my.sharepoint.com
 edaacil.com
 edhf0c.webwave.dev
 edje.com
-educadoracanina.com.br
 edufago.com
 edulindberghschools-my.sharepoint.com
 ee-servicehub.com
@@ -2512,7 +2511,6 @@ loto041219.blogspot.com
 lotomania.org
 loudweb.czweb.org
 loverlampos.vzpla.net
-loving-faraday.23-95-9-12.plesk.page
 lp2m.umsu.ac.id
 lqg8u8.webwave.dev
 lrs-gov.org
@@ -2725,7 +2723,6 @@ michelmonci.wixsite.com
 micr0s0ftverify.nicepage.io
 microcav.square.site
 micronad.com
-microsfttogindropboxupdatetboxpdflojqkinboxupdate.weebly.com
 microsoft-excel.kr.jaleco.com
 microsoftoffice365voice-messagelistenvoicemessage-officelistenv.s3.eu-de.cloud-object-storage.appdomain.cloud
 microsoftoicemessage-office365voicemessage-comcumcu89cm.s3.eu-de.cloud-object-storage.appdomain.cloud
@@ -2853,7 +2850,6 @@ myhealthcareshop.ru
 myhealthinsquotes.com
 myhermes-redeliveryhelp.com
 myhermes.online
-myherms-rearrange.com
 mykonos.cl
 mylovejar.com
 mymentalhealthday.org
@@ -3069,7 +3065,6 @@ olx.pl-kurier.website
 olx.pl-pay.reg-payment.pw
 olx.pl-ready.work
 olx.pl-safedostawa.shop
-olx.pl-srodki.info
 olx.pl.reg-byitre.pw
 olx.rwpay.ru
 olx.sendpay.info
@@ -3499,7 +3494,6 @@ rakuten.jcb-cecile3.club
 rakuten.jcb-cecile3.com
 rakuten.jcb-cecile4.net
 rakuten.jcb-japan1.bar
-rakuten.jcb-japan1.tokyo
 rakuten.jcb-japan3.club
 rakuten.jcb-japan3.shop
 rakuten.jcb-japan4.bar
@@ -4058,7 +4052,6 @@ srnbc-card.com.m3lsch.cn
 srnbc-card.com.n7j38s.cn
 srnbc-card.com.opj59mols.cn
 srnbc-card.com.pwme0m.cn
-srnbc-card.com.ud4sbyq.cn
 srnbc-card.com.v7u43g.cn
 srnbc-card.com.x6t0ho.cn
 srtlswbto.000webhostapp.com
