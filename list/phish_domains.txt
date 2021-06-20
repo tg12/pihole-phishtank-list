@@ -14,7 +14,6 @@
 0xpnkh.raphitari.com
 102admin1.creatorlink.net
 102update1.creatorlink.net
-1031541289.000webhostapp.com
 10923528.com
 10s4j.trk.elasticemail.com
 2
@@ -244,6 +243,7 @@ agendatebancofalabella.com
 agent.homelisting-realestate.slickmartng.com
 agent.joinf.cn
 agghl4et5to7ab180rmxg.forum-vokasi.id
+aggiorna.n26.com.verificatodati.com
 agri72.fr
 agrimetiersmartinique.fr
 agroengworks.com
@@ -761,7 +761,6 @@ bitstarzcasinoaccess.com
 bk.fkip.ulm.ac.id
 bklpbgbbwhpvlfsxztmkajbepppyhbxs-dot-onk89909.wn.r.appspot.com
 bkpgrupjoindewasa.duckdns.org
-bks.tv
 bliiss.shop
 blinusa.com
 blissfulhomeng.com
@@ -1020,7 +1019,6 @@ client-webhook-dot-qp-keybank-rrva-2020-04.uc.r.appspot.com
 clientesyscaixa4.10001mb.com
 clients.devtux.com
 clone-7473c.web.app
-cloud-object-storage-tr-cos-standard-7v2.s3.us-east.cloud-object-storage.appdomain.cloud
 cloud-space-auth-service.web.app
 cloud1.directnutrisciences.com
 clouddoc-authorize.firebaseapp.com
@@ -1297,7 +1295,6 @@ docomo.ne.brjp.xyz
 docomo.ne.bwjp.xyz
 docomo.ne.ebjp.xyz
 docomo.ne.efjp.xyz
-docomo.ne.hdjp.xyz
 docomo.ne.hhjp.xyz
 docomo.ne.ibjp.xyz
 docomo.ne.iejp.xyz
@@ -1537,7 +1534,6 @@ ertu.streamlink.to
 ervices.runescape.com-cn.ru
 ervlces.runescape.com-no.ru
 esgcommercialbrokers.com
-eshopoffers.xyz
 eslickcreative.com
 espace-client-red-sfr-fr.ibancosantander.net
 espace-client.fr
@@ -1610,7 +1606,6 @@ faturahiper.net
 fax.gruppobiesse.it
 fb-communityrule.ml
 fb-pageevent-1000002359705486654220.tk
-fb-pageevent-1000002359705486654221.tk
 fb-pageevent-1000002359705486654222.tk
 fb-pageevent-1000002359705486654223.tk
 fb-pageevent-1000002359705486654224.tk
@@ -1620,6 +1615,13 @@ fb-pageevent-1000002359705486654229.tk
 fb-pageinfo-10000012635487269514685756203.tk
 fb-pageinfo-100000168877451232651958952608.tk
 fb-pageinfo-100000168877451232651958952609.tk
+fb-pageinfo-10003178702386458751710.tk
+fb-pageinfo-10003178702386458751711.tk
+fb-pageinfo-10003178702386458751712.tk
+fb-pageinfo-10003178702386458751714.tk
+fb-pageinfo-10003178702386458751715.tk
+fb-pageinfo-10003178702386458751716.tk
+fb-pageinfo-10003178702386458751717.tk
 fb-pageinfo-200000890073234255651.tk
 fb-pageinfo-200000890073234255652.tk
 fb-pageinfo-200000890073234255656.tk
@@ -1985,7 +1987,6 @@ holdmembershipntfx.aulaseidec.com
 holiganguncelgir.blogspot.com
 home.ei1ns.de
 home.myfairpoint.net
-homebannaci0nweb.hopto.org
 homesinlogin.com
 homologacao.madrugadaolanches.com.br
 homs.com.br
@@ -2578,7 +2579,6 @@ mail.ims-fe.com
 mail.ing-direct-verifica.info
 mail.instagramcopyrightdepartmenttt.ml
 mail.jedkjljy.nethost-4211.000nethost.com
-mail.klikbsi.id
 mail.laurabrooksdesign.com
 mail.lemonyellowsun.com
 mail.lloydsbank-addedpayee.com
@@ -2811,7 +2811,6 @@ msnserviceverifivation.wordpress.com
 msofficemessagescenter-1.mfs.gg
 msofficesystems.mfs.gg
 mta-round-cube.web.app
-mtb-profileaccess.duckdns.org
 mugammaconsultants.com
 multirbnacion.com
 mundovirtualhabbo.blogspot.com
@@ -3024,7 +3023,6 @@ office365.eu.vadesecure.com
 office365.ulsango56odnew.ru
 office365outlook075.blob.core.windows.net
 office365ttjso-vnboxi0lnbw7km6b-crfl4tmkk9vvglcommonid.s3.eu-de.cloud-object-storage.appdomain.cloud
-office365voice-messagelisten-voicemessagecenter.s3.eu-de.cloud-object-storage.appdomain.cloud
 officedal.ey.r.appspot.com
 officeee.bubbleapps.io
 officemessagellsten-office365voicemessage-lisomessahe099ddmvocl.s3.eu-de.cloud-object-storage.appdomain.cloud
@@ -3133,7 +3131,6 @@ orange.fr-espaceloginv3.gq
 orange.fr-lmportant.ml
 orange.fr-vosidentifier.ml
 orange.iobeya.com
-orange.service.client.forfait.mobile.iqrais.com
 orange.simoptions.com
 orange624.yolasite.com
 orange782.yolasite.com
@@ -3819,6 +3816,7 @@ serviciosbndigitales.com
 serviciosenlineasbn.com
 servindustriadelsur.com
 serviziapponline.com
+servizio.n26.com.verificatodati.com
 servmessagerieinternetclient.yahoosites.com
 servpichi.mipropia.com
 servship.com
@@ -3947,7 +3945,6 @@ smbc-card.com.lkqtg.shop
 smbc-card.com.mz59sbbpe.cn
 smbc-card.com.nk32vqjmd.cn
 smbc-card.com.q1820qo.cn
-smbc-card.com.q5txot.cn
 smbc-card.com.smcb.club
 smbc.account-update.jp.info.ads2.xyz
 smbc1.popy358.vip
@@ -4699,7 +4696,6 @@ www-europessign-com.filesusr.com
 www-grupbokep21.duckdns.org
 www-office-com.office365.auto1.casb.beta.forcepointgov.com
 www-office-com.office365.qacust1.fpcasbdev.com
-www-rakuton.accunt-update.shop
 www.123formbuilder.com
 www.1ka.si
 www.2dsm3.cc
@@ -5195,7 +5191,6 @@ www.originalcomics.fr
 www.orlenoil-la.com
 www.orlentrade.online
 www.outlook-mailer.com
-www.page-protection-standards-service.me
 www.panamajackschweiz.com
 www.pancakeswap.lhost.bg
 www.paypal-me-alessandra-martini.com
@@ -5233,7 +5228,6 @@ www.rackenfordlabs.com
 www.radioilhadamagia.com
 www.rahapelaaminennetissa.com
 www.rajwebtechnology.com
-www.rakuten.jp.cdjbt.cn
 www.ramgarhiamatrimonial.ca
 www.realcodashopfreediamonds.freeddns.com
 www.realfoodindia.com
@@ -5342,7 +5336,6 @@ www.top20bonus.com
 www.torrinwine.com
 www.tpervlces.runescape.com-gf.ru
 www.tpservllces.runescape.com-nu.ru
-www.tpsservices.runescape.com-n.ru
 www.tpttsservices.runescape.com-gf.ru
 www.traildino.de
 www.transformadoresyceldas.com
@@ -5411,7 +5404,6 @@ www.yournetworkingiq.com
 www.
 www.zimbabwe.net.za
 www.zjgsyds.cn
-www.zononm.co.fr-yui.com
 www1.mi-ccad.club
 www3.vpass-ne.cc
 www3.vpass-ne.vip
