@@ -1,6 +1,5 @@
 000098.ihostfull.com
 000p6vl.wcomhost.com
-00714527960782576425542196439084889900.eu-gb.cf.appdomain.cloud
 02-billing-support.org
 036.trendsbygwen.com
 045a3c0.wcomhost.com
@@ -336,6 +335,7 @@ amazon.bbaajv.cn
 .preferredpaymentmethod.prosaml2.ml
 .vpncn2.com
 amazon.jp-co.casa
+amazon.jp-cono.casa
 amazon.jp.aqwbq.cn
 amazon.jp.bpxjs.com
 amazon.jp.new360.top
@@ -363,6 +363,7 @@ amazonvip.aijourney.cn
 ambientaris.com
 ambienteprotegido.foregon.com
 ambrosecourt.com
+amd-sa.com
 amenainvest-my.sharepoint.com
 ameport.org
 americanhomes.ge
@@ -1163,6 +1164,7 @@ cx.avisoparavc.com
 cxmx2020atualizacao.com
 cy.tc
 cy72048.tmweb.ru
+cybercup.ru.com
 cyberhome.co.in
 cybersecurityorbit.com
 cybrplussecurbred.com
@@ -1251,7 +1253,6 @@ dichvuvinaphone.vn
 dichvuvnpt.com
 die-post-swiss-id-19782635812.psd2any.com
 digisails.org
-digital.mps.it.pri.login.home.mobile.newconcept-furnire.com
 digitaldhir.in
 digitalforensiccommunity.com
 digitaltrafficexperts.com
@@ -1428,6 +1429,7 @@ edhf0c.webwave.dev
 edje.com
 edufago.com
 edulindberghschools-my.sharepoint.com
+ee-request-cancelation.com
 ee-servicehub.com
 ee-verify-billing-secure.com
 eecdatr.tk
@@ -1705,7 +1707,6 @@ flowtork.com
 flywed.turbo.site
 fm.registrobarretos.com.br
 fmpos.ucad.sn
-fnatickey.com
 foamnflow.com
 focar.vn
 focushrd3.com
@@ -2286,7 +2287,6 @@ k8923.csb.app
 kalamazoogop.org
 kalea-poke.de
 kalkalgroup.com
-kamyki.icu
 kansasfootcenter-my.sharepoint.com
 karavella12.hop.ru
 kartaltepespor.com
@@ -3051,7 +3051,6 @@ officemessagellsten-office365voicemessage-lisiemessahe049ddmc.s3.eu-de.cloud-obj
 officemessagellsten-officeboxvnmessage-lisomessa0093he.s3.eu-de.cloud-object-storage.appdomain.cloud
 officemessagellsten002-office365voicemessage-lithewq092.s3.eu-de.cloud-object-storage.appdomain.cloud
 officevoicemessage-listenvioicemessage-office365voicemailvoicme.s3.eu-de.cloud-object-storage.appdomain.cloud
-officevoicen.web.app
 official-casino34.ru
 officialevent.way.live
 officialismsschwartze.net
@@ -3088,6 +3087,7 @@ olx.pl-safedostawa.shop
 olx.pl-wellpaid.shop
 olx.pl-wellpaid.work
 olx.pl-wellpayment.xyz
+olx.pl-wellpays.shop
 olx.pl-wellpays.work
 olx.pl-weryfkacija.online
 olx.rwpay.ru
@@ -3272,7 +3272,6 @@ paypal-merchantloyalty.com
 paypal-my.sharepoint.com
 paypal-test.projektumfeld.de
 paypal-ticketid915.com
-paypal-ticketid954.com
 paypal.ca.purchasekindle.com
 paypal.co.uk.useriazi6bqgssb.settingsppup.com
 paypal.com.0.security-confirmation.d72b69c8e37aec662e13e39d929d6e3d.as2.2u.se
@@ -3282,6 +3281,7 @@ paypal.verylegit.link
 paypalverification.allgamescheaper.com
 paypalvsgooglecheckout.com
 paypelbonk.com
+paysaas.wingscode.com
 payu.okta-emea.com
 pbi.unsam.ac.id
 pbox.photobox.co.uk
@@ -3509,12 +3509,12 @@ raktraphyp.byethost7.com
 rakuten.co.jp.loeni.shop
 rakuten.co.jp.raakkutenvip.xyz
 rakuten.co.jp.raakutennvip.xyz
+rakuten.co.jp.rakuyee.xyz
 rakuten.co.jp.rakuyjs.xyz
 rakuten.email-cecile5.jp
 rakuten.email-cecile5.net
 rakuten.jcb-beansshop1.club
 rakuten.jcb-beansshop1.shop
-rakuten.jcb-cecile.net
 rakuten.jcb-cecile2.com
 rakuten.jcb-cecile2.net
 rakuten.jcb-cecile4.net
@@ -3927,7 +3927,6 @@ siporados15585.blogspot.com
 sirak.se
 sirdarnell.org
 site-4403463-3995-6112.mystrikingly.com
-site-4882946-3556-1078.mystrikingly.com
 site191b.blogspot.com
 site200b.blogspot.com
 site9423623.92.webydo.com
@@ -4112,6 +4111,7 @@ static-ak-fbcdn.atspace.com
 stcmo.net
 steamcommunitiy.ru
 steamcomunnitly.ru.com
+steamcornmuniuty.com
 steamdesktop.info
 steamproxy.net
 steamroll.org.ru
@@ -4396,6 +4396,7 @@ u1146016e85.ha004.t.justns.ru
 u1146676ebs.ha004.t.justns.ru
 u1146866ecf.ha004.t.justns.ru
 u1385767.cp.regruhosting.ru
+u1409685.cp.regruhosting.ru
 u1410414.cp.regruhosting.ru
 u15838okb.ha002.t.justns.ru
 u28ww4gcquzfkzfok1gp9a-on.drv.tw
@@ -4449,6 +4450,7 @@ unregpayee-lb.com
 uofc-my.sharepoint.com
 up.rev.ref.rbzqvn.ahis.com.bd
 update-cyxhjas23qjhk.de
+update-info-vodafone-uk-england-cloud-domain.com
 update365online-secure.com
 updateiediately.thepdateamazoncardservice.buzz
 updatemysantan.com
@@ -4702,7 +4704,6 @@ wikiarch.cz
 wildcard.carolynsteele.ca
 wildcard.homebet88.me
 wildcard.streamsteam.ca
-wildcardkslsbissim.sytes.net
 willmartowing.com
 willtoaccssnowand.cf
 wilsonvaluation602-my.sharepoint.com
@@ -4718,7 +4719,6 @@ wokeh19090.temp.swtest.ru
 woodworkpalace.com
 workpichiuwebho.000webhostapp.com
 workprotocoles-com.webs.com
-worksiteplayer.jhb.mamazala.com
 worldwidepbx.com
 worthlessfrigidsale.zohoferdz.repl.co
 wowgollds.ga
