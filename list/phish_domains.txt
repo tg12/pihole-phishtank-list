@@ -215,7 +215,6 @@ adobe-file.azurewebsites.net
 adobe-files-support.azurewebsites.net
 adobe-login-token.azurewebsites.net
 adobe-manage-account.azurewebsites.net
-adobe-new-docs.azurewebsites.net
 adobe-new-files.azurewebsites.net
 adobe-online-asset.azurewebsites.net
 adpunemploymentclaims.sharefile.com
@@ -369,7 +368,6 @@ amazoncz.jp.lpoer.tokyo
 amazoniaaovivo.com
 amazonjp.kibetro.com
 amazonjp.snkbrm.shop
-amazonus.space
 amazonvip.aijourney.cn
 ambientaris.com
 ambienteprotegido.foregon.com
@@ -395,7 +393,6 @@ amsettle.com
 amzonee.com
 anamoreno27041.vzpla.net
 anaozn.lnwhsw.com
-anaozom.ht-lxj.com
 anarchitecturestudio.com
 andersonstrategic.com.au
 andiamo-ent.com
@@ -469,6 +466,7 @@ arisebuildscom-my.sharepoint.com
 arislm.com
 armata-neagra.ro
 armatheatre.org
+armnaz.000webhostapp.com
 arnazon-co-jp.7lxzqu.shop
 arnazon-co-jp.tgndlh.bar
 arnazzqn-co-jp.ztfik0s.cn
@@ -571,6 +569,7 @@ autosrobadoschile.com
 avadvertising.in
 available-youthful-saga.glitch.me
 avanttaxconsultancy.com
+avisobnar.repl.co
 avispichinchwe.byethost18.com
 awdescargas.com
 awesomeoutdoors.pk
@@ -796,7 +795,6 @@ bogdonovlerer.com
 boiclub.com
 bokepgrubpemersatubangsa75.duckdns.org
 bokepjoingrupchatsc.duckdns.org
-bokepvh.joinviralchatwhatap.duckdns.org
 boletimdo2.sslblindado.com
 bom.to
 boma-ren.firebaseapp.com
@@ -993,7 +991,6 @@ cimeriletisimmerkez.web.app
 cimslp-my.sharepoint.com
 cincinnatl-test.ebpages.com
 cingular-oac.qpass.com
-cinimoyna.org
 ciptaalamprima.com
 citaenlineacr.co
 citipole.com
@@ -1993,7 +1990,6 @@ hermes.parcels-status.com
 hetershaven.net
 hetrios.com.br
 heylink.me
-hgdggdgfghygsugfytsfgssytstys.gq
 hgn2t.app.link
 hhf7i86.cn
 hikkingkings.cu.ma
@@ -2395,7 +2391,6 @@ larindbr.creatorlink.net
 lasersnab.ru
 latinotravel.cz
 latmasoud.persiangig.com
-laurenwbrady-russell.com
 laurenwillearzabe.com
 lboindustrial.com.mx
 lcdjh.codesandbox.io
@@ -3130,7 +3125,6 @@ online.natwest-welfare.com
 online.visual-paradigm.com
 onlinebancogalicia.mipropia.com
 onlinebankingss.ihostfull.com
-onlineciudad0131.000webhostapp.com
 onlinehalifax-account.com
 onlinepayee-restricted-service.com
 onlineprint.cufapparel.cf
@@ -3156,7 +3150,6 @@ optusnet-com.blogspot.com
 or-ca.love
 ora-n.yolasite.com
 oraclemart.com
-orange-abonnement.com
 orange-bvd.cosavostra.com
 orange-dcr.fr
 orange-fixe23.yolasite.com
@@ -3222,7 +3215,6 @@ ozxl0q.webwave.dev
 p.wpage.cc
 p1.pagewiz.net
 p1c.servleboncoinser.com
-p7ytatuahjnq.000webhostapp.com
 p84ig.csb.app
 paavos.in
 pacanchi-reanudaci.mipropia.com
@@ -3570,7 +3562,6 @@ recoveryacc.blogspot.com
 redbysfrgroupebox.myfreesites.net
 redeliver-missedparcel-fee.co.uk
 redeliver-postage.co.uk
-redeliver-postal.com
 rediractionid547012016089540218057.blogspot.com
 redirect.viglink.com
 redirect.voici-news.fr
@@ -3786,6 +3777,7 @@ secure.bankofamerica.com-login-sign-in-signonv2screen.go.suzukihaiphong.com.vn
 secure.facebook.com.de.a2ip.ru
 secure.legalmetric.com
 secure.paiement-paypal.fr.bpmmagazine.com
+secure.runescape.cityloots.top
 secure.runescape.com-cn.ru
 secure.runescape.com-gb.ru
 secure.runescape.com-oa.ru
@@ -3873,6 +3865,7 @@ serviciodigitacr.online
 serviciosbndigitales.com
 serviciosenlineasbn.com
 servicspichincha.000webhostapp.com
+servicsspichincha.000webhostapp.com
 servindustriadelsur.com
 serviziapponline.com
 servlces.runescape.com-ov.ru
@@ -3987,7 +3980,6 @@ smbc-card-com.dzdyh.cn
 smbc-card-com.njhjcj.cn
 smbc-card-com.qsltqz.cn
 smbc-card.c0m.vvcoeza.asia
-smbc-card.co.jsp.monster
 smbc-card.co.mbs.monster
 smbc-card.co.sbm.monster
 smbc-card.com.00d787.cn
@@ -5352,6 +5344,7 @@ www.seacoastsurgery.com
 www.secure-myaccountdetails.com
 www.secure-mynew-devices.com
 www.secure-mytransfer.com
+www.secure.runescape.cityloots.top
 www.secure.runescape.com-gb.ru
 www.secure.runescape.com-oa.ru
 www.securelloyd-help-app.com
@@ -5615,7 +5608,6 @@ ytthn.com
 yufeng.shop
 yun.ir
 yuuu6.codesandbox.io
-yvcmkltck.asia
 yvesauzon0-mon-site-web-cheetah.cheetah.builderall.com
 yvessgaspard-mon-site-web-cheetah.free.builderall.com
 yzczvwjwyebrmrlgopbibszdzx-dot-poised-bot-306515.uk.r.appspot.com
