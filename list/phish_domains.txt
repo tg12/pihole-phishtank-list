@@ -220,7 +220,6 @@ adobe-files-support.azurewebsites.net
 adobe-login-token.azurewebsites.net
 adobe-manage-account.azurewebsites.net
 adobe-new-files.azurewebsites.net
-adobe-online-access.azurewebsites.net
 adobe-online-asset.azurewebsites.net
 adobe-online-storage.azurewebsites.net
 adpunemploymentclaims.sharefile.com
@@ -290,7 +289,6 @@ alkawaterdiy.com
 alkren.pinkmoonltd.com
 allegro-logowanie-8a27af.ingress-earth.easywp.com
 allegrolokalnie.pl-paupacs.pw
-allegrolokalnie.pl.iteamabupo.pw
 allegrolokalnie.pl.itemebyew-po.pw
 allegrp.pl
 allergotek.sa
@@ -319,6 +317,7 @@ amanzon.msspw.com
 amaozn.caiub.com
 amaozn.co.jp.bfleo.cn
 amaozn.co.jp.kakcqv.shop
+amaozn.co.jp.kvqhi.cn
 amaozn.dsygk.com
 amaozn.pztqg.com
 amaozn.qgosc.com
@@ -477,6 +476,7 @@ arnazon-co-jp.tgndlh.bar
 arnazon-info.iamsndlapd.shop
 arnazon-link.ixzpounmx.shop
 arnazon-live.eaglksdf.shop
+arnazzon-co-jp.bejtc.cn
 arne2on-co-jp.prncnx.bar
 arnozom.co.ip.1r9do9.cn
 arnozom.co.ip.tamq00.cn
@@ -626,6 +626,7 @@ bao-tic.com
 baobimocan.vn
 baovesusonglcxt.com
 baradua.it
+barbershop-chairs.ru
 barcodethedeveloper.000webhostapp.com
 bardaiconnect.com
 bardspress.com
@@ -790,7 +791,6 @@ bluewin2514serveurmail.weebly.com
 bmsro.eu
 bnacion.byethost7.com
 bncopichinchasegurity00.000webhostapp.com
-bnklogin.serveirc.com
 bodegalatinacorp-my.sharepoint.com
 boerekulture.co.za
 bogdonovlerer.com
@@ -891,7 +891,6 @@ cardamomprice.com
 cardano-wallet.web.app
 careycapital.net
 carnegieproperty-my.sharepoint.com
-carrosimportes.cf
 carverdarden-org.gq
 carwash.tv
 casadasreceitas.com
@@ -916,12 +915,12 @@ cefwebchat.chatbsservices.com.br
 celebrations-cew.com
 celesteohrganica.com
 cellidplus.com
+cellular-doctors.com
 celtabet2.blogspot.com
 celtabet88.blogspot.com
 celtabets.blogspot.com
 celtabets2020.blogspot.com
 cema-fossano.it
-cembra-001-site1.htempurl.com
 centec-am.com.br
 centerai.vot.pl
 centericmailinwebs.wapka.website
@@ -1321,7 +1320,6 @@ docomo.jplv.xyz
 docomo.jplz.xyz
 docomo.jpma.xyz
 docomo.jpmh.xyz
-docomo.jpmj.xyz
 docomo.jpmv.xyz
 docomo.jpnp.xyz
 docomo.jpoe.xyz
@@ -1364,7 +1362,6 @@ domy-serramenti.it
 donedealprojects.com
 dongsuh.net
 donieyuhuu05.getenjoyment.net
-doortodoorghana.com
 dopeydog.co.nz
 dortchandassociates.com
 dostawaolx.pl
@@ -2216,6 +2213,7 @@ irequest-beneficiary-removal.com
 iriekidzlearningacademy.com
 irisdigi-labs.com
 irs-gov.davisdh.com
+irs-gov.kmcy98.com
 irs-gov.no-010.com
 irs-gov.rddmk.com
 irs-payment.kxtd500.com
@@ -2700,7 +2698,6 @@ matbetgirisimizgir.blogspot.com
 match.lookatmynewphotos.com
 matematika.fkip.untirta.ac.id
 materialfame.com
-mathacolleges.com
 matixlogin.eshost.com.ar
 mavibetgir5.blogspot.com
 mavibets.blogspot.com
@@ -3380,7 +3377,6 @@ pichincha-msj.byethost7.com
 pichinchabanpoc.000webhostapp.com
 pichinchabra.000webhostapp.com
 pichinchanotifeses.000webhostapp.com
-pichinchaonlinejj.000webhostapp.com
 pichinchasecu.mipropia.com
 pichinchasil.000webhostapp.com
 pichinchasss.freecluster.eu
@@ -3678,7 +3674,6 @@ resbet.blogspot.com
 resbetsgiris.blogspot.com
 reschedule-12sch.com
 reset-billing-address.com
-restassured.enteramazonup.top
 restaurantenaialanzarote.com
 restbetgir1.blogspot.com
 restbetgirisadresimiz.blogspot.com
@@ -3791,6 +3786,7 @@ sakhafze.com
 sakura-nagoya.serveirc.com
 saldospc.com
 salefull.com
+salonelee.com
 same-same.co.uk
 samircanel20.com
 sanasunty.site
@@ -3898,7 +3894,6 @@ sellrego.com
 semanadaautohipnose.com.br
 semimaratonulcraiovei.ro
 sen-manole.firebaseapp.com
-sen365.top
 sendo-meso.firebaseapp.com
 seo-one1.com
 seonewsservic.blogspot.com
@@ -4071,6 +4066,7 @@ smbc-card.com.scuplj.press
 smbc-card.com.tslucie.com
 smbc-card.com.wy4e1e.cn
 smbc-card.com.y804rt.cn
+smbc-card.hgjrtrv.xyz
 smbc.card-update.jsp.info.icc2.xyz
 smbc.dnhcnr.cn
 smbc.xhhbcz.shop
@@ -4687,7 +4683,6 @@ walletssync.live
 wallieget.com
 wan2.eu
 warninglinesupportingadmin.co
-warninglinesupportingadmin.com
 warninglinesupportingadmin.net
 warningshadows.org
 warriorplus.com
@@ -4826,6 +4821,7 @@ www.aimozon.co-jp.attr45rc.cc
 www.aimozon.co-jp.sxxyz1ob.cc
 www.aimozon.co-jp.uvqknrnz.cc
 www.aimozon.co-jp.zk3geukw.cc
+www.airbalancing.co
 www.alaskanmalamute.us
 www.alemanhaeamusica.com.br
 www.alfaauv.com
@@ -4992,6 +4988,7 @@ www.drivingschoolglasgow.co.uk
 www.druckhaus-kruse.de
 www.duioiuue.ga
 www.dukhovnist.in.ua
+www.e-paymenthold.com
 www.e-receipts.co
 www.e-service.org
 www.easternts.com
@@ -5144,6 +5141,7 @@ www.instagram.ettastore.com.ng
 www.instagram.o1u.de
 www.interestingfurniture.com
 www.internet-hsbc.com
+www.ip.amazon.informationliving.com
 www.irequest-beneficiary-removal.com
 www.isfirsatibul.com
 www.isqlglobal.com
@@ -5556,7 +5554,6 @@ www.yalena.me
 www.yaqoobi.org
 www.yournetworkingiq.com
 www.
-www.yumotospabangkok.com
 www.zimbabwe.net.za
 www.zjgsyds.cn
 www.zobuix.com
