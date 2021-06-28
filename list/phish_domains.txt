@@ -212,7 +212,6 @@ adnet8.com
 adobe-app-services.azurewebsites.net
 adobe-auth-app.azurewebsites.net
 adobe-cloud-acr0bat.azurewebsites.net
-adobe-cloud-app.us-south.cf.appdomain.cloud
 adobe-cloud-support.azurewebsites.net
 adobe-docs-asset.azurewebsites.net
 adobe-file.azurewebsites.net
@@ -316,6 +315,7 @@ amaamamond.com
 amakatiawaziwayo.com
 amanzon.msspw.com
 amaozn.caiub.com
+amaozn.co.jp.bfleo.cn
 amaozn.co.jp.kakcqv.shop
 amaozn.dsygk.com
 amaozn.pztqg.com
@@ -486,7 +486,6 @@ arnazon-link.ixzpounmx.shop
 arnazon-live.eaglksdf.shop
 arne2on-co-jp.prncnx.bar
 arnozom.co.ip.1r9do9.cn
-arnozom.co.ip.30p6w6g.cn
 arnozom.co.ip.tamq00.cn
 arnozom.co.ip.zspqpft.asia
 arnzorn.serveirc.com
@@ -770,11 +769,11 @@ bitpecta.com
 bk.fkip.ulm.ac.id
 bklpbgbbwhpvlfsxztmkajbepppyhbxs-dot-onk89909.wn.r.appspot.com
 bkpjoingrup.grupbokepchat.zzux.com
+bleakcomposedcommunication.cerebroofc.repl.co
 bliiss.shop
 blocks.rn86.ru
 blog.cotiabank.paypal-login.us
 blog.fatimaesportes.com.br
-blog.global.p9.pl
 blog.learneasy.org
 blog.m.blog.secure.runescape.com-wsvs.top
 blog.powerlexis.ru
@@ -845,6 +844,7 @@ bss.edu.ge
 bt-service.yolasite.com
 btadmiralservices1.weebly.com
 btconnectdacsdesrf.yolasite.com
+btinterservermailer.weebly.com
 btsermioshsegs.weebly.com
 btworldhome.weebly.com
 btzzz.weebly.com
@@ -1574,7 +1574,6 @@ fanghongyumingfanghongyibairian.buzz
 fanxtv.info
 fashionphotographycourse.com
 fastupload.ybjcsoft.com
-fatura-digital-hiper.net
 fatura-digitalhiiper.net
 fatura-hiperdigital.net
 faturadigiital-hiper.net
@@ -1775,6 +1774,7 @@ gfxx.creatorlink.net
 gg.gg
 ghislain.dartois.pagesperso-orange.fr
 ghorana.com
+giatelecom.weebly.com
 giffgaffnumber.com
 giftcards.allomoncoco.com
 giftgoogle.ml.okexam.ml
@@ -1939,6 +1939,7 @@ healthpromotion.health.gov.mw
 heaterintwintersz.ams3.digitaloceanspaces.com
 hectorsantana.mx
 hehreah.rasfasfg.xyz
+hellcase.net.ru
 hellcase.org.ru
 hellodietsforyou.com
 helloparis.co.uk
@@ -1954,6 +1955,7 @@ hepsibahisgirisimiz.blogspot.com
 hepsibahisgirisimiz1.blogspot.com
 hepsibahisgirisimiz4.blogspot.com
 hermes-deiiver-parcel.com
+hermes.book-redelivery.net
 hermes.help-tracknow.com
 hetershaven.net
 hetrios.com.br
@@ -2018,6 +2020,7 @@ href.li
 hrms.projects-codingbrains.com
 hrs-game.main.jp
 hs-giveaways.ca
+hs-secure-onl.com
 hsbc-security-cancelpayeess.com
 hsbc.remove-payee-secure.com
 hsbcinfo.com
@@ -2128,11 +2131,11 @@ inno.surf
 innoaura.com
 innovativeviewonline.com
 inpost-en.spredaz-online.club
-inpost-pl-nkfi.ownoffferta.casa
 inpost-pl-nkfi.ownoffferta.cc
 inpost-pl-nkfi.ownoffferta.cyou
 inpost-plaxp.myvipkontos.casa
 inpost-pltfxv.ownoffferta.cc
+inpost-t.spredaz-online.icu
 inpost.accept-id4282914.site
 inpost.pl-haveorder.icu
 inpost.spredaz-online.club
@@ -2858,6 +2861,7 @@ natwest.secure-auth-personal-device.com
 natwest.secured-online-verify.com
 natwest.secured-personal-verify.com
 nava.vn
+navi-tm.ru
 navi-x.ru
 nbazil-silvercloudinc-com.tk
 ncservices.co.in
@@ -2947,7 +2951,6 @@ notifyfb-i0mfyejbpj.tv1space.az
 notifyfb-j8tjsdr70v.tv1space.az
 notifyfb-kryox10249.tv1space.az
 notifyfb-ul24fgqsi1.tv1space.az
-notnotgrup-kliksjoingrupnews.duckdns.org
 nowapoczta.xyz
 nowebagency.it
 nozed-uname.firebaseapp.com
@@ -3056,10 +3059,11 @@ olx.pl-canorder.xyz
 olx.pl-goodorders.cyou
 olx.pl-goodorders.xyz
 olx.pl-havecash.cyou
-olx.pl-havecash.icu
 olx.pl-haveorder.icu
 olx.pl-haveorder.xyz
 olx.pl-paymau.pw
+olx.pl-refundcash.cyou
+olx.pl-refundcash.xyz
 olx.pl-welldelivery.cyou
 olx.pl-welldelivery.icu
 olx.pl-wellordered.cyou
@@ -3339,6 +3343,7 @@ pma.runescape.com-gb.ru
 pmiconnect-my.sharepoint.com
 po-reschedule.com
 po.do
+poczta.pl-refundcash.xyz
 poczta.pl-sendcash.icu
 poczta.pl-sendcash.xyz
 pocztowypl.com
@@ -3365,6 +3370,7 @@ portal.prizegiveaway.net
 portal.prizesforall.com
 portaloffices.co
 posadalalucia.com.ar
+posb-digi.herokuapp.com
 post-ch-1-85323b.ingress-erytho.easywp.com
 post-secu.fr
 post-track.ch
@@ -3544,7 +3550,6 @@ rebulution-page-100000025354875869526514204.tk
 rebulution-page-100000025354875869526514206.tk
 recarga-claro-argentina.com
 recidivism-apostrop.000webhostapp.com
-reconfirmpagesverifysupportcenter.my.id
 reconnetwallet.com
 recovered-activity-page-cover.my.id
 recoverinst.ru
@@ -3650,7 +3655,6 @@ rotf.lol
 rotimi.pandaform.com
 rotseezunft.ch.tcorner.fr
 roupakids.blogspot.com
-royalfenceandgate.com
 royalfenceandgate.liftmaster-pros-of-sherman-oaks.com
 royalpostcards.be
 rozbij-bank.click
@@ -4100,11 +4104,13 @@ starttsboxfile.myfreesites.net
 stateagencybe.tumblr.com
 static-ak-fbcdn.atspace.com
 stcmo.net
+steaimecommunnitiy.com
 steamcommunitiy.ru
 steamcommunytu.ru
 steamcornmuniuty.com
 steamproxy.net
 steamroll.pp.ru
+steancommynity.ru
 steancomunnity.ru
 steannconnunity.com
 stearncomminuty.ru
