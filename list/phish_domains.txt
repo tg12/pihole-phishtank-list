@@ -1035,7 +1035,6 @@ clients.devtux.com
 clinicacayetanoheredia.com
 clone-7473c.web.app
 cloud-arobat-adobe.azurewebsites.net
-cloud-object-storage-mlb-cos-static-7410.s3.sng01.cloud-object-storage.appdomain.cloud
 cloud1.directnutrisciences.com
 clouddoc-authorize.firebaseapp.com
 cloudshare-account-auth.firebaseapp.com
@@ -1222,6 +1221,7 @@ daycoval.contrato.srv.br
 dazmi.com
 dazul.com.ar
 dbknepal.org
+dbs-banksalerts.com
 dbs-votes-friend.com
 dbs.mc.eu1.kontiki.com
 dbs.rewardgateway.co.uk
@@ -1316,7 +1316,6 @@ docomo.jpbm.xyz
 docomo.jpbr.xyz
 docomo.jpbt.xyz
 docomo.jpbu.xyz
-docomo.jpbv.xyz
 docomo.jpbw.xyz
 docomo.jpbx.xyz
 docomo.jpbz.xyz
@@ -1333,7 +1332,6 @@ docomo.jplj.xyz
 docomo.jplv.xyz
 docomo.jplz.xyz
 docomo.jpma.xyz
-docomo.jpmv.xyz
 docomo.jpnp.xyz
 docomo.jpoe.xyz
 docomo.jprd.xyz
@@ -2231,7 +2229,6 @@ irequest-beneficiary-removal.com
 iriekidzlearningacademy.com
 irisdigi-labs.com
 irs-gov.davisdh.com
-irs-gov.kmcy98.com
 irs-gov.no-010.com
 irs-gov.rddmk.com
 irs-payment.kxtd500.com
@@ -4528,7 +4525,6 @@ unauthorisedpayeerequest.com
 unef.edu.br
 unify.appbox.biz
 unionheightsresidental.com
-unipersonal-fightin.000webhostapp.com
 uniswap-v2.tokenpocket.pro
 uniswap.vn
 uniswapv2.morpheuscommunity.net
@@ -4869,6 +4865,7 @@ www.amazon-m.club
 www.amazon.co-jp.aabuqnduqun.top
 www.amazon.co-jp.awdmen.club
 www.amazon.co-jp.awdmn.club
+www.amazon.co-jp.sdaero.club
 www.amazon.co-jp.shoopia.club
 www.amazon.co-login.jp-ama.casa
 www.amazon.co-login.jp-ma.live
@@ -5590,6 +5587,7 @@ www.yalena.me
 www.yaqoobi.org
 www.yournetworkingiq.com
 www.
+www.youtube.hakikatilbey.com.tr
 www.zimbabwe.net.za
 www.zjgsyds.cn
 www.zobuix.com
@@ -5699,6 +5697,7 @@ yflyogaforlife.com
 yj4iejst3dom5obrvumw3ohsoe-adwhj77lcyoafdy-translate.translate.goog
 youmecard-q.tokyo
 youngil.co.kr
+youtube.hakikatilbey.com.tr
 youwingirisimiz.blogspot.com
 ysayal51.wixsite.com
 yshau.com
