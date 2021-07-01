@@ -226,7 +226,6 @@ adobe-cloud-auth.azurewebsites.net
 adobe-docs-asset.azurewebsites.net
 adobe-file.azurewebsites.net
 adobe-files-support.azurewebsites.net
-adobe-login-token.azurewebsites.net
 adobe-mail-app.azurewebsites.net
 adobe-manage-account.azurewebsites.net
 adobe-new-dev.azurewebsites.net
@@ -279,7 +278,6 @@ aktualizacja.jst.pl
 alamdi.net
 alamosquerivieraabobokoumassi.cf
 alareentading-catalog.page.tl
-alatinotax.com
 albel.intnet.mu
 albenis-kerqeli.github.io
 alemanhaeamusica.com.br
@@ -819,6 +817,7 @@ bokepvirallterbaru.duckdns.org
 boletimdo2.sslblindado.com
 bom.to
 boma-ren.firebaseapp.com
+bomaco.com.br
 bonds-oldschools-runescapes.com
 bonomequedoencasa.blogspot.com
 book.thelifeco.com
@@ -856,6 +855,7 @@ brudesh.org
 bss.edu.ge
 bt-service.yolasite.com
 btadmiralservices1.weebly.com
+btcomclub.weebly.com
 btconnectdacsdesrf.yolasite.com
 btinternetmail2021.weebly.com
 btinterservermailer.weebly.com
@@ -1202,7 +1202,6 @@ dag-mot-lan.firebaseapp.com
 dailyexclusiveoffer.com
 dailynewsvermont.com
 dainellistudio.eu
-dairyknowledge.ca
 dajises568.temp.swtest.ru
 damasolutions.it
 danangxaydung.com
@@ -1332,7 +1331,6 @@ docomo.jpdx.xyz
 docomo.jphf.xyz
 docomo.jphq.xyz
 docomo.jphv.xyz
-docomo.jpiv.xyz
 docomo.jpka.xyz
 docomo.jpkq.xyz
 docomo.jplb.xyz
@@ -2409,6 +2407,7 @@ kumam-bon.click
 kungmedia.com
 kupujzglowa.click
 kutt.it
+kvqm0vt4thgj8s.e1199b59kd.rwsunfmq6yzf3dm.n6hpkbkkw3lnn.medscriptionsolutions.com
 kzd.exq.mybluehost.me
 l.linklyhq.com
 l.wl.co
@@ -2429,6 +2428,7 @@ lamvb.czweb.org
 laneyslettering.com
 lapostemail14.wixsite.com
 lapotosinaexpress.com
+lapst7lapst7.wixsite.com
 laraccount.com
 lareference.ac.ma
 larindbr.creatorlink.net
@@ -2446,6 +2446,7 @@ learning.trisakti.id
 learning.validate.santander.digital
 learningpieeducation.com
 leboncoin-paiementsecured.paperform.co
+leboncoin.finance
 leboncoin.kbulabs.fr
 leboncoinsecupaiement.paperform.co
 lecord.com
@@ -3337,6 +3338,7 @@ payolx10.info
 payolx11.info
 payolx12.info
 payolx15.info
+payolx17.info
 paypal-customer-service.business.site
 paypal-inc-userupdatenuber7925570844.blogspot.com
 paypal-me-alessandra-martini.com
@@ -3662,7 +3664,6 @@ recoveryacc.blogspot.com
 redbysfrgroupebox.myfreesites.net
 redcasino.proket.co.in
 redeliver-missedparcel-fee.co.uk
-redeliver-parcel-tracking-hermes.com
 rediractionid547012016089540218057.blogspot.com
 redirect.viglink.com
 redirect.voici-news.fr
@@ -3837,7 +3838,6 @@ saritapariyar.com.np
 sateegourmet.com
 saudidiesel-my.sharepoint.com
 savageconquest.com
-sbc-it-review.weebly.com
 sbcgloballoginz.com
 sbi.mx
 sbpichinchaol.2host.in
@@ -4235,6 +4235,7 @@ stateagencybe.tumblr.com
 static-ak-fbcdn.atspace.com
 static.xx.fbcdn-verif.tech
 stcmo.net
+stdominicsa.org
 steaimecommunnitiy.com
 steamcommunitiy.ru
 steamcommunyti.ru
@@ -4711,7 +4712,6 @@ voscomtpsenlgnelabonqeupastoleinfo.cf
 voscomtpsenlgnelbenqepostoleinfo.cf
 votre.service.client.forfait.orange.mobile.travelforever.co.uk
 vpapara.com
-vraalvdeolngka.duckdns.org
 vs.tc
 vt3pa0.webwave.dev
 vtennis.vn
@@ -4900,7 +4900,6 @@ www.amazon-wd.shop
 www.amazon-wp.shop
 www.amazon.co-jp.aabuqnduqun.top
 www.amazon.co-jp.awdmen.club
-www.amazon.co-jp.sdaero.club
 www.amazon.co-jp.shoopia.club
 www.amazon.co-login.jp-ma.live
 www.amazon.co.jp-ap-signin.shugabo.casa
@@ -4962,6 +4961,7 @@ www.bokep-xnxx7.jkub.com
 www.bokepgrubpemersatubangsa75.duckdns.org
 www.bokepress2020.dns2.us
 www.bolong3d.com
+www.bomaco.com.br
 www.bombogadget.com
 www.botaspanamajackoutlet.com
 www.brooks-mesport.top
