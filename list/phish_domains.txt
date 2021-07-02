@@ -160,7 +160,6 @@
 Deregister-unverified-seclloyd.com
 YLn.watchlisten.email
 YgDGuwg.dgzwtmga.cn
-a0557583.xsph.ru
 a4850716d03b4347b3e32b8622fe5176.svc.dynamics.com
 aa8851.wixsite.com
 aadaedu-my.sharepoint.com
@@ -476,7 +475,6 @@ apple.com.services-and-support.com
 appleid.apple.com.nvw5q.com
 appleverificationalert.com
 apporg.yolasite.com
-apprescomfrim-fb.000webhostapp.com
 appurl.io
 aprovf-aler.000webhostapp.com
 aptitudedz.com
@@ -498,7 +496,6 @@ armatheatre.org
 arnazion-co-jp.hypjw.bar
 arnazon-co-jp.7lxzqu.shop
 arnazon-co-jp.tgndlh.bar
-arnazon-link-a.oauiern.shop
 arnazon-link.mauierna.shop
 arnazon-link.rionams.shop
 arnazon-live.eaglksdf.shop
@@ -1022,6 +1019,7 @@ ck29286.tmweb.ru
 ckwgruppe.service-now.com
 cla2020gov.com
 claim-irs.com
+claim-payment.irs-gov.amazon-shortlink.com
 claro-controle-downloader.m4u.com.br
 claus.bz
 claveloca.000webhostapp.com
@@ -3150,7 +3148,6 @@ olx-group.com
 olx-h.fastdostawa.quest
 olx-h.spredaz-online.club
 olx-oplata.site
-olx-p.m-ownoferta.shop
 olx-pl-id629.myfastdostawa.one
 olx-pl-konto-ref.com
 olx-pl.3ds-buy.ru
@@ -3175,7 +3172,6 @@ olx.pl-getwallet.xyz
 olx.pl-getwallets.icu
 olx.pl-getwallets.xyz
 olx.pl-gotwallet.cyou
-olx.pl-gotwallet.icu
 olx.pl-gotwallets.cyou
 olx.pl-gotwallets.xyz
 olx.pl-itembuyu.pw
@@ -3193,7 +3189,10 @@ olx.pl-refundcash.icu
 olx.pl-resell.cyou
 olx.pl-resell.xyz
 olx.pl-safewallet.cyou
+olx.pl-safewallet.icu
 olx.pl-safewallet.xyz
+olx.pl-safewallets.icu
+olx.pl-safewallets.xyz
 olx.pl-streinspay.pw
 olx.pl-wallet.icu
 olx.pl-welldelivery.cyou
@@ -3346,7 +3345,6 @@ pakistanbmj.com
 paksarhadgoods.duskypot.com
 palletschepmexico.com
 panahtimes.com
-panatharva.in
 pancakeswap.gistfansincome.com
 panchkarmaagra.in
 panel.swiftpay.ru
@@ -3490,10 +3488,10 @@ po-reschedule.com
 po.do
 poczta.pl-getwallet.xyz
 poczta.pl-payswallet.cyou
-poczta.pl-payswallets.xyz
 poczta.pl-paywallets.xyz
 poczta.pl-refundcash.xyz
 poczta.pl-safewallet.icu
+poczta.pl-safewallets.cyou
 poczta.pl-sendcash.icu
 poczta.pl-wallet.cyou
 pocztowypl.com
@@ -3730,6 +3728,7 @@ relieffund.freeinternetz.com
 remillardconsulting.com
 remittance369297292749.goshly.com
 remove-device.shop
+remove-online.com
 rempitem.agilecrm.com
 remsy.app.link
 rencon.ch.net2care.com
@@ -3783,7 +3782,6 @@ rmzengenharia.blogspot.com
 rn3pc9bqfbv.typeform.com
 rnhtdsyfbgqfgqeubliyqjuljf-dot-poised-bot-306515.uk.r.appspot.com
 roadgo.co.uk
-robertbieber6.wixsite.com
 robinhoodmgrprosperahcs-org.tk
 roblewis.com
 robloxadoptmecheck.000webhostapp.com
@@ -4064,7 +4062,6 @@ sign.in.eday.co.uk.ws.eayis.api.dllsigninusingssl.sogancxyejxw4sw7icqvwdjfucavqf
 signaturebrandfactory.com
 signin.ebay.de.whyymedia.com.au
 signin.eday.co.uk.ws.ayisapi.dllsigninusingssl1puserid.kzbzd9n59c7tggswrvcvewuihebw7.menara-anugrah.co.id
-signinmicrosofts.com
 siida-disperindag.kalbarprov.go.id
 sikkertnabolag.dk
 siklus.net
@@ -4176,7 +4173,6 @@ soaringskiesrentals.com
 sobisparkss-poser.blogspot.com
 soci-molen.web.app
 socialmediatraveler.com
-societyvessel.com
 sofe-firma.firebaseapp.com
 soft.yahame.top
 solicitacoesdedados.zapto.org
@@ -4255,6 +4251,7 @@ srnbc-card.com.qqjvaib.asia
 srnbc-card.com.r4xttrb6.cn
 srnbc-card.com.scfsr4.cn
 srnbc-card.com.sv4gq8.cn
+srnbc-card.com.tgpbg.bar
 srnbc-card.com.thlud.bar
 srnbc-card.com.tq2d3g.cn
 srnbc-card.com.tq2pa0b.cn
@@ -4275,7 +4272,7 @@ stateagencybe.tumblr.com
 static-ak-fbcdn.atspace.com
 stdominicsa.org
 steaimecommunnitiy.com
-steamcommunitiy.ru
+steamcommnuitry.com
 steamcommunyti.ru
 steamcommunytu.ru
 steamcormmnity.com
@@ -4944,6 +4941,8 @@ www.amazon-m.club
 www.amazon-vpass-jp.amcorza.club
 www.amazon-vpass-jp.amcorzo.club
 www.amazon-vpass-jp.rezf.club
+www.amazon-vpass.daeu.club
+www.amazon-vpass.jkadaeu.club
 www.amazon-wd.shop
 www.amazon-wp.shop
 www.amazon.co-jp-ap.kjahfksfgenqa.club
@@ -5063,7 +5062,6 @@ www.cr-mufg.icu
 www.cr-mufg.net
 www.cr.mufg.acoe.cc
 www.cr.mufg.acoen-jp.cc
-www.cr.mufg.acoen.cc
 www.creativecombat.com
 www.credicapital-cl.com
 www.ctm-menuiserie.be
@@ -5243,7 +5241,6 @@ www.ing-direct-accesso.com
 www.instagram.ettastore.com.ng
 www.instagram.o1u.de
 www.interestingfurniture.com
-www.internet-alert-dbs.com
 www.iphnoe.pfs.txqsu.cn
 www.irequest-beneficiary-removal.com
 www.isfirsatibul.com
@@ -5428,6 +5425,7 @@ www.panatharva.in
 www.pancakeswap.lhost.bg
 www.papooseofficial.com
 www.parler.pt
+www.parroquiajesucristoredentor.com
 www.paypal-me-alessandra-martini.com
 www.paypal-opladen.be
 www.paypal.com.0.security-confirmation.d72b69c8e37aec662e13e39d929d6e3d.as2.2u.se
@@ -5738,6 +5736,7 @@ xhmqu.mjt.lu
 xhmr1.mjt.lu
 xhs02.mjt.lu
 xhsl1.mjt.lu
+xirost.com
 xj333.mjt.lu
 xj33s.mjt.lu
 xj33w.mjt.lu
