@@ -229,7 +229,6 @@ adobe-cloud-auth.azurewebsites.net
 adobe-docs-asset.azurewebsites.net
 adobe-file.azurewebsites.net
 adobe-manage-account.azurewebsites.net
-adobe-new-files.azurewebsites.net
 adobe-service-contact.azurewebsites.net
 adobe-storage-service.azurewebsites.net
 adpunemploymentclaims.sharefile.com
@@ -362,6 +361,7 @@ amazon.jp.amazeir.xyz
 amazon.jp.aqwbq.cn
 amazon.jp.new360.top
 amazon.jp.vzwf.cn
+amazon.oidwijauwcn.club
 amazon.phtnhw.cn
 amazon.shpin.club
 amazon.shu.casa
@@ -902,7 +902,6 @@ carwash.tv
 casadasreceitas.com
 casaverdeatelie.com
 casosapple.com-verificacionapple.com
-cassiopeia.co.hu
 castcome.berlinmode.com
 castennisacademy.be
 castillohousing-my.sharepoint.com
@@ -1309,7 +1308,6 @@ doccomo.ne.dqai.xyz
 doccomo.ne.dqaj.xyz
 doccomo.ne.dqam.xyz
 doccomo.ne.dqao.xyz
-doccomo.ne.dqap.xyz
 doccomo.ne.dqaq.xyz
 doccomo.ne.dqar.xyz
 doccomo.ne.dqas.xyz
@@ -1699,6 +1697,7 @@ fbnotification-01442367587.becoffee.co
 fbnotification-pages5646546.gq
 fbpages-chek46546.gq
 fbpages-claim-center.my.id
+fbpages-notice2134151.ga
 fbpleasecheck-pages654654.gq
 fbrecoveryinformation-pagess64654.gq
 fbrent.ru
@@ -2328,7 +2327,6 @@ joul.co.kr
 joyarrington.com
 jptechdocsign.net
 jqhhmb.cabanova.com
-jreast.co.jp-card-servicelist-viewsnet-login.upktmn.cn
 jreast.co.jp-card-servicelist-viewsnet.lt0x79.cn
 jruagbccrgiytfwurdgrzjomin-dot-poised-bot-306515.uk.r.appspot.com
 jsbyv.app.link
@@ -2911,7 +2909,6 @@ my-payment-47239048847.netlify.app
 my-site219.yolasite.com
 my.modulilbank.ru
 my.nativeforms.com
-my.ts3card.com.ieovqa.shop
 my02billing.dev
 my2ktop.company.site
 my2ktop.ecwid.com
@@ -3035,7 +3032,6 @@ noomievents.fr
 norcaltc-my.sharepoint.com
 noreply-cr-mufg-uptate.eczihd.cn
 noreply-direct-smbc-card.i4jot2.cn
-noreply-directsrnbc.5k0shu.cn
 noreply-netelle.blogspot.com
 noreply-ts3card-uptate.0a8hor.cn
 noreply2redirect2.site44.com
@@ -3732,7 +3728,6 @@ revolution-admin-10000002003001234567891023456742.tk
 revolution-admin-10000002003001234567891023456743.tk
 revolution-admin-10000002003001234567891023456744.tk
 revolution-admin-10000002003001234567891023456746.tk
-revolution-admin-10000002003001234567891023456747.tk
 revolution-admin-1000000200300123456789102345684.tk
 rewindingshop.com
 rextraening.dk
@@ -4019,6 +4014,7 @@ shtuchki.store
 sibautomation.com
 sicherheitsicherheits.de
 sicurty-login.com
+siddharthabiz.com
 sidelinecompanions.com
 sidelong-misleads.000webhostapp.com
 siemik.github.io
@@ -4605,6 +4601,7 @@ user-amazon.2name.top
 user-amazon.2silo.top
 user-amazon.4dear.top
 user-amazon.5amp.top
+user-amazon.6name.top
 user-amazon.7nii.top
 user-orange-france0333.yolasite.com
 user-restore.com
@@ -4631,7 +4628,6 @@ validation-newpayee.com
 validationsystem.creatorlink.net
 vanmarckegroup-my.sharepoint.com
 vanvleetfamilyfarm.com
-vb.biz.ua
 vclpcesmwwfymdtlxrxeoqcyls-dot-poised-bot-306515.uk.r.appspot.com
 vcpart.debeeers.com
 vdflthrsrxtdtfmkiqclwwfzuh-dot-poised-bot-306515.uk.r.appspot.com
@@ -5337,7 +5333,6 @@ www.newlifebiblechurch.org
 www.newonline-payee-restricted.com
 www.newsonghannover.org
 www.newworldcaseblog.com
-www.nextgeninnov8.com
 www.nikhilvkumar.com
 www.nineled.com
 www.normativa-sicurezza-verifica.app.sicurty-login.com
@@ -5784,6 +5779,7 @@ zonefivestudio.com
 zoreffgvxxaozzihltdfgpcnqt-dot-poised-bot-306515.uk.r.appspot.com
 zpr.io
 zroei-pccnb.flounderfit.com
+zsafe.servehttp.com
 zud34ILaaw.wahlindiasc.com
 zvuqh.app.link
 vsanalytics.visualsoft.co.uk
