@@ -229,7 +229,6 @@ adobe-cloud-auth.azurewebsites.net
 adobe-cloud-sign-in.azurewebsites.net
 adobe-docs-asset.azurewebsites.net
 adobe-manage-account.azurewebsites.net
-adobe-service-contact.azurewebsites.net
 adobe-storage-service.azurewebsites.net
 adpunemploymentclaims.sharefile.com
 ads-google-think.blogspot.com
@@ -397,6 +396,7 @@ amozon.co.ip.dimgwsl.asia
 amozon.co.ip.mmpadzr.asia
 amprojanitorial.com
 amrapali.ac.in
+amrensz.000webhostapp.com
 ams-eg.com
 ams3.digitaloceanspaces.com
 amsettle.com
@@ -441,6 +441,7 @@ aomaonz.co.jp.sdafqwe.buzz
 aomazo.ckmfrkai.asia
 aonzon.co.ip.srrbcya.asia
 apesigam.com
+api-smbc-card.julongze.com
 api.alqadam.uz
 api.bdisl.com
 api.stasto.eu
@@ -1280,7 +1281,6 @@ dnr.rs
 dnspod.com
 doc.rg1.us
 doccomo.ne.caqb.xyz
-doccomo.ne.caqc.xyz
 doccomo.ne.caqd.xyz
 doccomo.ne.caqg.xyz
 doccomo.ne.caqh.xyz
@@ -1647,6 +1647,16 @@ faturanetmagaluu.com
 fax.gruppobiesse.it
 fb-page-like-like.000webhostapp.com
 fb-pageconfirm-1000000076223145798654256209.tk
+fb-pageinfo-10003178702386458751715111020.tk
+fb-pageinfo-10003178702386458751715111021.tk
+fb-pageinfo-10003178702386458751715111022.tk
+fb-pageinfo-10003178702386458751715111023.tk
+fb-pageinfo-10003178702386458751715111024.tk
+fb-pageinfo-10003178702386458751715111025.tk
+fb-pageinfo-10003178702386458751715111026.tk
+fb-pageinfo-10003178702386458751715111027.tk
+fb-pageinfo-10003178702386458751715111028.tk
+fb-pageinfo-10003178702386458751715111029.tk
 fb-reconfirm-sefety-1000000013542132548975469513126409.tk
 fb.expressturkeyi.com
 fb.ovrts.co
@@ -2019,7 +2029,6 @@ hepsibahisgirisimiz.blogspot.com
 hepsibahisgirisimiz1.blogspot.com
 hepsibahisgirisimiz4.blogspot.com
 hereford-spechtmeyer.de
-hermes.redelivery-book.net
 heruslagipdktdengantompul.cf
 hetershaven.net
 hetrios.com.br
@@ -2286,7 +2295,6 @@ jflkp.csb.app
 jho.click
 jibnubank.com
 jihowis203.temp.swtest.ru
-jirkejulta.wixsite.com
 jisqqprpwxcndhrmoitenhjxwd-dot-poised-bot-306515.uk.r.appspot.com
 jk3bt83s.r.eu-west-1.awstrack.me
 jkjdhg7876.000webhostapp.com
@@ -2769,7 +2777,6 @@ mester.info.hu
 metaltubos.com.br
 metamask.cam
 metamask.cloud
-metamask.io-starters.com
 metamaskstaking.com
 metamaskwallet.cc
 metavideos.com
@@ -3274,6 +3281,7 @@ pageappeal100621.web.app
 pagebitter.com
 pages-and-community-service.pp.ua
 pages-help-center-2021.my.id
+pages-identity-and-account-verify.web.id
 pageverifiedcenter-1000004954345.com
 paginadelcafe.000webhostapp.com
 pagincolm.com
@@ -3418,10 +3426,8 @@ pma.runescape.com-gb.ru
 pmiconnect-my.sharepoint.com
 po-reschedule.com
 po.do
-poczta.pl-cloudorder.icu
 poczta.pl-cloudorder.xyz
 poczta.pl-cloudorders.icu
-poczta.pl-cloudorders.xyz
 poczta.pl-cloudsorders.cyou
 poczta.pl-cloudsorders.icu
 poczta.pl-getwallet.xyz
@@ -3841,7 +3847,6 @@ secure.anz.click
 secure.bankofamerica.com-login-sign-in-signonv2screen.go.suzukihaiphong.com.vn
 secure.facebook.com.de.a2ip.ru
 secure.legalmetric.com
-secure.runescape.cityloots.top
 secure.runescape.com-ak.ru
 secure.runescape.com-cn.ru
 secure.runescape.com-gb.ru
@@ -4004,7 +4009,6 @@ sios.tech
 siporados15585.blogspot.com
 sirak.se
 sirdarnell.org
-sistemaimpredecible.000webhostapp.com
 site-4403463-3995-6112.mystrikingly.com
 site-4932041-4933-1646.mystrikingly.com
 site9423623.92.webydo.com
@@ -4390,7 +4394,6 @@ tjizxhlu.tk
 tjosephscol.com
 tjrjtjyjyjy.000webhostapp.com
 tkx29.codesandbox.io
-tlawnandlandsc.com
 tmmptpmttpmllti.web.app
 tmphysio.de
 to-ken.biz
@@ -4634,7 +4637,6 @@ viewsnet.jp.bbtjmg.shop
 viewsnet.jp.kqiezs.bar
 viewsnet.jp.sdf3.shop
 viewsnet.jp.uogrhd.cn
-viewsnet.jp.viucva.cn
 vikingwear.com
 vilanovacenter.com
 villagiardino.net.br
@@ -4838,7 +4840,6 @@ www.amakuzon.co.jp.xqyfiioj.top
 www.amaznv.xyz
 www.amazoin.co-jp.uhxbbgjt.cc
 www.amazon-cff.shop
-www.amazon-dzc.shop
 www.amazon-gcatech.com
 www.amazon-jp.qiangoyua.club
 www.amazon-jp.vpss.madmbheawwa.club
@@ -5360,7 +5361,6 @@ www.rainbowmaker.us
 www.rajwebtechnology.com
 www.rakuten.co.jp.djtrsgytkfjdythm.ga
 www.rakuten.co.jp.dxfkytherkrn.cf
-www.rakuten.co.jp.dxfkytherkrn.ga
 www.rakuten.co.jp.dxfkytherkrn.gq
 www.rakuten.co.jp.dxfkytherkrn.ml
 www.rakuten.co.jp.fsemp.cf
@@ -5594,7 +5594,6 @@ www3.vpass-ne.vip
 www_jacss_co_jp.2rple8.rest
 www_rekutan_co_jp.seo1011.vip
 wwwfbcomphotovideostatus.000webhostapp.com
-wwwfbcomstatusvideoslike.000webhostapp.com
 wwwmidasbuy.com
 wwww-fbpage-2021.000webhostapp.com
 wxlyspdzsnxfytymrhbqigo.rockcoastclothing.com
