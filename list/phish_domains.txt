@@ -227,7 +227,6 @@ adnet8.com
 adobe-cloud-acr0bat.azurewebsites.net
 adobe-cloud-auth.azurewebsites.net
 adobe-docs-asset.azurewebsites.net
-adobe-file.azurewebsites.net
 adobe-manage-account.azurewebsites.net
 adobe-service-contact.azurewebsites.net
 adobe-storage-service.azurewebsites.net
@@ -958,7 +957,6 @@ charl.americommerce.com
 charperimagedesign.com
 chasesecure-app-login.com
 chat-whatasqp.com
-chat-whatsapp-plus18.duckdns.org
 chat-whatsapp.doctorhaddadpediatriayflores.cl
 chat-whatsapp.vizvaz.com
 chat-whatsapp193.duckdns.org
@@ -1313,7 +1311,6 @@ doccomo.ne.dqar.xyz
 doccomo.ne.dqas.xyz
 doccomo.ne.dqat.xyz
 doccomo.ne.dqau.xyz
-doccomo.ne.dqav.xyz
 doccomo.ne.dqaw.xyz
 doccomo.ne.dqax.xyz
 doccomo.ne.dqay.xyz
@@ -1713,7 +1710,6 @@ fedner.net
 feedilicious.com
 feedproxy.google.com
 feeds.feedburner.com
-felsheuanmin.com
 fene-modi.firebaseapp.com
 ferienhof-gempel.de
 festivo.fi
@@ -2496,6 +2492,7 @@ licogi18.com.vn
 life-is-a-dream.com
 lifegurunewshubb.com
 lifeiswhatyoumakeofit.com
+lightscamerainterview.com
 lihi1.cc
 lihi3.cc
 lihi3.com
@@ -2850,7 +2847,6 @@ mkengineering.com.my
 mkiuyhakauywa.blogspot.com
 mlbb-eventfree-real.duckdns.org
 mlbb-skinreal.duckdns.org
-mmaildld.000webhostapp.com
 mmprsatx.com
 mms-orange26.yolasite.com
 mms.tucsonhispanicchamber.net
@@ -3306,6 +3302,7 @@ pageappeal100621.web.app
 pagebitter.com
 pages-and-community-service.pp.ua
 pages-help-center-2021.my.id
+pagesreconfirmaccountsafety.co.vu
 paginadelcafe.000webhostapp.com
 pagincolm.com
 paiement-securiseleboncoin.fr
@@ -3366,7 +3363,6 @@ paypal.co.uk.useriazi6bqgssb.settingsppup.com
 paypal.com.0.security-confirmation.d72b69c8e37aec662e13e39d929d6e3d.as2.2u.se
 paypal.com.service.id999.sorttheweb.com
 paypal.france.confirmation-transfert.fr.crocodaintl.com
-paypal.transfert-a.fr.serenitycharter.com.br
 paypal.verylegit.link
 paypalupdate.smartytaxsolution.com
 paypalvsgooglecheckout.com
@@ -3622,7 +3618,6 @@ rakuten.co.jp.rrakutennjp.xyz
 rakuten.cxbapkx.cn
 rakuten.email-mart2.com
 rakuten.rhwl0ke.cn
-rakuten.wzzzrz.cn
 rakuten01.pryare.top
 rakutenazomg.com
 ralogic547.temp.swtest.ru
@@ -3896,6 +3891,7 @@ secure.runescape.com-tp.ru
 secure.runescape.com-vc.ru
 secure.runescape.com-vzla.ru
 secure0jverify.duckdns.org
+secure257.duckdns.org
 secure270.inmotionhosting.com
 secure271.servconfig.com
 secure273.inmotionhosting.com
@@ -4176,6 +4172,7 @@ spektrumchile.cl
 spentamultimedia.com
 spidertvapp.com
 spikenow.com
+spility-covery.000webhostapp.com
 spilytsi-confrim.000webhostapp.com
 spinosacenter.com
 spk-service-web1.xyz
@@ -5404,12 +5401,13 @@ www.rakuten.co.jp.dxfkytherkrn.ml
 www.rakuten.co.jp.fsemp.cf
 www.rakuten.co.jp.fsemp.ga
 www.rakuten.co.jp.fsemp.ml
-www.rakuten.co.jp.fsemp.tk
 www.rakuten.co.jp.huserdfjykked.tk
-www.rakuten.co.jp.ifgtewfkytkrh.gq
 www.rakuten.co.jp.jsbdgsfcydkbn.ga
 www.rakuten.co.jp.jsbdgsfcydkbn.tk
+www.rakuten.co.jp.qmegav.tk
+www.rakuten.co.jp.upwne.cf
 www.rakuten.co.jp.upwne.ga
+www.rakuten.co.jp.upwne.gq
 www.rakuten.co.jp.upwne.tk
 www.rakuten.co.jp.xuwev.ga
 www.rakuten.co.jp.xuwev.gq
