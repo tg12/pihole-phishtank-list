@@ -198,7 +198,6 @@ acrobat-online-services.azurewebsites.net
 acrobat-online-sign-in.azurewebsites.net
 actification-pages-reconfirm-identity.my.id
 actionfilmz.com
-activaterescue.com
 activationcerticodposte.is-certified.com
 active-page-term-dashboard-advanced.my.id
 active-page-term-dashboard-inc.my.id
@@ -226,7 +225,6 @@ admiring-kapitsa.91-218-65-223.plesk.page
 admissionenvironment.com
 adnet8.com
 adobe-cloud-acr0bat.azurewebsites.net
-adobe-cloud-auth.azurewebsites.net
 adobe-cloud-sign-in.azurewebsites.net
 adobe-docs-asset.azurewebsites.net
 adobe-manage-account.azurewebsites.net
@@ -423,7 +421,6 @@ anjalijha167.github.io
 anjoe.com
 annarborhandsonmuseum-my.sharepoint.com
 annazon-mmasldo-co-jp.mkalqdd.buzz
-annietreyteil.wixsite.com
 anniewright-my.sharepoint.com
 anonom.co.ip.kd0092h.cn
 anonom.co.ip.lerfvkq.asia
@@ -639,7 +636,6 @@ bao-tic.com
 baobimocan.vn
 baovesusonglcxt.com
 baradua.it
-barbarajeanrtroy.com
 bardaiconnect.com
 bas9casc3.qwe-dasd-asd.workers.dev
 bassgifts.club
@@ -1012,7 +1008,6 @@ clientsupportinglinec.co
 clientsupportinglinec.com
 clientsupportinglinec.net
 clone-7473c.web.app
-cloud-adobe-acrobat.azurewebsites.net
 cloud-adobe-app.azurewebsites.net
 cloud1.directnutrisciences.com
 clouddoc-authorize.firebaseapp.com
@@ -1659,7 +1654,6 @@ fb-pageinfo-10003178702386458751715111025.tk
 fb-pageinfo-10003178702386458751715111026.tk
 fb-pageinfo-10003178702386458751715111027.tk
 fb-pageinfo-10003178702386458751715111028.tk
-fb-pageinfo-10003178702386458751715111029.tk
 fb-reconfirm-sefety-1000000013542132548975469513126409.tk
 fb.expressturkeyi.com
 fb.ovrts.co
@@ -2231,7 +2225,6 @@ internet-banking.login-webmail.com
 internetmobilemais.wixsite.com
 interrnet-bakking-sgdbss.com
 intrnet-bakkingdbs-sg.com
-intrnet-bakkingdbsgg.com
 invictuspower.com.br
 invitation-page-policy-notification-2021.my.id
 invitation-pages-advanced-notification-2021.my.id
@@ -2745,7 +2738,6 @@ mccarthyelectrical.com
 mcclas.co.za
 mclaren-ff.ga
 mclaren-ff.tk
-mclaren-rg.ml
 mdurucan.com
 meat.uniandes.edu.co
 medium.huioxvg.com
@@ -2896,7 +2888,6 @@ my-jcb.linkersocks.com
 my-ourtime.com
 my-payment-47239048847.netlify.app
 my-site219.yolasite.com
-my.modulilbank.ru
 my.nativeforms.com
 my02billing.dev
 my2ktop.company.site
@@ -3112,11 +3103,9 @@ olx-d.shortdostawa.bar
 olx-group.com
 olx-oplata.site
 olx-pl-konto-ref.com
-olx-pl.3ds-buy.ru
 olx-pl.ba-pay.info
 olx-pl.deiivery.ru
 olx-pl.pay24-online.site
-olx-plbils.ownoffferta.cc
 olx-ua.spredaz-online.club
 olx-y.myfastdostawa.one
 olx.excess.company
@@ -3273,7 +3262,6 @@ page-dashboard-option-2021.my.id
 page-dashboard-option.my.id
 page-update-recovry-association-secur-protections.web.id
 page-updates-and-protection.web.id
-pageappeal100621.web.app
 pagebitter.com
 pages-and-community-service.pp.ua
 pages-help-center-2021.my.id
@@ -4086,6 +4074,7 @@ smwam.coms.cso.gov.tt
 snajhyssssssssss.byethost31.com
 snapchat.acccccount.com
 sniperdz.com
+snndc-card-com-mom-inbcx.399qp.cn
 snprobbx.pbz.r.uk.a2ip.ru
 snrsystem.com
 soaringskiesrentals.com
@@ -4152,7 +4141,6 @@ srnbc-card.com.a5wgfu.cn
 srnbc-card.com.arsvywj.cn
 srnbc-card.com.bskkrnd.cn
 srnbc-card.com.cd0c54.cn
-srnbc-card.com.few50a.cn
 srnbc-card.com.girlm.bar
 srnbc-card.com.hftstph.cn
 srnbc-card.com.joiztawy.asia
@@ -4182,7 +4170,6 @@ starttsboxfile.myfreesites.net
 stateagencybe.tumblr.com
 static-ak-fbcdn.atspace.com
 static.xx.secure-sync.tk
-static.xx.sync-recovery.xyz
 steamcommnuitry.com
 steamcommunitli.com
 steamcommunyti.ru
@@ -4294,7 +4281,6 @@ tanias-accounting.co.za
 tapariwalatea.com
 tasnimchoudhury.com
 taumiq.com
-tawdrier-glues.000webhostapp.com
 tawreedss.com
 tb915hdh89.mfs.gg
 tcaconnect.ac-page.com
@@ -4668,7 +4654,6 @@ vviral-groupps.duckdns.org
 vvsmsmms.yolasite.com
 vwbank.inforia.net
 vwovuhlsxuiiqmmbubivbozvhe-dot-poised-bot-306515.uk.r.appspot.com
-vyc.com.pt
 vyixwx.webwave.dev
 vzrew.creatorlink.net
 w2.deraya.org
@@ -4992,7 +4977,6 @@ www.diversepropertysolutions.com
 www.djdemon.com
 www.doghouserescue.com
 www.dolcevitabymerit.com
-www.dragonfly-pv.com
 www.drivingschoolglasgow.co.uk
 
 www.druckhaus-kruse.de
@@ -5516,7 +5500,6 @@ www.tudosobretudo.blog.br
 www.turningpointyogawithjacki.com
 www.twoj-pupil.click
 www.twoja-konsola.click
-www.uccard.x-jp.shop
 www.ultra-tech.in
 www.umbrellaclubla.com
 www.unauthoriserecentdevice.com
