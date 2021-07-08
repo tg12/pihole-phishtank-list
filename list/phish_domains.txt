@@ -907,7 +907,6 @@ card-entry-trackid-access-denied.codeanyapp.com
 cardano-wallet.web.app
 careycapital.net
 carnegieproperty-my.sharepoint.com
-carteseffdckjs.ga
 carverdarden-org.gq
 carwash.tv
 casadasreceitas.com
@@ -1458,6 +1457,7 @@ ebayfraud.gremlins-in-it.com
 ebbanconacion.repl.co
 ebiz4biz.com.cn
 ebuddynews.com
+ec2-52-67-139-140.sa-east-1.compute.amazonaws.com
 eccobutypolska.com
 eceadae-my.sharepoint.com
 ecmovial.cl
@@ -2245,7 +2245,6 @@ irstds.com
 is.gd
 issuefb-tkb2e1hqdhf.iayspph.org
 istras.com
-isuzubatang.com
 it-europe564598-com.filesusr.com
 it-friedli.ch
 it.melnikhotels.com
@@ -3137,6 +3136,8 @@ olx.pl-getexpres.xyz
 olx.pl-getexpress.xyz
 olx.pl-getwallets.xyz
 olx.pl-id1635359.org
+olx.pl-id5739382.xyz
+olx.pl-id8573932.xyz
 olx.pl-paidexpress.xyz
 olx.pl-paidwallet.xyz
 olx.pl-payexpress.cyou
@@ -3149,6 +3150,7 @@ olx.pl-postexpres.icu
 olx.pl-postexpress.cyou
 olx.pl-postexpress.icu
 olx.pl-postexpress.xyz
+olx.pl-postpay.cyou
 olx.pl-refundcash.icu
 olx.pl-safe.service-secure.rest
 olx.pl-safedream.icu
@@ -3161,6 +3163,7 @@ olx.pl-transorbuycom.pw
 olx.pl.3d-secure.cc
 olx.pl.buyisetem.site
 olx.pl.comtrans-id.site
+olx.pl.payingtrans.pw
 olx.pl.transcombuy.pw
 olx.pl.trarenorbuy.pw
 olx.postexpress.icu
@@ -3364,7 +3367,6 @@ paypal.com.service.id999.sorttheweb.com
 paypal.france.confirmation-transfert.fr.crocodaintl.com
 paypal.verylegit.link
 paypalvsgooglecheckout.com
-paypay-bans.prncide.com
 paypay-ne.com
 paypol-me-stephanieblanchet.000webhostapp.com
 paysaas.wingscode.com
@@ -3609,6 +3611,7 @@ ragole.com
 raiffeisenbankro.com
 railcarpatient.com
 rajwebtechnology.com
+raketun.jp.hk9ou.cn
 raktraphyp.byethost7.com
 raktuen.co.jp.nnqdw.com
 rakuten-co-jp.yun999.top
