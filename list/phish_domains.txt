@@ -17,12 +17,14 @@
 11bp7.trk.elasticemail.com
 11dbs.com
 11stom.by
+122zh.trk.elasticemail.com
 123formbuilder.com
 132artisan.lavanup.com
 140.trendsbygwen.com
 142.97.199.35.bc.googleusercontent.com
 143-198-98-168.cprapid.com
 154.30.211.130.bc.googleusercontent.com
+18-132-47-41.cprapid.com
 180betper.blogspot.com
 184-72-107-150.cprapid.com
 185.232.198.104.bc.googleusercontent.com
@@ -68,6 +70,7 @@
 31jan.page.link
 3247628394393.mipropia.com
 337e5c45-071f-4da9-9c74-b164c90bad4d.id.repl.co
+34-213-160-229.cprapid.com
 34-234-92-126.cprapid.com
 3456654456765.hyperphp.com
 3456765434.hyperphp.com
@@ -370,6 +373,7 @@ amazon.elasw.casa
 amazon.linadaw.club
 amazon.littlebugata.club
 amazon.muewdghga.casa
+amazon.oajhawponline.casa
 amazon.opubngonline.club
 amazon.qunbuo.club
 amazon.redbugata.club
@@ -455,11 +459,13 @@ aonzon.co.ip.rttrkrs.asia
 aonzon.co.ip.wbdvnne.asia
 aonzon.co.ip.xhexibm.asia
 aonzon.co.ip.yicjksn.cn
+aonzon.co.jp.oaizked.club
 api-smbc-card.julongze.com
 api.alqadam.uz
 api.bdisl.com
 api.stasto.eu
 apicola.eu
+apkfun.com
 apoga.net
 app-dec-access.com
 app-facebook-suspen-page.a4lkks1hwd-xlm41rj9r6dy.p.runcloud.link
@@ -579,7 +585,6 @@ atualizaonline2533.com
 atualizar-news.uksouth.cloudapp.azure.com
 atualizar.apponlineseguro.cloud
 au.kldi.ljea.xyz
-au.kldi.ljee.xyz
 au.kldi.mnis.xyz
 au.kldi.mnit.xyz
 au.kldi.pteq.xyz
@@ -840,6 +845,7 @@ blog.tienghanthaybeo.com
 blog.weiwanjia.com
 blogdoaltivo.com.br
 blogger.azureedge.net
+bloomay.co
 bloomb2b.com
 bltnkddwelevohqufcyunigxcz-dot-poised-bot-306515.uk.r.appspot.com
 blubrown.com
@@ -981,6 +987,7 @@ cbl57.csb.app
 ccjrlaw.com
 cdcinfectioncontrol.000webhostapp.com
 cdek-pay.ru.com
+cdkowa.cabanova.com
 cdn.shopify.com
 cdn.via.com
 cdt-suisspost-verif.u1388972.cp.regruhosting.ru
@@ -1909,6 +1916,7 @@ gayatriprojects.com
 gbbung-grpka.duckdns.org
 gbmfg-my.sharepoint.com
 gchronics.com
+gdy.club
 ge-ge.snprobbx.pbz.r.de.a2ip.ru
 geeeculqlghwhzpulpigvxduyz-dot-poised-bot-306515.uk.r.appspot.com
 geelongtrailers.com.au
@@ -2347,6 +2355,7 @@ invitation-pages-advanced-notification-2021.my.id
 invoice.vrizm.com
 inx.lv
 ionclnc.tk
+ip-148-72-245-34.ip.secureserver.net
 iplogger.org
 iplogger.ru
 ipqa.xyz
@@ -2612,6 +2621,7 @@ leboncoin.odoo.com
 leboncoinpaiementpro.com
 leboncoinpaiementpro.fr
 leboncoinsecupaiement.paperform.co
+leboncoinsolutions.pro
 lecolis.page.link
 lecord.com
 lecro.digital
@@ -3127,6 +3137,7 @@ myqatar.com
 mysait-my.sharepoint.com
 myshedbuilder.com
 mysites.infinityfreeapp.com
+myskyserver.com
 mysoulaura.com
 mysp.ac
 mysql.runescape.com-ak.ru
@@ -3189,7 +3200,6 @@ netprogress.net
 netservice-upd.tumblr.com
 network.innovatedm.com
 netzeromailverificationupdradesdomainpajfkl.weebly.com
-neugpm2qay.000webhostapp.com
 never-let-yourself-be-defeated.my.id
 new-beneficiary-remove.com
 new-control-pamis.com
@@ -3368,6 +3378,7 @@ oncopharma-ae.com
 oneaim.lu
 onecreator.info
 onedrive.live.com
+onerouter.net
 onet-swietokrzyskie.xyz
 onlbc2.com
 online-exodus.com
@@ -3555,7 +3566,6 @@ paypal.ca.purchasekindle.com
 paypal.co.uk.useriazi6bqgssb.settingsppup.com
 paypal.com.0.security-confirmation.d72b69c8e37aec662e13e39d929d6e3d.as2.2u.se
 paypal.com.service.id999.sorttheweb.com
-paypal.ipqa.xyz
 paypal.ipqc.xyz
 paypal.verylegit.link
 paypallogon.net
@@ -3742,7 +3752,6 @@ protect.sabzgoltab.com
 protect.theresortweddings.com
 protect2.fireeye.com
 protection-newpayee-halifax.com
-protection-step-3368246598213003.tk
 protection-step-3368246598213004.tk
 protection-step-3368246598213010.tk
 protectstandards.com
@@ -3971,6 +3980,7 @@ rotf.lol
 rotimi.pandaform.com
 rotseezunft.ch.tcorner.fr
 roundcube-asia.cc
+roundcube-production-cf.tx1.mailhostbox.com
 roupakids.blogspot.com
 royalpostcards.be
 rozbij-bank.click
@@ -4433,7 +4443,6 @@ ssbucketbiryaniuae.com
 ssdhuxfo.mortgageunderwriter.net
 sswebmail-4w5twsr.web.app
 staging.chlc3.com
-staging.rajavara.com
 staledramaticbudgetrange.resultboxxx.repl.co
 starlangsb.com
 starlingbankplc.com
@@ -4493,7 +4502,6 @@ stylesbyaranda.com
 stylifehomedecors.com
 sub4sub.co
 subdomainnet1.byethost13.com
-submit-form.com
 submitreview.com
 successgroup.org
 succvirtl.com
@@ -4935,6 +4943,7 @@ verificalngdirect.netsons.org
 verificar-7482376.vzpla.net
 verification-orange0.yolasite.com
 verification.page.home.support.app-netflix.com.mavhcodigital.com
+verification.sabahnews.net
 verificationmessage.blob.core.windows.net
 verifikasi-identitas527.webnode.com
 verifikasiidnew.webnode.com
@@ -5029,6 +5038,7 @@ walletconnect.is
 walletconnectsecure.com
 walletconnectservices.net
 wallieget.com
+walmartgift-balance.info
 wang-total.mykajabi.com
 warningshadows.org
 warpromerica.byethost33.com
@@ -5236,7 +5246,6 @@ www.amozan-co.shop
 www.amozan-hm.shop
 www.amzon-uz1.shop
 www.anabolic-online.com
-www.anazmo-na.shop
 www.anildo-motta.com
 www.anjuman-e-burhani.org
 www.anonzon.w-jp.shop
@@ -5306,6 +5315,7 @@ www.brooks-club.top
 www.brooks-feelbm.top
 www.brooks-ghost.top
 www.brooks-laufschuhe.de
+www.brooks-mainport.shop
 www.brooks-massage.top
 www.brooks-mesport.top
 www.brooks-outlet.com
@@ -5332,7 +5342,6 @@ www.brooksell.top
 www.brooksjp.com
 www.brooksmovement.club
 www.brooksmovement.top
-www.brooksneaker.online
 www.brooksneaker.top
 www.brooksport.asia
 www.brooksport.top
@@ -5435,7 +5444,6 @@ www.emeraldtextiles.pk
 www.empresas-lnterlbnlk-pe.com
 www.empresas.netinterbank.interbol-portal.com
 www.enbolivia.com
-www.energetyczna.link
 www.entreobras.com.ar
 www.ephistory.com
 www.eposcard.vicosc.club
