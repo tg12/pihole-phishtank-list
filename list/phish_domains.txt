@@ -440,7 +440,6 @@ amazon.card-3taikai0.net
 amazon.card-4taikai0.net
 amazon.card-nm.tech
 amazon.card-nm.xyz
-amazon.card-vb.xyz
 amazon.card0-2taikai.com
 amazon.click-cosme.net
 amazon.click-cosme1.net
@@ -449,6 +448,7 @@ amazon.click-cosme3.net
 amazon.click-cosme4.net
 amazon.click-mercari2.com
 amazon.click-mercari2.net
+amazon.click-mercari3.net
 amazon.fdjtr.cn
 amazon.hzjrf.cn
 amazon.jixorel.cn
@@ -930,6 +930,7 @@ bhfurniture.com.vn
 biblio-emi.md
 bibwebshop.com
 bicicentroslezama.com
+bidizaynet.com
 bienvenuesoranges.weebly.com
 billing-errorhelp.com
 billingfailure-o2.com
@@ -2354,8 +2355,6 @@ honeygarden.in
 honeyhyper.com
 honnypower.ddns.net
 hopeforfuture.org.in
-hoperebhfb.com
-horizon-zero-dawn-the-game.ru
 horosho.house
 hospedariazemaria.com
 hostarctica.com
@@ -2422,7 +2421,6 @@ hwzyw.csb.app
 hydratrader.com
 hyperurl.co
 hzibupigbnrtqezn-dot-sunlit-center-322513-556drtgf4.oa.r.appspot.com
-hzqhkviban.duckdns.org
 i-ask332.dga.jp
 i-kiwi.com.ua
 i.gal
@@ -2825,7 +2823,6 @@ lindyandfriends.net
 line-hg8q7sw0i.carolynsteele.ca
 linesoe.github.io
 lingerieangel.cm
-link-grup-bkp-wa.duckdns.org
 link-grup-bokep-new-agustus.duckdns.org
 link.do
 link.upnyk.ac.id
@@ -3094,7 +3091,6 @@ meeting-23900123090123.bitbucket.io
 megacredi.com
 megasolar.lk
 mein.gebuhrenfrei.com
-meine2307201.flywheelsites.com
 meinkonto-kontrol24.blogspot.com
 mekelanmlock.byethost9.com
 melbyrdrocks.com
@@ -3618,7 +3614,6 @@ orange-security.cloud.coreoz.com
 orange.fr-client-espacev3.cf
 orange.fr-client-espacev4.cf
 orange.fr-clientespace.gq
-orange.fr-espaceloginv1.ga
 orange.fr-lmportant.ml
 orange.iobeya.com
 orange624.yolasite.com
@@ -4523,7 +4518,6 @@ smbc.card-ij.net
 smbc.card-ij.xyz
 smbc.card-iu.xyz
 smbc.card-mnb.net
-smbc.card-mnb.tokyo
 smbc.card-mnb.work
 smbc.card-sax.cloud
 smbc.card-sax.club
@@ -4776,7 +4770,6 @@ sweetb34rokacik.ru
 swiftpay.pro
 swisscom.myfreesites.net
 switch.com.kw
-sylha-wilsleur.wixsite.com
 sylviamclain-my.sharepoint.com
 syncwalletlive.net
 syromalabarbrisbanesouth.org.au
@@ -5176,10 +5169,8 @@ vevobahissguncel.blogspot.com
 vevobahsgirisim.blogspot.com
 vevoobahis.blogspot.com
 vfr1.22web.org
-vgsywqjrpb.duckdns.org
 vhs.link
 viabcpzoniasegurabeta.link
-vialbcpverificaronline.medic-asd.com
 viamobte.blogspot.com
 viandjo.com
 video-tantetiktok.duckdns.org
@@ -6222,7 +6213,6 @@ xrxh1.mjt.lu
 xrxh2.mjt.lu
 xrxhl.mjt.lu
 xsop5vp0rfd.typeform.com
-xtanteviral.duckdns.org
 xtbnkpro.hostfree.pw
 xtio.ch
 xtw42.mjt.lu
