@@ -439,7 +439,6 @@ amazon.0click-myinfo1.com
 amazon.0click-myinfo3.net
 amazon.bugtue.club
 amazon.card-1taikai0.net
-amazon.card-3taikai0.net
 amazon.card-4taikai0.net
 amazon.card-nm.tech
 amazon.card-nm.xyz
@@ -469,7 +468,6 @@ amazony.co.jp.wdmtgcm.asia
 amazoo.gesang.org.cn
 amazooaon.jp.nqhhjdi.cn
 amazooaon.jp.t9gd9o1.cn
-amazun.qupoe.xyz
 amazunm.poismaf.club
 amber.com.ph
 ambientaris.com
@@ -1076,7 +1074,6 @@ c6ebl792.caspio.com
 c6ebv708.caspio.com
 c7811.wv2.masterbase.com
 ca82416.tmweb.ru
-caauthent2.temp.swtest.ru
 cabconnect.com.au
 cacavaxisi.duckdns.org
 cache.nebula.phx3.secureserver.net
@@ -2516,7 +2513,6 @@ inpost-order.pl-id98638096.xyz
 inpost.id-9031.com
 inpost.pl-getpaymentto.site
 inpost.pl-transpayingtrans.site
-inpost.pl.secure-dostawa.bar
 inps-ep.com
 insomniadesignn.com
 instab.github.io
@@ -2690,7 +2686,6 @@ kashmir-packages.com
 kasparov.co.uk
 katmanpainting.com
 katowlce.ru
-kavirajventures.com
 kbl-ltd.co.jp
 kblessedmom.com.np
 kbx1orln7nj.typeform.com
@@ -2699,6 +2694,7 @@ kecbearings.com
 kecmanijada.com
 keela24hr.com
 keepspiritdesign.com
+kejari-acehbesar.kejaksaan.go.id
 kelpiesinc.com
 ken.kulaklikdergisi.com
 kenbanco.co.ke
@@ -2830,7 +2826,6 @@ liberar.ru
 library.foraqsa.com
 lichtetviet.com
 lifeiswhatyoumakeofit.com
-lifeoperate.com
 lihi1.cc
 lihi3.cc
 lihi3.com
@@ -3186,7 +3181,6 @@ microuuy.ultimatefreehost.in
 microverifylink.github.io
 micuenta01.github.io
 midaweb.be
-mideueastern.one
 midnightluna1.typeform.com
 midshopping.ro
 miecompany.8b.io
@@ -3554,12 +3548,10 @@ olx-pl.reg-g.click
 olx.h-pays.site
 olx.pl-basewertyn.pw
 olx.pl-bbuyitems.site
-olx.pl-buytransitems.site
 olx.pl-byyingbutfor.site
 olx.pl-getmyitemsfor.site
 olx.pl-ggotranstobuyitems.site
 olx.pl-itemsbuycom.site
-olx.pl.paysinfo.me
 olx.primind-banii.info
 olx.rwpay.ru
 olx.xplata24.info
@@ -3877,7 +3869,6 @@ pocketweb10.web.app
 poczta-order.pl-id01206232.xyz
 poczta-order.pl-id26706867.xyz
 poczta-order.pl-id30850433.xyz
-poczta-order.pl-id55035541.xyz
 pocztowypl.com
 podpiska-darom.ru
 pokajca.web.app
@@ -3891,7 +3882,6 @@ pomoc.o2.pl
 ponmdhinhfb.com
 pontofrio.webpremios.com.br
 pope0w.webwave.dev
-portal.hardwarecheck.net
 portal.mailsphere.co.uk
 portal57406531456576.weeblysite.com
 portale.privati.info.softeapp.com
@@ -4052,7 +4042,6 @@ rahaerh.rasafwaf.xyz
 rajwebtechnology.com
 raktraphyp.byethost7.com
 rakuten.no.alert.org.cn
-rakutoni.jp.amxnieor.com
 ramgarhiamatrimonial.ca
 ramsesramos.ramurai.com
 rapidrecognition.co.uk
@@ -4081,7 +4070,6 @@ realmoneysend.com
 reauthenticate-walletbot.com
 rebelution-pageonly-522879861359801.tk
 rebelution-pageonly-522879861359803.tk
-rebelution-pageonly-522879861359804.tk
 rebelution-pageonly-522879861359805.tk
 rebelution-pageonly-522879861359807.tk
 rebrand.ly
@@ -4538,7 +4526,6 @@ smbc.card-dc.work
 smbc.card-ii.tokyo
 smbc.card-ij.jp
 smbc.card-ij.net
-smbc.card-ij.xyz
 smbc.card-iu.xyz
 smbc.card-mnb.net
 smbc.card-sax.cloud
@@ -4657,7 +4644,6 @@ srnbc-card.com.a2sab.cn
 srnbc-card.com.afjjyr.shop
 srnbc-card.com.cgkbld.bar
 srnbc-card.com.dgnbll.bar
-srnbc-card.com.gcgzhr.bar
 srnbc-card.com.gchwhw.bar
 srnbc-card.com.rghdsw.shop
 srnbc-card.com.vgomkm.bar
@@ -4953,7 +4939,6 @@ tpp1.servehttp.com
 tpq74.codesandbox.io
 tpservices.runescape.com-nu.ru
 tr.im
-track-updatetracking.com
 track.drerries.com
 track.simstricksclicks.com
 tracking.gobelets.info
@@ -5232,7 +5217,6 @@ votre-espace-8f49d5.ingress-earth.easywp.com
 votre.service.client.forfait.orange.mobile.travelforever.co.uk
 vpapara.com
 vps41123.inmotionhosting.com
-vqqgnirxat.duckdns.org
 vqs.org.au
 vrbe.in
 vt3pa0.webwave.dev
@@ -5770,6 +5754,7 @@ www.laibia.com
 www.lancces.com.br
 www.lasaniburger.com
 www.lasertec-mi.com
+www.lease.cash
 www.leboncoinsecurepaiement.fr
 www.legalshield.com_client-authorize-id.2UVNa-NOiWm-BOP7L-IDjvr-KZK8U.bursavebiz.com
 www.leitersadvogados.com.br
@@ -6163,7 +6148,6 @@ www3.jresat-co-jp-crad-sreiclist-viewtens-login.az0o96.cn
 www3.jresat-co-jp-crad-sreiclist-viewtens-login.cto7xf8.cn
 www3.sndc-crad-nem-inedx.b0mc9kq.cn
 www4.sndc-crad-nem-inedx.s7akn0z.cn
-www4billing-irs.x24hr.com
 www4payment-irs.x24hr.com
 www5.sndc-crad-nem-inedx.rlfrjwgf.cn
 www6.sndc-crad-nem-inedx.cgdim0d.cn
