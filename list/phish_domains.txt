@@ -270,6 +270,7 @@ admin.hostpoint-ch-customer.auth-1d7eab1e.budgetsportkleding.nl
 admin.ipaoo.fr
 admin.sitesumo.com
 adminpostalessl.zyrosite.com
+adminservermail.godaddysites.com
 adminsupportofficontacte.s3.ap.cloud-object-storage.appdomain.cloud
 adpunemploymentclaims.sharefile.com
 ads-google-think.blogspot.com
@@ -348,7 +349,6 @@ allegro-order.pl-id99297107.xyz
 allegro.qumucloud.com
 allegrolokalnie.pl-buyitemsforto.site
 allegrolokalnie.pl-fforbuyitems.pw
-allegrolokalnie.pl-transitto.site
 alliance4consumersusa.org
 allianzbankmypostweb.datlas.it
 allweednedislove.byethost6.com
@@ -403,7 +403,6 @@ amazom.ocxgls.shop
 amazom.rfwcr.bar
 amazom.rtnhp.bar
 amazom.stncnw.bar
-amazom.tsmoal.shop
 amazom.ueomwn.shop
 amazon-co-jp.wzq997.top
 amazon-co-jp.youtian8332.vip
@@ -414,7 +413,6 @@ amazon-jo.icu
 amazon.bugtue.club
 amazon.card-ab.info
 amazon.card-ab.net
-amazon.card-ab.site
 amazon.card-as.club
 amazon.card-c.club
 amazon.card-jui.work
@@ -536,7 +534,6 @@ annzon-qdyfv-co-jp.nbvma.top
 annzon-qsfin-co-jp.zbcmg.buzz
 annzon-srdea-co-jp.uftsd.top
 annzon-vfxoa-co-jp.mnsre.top
-annzon-vipsf-co-jp.fmnxe.top
 annzon-vjgdw-co-jp.bgdis.buzz
 annzon-vnctsf-co-jp.dhfoi.top
 annzon-vngdiu-co-jp.jsnct.top
@@ -931,7 +928,6 @@ bkproducts.in
 bksengineers.com
 blanchevetements.com
 bliiss.shop
-blissfulhomeng.com
 blocks.rn86.ru
 blog.cotiabank.paypal-login.us
 blog.fatimaesportes.com.br
@@ -1448,6 +1444,7 @@ dgfchdjwcf.zyrosite.com
 dgsols.com
 dhakedcart.com
 dhl-ru.com
+dhl.oplata-order.store
 dhl.recruitmentplatform.com
 dhl4you.lt
 dhlgpi.com
@@ -1508,7 +1505,6 @@ docomovtjg.duckdns.org
 docomoweyr.duckdns.org
 docomowkei.duckdns.org
 docomoxevr.duckdns.org
-docomoxuwg.duckdns.org
 docomozcry.duckdns.org
 docomozoat.duckdns.org
 docs.revv.so
@@ -1959,7 +1955,6 @@ g-mtcc.com
 gabung-grub-mabar-notnot2021.duckdns.org
 gabungg-gruppwhattsapp18.ftp1.biz
 gabunggrub-efdewe.duckdns.org
-gaintboys.weebly.com
 gajaraet.com
 galcbheoo9.byethost33.com
 galiciabankimg.ihostfull.com
@@ -2130,7 +2125,6 @@ gwred.4ik87425pj-354refd.workers.dev
 gymathonfitness.com
 gymsozluk.com
 gz32tf89tx00xz.byethost11.com
-h1aktivservizsupport.flywheelsites.com
 h5brzd.webwave.dev
 ha.micesrunescape.com-we.ru
 habibassociatesbd.com
@@ -2365,16 +2359,19 @@ inno.surf
 innoaura.com
 inpost-d.id-3485.me
 inpost-k.id-5370.me
+inpost-order.pl-id03224250.xyz
 inpost-order.pl-id04685235.xyz
 inpost-order.pl-id15854068.xyz
 inpost-order.pl-id36496090.xyz
 inpost-order.pl-id51607747.xyz
+inpost-order.pl-id51905422.xyz
 inpost-order.pl-id56849288.xyz
 inpost-order.pl-id59320606.xyz
 inpost-order.pl-id74480973.xyz
 inpost-order.pl-id99297107.xyz
 inpost-y.id-5948.com
 inpost.pl-comtransbuy.site
+inpost.pl-getsetforit.pw
 inpost.pl-optitempay.pw
 inpost.pl-transpayingtrans.site
 inps-ep.com
@@ -2477,7 +2474,6 @@ jbfzfd.tk
 jbshtl.secure52serv.com
 jccstl-my.sharepoint.com
 jcmitalia.it
-jcnpack.com
 jeffreybcam.net
 jenniangel.vzpla.net
 jepaiemesach.com
@@ -3269,7 +3265,6 @@ njolfs.hyperphp.com
 njpxyrtzsusjadkwwcmczhbcrpscztqacwxgkznq.3hhjdc.cn
 njxzhf.ml
 nmessagerie.odoo.com
-nmxbzfm.tk
 nmzxbf.tk
 nomehold-gricco3.byethost7.com
 nonstop-ks.com
@@ -3388,10 +3383,12 @@ olx-pl-ubu.id-9436.me
 olx-pl.complete-d.info
 olx-pl.reg-g.click
 olx.pay09.info
+olx.pl-getsetforit.pw
 olx.pl-itemsbuycom.site
 olx.pl-transitfor.pw
 olx.pl.payingtransscom.pw
 olx.rwpay.ru
+olxpl.id8481.ru
 olxpl.info-24service.net
 olxpraca.pl
 olxrcey.ml
@@ -3503,7 +3500,6 @@ ouraring-my.sharepoint.com
 ourevolution.com
 ourfaceboook.weebly.com
 ourlovmess.wordpress.com
-oustourawahdiltd.cmail19.com
 outlook12861.activehosted.com
 outlook1541489.webcindario.com
 outlookcom119.yolasite.com
@@ -3711,6 +3707,7 @@ poczta-order.pl-id01206232.xyz
 poczta-order.pl-id04685235.xyz
 poczta-order.pl-id51378968.xyz
 poczta-order.pl-id66463009.xyz
+poczta-order.pl-id82768571.xyz
 pocztowypl.com
 podpiska-darom.ru
 pokajca.web.app
@@ -3764,7 +3761,6 @@ prdqonl.cluster030.hosting.ovh.net
 pre-es-elearning-repsol.global-holdings.eu
 prepaidcardprocess.com
 preppingconfidence.com
-pressurevariable.com
 preventsenior.com.br.cutercounter.com
 prikany.com
 printtoner.com.mx
@@ -4094,7 +4090,6 @@ sbi.mx
 sbmo1d75e82ce3534fb4d2c8b4b.web.app
 sbpichinchaol.2host.in
 sbsaa17de.flywheelsites.com
-sbscr54125dede.flywheelsites.com
 sc0714e7134.byethost11.com
 scb9813h918fh9831821yh.pefecim563-oiuyt-oijh.workers.dev
 scgrotto.org
@@ -4168,7 +4163,6 @@ seenpichinchaot.2host.in
 segtrackba.com.br
 seguranca-online.byethost11.com
 seguridad27.byethost18.com
-seguridadar7912.byethost9.com
 seguridadba.byethost6.com
 seguridadecuador.byethost17.com
 seguridadi0001.byethost3.com
@@ -4244,6 +4238,7 @@ settlementsclaims.life
 settlementzclaim.com
 setupdirectory.com
 setupmynorton.square.site
+seventapmeme.weebly.com
 sevoudryserviciobomail.dudaone.com
 sfrpanel.lws.fr
 sftp.usin.com
@@ -4590,6 +4585,7 @@ t.marketing1.william-reed.com
 t.mktla.com
 tabaccheriadelborgo.net
 tabitapeixoto.com
+tabloided.com
 taengball.co
 taijishentie.com
 taimitaivas.fi
@@ -4857,7 +4853,6 @@ unregister-device-seclloyd.com
 unregpayee-lb.com
 uofc-my.sharepoint.com
 update-account-instagram.idigitalzone.com
-update-billing.s0c1.co
 update-cyxhjas23qjhk.de
 update-officeinfo.finecashflow.com
 update.fastestwebspeed.net
@@ -4981,6 +4976,7 @@ vmi454420.contaboserver.net
 vmospi111.freecluster.eu
 vocalcoachingbysloane.com
 vodafone.account-payments.com
+vodafone.add-billing.com
 vodafone.bill1820.com
 vodafone.co.uk-myebill.com
 vodafone.ebill-update.com
@@ -5180,6 +5176,7 @@ www.a-q-f.com
 www.aalfin.com
 www.abszolutauto.hu
 www.accountsecuritygoogle.com
+www.acrosstheuniverse.online
 www.advent.ist
 www.adzbill.in
 www.aenth.com
@@ -5225,7 +5222,6 @@ www.animagineer.com
 www.anthonyajohnson.com
 www.aocmom.com
 www.apkandroid.ru
-www.app.alertas-online-lnterbarnk.xyz
 www.app.n26.com.sicurezzadeldati.com
 www.appcefseguros.me
 www.appurl.io
@@ -5812,7 +5808,6 @@ www.tanias-accounting.co.za
 www.tecsuport.com.br
 www.telexaempresa.com
 www.texasfreedomrun.com
-www.thebrooks-shop.top
 www.thefocaltherapyfoundation.org
 www.thegentscloset.com
 www.thenine9.com
@@ -6007,7 +6002,6 @@ y3s2ye.webwave.dev
 y768766y.byethost6.com
 yahoos-initial-project-cf784a.webflow.io
 yairix.github.io
-yaksnak.co.uk
 yakutcement.ru
 yape.greenter.dev
 yashengineers.co.in
@@ -6022,7 +6016,6 @@ yodo-baihsi.riswuq.cn
 yogislut.com
 yolindafamilydentistry.com
 youngil.co.kr
-your-packagehelp.com
 yourdeathstar.com
 youssef-gerges.github.io
 youtudaysmensfoo.byethost31.com
