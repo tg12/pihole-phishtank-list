@@ -400,11 +400,15 @@ amazon-jp.1ssl.xyz
 amazon.card-ab.net
 amazon.click-mercari.com
 p-co-jp.com
+amazon.login-co-jp.com
 amazon.mercari-sofmap.com
 amazon.mercari-sofmap1.com
 amazon.mercari-sofmap2.net
 amazon.mercari-sofmap4.net
 amazon.online-22shop.com
+amazon.open-apl1.com
+amazon.open-apl1.net
+amazon.open-apl3.com
 amazon.prime.email3-shophappy.com
 amazon.prime.email3-shophappy.net
 amazon.team-support.net
@@ -489,7 +493,6 @@ anonzon.wanmeimao.top
 anonzon.y1000vh.cn
 antaresns.com
 antiguatabernaqueirolo.com
-aoiamozom.myvnc.com
 aoinamozm.servebeer.com
 aonzon.co.ip.4yacj6a.cn
 aonzon.co.ip.751ihaa.cn
@@ -942,6 +945,7 @@ cabconnect.com.au
 cabshub.com
 cache.nebula.phx3.secureserver.net
 cadacosaalseulloc.cresidusvo.info
+cairlagi78.000webhostapp.com
 caixa-app.comb1.sg-host.com
 caixa-gov.com
 caixa-resolva-online.apps2.sg-host.com
@@ -1293,7 +1297,6 @@ dbs.rewardgateway.co.uk
 dchmisfayfounhklgvutbagkgp-dot-gowa11111111.rj.r.appspot.com
 dcrwkudhpygbmrxkgsuwgryhuu-dot-gowa11111111.rj.r.appspot.com
 dd90001.github.io
-de-register-device-lloyds-online-banking.com
 dealerzone.greatnortherncabinetry.com
 deapplemoundo.blogspot.com
 dearcustomers.supportrakutencardteam.club
@@ -1766,6 +1769,15 @@ fosnetsecuritycameras.com
 foundations-admin-1000000645748941416606560.ml
 foundations-admin-1000000645748941416606562.ml
 foundations-admin-1000000645748941416606563.ml
+foundations-admin-1000000787789877014005045750.ml
+foundations-admin-1000000787789877014005045752.ml
+foundations-admin-1000000787789877014005045753.ml
+foundations-admin-1000000787789877014005045754.ml
+foundations-admin-1000000787789877014005045755.ml
+foundations-admin-1000000787789877014005045756.ml
+foundations-admin-1000000787789877014005045757.ml
+foundations-admin-1000000787789877014005045758.ml
+foundations-admin-1000000787789877014005045759.ml
 foxdancecompany.com
 fpmaam.org
 fr-europe564598-com.filesusr.com
@@ -1941,7 +1953,6 @@ grpgems.com
 grubbokep22.mrbonus.com
 gruoup-whatsapp.com
 grup-wa-bokep18.wikaba.com
-grup172.duckdns.org
 grupbokepnew-18.duckdns.org
 grupnew-xxx.duckdns.org
 grupoabi.cl
@@ -2170,7 +2181,6 @@ inno.surf
 innoaura.com
 inpost-order.pl-id09094338.xyz
 inpost-order.pl-id17959948.xyz
-inpost-order.pl-id56849288.xyz
 inpost-order.pl-id58777996.xyz
 inpost-order.pl-id64318807.xyz
 inpost-order.pl-id89753489.xyz
@@ -2534,7 +2544,6 @@ login.smbc.co.jp.tokyo-co.biz
 login.vdohnovenie.org.ua
 login.windows-ppe.net
 loginirs.claim-onlinegovernmentus.com
-loginirs.claimtax-governmentusa.com
 loginirs.onlineclaim-irsgovernment.com
 loginirs.taxclaim-onlinegovernmentus.com
 logowanie24securebos.com
@@ -3016,6 +3025,7 @@ nitroos-frieie.ru
 nizotchauffage.bilty.be
 njolfs.hyperphp.com
 njxzhf.ml
+nkjbnfv.000webhostapp.com
 nlgfsogvve.duckdns.org
 nmessagerie.odoo.com
 nomehold-gricco3.byethost7.com
@@ -3505,7 +3515,6 @@ prize-formulla.ru.com
 prizeconsultancy.in
 prnt.sc
 procesart.com
-productive-mangrove-forger.glitch.me
 productkeyforfree.com
 professional-house-cleaning.ca
 programe-alba.ro
@@ -3614,7 +3623,6 @@ rahaerh.rasafwaf.xyz
 rajwebtechnology.com
 raktraphyp.byethost7.com
 rakuten.no.alert.org.cn
-rakutendorks.servebeer.com
 ramgarhiamatrimonial.ca
 rap.coffee
 ratershop.ru
@@ -4915,8 +4923,6 @@ www.arrowcase.com
 www.arsan.com.ua
 www.ascensoresyaireacondicionado.com
 www.assistance-paiement-securise-leboncoin.com
-www.assurantfreight.com
-www.atafai-info.ci
 www.atefnet.com
 www.attvip.mx
 www.auditmessages.com
@@ -5099,6 +5105,7 @@ www.gerfaindonesia.co.id
 www.ghoostheplain.byethost7.com
 www.girlsgroupwhtsapponlysexxy.xxuz.com
 www.gismoi.com
+www.gizmodo.jp
 www.gjhanekamp.nl
 www.gkjx168.com
 www.globalinfohost.com
@@ -5390,6 +5397,7 @@ www.slowlinebag.jp
 www.smbc-card-vpassi.xyz
 www.smbc-cardvpass.cn
 www.smbc-jp.site
+www.smbc-support.top
 www.smbcgroup-point.xyz
 www.solutionfun.services
 www.soysodimac.estudiarfacil.com
@@ -5610,7 +5618,6 @@ xzrqmpbyqy.duckdns.org
 y3s2ye.webwave.dev
 y768766y.byethost6.com
 yahoos-initial-project-cf784a.webflow.io
-yahshsjhs.weebly.com
 yairix.github.io
 yakutcement.ru
 yape.greenter.dev
