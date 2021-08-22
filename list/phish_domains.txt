@@ -1384,7 +1384,6 @@ dpd-confirm.com
 dpd-redelivery-uk.com
 dpd.delivery2le.com
 dpd.delivery3fl.com
-dpd.delivery7hy6.com
 dpd.recover-delivery.com
 dpd.redelivery-l2a.com
 dpdlocal.special-parcel0x21-reschedule.com
@@ -1396,7 +1395,6 @@ dresstoimpress.co.in
 drive.google.com.pdfdocument.bcuworks.com
 driverschoice.sg
 drivingschoolglasgow.co.uk
-dronesforhumanity.co.ke
 drumairabubakar.com
 ds.kralenhuys.nl
 ds7.main.jp
@@ -1830,7 +1828,6 @@ generationalkidz.com
 genie-alba.firebaseapp.com
 gentscloset.com
 gerfaindonesia.co.id
-germano.it
 gestacultura.com
 gestoriadecredito.com.mx
 getactive365.com
@@ -2477,13 +2474,11 @@ lloydsbank.secure-personal-device-login.com
 lloyduk-newdevice-registered-online.com
 lloyduk-online.com
 lms.ozyegin.edu.tr
-lmtwbdgksq.duckdns.org
 lnayotrlpf.duckdns.org
 lnk.pmlti-etai-2.ovh
 
 lnkmeup.com
 lnstalam.eu
-loading-prog.000webhostapp.com
 loaqyafckiduqgxidlhebxkvlu-dot-goff039302032323.rj.r.appspot.com
 local.bitz.co.za
 localbay.000webhostapp.com
@@ -3087,7 +3082,6 @@ olx-group.com
 olx-order.pl-id67987272.xyz
 olx-pl-konto-ref.com
 olx-pl.se-pay.info
-olx.pay09.info
 olx.pay14.info
 olx.pay29.info
 olx.pay32.info
@@ -4226,7 +4220,6 @@ support-security.paypal.com.komamen.com
 support-verify-my-newpayments.com
 support.orderup.net.au
 supportdomainshstingsecityemail.top
-supportpageautenticatoraccounts.ga
 supremenet4555.ultimatefreehost.in
 surveyheart.com
 susanlynnepeters.com
@@ -4695,7 +4688,6 @@ webbt.godaddysites.com
 webbyline.com
 webcom-rs.000webhostapp.com
 webdatamltrainingdiag842.blob.core.windows.net
-webdemoapp.com
 webexert.com
 webfamily.com.br
 webfiddle.net
@@ -5467,7 +5459,6 @@ www3.jresat-co-jp-crad-sreiclist-viewtens-login.cfjdhjn.cn
 www3.jresat-co-jp-crad-sreiclist-viewtens-login.dbasgps.cn
 www3.jresat-co-jp-crad-sreiclist-viewtens-login.dqpmtpu.cn
 www4reactivebilling-irs.x24hr.com
-www4viewbilling-irs.x24hr.com
 www5.sndc-crad-nem-inedx.rlfrjwgf.cn
 wwwamazoncojp698453user661wf6safsf.makexyyong.ga
 wxcefappmobile.com
