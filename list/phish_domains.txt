@@ -394,7 +394,6 @@ amazon.open-apl1.com
 amazon.open-apl1.net
 amazon.open-apl3.com
 amazon.open-apl4.com
-amazon.open-apl5.net
 amazon.prime.email3-shophappy.com
 amazon.prime.email3-shophappy.net
 amazon.team-support.net
@@ -871,6 +870,8 @@ bonomequedoencasa.blogspot.com
 book.uz
 bookersbridge.com
 bookfbs.evangsamuelministries.com
+booking.pl-id26621338.xyz
+booking.pl-id53668806.xyz
 bosnewpaye.com
 bosquechispazos.com
 bosspandemicgrant.com
@@ -1139,7 +1140,6 @@ confirm-social-required-pages.biz.id
 confirm-unverified-pplaccount.com
 confirm-your-new-payee.com
 confirmaci0n3007.ultimatefreehost.in
-confirmacionagsv.ultimatefreehost.in
 confirmapichincha.mipropia.com
 confirmati0nwe0b.ultimatefreehost.in
 confirmationssan.hostfree.pw
@@ -1966,7 +1966,6 @@ heartbeat360media.com
 heaterintwintersz.ams3.digitaloceanspaces.com
 hebrjlndybbemhtixfyxhwefxc-dot-gowa11111111.rj.r.appspot.com
 hehreah.rasfasfg.xyz
-heighten.servebeer.com
 helloparis.co.uk
 help-dbs.net
 heppler.ch.net2care.com
@@ -2133,9 +2132,11 @@ inno.surf
 innoaura.com
 inpost-order.pl-id09094338.xyz
 inpost-order.pl-id17959948.xyz
+inpost-order.pl-id36430112.xyz
 inpost-order.pl-id64318807.xyz
 inpost-order.pl-id89753489.xyz
 inpost-pl-fyr.id-9345.me
+inpost-pl.orderforyou.pw
 inps-ep.com
 instab.github.io
 instagramcopyrightdepartmenttt.ml
@@ -2791,6 +2792,7 @@ mjhzds.tk
 mjrlrsydqf.duckdns.org
 mkengineering.com.my
 mkiuyhakauywa.blogspot.com
+mlextxdiog.duckdns.org
 mmprsatx.com
 mms.tucsonhispanicchamber.net
 mmsportable.kissr.com
@@ -2830,8 +2832,11 @@ mordovia-darts.ru
 most-afrikanist.co.za
 mosvisa24.ru
 mounmae.github.io
+mpbncqpoab.duckdns.org
+mraxgjncjm.duckdns.org
 mrb-eg.com
 mrketinginfopl.com
+mrxsuckpgl.duckdns.org
 ms-365.net
 msnserviceverifivation.wordpress.com
 msofficemessagescenter-1.mfs.gg
@@ -2864,7 +2869,6 @@ myetherwallets.kr
 myetherwollot.com
 myhealthinsquotes.com
 myhermes-redeliveryhelp.com
-myjcb050.qampoa.top
 myjobassists.com
 mykonos.cl
 mylovejar.com
@@ -2874,6 +2878,7 @@ mymonero.to
 mymweb-owner.at.ua
 myo2-billing-error83.com
 myparc.sharepoint.com
+mypcpbnazm.duckdns.org
 myqatar.com
 mysait-my.sharepoint.com
 myshedbuilder.com
@@ -3069,12 +3074,18 @@ oldschool-runescape-bondrewards.com
 olidooo.waca.tw
 olx-casa.com
 olx-group.com
+olx-order.pl-id31800870.xyz
+olx-order.pl-id33963377.xyz
+olx-order.pl-id36430112.xyz
+olx-order.pl-id65761513.xyz
 olx-order.pl-id67987272.xyz
 olx-pl-konto-ref.com
 olx-pl.se-pay.info
+olx.ct8.pl
 olx.pay14.info
 olx.pay29.info
 olx.pay32.info
+olx.pl-payfororder.pw
 olx.rwpay.ru
 olxpl.info-24service.net
 olxpraca.pl
@@ -3377,6 +3388,7 @@ po-resubmitinfo.com
 po.do
 poc-rewards-program-c2dfc.web.app
 pocomax.net
+poczta-order.pl-id03177430.xyz
 poczta-order.pl-id29435368.xyz
 poczta-order.pl-id54585658.xyz
 poczta-order.pl-id82768571.xyz
@@ -3856,7 +3868,6 @@ services.runescape.rs-a.xyz
 services.runescape.rs-aa.xyz
 services.runescape.rs-eo.xyz
 services.runescape.rs-k.xyz
-services.runescape.rs-ls.xyz
 services.runescape.rs-yy.xyz
 servicesbanpichi.ihostfull.com
 servicesonline23.byethost7.com
@@ -4649,7 +4660,6 @@ wallet-mymanero.com
 wallieget.com
 wana78420.myfreesites.net
 wang-total.mykajabi.com
-wapvvaewappsas.icu
 warningshadows.org
 warpromerica.byethost33.com
 warriorplus.com
@@ -4674,7 +4684,6 @@ webagricoapp.byethost5.com
 webbacpichi.byethost14.com
 webbansantandr.mipropia.com
 webbbb.yolasite.com
-webbt.godaddysites.com
 webbyline.com
 webcom-rs.000webhostapp.com
 webdatamltrainingdiag842.blob.core.windows.net
