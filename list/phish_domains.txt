@@ -339,6 +339,8 @@ allegro-order.pl-id62691329.xyz
 allegro-order.pl-id75786319.xyz
 allegro-order.pl-id99297107.xyz
 allegro-pl.europayments.site
+allegro.pl-order.pl-id94234918.xyz
+allegro.pl.order.pl-id53668806.xyz
 allegro.qumucloud.com
 allegrolokalnie.pl-werwersite.pw
 allianzbankmypostweb.datlas.it
@@ -370,7 +372,6 @@ amaz0n.jpoklink.ga
 amazcn.amdjlw.shop
 amazno.co.jp.zytwky.cn
 amazo.zhishuai.net.cn
-amazom.dtwclp.cn
 amazom.mhmgmm.rest
 amazom.rdohwi.shop
 amazom.tgrjlf.bar
@@ -502,7 +503,6 @@ aonzon.co.ip.4kjd5o.cn
 aonzon.co.ip.4yacj6a.cn
 aonzon.co.ip.7rqo5i.cn
 aonzon.co.ip.fnmttwg.cn
-aonzon.co.ip.yihphtc.cn
 aouzma.pcnq7s.cn
 api.bdisl.com
 api.redirects-us.com
@@ -829,6 +829,7 @@ bharattank.me
 bhavin0077.github.io
 bhd-leon-do.eshost.com.ar
 bhfurniture.com.vn
+biamam-investors.com
 biblio-emi.md
 bibwebshop.com
 bicicentroslezama.com
@@ -932,7 +933,6 @@ btupgradingsupport12.mystrikingly.com
 btveri.weebly.com
 btverification2021.mystrikingly.com
 bujikena.web.app
-bundlebridges.com
 bursaparsapart.com
 businessemailss.biz
 buyelectronicsnyc.com
@@ -1335,7 +1335,6 @@ devrising.in
 dexlerholdings.com
 dfcxvh.000webhostapp.com
 dg54asdg15g1.agilecrm.com
-dgchyhaqvu.duckdns.org
 dgfchdjwcf.zyrosite.com
 dgsols.com
 dhakedcart.com
@@ -1593,7 +1592,6 @@ eve292929.dothome.co.kr
 everd.com.br
 everestmotors.com.np
 everythingmobilelimited-my.sharepoint.com
-evil.onthewifi.com
 evotechss.com
 evouz.com.br
 ewscqoarwd.duckdns.org
@@ -3125,7 +3123,6 @@ olx.pl-id12246.pw
 olx.pl-id34214.pw
 olx.pl-payfororder.pw
 olx.pl-purchasebuy.pw
-olx.pl.dostawa-safe.xyz
 olx.rwpay.ru
 olxpl.info-24service.net
 olxpl.paybxc.com
@@ -3330,7 +3327,6 @@ paypal.ca.purchasekindle.com
 paypal.co.uk.useriazi6bqgssb.settingsppup.com
 paypal.com.0.security-confirmation.d72b69c8e37aec662e13e39d929d6e3d.as2.2u.se
 paypalvsgooglecheckout.com
-paypay-bank.co.jp.034hr4.cn
 paypay-bank.co.jp.wangbao8880078.cn
 paypay-bank.co.jp.xianchuangyoupin.cn
 paypay-banlk.allinsinc.com
@@ -4500,7 +4496,6 @@ tuffnells.intermediadev.com
 tum2propiedades.cl
 tupa90192.byethost7.com
 turboflightpros.com
-turedf.club
 tutorweb342.duckdns.org
 tvbdtkfqotcdcwquhqbyxhpeiv-dot-gowa11111111.rj.r.appspot.com
 twitteranalytis.com
@@ -5352,7 +5347,6 @@ www.rakoten.co.ip.8euq3pq.gq
 www.rakoten.co.ip.8euq3pq.ml
 www.rakoten.co.ip.w2qtjwo.cf
 www.rakuten-kfzg.xyz
-www.rakuten-support.top
 www.rakuten.co.jp.oadkxoe.cf
 www.ramgarhiamatrimonial.ca
 www.ranchosanantonio5m.com
@@ -5694,4 +5688,5 @@ zroei-pccnb.flounderfit.com
 zvuqh.app.link
 zwctfqfujzcjcbwzxajwddyeytacdhszcbwntzak.f3adre.cn
 zxczcadasdzxc54324.cf
+zzz232.wixsite.com
 vsanalytics.visualsoft.co.uk
