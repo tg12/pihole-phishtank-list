@@ -345,7 +345,6 @@ allegro-order.pl-id23489224.xyz
 allegro-order.pl-id28339078.xyz
 allegro-order.pl-id30345773.xyz
 allegro-order.pl-id62691329.xyz
-allegro-order.pl-id64015956.xyz
 allegro-order.pl-id74568714.xyz
 allegro-order.pl-id90378195.xyz
 allegro.pay47.info
@@ -413,14 +412,12 @@ amazon.aeonshop-card.tokyo
 amazon.bellne-card.net
 amazon.bellne-card2.com
 amazon.bellne-card3.com
-amazon.card3-prime.com
 amazon.co.jp-wowhwi2827wiwnwow278.com
 amazon.co.jp.amazmjp.xyz
 .ourastragaliwine.cn
 amazon.credit-evaluation2.net
 amazon.credit-evaluation6.com
 amazon.credit-evaluation7.net
-amazon.prime-card.net
 amazon.prime.email3-shophappy.net
 amazon.team-support.net
 amazon.tresasw.club
@@ -439,6 +436,7 @@ ameport.dattaweb.com
 ameport.org
 americcovrescue.com
 amerinie47.ultimatefreehost.in
+ameznobign.co.jp.ymccmk.cn
 amezon.cc.1jp.pd1t1.cn
 amguevara.com
 amidabuli.com
@@ -973,7 +971,6 @@ btildy9txt.temp.swtest.ru
 btinternet002.square.site
 btinternetcommunication.weebly.com
 btsupporttttse.weebly.com
-btsupportw.weebly.com
 btversion.weebly.com
 bujikena.web.app
 bursaparsapart.com
@@ -1463,7 +1460,6 @@ docomogxtb.duckdns.org
 docomoiean.duckdns.org
 docomoieog.duckdns.org
 docomojbkz.duckdns.org
-docomojjzk.duckdns.org
 docomokbuy.duckdns.org
 docomoljht.duckdns.org
 docomolswf.duckdns.org
@@ -2780,13 +2776,13 @@ magyarpoosta.blogspot.com
 mahoj63898.temp.swtest.ru
 maikhl0.ultimatefreehost.in
 mail-reschedules.com
+mail.aaladin.com.bd
 mail.bay81.com
 mail.bay81studios.com
 mail.blogdoaltivo.com.br
 mail.cabconnect.com.au
 mail.charperimagedesign.com
 mail.chase-idme.duckdns.org
-mail.combogro.com
 mail.confirm-unverified-pplaccount.com
 mail.connexion-service.com
 mail.conway.sa
@@ -2861,7 +2857,6 @@ marketplace-65985214.com
 marketvit.by
 markgoldbach.com
 marktinginfopl.com
-marma.es
 martinsboots.shop
 masaeilvo.com
 massaget5456hera.gb.net
@@ -2930,7 +2925,6 @@ mestertignseekjet3.blogspot.com
 mestertignseekjet4.blogspot.com
 mestertignseekjet5.blogspot.com
 mestertignseekjet6.blogspot.com
-met.gov.bs
 metaltubos.com.br
 metamask-extension.com.hsurge.com
 metamask.atomicwallet.top
@@ -3224,7 +3218,6 @@ nirvanayurvedic.com
 nitro-drop.com
 nitrofrees.ru
 nizotchauffage.bilty.be
-njboofznyw.duckdns.org
 njolfs.hyperphp.com
 njxzhf.ml
 nmessagerie.odoo.com
@@ -3488,8 +3481,6 @@ pagespolicycenter-0000053926367388.support
 pagincolm.com
 paiement-leboncoin-fr.com
 paiement-ovhcloud-com-74166556.refeel.pt
-paiement-ovhcloud-com-d9505af2.inter-pesca.com
-paiement.aps-lbc.tech
 paiementsecuriser-portefeuille-leboncoin.com
 paincurephysio.com
 paksarhadgoods.duskypot.com
@@ -3691,7 +3682,6 @@ postfincasse.000webhostapp.com
 postfincees.000webhostapp.com
 postlogistics.datacoll.net
 postoffice-company.com
-postoffice-deliveryservice.com
 postoffice-deliveryupdates.com
 postoffice-issue-redelivery.com
 postoffice-redelivery.co
@@ -3704,6 +3694,8 @@ postoffice.missed-redelivery.com
 postoffice.myparcel21-redelivery.com
 postoffice61-t.neolane.net
 postsfb-bjrc0kfq.novitium.ca
+posttfinccasse.000webhostapp.com
+posttfincesee.000webhostapp.com
 posttfincessse.000webhostapp.com
 potong.co
 poverty.monespace.net
@@ -3983,7 +3975,6 @@ rotimi.pandaform.com
 rotseezunft.ch.tcorner.fr
 roundcube-production-cf.tx1.mailhostbox.com
 roupakids.blogspot.com
-royalbill-a3y4.web.app
 royalpostcards.be
 royalwindsorpub.com
 roycevxlrw.duckdns.org
@@ -4357,6 +4348,7 @@ snapchat.accounts.com.es
 sniperdz.com
 snisfojvuv.duckdns.org
 snprobbx.pbz.r.uk.a2ip.ru
+snrfdvkwvkbsfbuafaezchhkgsgwhwfaywuxhyyn.ymxkd4.shop
 snrsystem.com
 sntuyconfgurtion.ultimatefreehost.in
 sntuyconfir.byethost13.com
@@ -4769,7 +4761,6 @@ unam.myfreesites.net
 unauthorised-login-attempt872.com
 unauthorised-request.com
 unauthorisedpayeerequest.com
-undangan-grup-efdewee2021.duckdns.org
 unef.edu.br
 unemploymentcenter.info
 unemploymentrelieffunds.com
@@ -5013,7 +5004,6 @@ webmail.njea.org
 webmail.office365.user.u1419088.cp.regruhosting.ru
 webmail.serviceunit.co.uk
 webmail.telephone-sfr.com
-webmail.webmailil.repl.co
 webmailadmin0.myfreesites.net
 weboutlookstorageaccess.activehosted.com
 webpichinchan.mipropia.com
