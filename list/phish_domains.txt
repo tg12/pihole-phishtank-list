@@ -35,8 +35,6 @@
 132artisan.lavanup.com
 13721372.32304ey.ninishop.org
 140.trendsbygwen.com
-142.97.199.35.bc.googleusercontent.com
-149.10.198.35.bc.googleusercontent.com
 154.30.211.130.bc.googleusercontent.com
 15702157022.200.ardestankimiacable.com
 15702157022.380.ardestankimiacable.com
@@ -80,6 +78,7 @@
 24a69f75.orson.website
 24protrend.ru
 25tnr.app.link
+26-leboncoin.fr
 264js.skipdns.link
 299kensingtonroad.my.webex.com
 2fa.bthei.com
@@ -94,6 +93,7 @@
 31jan.page.link
 3247628394393.mipropia.com
 32541514546544.hyperphp.com
+3342533cq.000webhostapp.com
 3456654456765.hyperphp.com
 3456765434.hyperphp.com
 3541164541541445.hyperphp.com
@@ -140,6 +140,7 @@
 51.fi
 5145365411654.hyperphp.com
 5164845456464.hyperphp.com
+53-leboncoin.fr
 538127.selcdn.ru
 54145451353212.hyperphp.com
 54154514564564.hyperphp.com
@@ -188,6 +189,7 @@
 650vm.app.link
 6574.ihostfull.com
 661544415541455.hyperphp.com
+6a42ed12.sibforms.com
 6b92529b.
 6e33r.codesandbox.io
 7002x0788s6.typeform.com
@@ -364,10 +366,11 @@ alkren.pinkmoonltd.com
 allegro-order.pl-id20355925.xyz
 allegro-order.pl-id23645637.xyz
 allegro-order.pl-id30345773.xyz
+allegro-order.pl-id59219245.xyz
 allegro-order.pl-id60385332.xyz
 allegro-order.pl-id62691329.xyz
 allegro-order.pl-id63923641.xyz
-allegro-order.pl-id74568714.xyz
+allegro-order.pl-id75399834.xyz
 allegro-order.pl-id78770015.xyz
 allegro.qumucloud.com
 allianzbankmypostweb.datlas.it
@@ -417,7 +420,6 @@ amazon-co-jp.youtian8353.vip
 amazon-co-jp.youtian8356.vip
 amazon-jo.icu
 amazon.aeonshop-card.com
-amazon.aeonshop-card.tokyo
 amazon.amjp.club
 amazon.bellne-card.net
 amazon.bellne-card2.com
@@ -427,9 +429,11 @@ amazon.co.jp-wowhwi2827wiwnwow278.com
 amazon.credit-evaluation2.net
 amazon.credit-evaluation6.com
 amazon.credit-evaluation7.net
+amazon.credit-investigation.net
 amazon.credit-investigation2.com
 amazon.credit-investigation2.net
 amazon.credit-investigation3.com
+amazon.credit-referto.net
 amazon.prime-mobilepay.com
 amazon.prime-mobilepay.net
 amazon.prime-mobilepay1.com
@@ -469,10 +473,8 @@ amouam-cc-jp.hbphotography.cn
 amoueamo-cc-jp.twcards.cn
 amoueamo.bnhrqpt.cn
 amoueaom-cc-jp.plojnd.cn
-amoueaom-cc-jp.seimkr.cn
 amoueaom-cc-jp.tpxyno.cn
 amoueaom-cc-jp.twenergy.cn
-amoueaom-cc-jp.wlmiqq.cn
 amoueaom-cc-jp.wpewgtg.cn
 amoueaom.arr2bx.cn
 amoueaom.jnqrwd.cn
@@ -544,6 +546,7 @@ apicola.eu
 apkfun.com
 apoga.net
 app-dec-access.com
+app-dkb-tan2go.org
 app-informativo-online.com
 app-seccurity-page-confirmation-25321231.njmbp1rc2u-yjr3o9xo131m.p.runcloud.link
 app-seccurity-page-confirmation-2532123234.njmbp1rc2u-yjr3o9xo131m.p.runcloud.link
@@ -649,7 +652,6 @@ attcom-prod06a.adobecqms.net
 attcustomerupgradebase.weebly.com
 attemptdetectedpayment.com
 attmailjsla.weebly.com
-attmailkhfr.weebly.com
 attmailsgdh.weebly.com
 attmailskfe.weebly.com
 attnet.hyperphp.com
@@ -947,7 +949,9 @@ bookfbs.evangsamuelministries.com
 booking-order.pl-id60385332.xyz
 booking.pl-id23645637.xyz
 booking.pl-id28339078.xyz
+booking.pl-id59219245.xyz
 booking.pl-id63458341.xyz
+booking.pl-id75399834.xyz
 booking.pl-id78770015.xyz
 booking.pl-id85761977.xyz
 booking.pl.cart-pay-s.pw
@@ -984,6 +988,7 @@ brodcast6002.blogspot.com
 bt-service.yolasite.com
 bt098.weebly.com
 btbusinessbilling.wordpress.com
+btcom-business.square.site
 btcommunicateportal.weebly.com
 btconnectdacsdesrf.yolasite.com
 btconnectfilesecurebthomelogindropboxinkupdatetdropboxpdf-logss.yolasite.com
@@ -1255,7 +1260,6 @@ corsipercorrispondenza.com
 cosemu.com
 couchpop.com
 courseworkwritingsite.com
-covid-urgent2021.moonfruit.com
 covreliefcare.com
 cox-res-login.weebly.com
 cox0.yolasite.com
@@ -1895,6 +1899,7 @@ fr.imsly.com
 fr.proxy.al
 fr3103.odoo.com
 framecapturestudio.com
+francebebe.com
 franckpilier23-my-cheetah-website-copy.cheetah.builderall.com
 franckpilier23-oro.cheetah.builderall.com
 franckpilier23-ro.cheetah.builderall.com
@@ -2307,6 +2312,7 @@ inlbox.org
 inno.surf
 innoaura.com
 inpost-mvlk.id-4365.me
+inpost-oder.pl-id01215194.xyz
 inpost-order.pl-id08870040.xyz
 inpost-order.pl-id23385855.xyz
 inpost-order.pl-id59407436.xyz
@@ -2315,6 +2321,7 @@ inpost-order.pl-id64559078.xyz
 inpost-order.pl-id78770015.xyz
 inpost-order.pl-id84013776.xyz
 inpost-order.pl-id85761977.xyz
+inpost-order.pl-id87267762.xyz
 inpost-order.pl-id90378195.xyz
 inpost-pl.id-27455.tk
 inpost-zgr.id-4398.me
@@ -2431,7 +2438,6 @@ jingrqch.mipropia.com
 jinluoluw.club
 jjfurniturerepair.com
 jjtyrbghytu.casa
-jjxqbxtjjs.duckdns.org
 jk3bt83s.r.eu-west-1.awstrack.me
 jkodyqrb.agenciafibonacci.com.br
 jlaser.ru
@@ -2496,7 +2502,6 @@ jvfinancialgroup2601.sharepoint.com
 jvjvfg.tk
 jvz7.com
 jwii.cc
-jwtbuk451.s3.ams03.cloud-object-storage.appdomain.cloud
 jyh7a.github.io
 jzofjclayw.duckdns.org
 k12inc-my.sharepoint.com
@@ -3046,6 +3051,7 @@ mohan-charity.herokuapp.com
 moj.aktiv.rs
 momentoslemadrid.com
 momentumlk.net
+mondesdedomination.com
 monexde.com
 moneyclaims-legal.aat.platform.hmcts.net
 moneyviewfinance.in
@@ -3098,6 +3104,7 @@ my2ktop.ecwid.com
 my_jcbs_co_jp.wysts222e.top
 mybank.toc.com.ec
 mybilling-paymybill.com
+mybtmail01.weebly.com
 mychairapp.com
 mycoerver.es
 myedd-profile.verifyidentity.workers.dev
@@ -3341,13 +3348,14 @@ olx-order.pl-id01215194.xyz
 olx-order.pl-id59407436.xyz
 olx-order.pl-id60385332.xyz
 olx-order.pl-id67987272.xyz
+olx-order.pl-id75399834.xyz
 olx-order.pl-id79363405.xyz
+olx-order.pl-id87267762.xyz
 olx-pl-konto-ref.com
 olx-pl.dealings-safe.icu
 olx-pl.order-protect.icu
 olx-pl.safebankpay.site
 olx-pl.sec3ds-order.icu
-olx.dostawa-safe.one
 olx.p1-gate.xyz
 olx.pay14.info
 olx.pay47.info
@@ -3426,7 +3434,6 @@ orange.iobeya.com
 orange4988.wixsite.com
 orange624.yolasite.com
 orangeconnectweb.contactin.bio
-orangemailmessagerie.moonfruit.com
 orangemessagerie.icon.io
 orangemiseajour.hostfree.pw
 orangevalechamber.com
@@ -3672,7 +3679,9 @@ poc-rewards-program-c2dfc.web.app
 poczta-order.pl-id01215194.xyz
 poczta-order.pl-id08870040.xyz
 poczta-order.pl-id23385855.xyz
+poczta-order.pl-id45384558.xyz
 poczta-order.pl-id58358971.xyz
+poczta-order.pl-id59219245.xyz
 poczta-order.pl-id59407436.xyz
 poczta-order.pl-id63923641.xyz
 poczta-order.pl-id64015956.xyz
@@ -3904,7 +3913,6 @@ reconfirm-page-1000001123456726869536006225.ml
 reconfirm-page-1000001123456726869536006226.ml
 reconfirm-page-1000001123456726869536006227.ml
 reconfirm-page-1000001123456726869536006228.ml
-reconfirm-page-1000001123456726869536006229.ml
 reconfirm-page-1000001123456726869536006230.ml
 recoveraccount0.byethost3.com
 recovered-activity-page-cover.my.id
@@ -4017,7 +4025,6 @@ roupakids.blogspot.com
 royalpostcards.be
 royalwindsorpub.com
 roycevxlrw.duckdns.org
-rphsssgzb.in
 rplg.co
 rreeufffsaussaa3.app.link
 rsdxpjtgqrzlacfootsbzolaqh-dot-gowa11111111.rj.r.appspot.com
@@ -4794,7 +4801,6 @@ ukresidential-servicesupport.com
 ultimatemotors.co.ke
 ultimateseguri9.ultimatefreehost.in
 umconnectumt-my.sharepoint.com
-umgngmxbvo.duckdns.org
 ummatamima.buet.ac.bd
 umu.link
 umzap.com
@@ -4829,7 +4835,6 @@ unregister-device-seclloyd.com
 unregpayee-lb.com
 uofc-my.sharepoint.com
 upateyouraccount.weebly.com
-upbymghopx.duckdns.org
 upcoming-filing.com
 update-account-instagram.idigitalzone.com
 update-cyxhjas23qjhk.de
@@ -5158,7 +5163,6 @@ wwproamerivto.byethost13.com
 www-046cw.skipdns.link
 www-4ng31.skipdns.link
 www-amazon.iopro.shop
-www-amozon.vipecard.shop
 www-bancaporinternet-interbark.pe-personal.com
 www-cursosdigitalesmx-com.filesusr.com
 www-dd91n.skipdns.link
@@ -5614,7 +5618,6 @@ www.navigatorthailand.com
 www.nelsonjustus.com.br
 www.netciti.id
 www.netsantanderuru0.byethost31.com
-www.newgroupwhtsapphotbertudung.zyns.com
 www.newonline-payee-restricted.com
 www.newrydramafestival.co.uk
 www.newsonghannover.org
@@ -5870,7 +5873,6 @@ www.yarwoodfineart.com
 www.yesilisten2u.com
 www.
 www.zimbabwe.net.za
-www2.micard.co.jp-app-login.4mrken.cn
 www5.sndc-crad-nem-inedx.rlfrjwgf.cn
 www_order_youdubeshi_com.moeugl.shop
 www_order_youdubeshi_com.wcxuge.shop
