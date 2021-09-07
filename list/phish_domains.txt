@@ -440,6 +440,9 @@ amazon.credit-pay3.net
 amazon.credit-pay5.net
 amazon.login-co-jp.com
 amazon.obh02o.cn
+amazon.shops-thecensus1.net
+amazon.shops-thecensus2.net
+amazon.shops-thecensus3.com
 amazon.team-support.net
 amazon.uce1j54.cn
 amazon.wjrnmyu.cn
@@ -513,7 +516,6 @@ aonzon.co.ip.4kjd5o.cn
 aonzon.co.ip.7eyd8z.cn
 aonzon.co.ip.7rqo5i.cn
 aonzon.co.ip.98q8hr.cn
-aonzon.co.ip.mcwbhx2.cn
 aonzon.co.ip.v9ta1y.cn
 apexdnegenesh.com
 api-redirect-us.com
@@ -1036,7 +1038,6 @@ btconnectfilesecurebthomelogindropboxinupdatetdropboxpdf-logss.yolasite.com
 btconnectfilesecurebthomelogindropboxlinkupdatetdropboxpdf-logs.yolasite.com
 btconnectfilesecurebthomeloginpdropboxupdatepdf-logsssss-websit.yolasite.com
 btconnectfilesecurebthomesloginpdropboxupdatepdf-logsssss-websi.yolasite.com
-btctytagxs.duckdns.org
 btggsgfsfe.duckdns.org
 btinternet002.square.site
 btsite1018.weebly.com
@@ -1046,7 +1047,6 @@ business-proposal-5.jimdosite.com
 businessemailss.biz
 buyelectronicsnyc.com
 bvdusozjtv.duckdns.org
-bwebxltrnk.duckdns.org
 bwithive.com
 bwrxcjckmc.duckdns.org
 bxjqlxevgr.duckdns.org
@@ -1871,7 +1871,6 @@ fghjr74rhudfguhtfguji.blogspot.com
 fgts2021.com
 fhhhtrfththtgr.000webhostapp.com
 fhhw1u.webwave.dev
-fidelite-formulaire.com
 fiestanube.com.ar
 fifohbibou.blogspot.com
 files.androidhd.com
@@ -4263,7 +4262,6 @@ sharepoint-upgrade.com
 shatzadcqpkkmxtinvqpwsakrm-dot-gowa11111111.rj.r.appspot.com
 shethpeb.com
 shimamurakoutaro.com
-shjgsnacionhjs.000webhostapp.com
 shopee.khogiaodien247.com
 shopeeindonesia.duckdns.org
 shopeoienbdh.com
@@ -5573,7 +5571,6 @@ www.laibia.com
 www.lancces.com.br
 www.lasertec-mi.com
 www.lazarus.co.zw
-www.lbkenlinea.com
 www.learning-academy.com.au
 www.leboncoinsecurepaiement.fr
 www.legalshield.com_client-authorize-id.2UVNa-NOiWm-BOP7L-IDjvr-KZK8U.bursavebiz.com
