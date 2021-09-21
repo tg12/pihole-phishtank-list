@@ -267,6 +267,8 @@ account-facebook.herokuapp.com
 account-impersonate-fb-1001629.web.app
 account-wetransfr-com.apkcop.top
 account.amaconcoaffirmapsingin.xyz
+account.amaconcoconfirmapsingin.xyz
+account.amazomcustomerrestrictapsingin.xyz
 account.herephyshy.info
 account.signin.totally-tubular.net
 accountliveout.freecluster.eu
@@ -328,7 +330,6 @@ aeznus.allkaanet.com
 afdfji.tk
 agapecpc.org
 agentebcp.com
-aggwani.com
 agitated-wilbur.167-71-47-103.plesk.page
 agri72.fr
 agribisnis.faperta.ulm.ac.id
@@ -375,6 +376,7 @@ aljrfu.cloudanation.com
 alkautsar.or.id
 alkawaterdiy.com
 alkren.pinkmoonltd.com
+allegro-order.pl-id08842906.xyz
 allegro-order.pl-id18445004.xyz
 allegro-order.pl-id44720800.xyz
 allegro-order.pl-id47301754.xyz
@@ -467,7 +469,6 @@ ameport.dattaweb.com
 ameport.org
 americcovrescue.com
 amerinie47.ultimatefreehost.in
-ameueaom.chwkky.cn
 ameueaom.chwykz.cn
 ameueaom.dnycnai.cn
 ameueaom.ecrajf.cn
@@ -481,7 +482,6 @@ ameueaom.s19p8i.cn
 ameueaom.sabrinasherwo3.cn
 ameueaom.shengjiazx.cn
 ameueaom.shkskt.cn
-ameueaom.spbisni.cn
 ameueaom.szceciliajuli13.cn
 ameueaom.szjamiebloome2.cn
 ameueaom.szrikoda.cn
@@ -977,7 +977,11 @@ boogeyedindignantly.info
 bookersbridge.com
 bookfbs.evangsamuelministries.com
 booking.abqarie.com
+booking.pl-id02895364.xyz
+booking.pl-id08842906.xyz
 booking.pl-id18445004.xyz
+booking.pl-id25185496.xyz
+booking.pl-id65211804.xyz
 bosnewpaye.com
 bosquechispazos.com
 bosspandemicgrant.com
@@ -1324,7 +1328,6 @@ courtcase.co.in
 coutruoms-davipluhome4.eb2a.com
 covreliefcare.com
 cox0.yolasite.com
-coxupdatepage.weebly.com
 cp45362.tmweb.ru
 cpanel.telephone-sfr.com
 cpanel.thepsychedelics.net
@@ -1362,6 +1365,7 @@ crudesoldat.com
 crypto-rewardclaimzz.tk
 csemergencylock.typeform.com
 csgo-run.info
+csgorun.pro-loginn.com
 cslanet.ghalisdestock.ma
 csss.co.jp
 ctcseligibility.com
@@ -1370,7 +1374,6 @@ cubachristianbrotherhood.org
 cuddly-langujhsdjhage.surge.sh
 cuenta0bloqueada.ultimatefreehost.in
 cuidad55.sytes.net
-culties.servehalflife.com
 cuntpunt.info
 cureakyara.com.br
 curiousawkward.xyz
@@ -1658,7 +1661,6 @@ economiaiocupacio.montcada.cat
 economicassistancerelief.xyz
 ecusltd-my.sharepoint.com
 edd-ui3.sitey.me
-eddcaprocceessingonlineclaims.weebly.com
 edgeurl.com
 edgrup-whatsap.duckdns.org
 edhf0c.webwave.dev
@@ -2198,7 +2200,6 @@ grubss-mabar-youtubers0192.duckdns.org
 gruoup-whatsapp.com
 grup-wa-bokep18.wikaba.com
 grup-wabokep2021.duckdns.org
-grupnotnotnew2.duckdns.org
 grupoabi.cl
 grupobancolombia.activaaqui.com
 grupofsp.com.br
@@ -2386,7 +2387,6 @@ ibank.qnbfinansbkonline.com
 ibelongtotheworld.com
 ibwrecadastroonline.com
 icipedudu-my.sharepoint.com
-id-ecommerce.premiacionpagos.com.sv
 idam-web-public.aat.platform.hmcts.net
 iddeev.hyperphp.com
 ideabank-logowanie.net
@@ -2446,6 +2446,8 @@ inicsido.vzpla.net
 inno.surf
 innoaura.com
 inpexcom-au.com
+inpost-order.pl-id02895364.xyz
+inpost-order.pl-id08842906.xyz
 inpost-order.pl-id11788886.xyz
 inpost-order.pl-id14276395.xyz
 inpost-order.pl-id18445004.xyz
@@ -2458,6 +2460,7 @@ inpost-order.pl-id92291091.xyz
 inpost-pay-pl.id-16459.store
 inpost-pl.id-1238722.icu
 inpost-pl.id-541232.site
+inpost-pl.id-832483.site
 inpost-pl.id-847329.pw
 inpost-pl.merchant-781.tk
 inpost.pl-info.deposit-recievment.com
@@ -2773,7 +2776,6 @@ lender.sandbox.natwest.poweredbydivido.com
 leni-pisker.byethost7.com
 lerocice1911.blogspot.com
 lesbenwelt.de
-leseditionsdumontblanc.com
 lesfreresnacash.com
 lexnotes.com.ng
 lfelelei.agilecrm.com
@@ -2966,7 +2968,6 @@ mailserver7656566.blob.core.windows.net
 mailupgrade2info.site44.com
 mailverify8.weebly.com
 mainnetconnects.com
-maiwbv.xyz
 majbert.com
 majorityclub.top
 maklononline.nutrifood.co.id
@@ -2985,7 +2986,6 @@ manager.ovh.com-levinovert.frsd.metalworks.pt
 manager.ovh.com-lnarchitecte.frsd.metalworks.pt
 manager.ovh.com-metaleo.frsd.metalworks.pt
 manager.ovh.com-nicolas-thibaud.frsd.metalworks.pt
-manager.ovh.com-radioallianceplus.frsd.metalworks.pt
 manager.ovh.com-truelove-shop.frsd.metalworks.pt
 manager.ovh.com-villa-maric.frsd.metalworks.pt
 manateetreeservice.com
@@ -3304,7 +3304,6 @@ necessitymag.com
 neckelmanns.com
 nedbank.demdex.net
 nedbankqa.flowblocks.com
-nedera.xyz
 nedirien.online
 neltfxix.blogspot.com
 nero.egybest.site
@@ -3360,7 +3359,6 @@ nizotchauffage.bilty.be
 njolfs.hyperphp.com
 njxzhf.ml
 nojima-co-jp.dljzl.top
-nojima-co-jp.mercaoair.com
 nojima-co-jp.merceair.com
 nojima-co-jp.merceari.top
 nojima-co-jp.mercnari.com
@@ -3480,6 +3478,7 @@ olx-pl.fes-pay.info
 olx-pl.id-237123.icu
 olx-pl.id-343243.space
 olx-pl.id-541232.site
+olx-pl.id-832483.site
 olx-pl.id-93729.site
 olx.paym21.info
 olx.pays30.info
@@ -3730,7 +3729,6 @@ peru.payulatam.com
 peruzonazonasegvra-bnweb29.com
 pesc.pw
 petesappliancesllc.com
-pge-newenergy-proj.info
 phc56741.wixsite.com
 phillipmill176545.clickfunnels.com
 phiphicocobella.com
@@ -3787,8 +3785,12 @@ pms-uipro.co.in
 pnrmericasnm.byethost22.com
 po.do
 poc-rewards-program-c2dfc.web.app
+poczta-order.pl-id02895364.xyz
+poczta-order.pl-id11788886.xyz
 poczta-order.pl-id18445004.xyz
+poczta-order.pl-id49212485.xyz
 poczta-order.pl-id53061369.xyz
+poczta-order.pl-id89096441.xyz
 podpiska-darom.ru
 pokajca.web.app
 polen-esquadrias.blogspot.com
@@ -3924,6 +3926,7 @@ qare.nl
 qbocd.csb.app
 qebihgo.xyz
 qlgu1.codesandbox.io
+qmpz467578679rr.000webhostapp.com
 qpladccdthtvvpig-dot-sync-request-web-support.uk.r.appspot.com
 qrew5i.tk
 qsdqsx.ns12-wistee.fr
@@ -4336,7 +4339,6 @@ siasatpak.com
 sibautomation.com
 sicherheit-spk-psd2.de
 sicherheitsicherheits.de
-sicurezza-spese.000webhostapp.com
 sicurr-mtb.com
 sicurty-login.com
 siemik.github.io
@@ -4347,7 +4349,6 @@ signin.ebay.de.whyymedia.com.au
 signmaxxgh.com
 signpainternyc.com
 siida-disperindag.kalbarprov.go.id
-sikkerhedstest.nu
 sikkertnabolag.dk
 siklus.net
 sil2.duerr-haustechnik.de
@@ -5352,7 +5353,6 @@ www.5thavegroominglounge.com
 www.a-q-f.com
 www.abszolutauto.hu
 www.acaozm.aocmzaon.com
-www.accountsecuritygoogle.com
 www.aceesn.cacrcurd.com
 www.aceocn.cacrzurd.com
 www.aceon.cacrzurd.com
@@ -5463,7 +5463,6 @@ www.brawcws.com
 www.brawrds.com
 www.broacfe.com
 www.broeaw.com
-www.brooksindiasale.net.in
 www.brookspromocje.com
 www.brookssalenz.com
 www.brooksshoessingapore.com
@@ -6107,6 +6106,7 @@ www.zmazon.et95g9.cn
 www.zmazon.ezqgl3.cn
 www.zonasegurabeta1bn.online
 www.zonasegural.bn.con.pe.rumahvitalitas.com
+www.zonaseguran1.bn.virtual.cartinperu.com
 www2-micard-co-jp.dneiess.top
 www2-micard-co-jp.jysw3.top
 www2-micard-co-jp.uc0512.top
