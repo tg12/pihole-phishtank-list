@@ -83,7 +83,6 @@
 25tnr.app.link
 264js.skipdns.link
 299kensingtonroad.my.webex.com
-2b101807454b1308db5d0692cae18391a66e2348.000webhostapp.com
 2fa.bthei.com
 2ffth.csb.app
 2muoqba.000webhostapp.com
@@ -457,10 +456,12 @@ amazon-co-jp.youtian8356.vip
 amazon-co.1asrss.cn
 amazon-co.jgdcqc.cn
 amazon-co.p3nivl0.cn
+amazon-co.rgkcbf.cn
 amazon-co.ynrkzn.cn
 amazon-co.yxrszx.cn
 amazon-jp.nllk.shop
 amazon-jp.solutions
+amazon-prime.aq03oh.cn
 amazon.co.ip.armaouc.shop
 amazon.co.jp.arnazx.shop
 .ourastragaliwine.cn
@@ -1567,7 +1568,6 @@ dlcsord-airdrop.com
 dlink.me
 dlvr.it
 dn1s29yg3m3.typeform.com
-dobomobi.xyz
 dobomobj.xyz
 dobomobk.xyz
 dobomobl.xyz
@@ -1647,7 +1647,6 @@ dvla.myvehicle-rebate.com
 dvla.support-schemeuk.com
 dwrat.andalous.org
 dwsmqrunescape.com-oo.ru
-dwuvmyonka.duckdns.org
 dwz.kr
 dydy2.app.link
 dyn.co
@@ -2535,7 +2534,6 @@ inpost-pay-pl.id-16459.store
 inpost-pl.id-1238722.icu
 inpost-pl.id-4887l0.pw
 inpost-pl.id-541232.site
-inpost-pl.id-832483.site
 inpost-pl.id-847329.pw
 inpost-pl.merchant-781.tk
 inpost-vhja.id-0390.me
@@ -2812,7 +2810,6 @@ lakp.pl
 laliquidacion.dev03.aws3.net
 lamaison.bc.ca
 lamoorespizza.com
-lamvb.czweb.org
 lano.my
 lapiraterieestla.wixsite.com
 lapostiyem.com
@@ -3410,7 +3407,6 @@ netflix-com.com
 netflix-fr-fr-navlink-connexion.trans-mea.com
 netflix.sourceaudio.com
 netflixloginhelp.com
-netflixwin.live
 netinterbank.interbansk.site
 netlana.com
 netmas.com.mx
@@ -3576,6 +3572,7 @@ olx.pays30.info
 olx.pl-id18445004.xyz
 olx.pl-paymentsget.xyz
 olx.pl.express-shop.org
+olx.pl.getmoney.xyz
 olx.pl.safedeal-click.info
 olx.rwpay.ru
 omesqiwines.de
@@ -3943,7 +3940,6 @@ prevencionvialbcpzonasegura.esc-pons.com
 prevencionvialbcpzonaseguras.esc-pons.com
 preview-doc-oicone.tk
 preview-docs-ncdps.ml
-preview-pdf-doc-ncdps.ml
 prikany.com
 primeshopee.com
 printtoner.com.mx
@@ -4365,7 +4361,6 @@ sertyxese.myfreesites.net
 serv-secured-1.com
 server0012.byethost12.com
 server003.byethost7.com
-server109526.nazwa.pl
 serverexpres0013.byethost12.com
 servernuovaintesa.com
 serversonline.i.ng
@@ -4501,7 +4496,6 @@ sklepkody.pl
 skradvanidance.business.site
 skrtysupport.com
 skymavis.help
-sl.al
 slack-redir.net
 slapcoffee.com
 slavamel.github.io
@@ -4622,7 +4616,6 @@ spinosacenter.com
 spk-bd.com
 spk-comfort.com
 spk-datenbank-spk.com
-spk-datensicherung-spk.com
 spk-easycomfort.top
 spk-filiale.com
 spk-ihrefiliale.com
@@ -4996,7 +4989,6 @@ u.japanrakutenpassdo.ml
 u.japanrakutenrpass.cf
 u.japanrakutenrpass.ga
 u.japanrakutenrpass.ml
-u.japanrankutenpart.cf
 u.japanrankutenpart.gq
 u.japanrankutenpart.ml
 u.japanrankutenpartdo.ml
@@ -5245,7 +5237,6 @@ vvpees-me-index.la0adf.cn
 vvpees-me-index.lk3nid.cn
 vvpees-me-index.lpwsv6.cn
 vvpees-me-index.qwe8ayzk.cn
-vvpees-me-index.yhdmkn.cn
 vwbank.inforia.net
 vwvvbcpi-zonasegura.com
 vxdse.myfreesites.net
@@ -5698,7 +5689,6 @@ www.etc-meisai.jp.q20cxz5.cn
 www.etc-meisai.monster
 www.etc-meisai1.buzz
 www.etc-meisai2.buzz
-www.etc-melsai.jp
 www.etc.az.moiescaicojp.com
 www.etc.c.mncsiesoai.com
 www.etc.cu.moiescaicojp.com
@@ -6211,7 +6201,6 @@ www.
 www.zimbabwe.net.za
 www.zmazon.et95g9.cn
 www.zmazon.ezqgl3.cn
-www.zonasegurabeta1bn.online
 www.zonasegurabeta1bn.site
 www.zonasegural.bn.con.pe.rumahvitalitas.com
 www.zonaseguran1.bn.virtual.cartinperu.com
