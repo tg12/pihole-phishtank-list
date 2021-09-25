@@ -277,7 +277,6 @@ accesidca.zyrosite.com
 access-admin.serveftp.com
 accessed109.dns2.us
 accestransfilboncoin.000webhostapp.com
-account-logs.000webhostapp.com
 account-wetransfr-com.apkcop.top
 account.herephyshy.info
 account.signin.totally-tubular.net
@@ -427,6 +426,7 @@ alternanetworks-my.sharepoint.com
 alumdecor.ru
 alumnimkn.ulm.ac.id
 am.mskms.top
+amacon.serviy-jp.cc
 amadata.atroteches.de
 amaeous.qwrg7.top
 amaesu.uirtnh5.top
@@ -701,6 +701,7 @@ au.rei-npo.org
 aubootlegger.com
 auduboninstitute-my.sharepoint.com
 aulavirtualecuador.com
+aupay.connectauone.top
 aupay.walleauoneauto.shop
 aupay.wallet.adminauto.shop
 aushotel.es
@@ -1048,7 +1049,6 @@ booking.pl-id32513080.xyz
 booking.pl-id65592797.xyz
 bookmytutoronline.ga
 boosted-nitro.com
-bormanmachinery.com
 bosameri.onlinebusiness.sg
 bosnewpaye.com
 bosquechispazos.com
@@ -1079,6 +1079,7 @@ brodcast6002.blogspot.com
 brownstone-wealth.com
 bruno-genthial.mykajabi.com
 bt-105198.square.site
+bt-admin.webflow.io
 bt-openreach.4747-update.com
 bt-telecommunication-102883.square.site
 bt-telecommunication-1053.square.site
@@ -1094,7 +1095,6 @@ btconnectfilesecurebthomeloginpdropboxupdatepdf-logsssss-websit.yolasite.com
 btconnectfilesecurebthomesloginpdropboxupdatepdf-logsssss-websi.yolasite.com
 btconnectloggs.weebly.com
 bthelphub.weebly.com
-btinternnet.weebly.com
 btworld.webflow.io
 budget.deltabudget.fr
 budgetbuys.co.za
@@ -1343,6 +1343,7 @@ comunicationnationalschool.blogspot.com
 comunicazioniarubait.tumblr.com
 comunity-isue-ideent-andromeda-41.web.id
 con-firma.firebaseapp.com
+con-tact.xyz
 condocopia.org
 conference.pregnacarenigeria.com
 confirm-my-newpayments.com
@@ -1367,7 +1368,6 @@ connecting-to-smtp-msonline-servers-tld.fra1.digitaloceanspaces.com
 connectvk.com
 connexion-compte-client.freeweb.pk
 connexion-service.com
-conscious-butternut-brand.glitch.me
 constitutivelystertors.info
 constructoravallereal.com
 contactmonkey.com
@@ -1404,7 +1404,6 @@ crbd.net
 crcandcrcoh.com
 create-case.com
 createchsoft.com
-creating-safepage.000webhostapp.com
 creative-console.com
 creativecombat.com
 creativeingredient.com
@@ -2018,7 +2017,6 @@ fbcom-evkmdzo8ig.streamsteam.ca
 fbcom-lkt6sgmqe.streamsteam.ca
 fbcom-pwtdp8c3i.streamsteam.ca
 fbcom-shlb2vg1hx.streamsteam.ca
-fbcom-vukuzoo3t7.streamsteam.ca
 fbcom-wtcsucu1.streamsteam.ca
 fbcom-z1tfm09d.streamsteam.ca
 fbead23swus.gb.net
@@ -2267,7 +2265,6 @@ grandmarketltd.co.uk
 graudez.com.br
 greaterlovefoundation.org
 greatmusica.com
-green-sniffer.ru
 greenclot.com
 gregmounsey.com
 gremio.net
@@ -2557,7 +2554,6 @@ inpost-order.pl-id45042177.xyz
 inpost-order.pl-id49212485.xyz
 inpost-order.pl-id50073848.xyz
 inpost-order.pl-id60554791.xyz
-inpost-order.pl-id61997903.xyz
 inpost-order.pl-id64141151.xyz
 inpost-order.pl-id69372827.xyz
 inpost-order.pl-id76514308.xyz
@@ -3172,7 +3168,6 @@ medscore.azurewebsites.net
 meeting-23900123090123.bitbucket.io
 megacredi.com
 megasolar.lk
-meicarl.jp.acnt.shop
 mein-lbb.me
 mein.de-bw-bank.com
 mein.gebuhrenfrei.com
@@ -3186,8 +3181,17 @@ menghuanchaoren.xyz
 mensajeriaexpressguatemala.com
 mental.servegame.com
 mepsijikctvssrkyubkzhrzuuq-dot-goff039302032323.rj.r.appspot.com
+meracri.mers2.com
+meracri.mers4.com
 mercari.dwaxz.com
+mercari.mers3.com
+mercari.mers5.com
+mercari.mers6.com
 mercari.merssc.com
+mercari.merux3.com
+mercari.merux4.com
+mercari.mxgs7.com
+mercari.mxgs8.com
 mercatorgloves.com
 meremanovegabana.website2.me
 mericaproafterdu.byethost6.com
@@ -3217,7 +3221,6 @@ metamask.secure-connection.org
 metamaska.pro
 metamaskservicesweb.com
 metavideos.com
-metermask.xyz
 meuacessegurccxaaiixxaa.com
 meusacessocaixas.com
 meysamweb.ir
@@ -3596,7 +3599,6 @@ olx-pl.id-38439.pw
 olx-pl.id-485854.pw
 olx-pl.id-834l783.pw
 olx-pl.id-i98332.pw
-olx-pl.kpb-pay.info
 olx.pl-id18445004.xyz
 olx.pl-id423678123.net
 olx.pl-paymentsget.xyz
@@ -3980,7 +3982,6 @@ pphwm.app.link
 ppkalqudwah.ulm.ac.id
 prdqonl.cluster030.hosting.ovh.net
 predirect.net
-prepar.servebeer.com
 preppingconfidence.com
 prevencionvialbcpzonasegura.esc-pons.com
 prevencionvialbcpzonaseguras.esc-pons.com
@@ -5197,12 +5198,10 @@ validacaixa2.blob.core.windows.net
 validate-onlinesecurity.com
 validation-newpayee.com
 validationsystem.creatorlink.net
-validator-fzkiy.run-us-west2.goorm.io
 validpuzzle.top
 validtion-accts131sd.ml
 valkiria.zorrosoluciones.com
 valocsfunes.ga
-vanklausentrust.com
 vanmarckegroup-my.sharepoint.com
 vanvleetfamilyfarm.com
 vcpjo.weblium.site
@@ -5210,6 +5209,7 @@ vechainthorconnects.net
 vegas-x.net
 vegemil.vn
 vehicam.com
+veja-pl.com
 velce.pw
 vellingekommun-my.sharepoint.com
 velvet.by
@@ -5411,7 +5411,6 @@ website--355347865560300265249-bank.business.site
 websitebouwen.net
 webstorageadm.wixsite.com
 webstories.eu
-webtransfer.swanngonorthwestregion.cf
 webuyworkshopequipment.com
 webzx.yolasite.com
 wecluihfrf-76tygh.web.app
@@ -6109,7 +6108,6 @@ www.paypal-opladen.be
 www.paypal.com.0.security-confirmation.d72b69c8e37aec662e13e39d929d6e3d.as2.2u.se
 www.paypal.com.update.service.verify.freeget.net
 www.paypalforex.co.ke
-www.paypay-net.jp
 www.perfectliker.net
 www.perfumesway.rw
 www.peronaci.it
@@ -6297,7 +6295,6 @@ www.visadpsgiftcard.com
 www.vlces.runescape.com-oa.ru
 www.walletxcons.com
 www.watan99.com
-www.web-orico.cn
 www.webfamily.com.br
 www.wellsfargo-help-center.com
 www.wellsfargos.aicsolutions.co.za
