@@ -393,6 +393,7 @@ allegro-order.pl-id08862333.xyz
 allegro-order.pl-id49214593.xyz
 allegro-order.pl-id60554791.xyz
 allegro-order.pl-id65592797.xyz
+allegro-order.pl-id66845769.xyz
 allegro-order.pl-id74829541.xyz
 allegro-order.pl-id97118124.xyz
 allegro.paym32.info
@@ -472,7 +473,6 @@ ameport.dattaweb.com
 ameport.org
 americcovrescue.com
 amerinie47.ultimatefreehost.in
-ameueaom.szjamiebloome2.cn
 ameueaom.szrikoda.cn
 ameueaom.szvernejudith2.cn
 ameueaom.tiantiangxjs18.cn
@@ -644,7 +644,6 @@ attemptdetectedpayment.com
 atthffkjfkjfff.weebly.com
 attnet.hyperphp.com
 attnet4.aidaform.com
-attonlineverify.weebly.com
 attservicesgs.heteml.net
 attverificationlinkserver.weebly.com
 atualizacao-online547864.com
@@ -909,7 +908,6 @@ bhavin0077.github.io
 bhd-leon-do.eshost.com.ar
 bhfurniture.com.vn
 bibirbajurijuri1.ga
-bibirbajurijuri3.ga
 bibirpetualang3.ml
 bibirpetualang4.ml
 bibirpetualang5.ml
@@ -986,6 +984,7 @@ boogeyedindignantly.info
 bookersbridge.com
 bookfbs.evangsamuelministries.com
 booking.abqarie.com
+booking.pl-id08862333.xyz
 booking.pl-id32513080.xyz
 booking.pl-id65592797.xyz
 booking.pl-id97118124.xyz
@@ -1030,7 +1029,9 @@ btconnectfilesecurebthomelogindropboxinupdatetdropboxpdf-logss.yolasite.com
 btconnectfilesecurebthomelogindropboxlinkupdatetdropboxpdf-logs.yolasite.com
 btconnectfilesecurebthomeloginpdropboxupdatepdf-logsssss-websit.yolasite.com
 btconnectfilesecurebthomesloginpdropboxupdatepdf-logsssss-websi.yolasite.com
+btconnectmailer.shop
 bthelphub.weebly.com
+btsernmanets.weebly.com
 budgetbuys.co.za
 buildium.com.au
 bujikena.web.app
@@ -1522,7 +1523,6 @@ dkbsicherheit.com
 dkbsicherheitsdienst.com.de
 dkdwmfteuylsitbrsfojilzhad-dot-gowa11111111.rj.r.appspot.com
 dkglobaljobs.com
-dlcsord-airdrop.com
 dlink.me
 dlvr.it
 dn1s29yg3m3.typeform.com
@@ -1887,7 +1887,6 @@ fax.gruppobiesse.it
 fb-privacy-help-10000001234598695868715.tk
 fb-privacy-help-1000011234507980591407067.tk
 fb-recovery-help-100000012345986958190.ml
-fb-security-help-10000001234598695868744.tk
 fb-security-help-10000001234598695868746.tk
 fb-security-help-10000001234598695868748.tk
 fb-security-help-10000001234598695868749.tk
@@ -2424,8 +2423,10 @@ inno.surf
 innoaura.com
 inpexcom-au.com
 inpost-order.pl-id03160710.xyz
+inpost-order.pl-id29458764.xyz
 inpost-order.pl-id30542198.xyz
 inpost-order.pl-id50073848.xyz
+inpost-order.pl-id66845769.xyz
 inpost-order.pl-id67594295.xyz
 inpost-order.pl-id76514308.xyz
 inpost-pku.id9030.me
@@ -2573,7 +2574,6 @@ join-whatsappk8wh.xxuz.com
 joingroup2.myz.info
 joingrup-whatsappbokep.duckdns.org
 joingrupwa18xnx.duckdns.org
-joingrupwhatsapp-tanteku.duckdns.org
 joinwhatsapp1.duckdns.org
 joker179.com
 joudialbarat.blogspot.com
@@ -3447,7 +3447,6 @@ olx-order.pl-id50073848.xyz
 olx-order.pl-id67594295.xyz
 olx-order.pl-id97118124.xyz
 olx-order.pl-id98463553.xyz
-olx-order.pl-id98526677.xyz
 olx-pl-konto-ref.com
 olx-pl.fes-pay.info
 olx.pl-id423678123.net
@@ -3784,6 +3783,7 @@ poc-rewards-program-c2dfc.web.app
 poczta-order.pl-id18901816.xyz
 poczta-order.pl-id29458764.xyz
 poczta-order.pl-id53061369.xyz
+poczta-order.pl-id67594295.xyz
 poczta-order.pl-id89096441.xyz
 poczta.pl-id69218566.xyz
 poczta.pl-id97118124.xyz
@@ -3826,7 +3826,6 @@ postoffice.co.uk-billing.delivery
 postoffice61-t.neolane.net
 postsfb-bjrc0kfq.novitium.ca
 pot.servehttp.com
-pover.in.net
 poverty.monespace.net
 powercase.shoplineapp.com
 powertrusion.com
@@ -4062,7 +4061,6 @@ revisioneconfigurazione-clienti.000webhostapp.com
 reward-garena-freefireff.blogspot.com
 rewindingshop.com
 rextraening.dk
-rezwanit.com
 rhinodriedfruit.co.za
 rhinomultimedia.com
 riattiva-credem.000webhostapp.com
@@ -4116,7 +4114,6 @@ rstools.club
 rudraksha-rsudraksh-rudrakshabead-rudrakshabeads.com
 ruekrew.com
 runescape-bond-event.com
-runescape-bonds-event.com
 runescapeapk.com
 runescapeservices.com
 runni24.byethost7.com
@@ -4381,6 +4378,7 @@ siphen.com
 siporados15585.blogspot.com
 sirak.se
 site-4403463-3995-6112.mystrikingly.com
+site-5666342-8194-2770.mystrikingly.com
 site9423623.92.webydo.com
 site9423773.92.webydo.com
 site9434107.92.webydo.com
@@ -4650,7 +4648,6 @@ suupernett.byethost4.com
 suuupeernet.byethost7.com
 sv.mikecrm.com
 svca.info
-svcohotmail.weebly.com
 svelte-kdy6dk.stackblitz.io
 svetikc.space
 svkmmumbai-my.sharepoint.com
@@ -4974,7 +4971,6 @@ usr.eaglecaravansaustralia.com.au
 utilizzamps.com
 uuid-validation.run-us-west2.goorm.io
 uuqcd6jmtq.stat-pulse.com
-uvar.uno
 uyafd.tk
 uytg.hyperphp.com
 uzaqztk7ovr.typeform.com
@@ -5949,7 +5945,6 @@ www.slowlinebag.jp
 www.smbc-cardvpass.cn
 www.smbc-jp.site
 www.smbc-ms.xyz
-www.smbc.cojp.supporrt.club
 www.smbcicarid-info.top
 www.smbcsafecard.com
 www.smcbc.careoed.com
