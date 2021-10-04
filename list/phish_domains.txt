@@ -413,6 +413,7 @@ allegro-igmr.pl-id19393139.xyz
 allegro-igmr.pl-id99477330.xyz
 allegro-order.pl-id49214593.xyz
 allegro-order.pl-id49562427.xyz
+allegro.billing05.online
 allegro.qumucloud.com
 allianzbankmypostweb.datlas.it
 allmeinllc.co
@@ -1533,7 +1534,6 @@ designandcraftsmanship.com
 designvision.com.bd
 detect-new-payee.com
 deutsche-waerme.de
-dev-junhas.pantheonsite.io
 dev-nadaj.orlenpaczka.ce5.pl
 dev-paypal-services69.pantheonsite.io
 dev-secu-credit-union.pantheonsite.io
@@ -1848,7 +1848,6 @@ etc-meisai.whbridgetlindsay.cn
 etc-meisai.zslianke.top
 etc-nnelsai.tsyjuf4.cn
 etc-nnelsai.xinrongcompressor.cn
-etc1-melsai.7yi339.cn
 etc1-melsai.blockline.cn
 etc1-melsai.hjwnyx.cn
 etc1-melsai.hzsz88.cn
@@ -2577,7 +2576,6 @@ j6a656akodf.typeform.com
 j6rdc0.webwave.dev
 j9aolejd98d.typeform.com
 jabkzahrimasjoun.blogspot.com
-jaccs.yggjjt.com
 jaccsivr.vmenu.jp
 jackbinaspuol.blogspot.com
 jacobliston.com
@@ -2659,13 +2657,11 @@ kalarirmalove.loveslife.biz
 kalmiaaxonic.info
 kammleads.com
 karenjob.com.br
-karin-gafom.de
 karmaz.servequake.com
 karnarupiah.com
 kartaltepespor.com
 kartarky-online.cz
 kashmir-packages.com
-kasrimagatewe.duckdns.org
 kbl-ltd.co.jp
 kblessedmom.com.np
 kbx1orln7nj.typeform.com
@@ -2732,6 +2728,7 @@ krishnaprotabsolutions.co.in
 kropiwnicki.com.pl
 kscdcg.webwave.dev
 kskfiliale07.xyz
+kso-bw-bank-online.u1492093.cp.regruhosting.ru
 kso-bw-bank.roeders-tec.eu
 kuchkuchnights.com
 kulikovets.ru
@@ -2880,6 +2877,7 @@ lnterbanlkhome.weworldnews.com
 lnterbanlkpewelb.castlechemicals.sv2.cheshire-online.com
 lnterbanlkweb.entrepreneurialsuccessprogram.com
 lnterbanlkwelb.lodicomputer.com
+lnterhome.atakdev.com
 loaqyafckiduqgxidlhebxkvlu-dot-goff039302032323.rj.r.appspot.com
 lobsters.serveftp.com
 local-postoffice-schedule.com
@@ -2896,7 +2894,6 @@ login-live.com-s02.net
 login-onlinebanking-suntrust-olb.net
 login-poapay.7xpxajxs7q.club
 login-poypay-jp.4p0yvokq2q.club
-login.mcrsftsvms-app.live
 login.microsoftonline.us
 login.privategold.uytrtyuhij987.gowithapex.com
 login.vdohnovenie.org.ua
@@ -3275,7 +3272,6 @@ my-gmail.ir
 my-site219.yolasite.com
 my-site228.yolasite.com
 my-ts3card.tcppsports.com
-my.btacc.yourhome403.com
 my.forms.app
 my.nativeforms.com
 my.texter.pk
@@ -3562,7 +3558,6 @@ opallds.com
 opened.bosshomestead.work
 openmessageriespacemms.ukit.me
 operacionmultired1bn-web.com
-operationgg.org.ru
 opfgmdm.creatorlink.net
 opjkk.creatorlink.net
 opsidposqidpoqsidpoiqspodiqsopdipqsd.blogspot.com
@@ -3913,7 +3908,6 @@ ppkalqudwah.ulm.ac.id
 prdqonl.cluster030.hosting.ovh.net
 predirect.net
 preppingconfidence.com
-presentningfile.ddns.net
 prevencionvialbcpzonasegura.esc-pons.com
 prevencionvialbcpzonaseguras.esc-pons.com
 preview-doc-oicone.tk
@@ -4082,6 +4076,7 @@ rd8um.app.link
 rdeshapriya.com
 rdiiga.top
 rdx-irsclaimdoantion.com
+rdx-usataxtretruns.com
 re-direct-me.com
 re-redirection-acc-id923872635122.blogspot.com
 re-redirection-pp-account-id98763432.blogspot.com
@@ -4494,6 +4489,7 @@ signature-notes.com
 signin.ebay.de.whyymedia.com.au
 signmaxxgh.com
 siida-disperindag.kalbarprov.go.id
+siingpore-bakiing-intrnttd.com
 sikkertnabolag.dk
 siklus.net
 sil2.duerr-haustechnik.de
@@ -4501,6 +4497,7 @@ silentduring.top
 sillyabba.com
 silveroven.top
 simp.ly
+simpelaar-elektronica.nl
 simpledealers.com
 simplehostsetup.com
 sios.tech
@@ -4786,7 +4783,6 @@ suppo.ddns.net
 support-att.com
 support-security.paypal.com.komamen.com
 support.safetyviolation-g45.ga
-support.safetyviolation-g45.gq
 support.safetyviolation-g45.ml
 supportmailbxo.creatorlink.net
 supremenet4555.ultimatefreehost.in
@@ -5011,7 +5007,6 @@ tx.vc
 typesmartlyocr.com
 tyrecentre.ru
 tyzwox.webwave.dev
-tzajtdmjtw.duckdns.org
 u.sys-mhlw.cf
 u.sys-mhlw.ga
 u.sys-mhlw.gq
@@ -5225,6 +5220,7 @@ vevoobahis.blogspot.com
 vfr1.22web.org
 vhjdmj-100336-103567.square.site
 vhs.link
+viabcp-ganadiario.online
 viabcp-seguro.xyz
 viamobte.blogspot.com
 vibrant-perlman.23-94-190-112.plesk.page
@@ -5355,6 +5351,7 @@ walletvalidators.com
 wallieget.com
 walmartmall.online
 wana78420.myfreesites.net
+wap.sky-taxi.hk
 wapiae.com.ar
 warmbuyer.xyz
 warningshadows.org
@@ -5403,6 +5400,7 @@ webmail.njea.org
 webmail.serviceunit.co.uk
 webmail.telephone-sfr.com
 webmailadmin0.myfreesites.net
+webmailiings.wixsite.com
 webmailproton.weebly.com
 webmailsfrfr0.yolasite.com
 weboutlookstorageaccess.activehosted.com
@@ -5410,7 +5408,6 @@ webpromerica.webcindario.com
 webservicocef.com
 website--355347865560300265249-bank.business.site
 websitebouwen.net
-webssupportsolution.com
 webstories.eu
 webuyworkshopequipment.com
 wecr470d90e2b1ca04d07fe2a5308245c2ec.cloudns.nz
@@ -5500,6 +5497,7 @@ ww2.activartusoperacionesenlinea.zonasegurabeta.com.pe.vegam.co
 ww3.clickassinatura.com
 ww6.wwwviabcp.com
 wwproamerivto.byethost13.com
+wwviabcp.aprobacionalinstante1.com
 wwviabcp.solicitudalinstante1peru.com
 www-046cw.skipdns.link
 www-4ng31.skipdns.link
@@ -5576,7 +5574,6 @@ www.amaozn.co.jp.wxr8d1.cn
 www.amaozn.hongwangx.cn
 www.amarillovision.net
 www.amayzo.com
-www.amazon-aq.com
 www.amazon-bq.com
 www.amazon-gcatech.com
 www.amazon-ns.com
@@ -5789,7 +5786,6 @@ www.eschoolzones.com
 www.escpso.caeord.com
 www.esepso.caeord.com
 www.etasarla.com
-www.etc-jap.top
 www.etc-japan.buzz
 www.etc-maisai.75g727.cn
 www.etc-maisai.it0888.cn
@@ -6018,6 +6014,7 @@ www.lbrqnb.cn
 www.leboncoinsecurepaiement.fr
 www.legalshield.com_client-authorize-id.2UVNa-NOiWm-BOP7L-IDjvr-KZK8U.bursavebiz.com
 www.leitersadvogados.com.br
+www.leonorebootssale.fun
 www.letsjumpnj.com
 www.lightlink.com.cn
 www.linktr.ee
@@ -6144,7 +6141,6 @@ www.paypalforex.co.ke
 www.paypay-webs.cn
 www.paypayy.top
 www.paypoy-baok.live
-www.pensiontransfer.ca
 www.perfectliker.net
 www.perfumesway.rw
 www.peronaci.it
@@ -6408,6 +6404,7 @@ www.yaqoobi.org
 www.yarwoodfineart.com
 www.yfyyte.cn
 www.yjpqnh.cn
+www.ym4jres.cn
 www.ymb6mi.cn
 www.
 www.ytrkio.cn
@@ -6565,6 +6562,7 @@ zix-zero.org.ru
 zlej3mqyoty.typeform.com
 zoho-online.web.app
 zoho-validationserv.web.app
+zona1segurasbetaviabcp.com
 zona1segurasbetaviabcpe.com
 zonasegura-pichincha.pe-ini.com
 zonasegura-pichincha.pe-nts.com
