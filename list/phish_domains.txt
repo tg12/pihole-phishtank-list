@@ -177,7 +177,6 @@
 594611.selcdn.ru
 597924.selcdn.ru
 599116.selcdn.ru
-5a24v.app.link
 5a9df6761251a805681d59e162d86423-dot-goff039302032323.rj.r.appspot.com
 5b0f6cb9-0485-4fc7-9775-eb74bb45bbf6.htmlcomponentservice.com
 5e841ae2.srvr-cloudmail-srvr6765e7tg.pages.dev
@@ -501,14 +500,12 @@ amazon-co.yxrszx.cn
 amazon-goo.com
 amazon-jp.kewangerbukeji6.shop
 amazon-jp.pd8f87o.cn
-amazon-prime.a3bpk6.cn
 amazon.1156sjcdk.net
 amazon.cloudns.ph
 amazon.co.jp.hyhznh.cn
 amazonaws-jp.jiuhanerre5.shop
 amazonaws-prime.empbqrd.cn
 amazonaws-prime.jkqb4f.cn
-amazonoe.atwlbm.icu
 amazonoe.nutoin.icu
 amazonoe.nxrdeb.icu
 amazonoe.smtnkz.cyou
@@ -1071,7 +1068,6 @@ bosspandemicgrant.com
 bottesdoc.my-free.website
 bovicor.pl
 bpd4893.7r6q.mcgarth.com.au
-bperaccount.000webhostapp.com
 bperbanking.unaux.com
 bpl.kr
 bpm-sicurezza.com
@@ -1385,7 +1381,6 @@ coinly.cz
 collinsflg-my.sharepoint.com
 columbiapolska.com
 columbiaps-my.sharepoint.com
-columbus.shortest-route.com
 com-vzla.ru
 comigocombr.creatorlink.net
 commandes.site
@@ -1595,6 +1590,7 @@ dazul.com.ar
 db-ambientesicuro-ita.com
 dbs-votes-friend.com
 dbs.mc.eu1.kontiki.com
+dbsar.net
 dchmisfayfounhklgvutbagkgp-dot-gowa11111111.rj.r.appspot.com
 dcinterservices.cz
 dcrwkudhpygbmrxkgsuwgryhuu-dot-gowa11111111.rj.r.appspot.com
@@ -2406,7 +2402,6 @@ healthdrives.ml
 heaterintwintersz.ams3.digitaloceanspaces.com
 hebrjlndybbemhtixfyxhwefxc-dot-gowa11111111.rj.r.appspot.com
 helloparis.co.uk
-hellozaida.tk
 help-dbs.net
 help.ccemlimited.com
 helpdoors.com
@@ -2533,6 +2528,7 @@ huynguyen2k.github.io
 hwazen.com
 hwbcpa-my.sharepoint.com
 hwzyw.csb.app
+hxytoulwsm.duckdns.org
 hydratrader.com
 hypegames.shop
 hyperurl.co
@@ -2648,10 +2644,12 @@ inpost-agtd.pl-id27855309.xyz
 inpost-agtd.pl-id67945558.xyz
 inpost-agtd.pl-id94100133.xyz
 inpost-agtd.pl-id97114735.xyz
+inpost-c0nf.pl-id15441902.xyz
 inpost-conf.pl-id09216097.xyz
 inpost-conf.pl-id15441902.xyz
 inpost-conf.pl-id26904647.xyz
 inpost-conf.pl-id35566670.xyz
+inpost-conf.pl-id40636317.xyz
 inpost-conf.pl-id67945558.xyz
 inpost-gbjs.pl-id15940121.xyz
 inpost-gbjs.pl-id21133275.xyz
@@ -3009,7 +3007,6 @@ lfelelei.agilecrm.com
 lfgtrk.com
 lg-onecom-io.web.app
 library.foraqsa.com
-lieferfehler1.com
 liezen-online.at
 lifeiswhatyoumakeofit.com
 lihi1.cc
@@ -3071,6 +3068,9 @@ lnk.pmlti-etai-2.ovh
 lnkd.dev
 
 lnkmeup.com
+lnpost-c0nf.pl-id15441902.xyz
+lnpost-gbjs.pl-id15940121.xyz
+lnpost-pl.id-226109.site
 lnstalam.eu
 lnterbank.empresaperuana.site
 lnterbanlkhome.weworldnews.com
@@ -3339,6 +3339,7 @@ meusacessocaixas.com
 mf.rks-gov.net
 mfacebook.blogspot.rs
 mfacebook.blogspot.ru
+mffjtvujit.duckdns.org
 mgqtrmvrdt.duckdns.org
 mhacrix.freecluster.eu
 mhora.com
@@ -3616,6 +3617,7 @@ newtechflyscreens.in
 newupdateppl.blogspot.com
 nexoinmobiliario.pe
 ngedematimu.com
+ngere.rw
 ngovxup.cn
 nguyenngoclong.com
 nhacaiuytin888.com
@@ -3633,6 +3635,8 @@ nizotchauffage.bilty.be
 njolfs.hyperphp.com
 njxzhf.ml
 nlmcilhagger.btinternet.tercumandan.com
+nlugmruhwj.duckdns.org
+nmfrzcplsm.duckdns.org
 nomehold-gricco3.byethost7.com
 nonstop-ks.com
 noorpk.com
@@ -3731,6 +3735,7 @@ olx-agtd.pl-id61126986.xyz
 olx-agtd.pl-id89869929.xyz
 olx-casa.com
 olx-conf.pl-id15940121.xyz
+olx-conf.pl-id33651674.xyz
 olx-conf.pl-id94100133.xyz
 olx-gbjs.pl-id15940121.xyz
 olx-gbjs.pl-id26904647.xyz
@@ -3985,7 +3990,6 @@ paypal-test.projektumfeld.de
 paypal.ca.purchasekindle.com
 paypal.co.uk.useriazi6bqgssb.settingsppup.com
 paypal.com.0.security-confirmation.d72b69c8e37aec662e13e39d929d6e3d.as2.2u.se
-paypal.user-agreement934.com
 paypalvsgooglecheckout.com
 paypay-ne-jpn.com
 paypei.co
@@ -4099,10 +4103,13 @@ poczta-agtd.pl-id89869929.xyz
 poczta-conf.pl-id07711390.xyz
 poczta-conf.pl-id09216097.xyz
 poczta-conf.pl-id15940121.xyz
+poczta-conf.pl-id40636317.xyz
 poczta-conf.pl-id94100133.xyz
 poczta-gbjs.pl-id69877939.xyz
 poczta-igmr.pl-id27855309.xyz
+poczta-igmr.pl-id40636317.xyz
 poczta-igmr.pl-id61126986.xyz
+poczta-polska-pl.id-47981017.site
 poczta-polska-pl.id-50978017.site
 podpiska-darom.ru
 poinmu.com
@@ -5728,7 +5735,6 @@ wqass-index.chobqu.cn
 wqass-index.dccigq.cn
 wqass-index.gbswz.cn
 wqass-index.jeewiki.cn
-wqass-index.mll0325.cn
 wqass-index.pygbw.cn
 wqass-index.quanyuai.cn
 wqdqnna.ga
@@ -6265,7 +6271,6 @@ www.jp-amazon.p2w1.top
 www.jp.mcorceanri.com
 www.jp.mecrcarai.com
 www.jp.mecrcoarei.com
-www.jp.mecrocari.com
 www.jp.meorcarai.com
 www.jp.meorceacri.com
 www.jp.moecrocari.com
@@ -6845,6 +6850,7 @@ xsgyzcnguf.duckdns.org
 xsop5vp0rfd.typeform.com
 xtbnkpro.hostfree.pw
 xtio.ch
+xtiqgabwzy.duckdns.org
 xtra.co.nz-login-gateway.securedata-webmail.googlevoicebuy.com
 xtw42.mjt.lu
 xurl.es
