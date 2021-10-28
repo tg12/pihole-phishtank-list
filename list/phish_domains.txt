@@ -76,7 +76,6 @@
 264js.skipdns.link
 299kensingtonroad.my.webex.com
 2erl-moiersrnai.myddns.me
-2ero-worksdmaemier.redirectme.net
 2fa.bthei.com
 2ffth.csb.app
 2pil.ru
@@ -488,9 +487,7 @@ amaozom.jssphwx.cn
 amaozom.khjvuu.cn
 amaozom.kkezpwl.cn
 amaozom.kviqzk.cn
-amaozom.kyemer.cn
 amaozom.kzprvlp.cn
-amaozom.kzvjfsz.cn
 amaozom.ljgsjwu.cn
 amaozom.ljlycxo.cn
 amaozom.lnadquh.cn
@@ -1500,7 +1497,6 @@ confirmaci0n3007.ultimatefreehost.in
 confirmati0nwe0b.ultimatefreehost.in
 confirmationpages.blogspot.com
 confirmationssan.hostfree.pw
-confirmatlon-pages-fb.blogspot.com
 confirmleboncoin.ru
 confirmnew-payment.com
 confirmpagesupport.co.vu
@@ -1658,6 +1654,7 @@ dailynewsvermont.com
 dailysylheterdinkal.com
 dainellistudio.eu
 dainmigration.com
+daivamahiti.com
 damp-cell-9f51.dhlupdatedblurnt.workers.dev
 danangxaydung.com
 daniellygolden.com
@@ -2648,6 +2645,7 @@ informe-enlineaacountt.eb2a.com
 infosprologinmatrisemomols.yolasite.com
 infosysblog.php-dev.in
 infotreegroup.com
+infrachembuildcon.com
 ing.direct.verifica.dati.wellmom.net
 ing.inicio-seguro.xyz
 ing.kluisrekening.nl.
@@ -3176,7 +3174,6 @@ mail.tariqalaraimi.com
 mail.toprolls.com.tr
 mail.trendset.com.ar.ci3.toservers.com
 mail.vagheshvareeengworks.com
-mail.videoterbaru.duckdns.org
 mail.weddingstaffcompanies.com
 mail.whatsapp-groups.duckdns.org
 mail.whatsapp-groupz1.duckdns.org
@@ -3449,7 +3446,6 @@ mtbankverification.duckdns.org
 mtngifts2021.blogspot.com
 mtpo.pages.dev
 mtsn1kotabekasi.sch.id
-muasmzglfa.duckdns.org
 mudraloans.biz
 mug-dogs.com
 muleshoe-eng.com
@@ -4184,7 +4180,6 @@ q06huk.webwave.dev
 q5ar4.skipdns.link
 q6g474zyu9y.typeform.com
 qare.nl
-qbbbtgsfrq.duckdns.org
 qbocd.csb.app
 qccphutfsf.duckdns.org
 qdi73.d0g67.pquim-co.com
@@ -4207,7 +4202,6 @@ quinaroja.com
 quintanaevents.co
 quip.com
 quipianura.bg.it
-quisiu.tk
 quizzical-euclid.104-168-46-185.plesk.page
 qulwpjpinf.duckdns.org
 quota.creatorlink.net
@@ -5254,7 +5248,6 @@ triankhachhangffmienphi.000webhostapp.com
 triathlonontario-my.sharepoint.com
 tricitiesguardian.com
 triggermarketing.biz
-trihardware.co.za
 trilles157.typeform.com
 trk.fjenterprisemarketinginc.com
 true-fish.ru
@@ -5746,6 +5739,7 @@ www.23gssyym.cn
 www.2h6ms1t.cn
 www.2jp.mceircarei.com
 www.2jp.menrccarci.com
+www.2jp.merucnarci.com
 www.2ml.meiceaood.com
 www.2ml.meiceaord.com
 www.36t5m.cn
@@ -6611,6 +6605,10 @@ www.zuxpxo.cn
 www1.acmeon.carcob.com
 www1.aecom.corceb.com
 www1.ceps.cearccd.com
+www1.jcc.myjbcbcb.com
+www1.jcc.myjbcbob.com
+www1.jcd.myjbcbcb.com
+www1.jcv.myjbcbob.com
 www1.jeb.amcc-jp.com
 www1.jeb.anncc-jp.com
 www1.jp.mceerocarci.com
@@ -6630,6 +6628,7 @@ www1.my-jcb.cacsncnd.com
 www1.my.job.amcc-jp.com
 www1.my.job.anncc-jp.com
 www1.my.job.cacsomd.com
+www1.myjcn.myjbcbcb.com
 www1.myy-jcb.cacsncnd.com
 www1.netstation-aplcucs.com
 www1.netstation-aplcuos.com
@@ -6645,6 +6644,11 @@ www2.aoecmn.carcob.com
 www2.ceaom.corceb.com
 www2.epcs.cearccd.com
 www2.etc-mersair.co.jp.geq60k.cn
+www2.jcd.myjbcbcb.com
+www2.jce.myjbcbob.com
+www2.jcn.myjbcbob.com
+www2.jcu.myjbcbob.com
+www2.jcv.myjbcbcb.com
 www2.jeb.amcc-jp.com
 www2.jeb.anncc-jp.com
 www2.jeb.cacsomd.com
@@ -6662,6 +6666,7 @@ www2.my-jcb.cacsncnd.com
 www2.my.job.amcc-jp.com
 www2.my.job.anncc-jp.com
 www2.my.job.cacsomd.com
+www2.myjcc.myjbcbcb.com
 www2.myy-jcb.cacsncnd.com
 www2.netstation-aplcucs.com
 www2.sccbm.carucd.com
@@ -6798,7 +6803,6 @@ xtw42.mjt.lu
 xueyudz.cn
 xurl.es
 xvideolelepubg18.duckdns.org
-xwomen.000webhostapp.com
 xxc.x2monitoracao.com
 xxx-com-dot-c2c01-531c7.uc.r.appspot.com
 xyproject.xtensio.com
