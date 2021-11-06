@@ -439,6 +439,7 @@ allegro-oferta.id-info072.me
 allegro.payb49.online
 allegro.qumucloud.com
 allegrolokalnie-pl-3dseif.id-safety.sbs
+allegrolokalnie-pl-safe.id-safety.sbs
 allegrolokalnie-pl-secure.id-safety.sbs
 allegrolokalnie-pl-secure3d.id-safety.sbs
 allegrolokalnie-pl-ssl.id-safety.sbs
@@ -469,7 +470,10 @@ alumnimkn.ulm.ac.id
 amaceo.qpme1s.xyz
 amacou.outymf4g.xyz
 amaeon.tigj13df.xyz
+amaesv.mvug3rg.xyz
+amanen.mlgr4y.xyz
 amaniip.com
+amanuc.kelgr8ij.top
 amanuo.epor6yj.xyz
 amanzn.co.jp.ocxybad.cn
 amanzn.co.jp.ov2nvh6.cn
@@ -496,12 +500,18 @@ amanzon.co.ip.spencerobinson.com.cn
 amanzon.co.ip.tiegua.com.cn
 amanzon.co.ip.xiaopiqiu.com.cn
 amanzon.co.ip.zhanjianghk.com.cn
+amaocn.uenrg2h.top
 amaoen.ctpry2ji.top
 amaoua.imgw6eg.xyz
 amaouc.hdkgr0gh.xyz
 amaoue.rgue9hfg.top
+amaoue.ueing5a.top
+amaoun.smghr7h.top
 amaoun.wgtfhg2h.top
+amaoxu.lphog9h.top
 amaozn.tjccy.com
+amaozn.wurghs0d.xyz
+amaozn.ywcimei.com
 amaozom.dgcyyl.cn
 amaozom.gjqsy.cn
 amaozom.ncydhu.cn
@@ -522,7 +532,6 @@ amaznon.cm.jp.dmrmjp.cn
 amaznon.co.ip.dzjgrwn.cn
 amaznon.co.ip.hjhroqt.cn
 amaznon.co.ip.nsjjpy.cn
-amaznon.co.jp.iavuza.cn
 amaznon.co.jp.jkidqm.cn
 amaznon.co.jp.vnzo.cn
 amaznon.co.jpmfgct.cn
@@ -530,7 +539,6 @@ amazo.casa
 amazoieoghnoregjmzong.xyz
 amazom.co.ip.jshlsnc.cn
 amazom.co.ip.pfsxclk.cn
-amazom.co.ip.pmdngkd.cn
 amazom.co.ip.uthnbcs.cn
 amazom.co.ip.ysvsczo.cn
 amazom.designz.cn
@@ -548,6 +556,7 @@ amazon-co-jp.youtian8351.vip
 amazon-co-jp.youtian8353.vip
 amazon-co-jp.youtian8356.vip
 amazon.co.jp.27deantterwow.club
+amazon.co.jp.chbnkz.cn
 amazonasdjhagj.xyz
 amazoncojp.29deantterwow.club
 amazonjpwuzhihao.cf
@@ -564,6 +573,7 @@ amazonoe.mlogyul.cn
 amazonsecuredownload.000webhostapp.com
 amazonveuifsdvgbue.xyz
 amazou.rhmjf7h.top
+amazuo.iutnon6g.xyz
 ambienteprotegido.foregon.com
 ambrosecourt.com
 amenainvest-my.sharepoint.com
@@ -626,7 +636,6 @@ anozmd.co.jp.wearepletouhatyorremirputdnupandisoperational04.gq
 anpgroup.ir
 antaresns.com
 antiguatabernaqueirolo.com
-anutka988genesh.com
 anvpwy.covidharsh.com
 apascentar.net.br
 apbxkc.covidharsh.com
@@ -669,7 +678,6 @@ applekoreas.net
 appleverificationalert.com
 application-submit928-lrs.com
 appn26.online
-approve.ygto.com
 appurl.io
 aprisapage.rf.gd
 aqtv.tv
@@ -849,7 +857,6 @@ bancaporinternet-interbank.pe-logn.com
 bancaporinternet-netinterbankpe09.com
 bancaporinternet-netinterbankpe11.com
 bancaporinternet-netinterbankpe12.com
-bancaporinternet.interban.pe.novadigio.com
 bancaporinternet.interbrnpe.com
 bancaporinternet.interhanks.info
 bancaporinternet.lnterbankperu.com
@@ -913,7 +920,6 @@ bbsuporteacesso24horas.com
 bc.lbclbcpaiement.com
 bc.payreceivelbc.com
 bc1.paiementervice.com
-bc23456789540.000webhostapp.com
 bc3.lbcvirementlbc.com
 bcabankonline.com
 bconclutmjy.ru
@@ -1281,7 +1287,6 @@ cater456harys.gb.net
 caterin9302.byethost6.com
 cateringfoodanddrinksupplies777.business.site
 catherinehennig.com
-cause.servemp3.com
 caycos.beispielseite-wmka.de
 cayecaulkercasita.com
 cbic.org.br
@@ -1665,7 +1670,6 @@ dbs-ase.com
 dbs-eag.com
 dbs-ecs.com
 dbs-eos.com
-dbs-eua.com
 dbs-eus.com
 dbs-ex.co
 dbs-ose.com
@@ -1786,7 +1790,6 @@ displayplanet.pl
 disq.us
 distechforum.com
 distrial.ec
-diveinsoftware.com
 divporides.com
 dj.data2ia.dev
 djeliza.be
@@ -1974,6 +1977,7 @@ elliemonet.com
 elmitabodes.com
 elomo.ro
 elportenio.com
+els.org
 elshazlyco.com
 eltoromades.com
 eluniversallatinworld.com
@@ -2075,7 +2079,6 @@ eventsinamerica.com
 eventstrail.be
 everestmotors.com.np
 everythingmobilelimited-my.sharepoint.com
-evidence-dece.space
 evotechss.com
 ewallet.pk
 ex0buss.online
@@ -2104,7 +2107,6 @@ extension-metamask.com.rstebet.co.id
 extension.asue.am
 extracash-interlbankonline.com
 extracloud.com.au
-extrasorteoscash.com
 extravasatingmetalworker.com
 ey8jl.csb.app
 eye-lucir.com
@@ -2754,6 +2756,7 @@ inpost-pl.safepay-reserv.site
 inpost-pl.transaction54.pw
 inpost-xjob.id-info0249.me
 inpost.pl-info-trackcode-id984532.xyz
+inpost.zaliczenie-platnosci.com
 inps-ep.com
 ins-iris.fr
 insaafenterprisesinc.com
@@ -2812,7 +2815,6 @@ irexmnc.000webhostapp.com
 irisdigi-labs.com
 irispv.com
 irn-inc.com
-irs-getimpact.com
 irs-gov.assistance-funds-economic-impact-status.com
 irs-gov.economic-impact-fund-us.com
 irs-myprofile.com
@@ -3262,7 +3264,6 @@ mail.gardenlog.com.br
 mail.glui.eu
 mail.grup-whatsappefdewe.duckdns.org
 mail.grupvirall-join18.duckdns.org
-mail.grupwabokep2021.duckdns.org
 mail.harmonmedical.net
 mail.hfcfit.com
 mail.idealmarts.xyz
@@ -3411,6 +3412,7 @@ membershipff.vn
 mensajeriaexpressguatemala.com
 mercaoi-8urwe.babidj.com
 mercari-9ytrek.uofshop.com
+mercari.fun
 mercari.merssc.com
 mercarie.top
 mercarijp.npwnd.cn
@@ -3467,6 +3469,7 @@ miciinegustori.ro
 micr0s0ftverify.nicepage.io
 microcav.square.site
 microsoft-excel.kr.jaleco.com
+microsoft-office-voicemail.weebly.com
 microsoft01829.odoo.com
 microsoft0invoce.rf.gd
 microsoftloginverification.questionpro.com
@@ -3658,13 +3661,11 @@ n9.cl
 n9qyb.csb.app
 nab-alert.mobi
 nab-www.303.si
-nab.au-support41.com
 nab.maptq.com
 nabtolonu1913.blogspot.com
 nabtolonu1913.blogspot.kr
 najboljeuslugezavas.betterservicesforyou.com
 nanairan.com
-nara.com.na
 naranja-users.auth0.com
 narrativesummit.org
 nationwide.co.uk-acc.live
@@ -3737,7 +3738,6 @@ nex-venture.com
 nexoinmobiliario.pe
 nextecwebdesign.com
 nhfactor.com
-nhs.online-get-pass.com
 nhspass-gov.heteml.net
 ni212065-1.web02.nitrado.hosting
 niadabuyherepayhere.com
@@ -3904,7 +3904,6 @@ online-bank-spk.com
 online-cisudhlswit91984.duckdns.org
 online-contact.webnode.vn
 online-doc-madisonpointecc.cf
-online-retrackingoepay193id9931110.duckdns.org
 online-spkprivat.com
 online-veiligheid.net
 online.natwest-personal.com
@@ -4033,7 +4032,6 @@ pagesforbussinesidentitysupportlive.co.vu
 pagessosialitiidentityservice.co.vu
 pagincolm.com
 paincurephysio.com
-pakkeleifreung.wpengine.com
 paknaswp.fisnanssee.go.pagedemo.co.pagedemo.co
 palmtechy.com
 pamcakeswape.com
@@ -4117,9 +4115,9 @@ payeer-online.ru
 payment.irs.benefit.marypoesia.com
 paymentfailure-assistant.com
 paymentnotificationnow.blogspot.com
-paypal-caseid6308.com
 paypal-caseid6325.com
 paypal-caseid9102.com
+paypal-caseid9163.com
 paypal-customer-service.business.site
 paypal-inc-userupdatenuber7925570844.blogspot.com
 paypal-me-alessandra-martini.com
@@ -4133,7 +4131,6 @@ paypal-uk.monster
 paypal.ca.purchasekindle.com
 paypal.co.uk.useriazi6bqgssb.settingsppup.com
 paypal.com.0.security-confirmation.d72b69c8e37aec662e13e39d929d6e3d.as2.2u.se
-paypal.phed.com.ng
 paypalvsgooglecheckout.com
 paypay.ne.payed.jp
 paypay.ne.payimo.jp
@@ -4256,7 +4253,6 @@ polen-esquadrias.blogspot.com
 policlinicabucodental.es
 poligrafiapias.com
 polkadot-france.fr
-polkadotceo.com
 polkastarter.com.co
 poncakeesvvop-finance.com
 poncociswaop-exchange24.com
@@ -4588,7 +4584,6 @@ rollardtours.com
 ronigelo.blogspot.com
 roninwallet-connect.com
 roninwallet.cm
-root-rakvten.myvnc.com
 rosalinas-initial-project-30ac52.webflow.io
 rotf.lol
 rotimi.pandaform.com
@@ -6055,7 +6050,6 @@ www.agri72.fr
 www.alfaauv.com
 www.alkhalilgraphics.com
 www.allnewhaircut.com
-www.almarmoomfestivals.ae
 www.alpha-mail-server2.ddns.info
 www.alquileres.com.py
 www.amanzeon.co.jp.fjypgy.cn
@@ -6183,7 +6177,6 @@ www.co.ip.x8672.cn
 www.co.jp.bafyjcz.cn
 www.co.jp.dgozav.cn
 www.co.jp.ezaxf.cn
-www.co.jp.gqnst.cn
 www.co.jp.iouol.cn
 www.co.jp.ktbohe.cn
 www.co.jp.mgt0iz9z.cn
@@ -6275,7 +6268,6 @@ www.egacal.edu.pe
 www.elated-neumann.45-81-232-15.plesk.page
 www.elegode.ma
 www.elettrovisiongroup.com
-www.elportenio.com
 www.emailmeform.com
 www.empresas-lnterlbnlk-pe.com
 www.empresas.lnterbank.bacazinternet.com
@@ -6408,7 +6400,6 @@ www.informacionespsiquiatricas.com
 www.ins.cloudns.nz
 www.insidesoftwares.com
 www.instagram-security.de
-www.installer-rzone-app-link.com
 www.integratedsolutions.it
 www.intheknowinspections.com
 www.ipkonline.com
@@ -6504,6 +6495,7 @@ www.masterdrive.com
 www.mediosdigitalescr.com
 www.mercari-jp-me.top
 www.mercari.co.gbhfb.com
+www.mercari.fun
 www.meschinowellness.com
 www.messelive.tv
 www.metamasc.club
@@ -6535,6 +6527,7 @@ www.mxrr.com
 www.myauthorz.com
 www.mybpos.net
 www.myeeyouree.com
+www.myetherwalletio.cc
 www.myjac.vevivb.com
 www.myjac.vivcde.com
 www.myjcc.vevivb.com
@@ -7036,6 +7029,8 @@ yodobashi.ylaq.net
 yogeshwarwiremesh.com
 yoplwg2740634.byethost17.com
 yorbavillas.com
+youdubashi.zzcn857g.cn
+youdubashi.zzcnty888q.cn
 youengage.me
 young-fog-19ef.dhlupdatedblurnt.workers.dev
 yourdeathstar.com
@@ -7098,5 +7093,4 @@ zvuqh.app.link
 zweqrqa.ga
 zwsdfghty1.weebly.com
 zyzyzzzyyyzyyzyyyyyzyzzyyyyyyzyyyyzzzyyyzzyyzyzyzyitita5250.goserials.cc
-vsanalytics.visualsoft.co.uk
 vsanalytics.visualsoft.co.uk
