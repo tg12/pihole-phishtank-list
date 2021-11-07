@@ -438,7 +438,6 @@ allegrolokalnie-pl-secure.id-safety.sbs
 allegrolokalnie-pl-secure3d.id-safety.sbs
 allegrolokalnie-pl-ssl.id-safety.sbs
 allegrolokalnie-pl.0358494.space
-allegrolokalnie-pl.0406139.pw
 allegrolokalnie-pl.1190911.site
 allegrolokalnie-pl.173052.site
 allegrolokalnie-pl.510462.space
@@ -462,6 +461,7 @@ alumdecor.ru
 alumnimkn.ulm.ac.id
 amaceo.qpme1s.xyz
 amacou.outymf4g.xyz
+amaczon.co.jp.accountmyamzo.shop
 amaeon.tigj13df.xyz
 amanen.mlgr4y.xyz
 amaniip.com
@@ -691,6 +691,7 @@ areueaom.nrz2pod.cn
 areueaom.ommebq.cn
 areueaom.pantaozhuan.cn
 areueaom.royioghi.cn
+areueaom.rvtkqdtmmx.cn
 areueaom.tthgx8b.cn
 areueaom.vbscdyejw.cn
 areueaom.vcxllpotgf.cn
@@ -701,7 +702,9 @@ arisebuildscom-my.sharepoint.com
 arislm.com
 armatheatre.org
 armomnzc.000webhostapp.com
+armxcvn.000webhostapp.com
 armyeitaas.sharepoint-mil.us
+arnazon.ip.oniusm.shop
 arnzn-co.be0lnl.cn
 aro365539014-my.sharepoint.com
 aromatic.webenliven.in
@@ -1208,6 +1211,7 @@ business-appea-form1289571.web.app
 business-appeal-form-18257.web.app
 business-appeal-form192875.web.app
 business-case-issue-185721.web.app
+business-copyright-appeal-form.web.app
 businessemailss.biz
 buxjvsd.bookofblue.eu
 buyelectronicsnyc.com
@@ -1663,7 +1667,6 @@ dbs-eag.com
 dbs-ecs.com
 dbs-eos.com
 dbs-eus.com
-dbs-ex.co
 dbs-ora.com
 dbs-ore.com
 dbs-ose.com
@@ -1920,7 +1923,6 @@ ee-servicehub.com
 ee-verify-billing-secure.com
 eenolngeh.xyz
 eeverywhere-my.sharepoint.com
-eex0bus.online
 eezee.pk
 efarms.com.ng
 effect-print.net
@@ -2715,6 +2717,7 @@ innoaura.com
 inpexcom-au.com
 inpost-genowefayf.id-info0343.me
 inpost-jby.id-info070.me
+inpost-oidu.id-info04291.me
 inpost-pl-3dsecure.id-safety.sbs
 inpost-pl.0406139.pw
 inpost-pl.504231.space
@@ -2867,7 +2870,6 @@ jolieipslnovak.org.in
 joudialbarat.blogspot.com
 joul.co.kr
 jousthuy.love1world.ru
-joypox.com
 jp-mercarir.bbjiang.top
 jp-mercarir.denhe.top
 jp-mercarir.denxi.top
@@ -3421,7 +3423,6 @@ miciinegustori.ro
 micr0s0ftverify.nicepage.io
 microcav.square.site
 microsoft-excel.kr.jaleco.com
-microsoft-office-voicemail.weebly.com
 microsoft01829.odoo.com
 microsoft0invoce.rf.gd
 microsoftloginverification.questionpro.com
@@ -3528,7 +3529,6 @@ mtbnationall.duckdns.org
 mtngifts2021.blogspot.com
 mtpo.pages.dev
 mtsn1kotabekasi.sch.id
-mtt02.ddnsking.com
 mtuio.ml
 much.servepics.com
 mudraloans.biz
@@ -4068,7 +4068,6 @@ panelweb-4cae2.web.app
 pangolinswap-giveaway.com
 panicakieswap.org
 panikaikaswap.fimanesi.pagedemo.co
-pankaceswoap.finance
 pankaceswwap-charge.com
 pankaceswwap-franchise.com
 pankaceswwap-fund.com
@@ -4096,7 +4095,6 @@ pankocesswap-finance.com
 pankocesswap-financial.com
 pankocesswap-invest.com
 pankocesswap-market.com
-pankocesvvap-charge.com
 pankocesvvap-finance.com
 pankocesvvap-holding.com
 pankocesvvap-trade.com
@@ -4106,7 +4104,6 @@ pankocesvvop-invest.com
 pankocesvvop-trade.com
 pankoceswap.finance
 pankokiswaop.finance
-panncaceswep-api.com
 panncaceswep-business.com
 panncaceswep-charge.com
 panncaceswep-finance.com
@@ -4201,7 +4198,6 @@ pearlfilms.com
 pecadotest.interwapp.com
 pediatrie-alba.ro
 pelhaf041984.byethost9.com
-pemblokiranfacebook7.duckdns.org
 pencakecwap.com
 penneyspc.com
 pentrackghana.com
@@ -4277,7 +4273,6 @@ pnrmericasnm.byethost22.com
 po.do
 poankakesvveap-api.com
 poankakesvveap-franchise.com
-poankakesvveap-fund.com
 poankakesvveop-api.com
 poankakesvveop-fund.com
 poankakesvveop-holding.com
@@ -4334,7 +4329,6 @@ poincakeswip-fund.com
 poincakeswip-funds.com
 poincakeswip-investments.com
 poincakeswip-trade.com
-poinkakesvvep-charge.com
 poinkakesvvep-earn.com
 poinkakesvvep-earnings.com
 poinkakesvvep-gain.com
@@ -4358,7 +4352,6 @@ polen-esquadrias.blogspot.com
 policlinicabucodental.es
 poligrafiapias.com
 polkadot-france.fr
-polkakesvvep-api.com
 polkakesvvep-trade.com
 polkakesvvip-api.com
 polkakesvvip-trade.com
@@ -4438,7 +4431,6 @@ poncakasvvop-api.com
 poncakasvvop-invest.com
 poncakasvvop-trade.com
 poncakeesvvop-finance.com
-poncakesvvap-franchise.com
 poncakesvvap-holding.com
 poncakesvvap-invest.com
 poncakesvvap-investments.com
@@ -4532,9 +4524,7 @@ poypoy.dsyne55.jp
 poypoy.dwjh23.com
 poypoy.ghkjg.net
 poypoy.gkjfg.com
-poypoy.jinli50.net
 poypoy.jto700.com
-poypoy.tgun15.com
 pp-aid.com
 pp-us.service.a24o6nk.cn
 ppancekaswp.financial
@@ -4675,12 +4665,10 @@ rakuten.co.jp.rekantn.xyz
 rakutena.co.jjp.08870.net
 rakutenaal.co.jjp.by2.net.cn
 rakutenll.cc.jp.pingtanttmj.net
-rakutenll.co.jip.pfhu.net
 rakutenll.co.jjjp.hao588.net
 rakutenll.co.jjp.ally-dance.net
 rakutenll.co.jjp.rozmiary.net
 ramgarhiamatrimonial.ca
-random.id1ncd78u1bd1buiad1buiadg891g7uidgs781.xyz
 ranjplay.com
 rappel-authentification-ecoute.freeweb.pk
 raydiom.io
@@ -4912,7 +4900,6 @@ santoshdangi.com.np
 santz.com.br
 saporidicasa.ro
 saritapariyar.com.np
-sarm.com.mx
 satclient-p1.web.app
 sateegourmet.com
 satemi.com.ve
@@ -5143,7 +5130,6 @@ shovalimyoqneam.co.il
 showcomputer.com
 shtfrrty.com
 shtuchki.store
-shubhamkgarg.com
 siambc.com
 siasky.net
 sibautomation.com
@@ -5275,7 +5261,6 @@ sodden-hand.000webhostapp.com
 sofe-firma.firebaseapp.com
 soft-cell-8148.updateloginprogram.workers.dev
 soft-shadow-fa4c.mywnewdhlupdatedlogin.workers.dev
-softbank-login.mzjwt28.cn
 software.verify-secure.info
 solana.to
 solana20.com
@@ -5539,6 +5524,7 @@ supportgerm03112011.flywheelsites.com
 supportmailbxo.creatorlink.net
 supremenet4555.ultimatefreehost.in
 surveyheart.com
+survives.serveirc.com
 susanlynnepeters.com
 sushiswnap.com
 suspedpromericsv.hostfree.pw
@@ -5703,7 +5689,6 @@ tokenwalletconnect.com
 tokullarmobilya.com
 tomobriencarcompanies.com
 tomori22.my.id
-tongue.servehttp.com
 tooljerejin.airsite.co
 top10songsnews.com
 top30colombiapp.com
@@ -6655,6 +6640,7 @@ www.jamesonpcapitalgroup.com
 www.jasminsafaris.co.ke
 www.jeffvandewalle.com
 www.jindaltextiles.com
+www.jjec.jbcvdb.com
 www.joeypmemorialfoundation.com
 www.john-ashley.de
 www.join-whatapp.otzo.com
@@ -7054,6 +7040,7 @@ www.visacv.vovieia.com
 www.visadpsgiftcard.com
 www.vivvs.viasvo.com
 www.vivvs.vivcxve.com
+www.vnsei.vivcoes.com
 www.voda-direct-billing.wtwister.com
 www.vsevi.viasvo.com
 www.vsevi.vivcxve.com
@@ -7128,9 +7115,7 @@ www2.ml.meiceaood.com
 www2.mneererarri.com
 www2.rneisari.jp.szdpn.cn
 www2.sccnd.carucd.com
-www2.sscmd.carucd.com
 www3.colegiosantaangelamerici.edu.co
-www3.jp.mervcearai.com
 www3.lejournaldugrandparis.fr
 www3.mceercoarei.com
 www3.mcercorarci.com
@@ -7145,7 +7130,6 @@ www4.mceercoarei.com
 www4.mcercorarci.com
 www4.meecrcnaroi.com
 www4.mneererarri.com
-www4.vise.vicaeu.com
 www47.14.55.79.1.23.krakentxy.com
 www5.jp.mceorecarei.com
 www5.jp.meerocarvi.com
