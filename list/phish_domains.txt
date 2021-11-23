@@ -206,10 +206,8 @@
 6c7f0acc.sibforms.com
 6e33r.codesandbox.io
 6f59f508a3a833116f72a4aa872b5ee135a947cb.000webhostapp.com
-6trf6ujf.weebly.com
 6vvvvvw-metam.top
 7002x0788s6.typeform.com
-71qhdfis.weebly.com
 739360397.soapcoop.com
 768675643546534.hyperphp.com
 779zt.csb.app
@@ -430,6 +428,7 @@ allcaredentalcentre.in
 allegro.qumucloud.com
 allegrolokalnie-pl-safe.id-safety.art
 allegrolokalnie-pl.23440.space
+allegrolokalnie-pl.35634.space
 allegrolokalnie-pl.423596.space
 allegrolokalnie-pl.4567430.space
 allegrolokalnie-pl.54352.space
@@ -578,6 +577,7 @@ amazon.co.jp.27deantterwow.club
 amazon.co.jp.abrsu.cn
 amazon.co.jp.axnfy.cn
 amazon.co.jp.gede.ltd
+amazon.co.jp.hei10.cn
 amazon.co.jp.jgdcqc.cn
 amazon.co.jp.jptmqug.cn
 amazon.co.jp.juda.ltd
@@ -1167,6 +1167,7 @@ bnconacional.odoo.com
 bncre.odoo.com
 bncswjd343546589dfui3wdfsdfsf.my-board.org
 bndigitalpersonas.com
+bnmkl-101992.square.site
 bnsolicitudenlinea.com
 bnws.in
 bodegalatinacorp-my.sharepoint.com
@@ -1818,7 +1819,6 @@ destiny89.com
 details-sec1.com
 detcgcvbzjyipjeadvangqrccfhwqv.66ghz.com
 detect-new-payee.com
-determ.serveftp.com
 determined-chandrasekhar.107-174-50-164.plesk.page
 dev-nadaj.orlenpaczka.ce5.pl
 dev-secu-credit-union.pantheonsite.io
@@ -2254,7 +2254,6 @@ fellmanscouriers.co.uk
 fene-modi.firebaseapp.com
 ferienhof-gempel.de
 fernandomilsztajn.com
-ferofa.wixsite.com
 fertinose.rocks
 fghjr74rhudfguhtfguji.blogspot.com
 fgts2021.com
@@ -2503,6 +2502,8 @@ gotiyi5700.wixsite.com
 gourmetadomicilio.es
 gourtt-manta2-ec.hostkda.com
 gov.uk-dvla.org
+gov.uk-tax-refund874.com
+gov.uk-tax-refund875.com
 governance-secure.redirectme.net
 governance-secure2.redirectme.net
 govkn.knorish.com
@@ -2781,7 +2782,6 @@ iframejld.avent-media.fr
 igamingmediahub.com
 ighk.08o3okp2jp.workers.dev
 ignitionclaim.com
-ignorant.serveirc.com
 igsasso-my.sharepoint.com
 igtechnologyspa.cl
 igxe163.cn.com
@@ -2945,7 +2945,6 @@ irs-gov.coronavirus-get-payment.com
 irs-information.com
 irs-listimpact.com
 irs-verification.com
-irs-virus.com
 irs.compensation-usa-gov.com
 irs.us-economic-impact-payments.com
 irs.us-get-mypayment.com
@@ -2965,7 +2964,6 @@ it-friedli.ch
 it.melnikhotels.com
 itaauinf.byethost7.com
 itcentralsupport.net
-ithinkamabouttobefainted.s3.ap-northeast-2.amazonaws.com
 itiy.in
 itryratan.com
 itsfreefor.com
@@ -3599,7 +3597,6 @@ mercari.merssc.com
 mercari.mrjp.info
 mercari.quest
 mercari.sxzi.info
-mercarijp.top
 mercarim.top
 mercarir-jp.fshdfjs.com
 mercarl-pay.cc
@@ -3946,6 +3943,7 @@ newonline-restrict-payee.com
 newrydramafestival.co.uk
 newsbrigade.com
 newsletter.pagueonlinebra.com.br
+newsorlen.biz
 newupdateppl.blogspot.com
 nexoinmobiliario.pe
 nexzcdjjfuattnetwork.weebly.com
@@ -4183,6 +4181,9 @@ originalfilm.se
 orlandoareavacations.orlandoareavacation.com
 orlen-group.biz
 orlen-group.us
+orlen-news.us
+orlennews.biz
+orlennews.us
 orlenstartup.us
 ormantencs112.odoo.com
 ormlrh.xyz
@@ -4506,6 +4507,7 @@ postale-service-hhcz.fr.swtest.ru
 postaleclien-117-127-85-16.185-107-80-19.plesk.page
 postaledsp2.conexion.fr.savealifemw.org
 postalfees-uk.com
+postaluk-tracking.com
 postamanika.com
 postbus103.nl
 poste-it.wallet-pay.org
@@ -4538,7 +4540,6 @@ prikany.com
 princecly.com
 princessbelemzy.com
 printtoner.com.mx
-pritany.weebly.com
 privacy-update-page-prtections-association-recovry-secu.web.id
 privacy-update-secu-recovry-page-protection-232.web.id
 privacy-update-secu-recovry-page-protection-4565544.web.id
@@ -5204,7 +5205,6 @@ shanestrailertraining.com
 shanky0.github.io
 shanza.epos.com.pk
 share-eu1.hsforms.com
-share-grupviral9.duckdns.org
 share-relations.de
 share.chamaileon.io
 share.hsforms.com
@@ -6415,7 +6415,6 @@ www-dd91n.skipdns.link
 www-degelyehuda-org-il.filesusr.com
 www-e2g5k.skipdns.link
 www-etc92.dkl2odokjsff.com
-www-etc94.666967.cc
 www-europe564598-com.filesusr.com
 www-europessign-com.filesusr.com
 www-hi9z3.skipdns.link
@@ -6754,6 +6753,7 @@ www.etc-meisai.caicai14.shop
 www.etc-meisai.caicai16.shop
 www.etc-meisai.caicai19.shop
 www.etc-meisai.caicai20.shop
+www.etc-meisai.caicai25.shop
 www.etc-meisai.caicai26.shop
 www.etc-meisai.jp.071gxl.cn
 www.etc-meisai.jp.qvgwfm.cn
@@ -6761,6 +6761,7 @@ www.etc-meisai.jp.urlut.cn
 www.etc-meisai.jp.usryvi.cn
 www.etc-meisai.jp.wfjpe.cn
 www.etc-meisai.lbesd9.cn
+www.etc-meisai.putao22.shop
 www.etc-meisai.putao37.shop
 www.etc-meisai.xvk06m7.cn
 www.etc-merisai.szfzc.cn
@@ -7218,13 +7219,11 @@ www.seifer.io
 www.select.rw
 www.seobn.coeacreod.com
 www.server-sparkasse.de
-www.server2-cashapp.com
 www.servi.cloudns.ph
 www.servic.cloudns.ph
 www.serviciosbndigitales.com
 www.serviciosenlineacr.com
 www.serviciosenlineasbn.com
-www.sesion-bancalnterbank.com
 www.settlementsclaimz.com
 www.shanedrk.com
 www.sharefile-hmugentristategt.org
@@ -7497,6 +7496,7 @@ xbiwuqiyxmazaqueizykjxypwyejwx.22web.org
 xbtdangotexxbt.boxmode.io
 xclood.host
 xcvbm.hyperphp.com
+xcxc-103794.square.site
 xeroworkflow37.azurefd.net
 xfinityconnect4you.blogspot.com
 xfitpalestre.com
@@ -7569,7 +7569,9 @@ xrx6r.mjt.lu
 xrxh1.mjt.lu
 xrxh2.mjt.lu
 xrxhl.mjt.lu
+xsgtzfsxhn.duckdns.org
 xsop5vp0rfd.typeform.com
+xsqqykphaa.duckdns.org
 xtbnkpro.hostfree.pw
 xtio.ch
 xtw42.mjt.lu
