@@ -530,6 +530,7 @@ amazon.co.jp.mayoumi.shop
 amazon.co.jp.vvckrz.cn
 amazon.co.jp.wwngfoa.cn
 amazon.co.jp.wwsgioe.cn
+amazon.co.jp.xicjxxd.cn
 amazon.co.jp.ynrkzn.cn
 amazon.co.jp.yxrszx.cn
 amazon.fhfg.club
@@ -1573,7 +1574,6 @@ control.servehttp.com
 controlepanelbw.blob.core.windows.net
 controllo-utenti-bs.com
 convertmoreusers.com
-cookie.myvnc.com
 cool-hat-5f34.documents-wrangler.workers.dev
 coolstool.net
 cooperative-cultivation.000webhostapp.com
@@ -2898,7 +2898,6 @@ iorangeportail203020.weebly.com
 ip-107-180-93-116.ip.secureserver.net
 ipay.open-pays.ru
 ipko-biznes-online.com
-ipko-biznes-pl.com
 ipkobiznes-pl.com
 iplogger.info
 iplogger.org
@@ -3602,7 +3601,9 @@ metamaskservicesweb.com
 metamaskwallet.support
 metavideos.com
 metemasks.info
+mettamask.net
 meusacessocaixas.com
+meyuri-login.info
 mf.rks-gov.net
 mfacebook.blogspot.rs
 mfacebook.blogspot.ru
@@ -3613,7 +3614,6 @@ mi.homedepot.com
 mi.jetblue.com
 miangroupofcompanies.com
 mibancocrece.com.co
-micacd.ttprw.com
 micard.co.jp.srxyu.com
 micard.co.jp.wzjcn.com
 michel.hyperphp.com
@@ -4183,6 +4183,7 @@ pagos.sinpemovil.cr
 paincurephysio.com
 pancaakeeswap.financial
 pancakaswap.pro
+pancakcswap.com
 pancake-finance.art
 pancake.finance.fixswaps.com
 pancake7wop.com
@@ -4727,7 +4728,6 @@ reurl.cc
 reuy.seewq-jp.cc
 reuy.srecx-jp.us
 reuy.sreha-jp.us
-reuy.srehg-jp.us
 reuy.srelm-jp.us
 reuy.sreoic-jp.cc
 reuy.srylk-jp.us
@@ -5220,6 +5220,7 @@ smartklick.biz
 smartmco.com
 smartsparksolutions.com
 smashpc.org
+smbc-card.com.zdxycf.com
 smbc-crad-con.gdzbi.com.cn
 smbc-support.com
 smbcwodeqingguoshoujicojp.top
@@ -5355,7 +5356,6 @@ spk-8589673232321554.xyz
 spk-8589673232651554.xyz
 spk-9634393286743454.xyz
 spk-agb-bestaetigung.com
-spk-aktivierung98281.xyz
 spk-aktivierung98283.xyz
 spk-aktivierung98285.xyz
 spk-aktivierung98286.xyz
@@ -5469,7 +5469,6 @@ static-promote.weebly.com
 statis00-newlistsited.000webhostapp.com
 status-track-dispatch.com
 stderurumontpas00.web1337.net
-stealthmeetinghel.000webhostapp.com
 steamcommunits.com
 steamecommunitiuy.com
 steamproxy.net
@@ -6616,7 +6615,6 @@ www.darmowe-tankowanie.click
 www.daxsws.com
 www.decaturilbgc.com
 www.declicgestion.fr
-www.deficitdeatencionperu.com
 www.delawarebeachgetaways.com
 www.delhiescort69.com
 www.delightontour.com
@@ -7382,7 +7380,6 @@ www.
 www.z965.cn
 www.zackselectronics.co.zw
 www.zimbabwe.net.za
-www.zmoazom.cailai2.shop
 www.zmzazon.cailai18.shop
 www.zonaseguran1.bn.virtual.cartinperu.com
 www1.jp.mconecrrcvaeroi.com
