@@ -235,6 +235,7 @@ allegro.qumucloud.com
 allegrolokalnie-pl-3dsafe.dostawa-id.live
 allegrolokalnie-pl-3dsec.dostawa-id.live
 allegrolokalnie-pl-3dsecure.dostawa-id.live
+allegrolokalnie-pl-3dseif.dostawa-id.live
 allegrolokalnie-pl-secure3d.id-safety.co
 allegrolokalnie-pl.356531.space
 allegrolokalnie-pl.8987.space
@@ -265,7 +266,6 @@ amaozn.co.ip.anrgjgm.cn
 amaozn.ywcimei.com
 amaozom.2yhb6n0.cn
 amaozom.63y9gq8.cn
-amaozom.89001630.com
 amaozom.jwn6bnn.cn
 amaozom.mf6d4do.cn
 amaozom.poo9939.cn
@@ -310,7 +310,6 @@ amazon.co.jp.vacty.ltd
 amazon.co.jp.wwngfoa.cn
 amazon.co.jp.wwsgioe.cn
 amazon.co.jp.xicjxxd.cn
-amazon.co.jp.y5xd07w.cn
 amazon.co.jp.yh9zt.cn
 amazon.co.jp.ywhmnj.cn
 amazon.co.jp.zwjzrsa.cn
@@ -716,7 +715,6 @@ br4.in
 br622.teste.website
 bradesco.ajudaparaempresas.cf
 bradesco.ajudaparaempresas.ml
-bradescoempresas.site
 bre.is
 breople.com
 brigida_cossette.gitlab.io
@@ -921,7 +919,6 @@ cloudtracker.com.br
 clt1234529.bmetrack.com
 club-healthylifestyle.com
 clubeamigosdopedrosegundo.com.br
-cm91742.tmweb.ru
 cmciasi.ro
 cms.time-investments.com
 cn-en-dynamic-function-waybill-e6vmq.ondigitalocean.app
@@ -1254,7 +1251,6 @@ eggbox.top
 egolijozinews.co.za
 ehan.org
 eharmonyservice.com
-eiuhfifh.weebly.com
 ejpyrydwbi.duckdns.org
 ekabel.hu
 ekbofexjlnsdsfaqxbcfpnfift-dot-gl44393333333.rj.r.appspot.com
@@ -1444,7 +1440,6 @@ flukechinhhang.com
 fluksrv.mycpanel.rs
 flyerblaster.com
 fm.registrobarretos.com.br
-fmail.youxianghs.work
 fn.tc
 foamnflow.com
 foc.aboutus.my
@@ -1804,7 +1799,6 @@ inkmaster.cloud
 inpost-pl-3dsafe.dostawa-id.live
 inpost-pl-3dsecure.dostawa-id.live
 inpost-pl.7835134-pieniadze-info.xyz
-inpost-pl.order-hit.site
 inpostpl.in-order.space
 inps-ep.com
 inrjimna.ga
@@ -1987,7 +1981,6 @@ konami-uefa-euro.net
 kone-ali123-mon-site-web-cheetah-5.cheetah.builderall.com
 kontoopdatering.appleld.dk.opdatering.dspbrand.com
 kontosupport.kinsta.cloud
-kontoupc.wixsite.com
 koskas.activehosted.com
 koteng.odoo.com
 kovolem.cz
@@ -2252,7 +2245,6 @@ mercari.merssc.com
 mercari.monster
 mercari.rbgzjp.tk
 mercari.singincxdfs9ds5hg4.fourmedia.cn
-mercari.web.jp.kerceo.xyz
 mercari.x4f84i.cn
 mercarli.shop
 mercaro-7qwera.youkeying.net
@@ -2917,7 +2909,6 @@ pub43.bravenet.com
 pub5.bravenet.com
 publish-p43452-e180057.adobeaemcloud.com
 puffing.com.pk
-pulsartoken-giveaway.com
 punccakeswup.finance
 puroxymembrane.com
 pxlme.me
@@ -3079,7 +3070,6 @@ rsujkblokqlyqfonpzgztejdji-dot-gl44393333333.rj.r.appspot.com
 ruekrew.com
 rugworldauburn.com.au
 russian.servepics.com
-russleigh.com
 s-sarfati.co.il
 s.free.fr
 s.id
@@ -3384,7 +3374,6 @@ spidertvapp.com
 spin-gratis-25.duckdns.org
 spk-konformer-datenschutz.xyz
 spk-kundensicherheit.de
-spk-service-neuerung.com
 spk-service-system.com
 spk-servicereiter.com
 spk-tanverfahren.de
@@ -3777,7 +3766,6 @@ vk.cc
 vk.com
 vkbj.yirzesurti.workers.dev
 vkjbm.4nt4nb464e6113.workers.dev
-vksellstickers.xyz
 vlabecepevalidarperu.com
 voabcp.com
 vocal-esp.yolasite.com
@@ -4697,7 +4685,6 @@ zeroquiz.com
 zeze731.com
 zhguanshi.com
 zi-3-gporange1.free.builderall.com
-zimbraactivationhost00.000webhostapp.com
 zimbria.creatorlink.net
 zjzj6688.yihang.ren
 zoho-online.web.app
