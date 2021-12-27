@@ -277,6 +277,7 @@ amazon.co.jp.abaiaccounting.cn
 amazon.co.jp.abaibaseball.cn
 amazon.co.jp.icwrhee.cn
 amazon.co.jp.jpcss6a.cn
+amazon.co.jp.jpdone.cn
 amazon.co.jp.jpqairr.cn
 amazon.co.jp.jptuxnl.cn
 amazon.co.jp.jpzfqmc.cn
@@ -920,7 +921,6 @@ content.meetmagic.org
 content.rmhc.org.nz
 contratodeparceria.com.br
 cool-hat-5f34.documents-wrangler.workers.dev
-copyright-customer-support.ml
 corewebconcepts.com
 corporation-biedronka.us
 corsipercorrispondenza.com
@@ -1047,7 +1047,6 @@ dexlerholdings.com
 dfastpass.com
 dfghcvbnnnn.weeblysite.com
 dfghjkjhgfdfghjk.boxmode.io
-dfghjmfi.weeblysite.com
 dfscord.com
 dhanushr24.github.io
 dhl-event.app
@@ -1662,7 +1661,6 @@ ikulutugrowthacademy.com
 im-creator.com
 imi-ksa.jajainfo.net
 imobiliaria-cardinali-com-br.blogspot.com
-importworkbaking.000webhostapp.com
 improvproject.com
 imsva91-ctp.trendmicro.com
 in.deraya.org
@@ -2394,6 +2392,7 @@ package2021.blogspot.bg
 package2021.blogspot.com
 padlet-uploads.
 pagedemo.co
+pagehelpandsupport2021.my.id
 pages-10080022700021401021.com
 pages-1008002277721400021.com
 pages-help-account-center-2021.ga
@@ -3617,6 +3616,7 @@ www.a.msenrcaaroi.com
 www.a.muerucearsi.com
 www.a.myasjenb.com
 www.a.oescsrcd.com
+www.a.sccbe-ac.com
 www.a.secdc-ac.com
 www.a.seodo-ao.com
 www.abszolutauto.hu
@@ -3631,7 +3631,6 @@ www.alhajgroup.com
 www.alinachopra.com
 www.alkhalilgraphics.com
 www.allnewhaircut.com
-www.ama-check.5co1.co
 www.ama-check.fr2e.co
 www.ama-check.fr3e.info
 www.ama-check.fr4e.co
