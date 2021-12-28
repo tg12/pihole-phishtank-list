@@ -219,6 +219,7 @@ allegrolokalnie-pl.safepayorder.site
 allegrolokalnie.handingover-parcelinfo.xyz
 allegrolokalnie.id723572.space
 allegrolokalnie.id742832.space
+allegrolokalnie.id832156.space
 almighty.edu.np
 aloun.ps
 alphabnkgre.com
@@ -324,6 +325,7 @@ ameozom.jp.oohjersey.com
 ameozom.jp.oramacom.com
 ameozom.lylyd.cn
 ameozom.sh120gh.cn
+americanexpress-auth.azurewebsites.net
 amguevara.com
 amidabuli.com
 amlnov7.web.app
@@ -353,7 +355,6 @@ ancient-field-a9f7.rbox49o.workers.dev
 ancient-lab-15b5.rhn21600.workers.dev
 andersonstrategic.com.au
 andr.mulianct.us
-andre-leone.format.com
 androapk.in
 andromeda-manageer-association-27.web.id
 anekaslot.com
@@ -1001,7 +1002,6 @@ dappsyncauthorization.xyz
 dappwalletvalidation.com
 darcknetflix.000webhostapp.com
 database-login.com
-davidpcooper.com
 davidshopeaz.org
 daycoval.contrato.srv.br
 daycoval.facildepagar.com.br
@@ -1464,7 +1464,6 @@ gigolo-india.com
 giris-papara.net
 gite-lafage.com
 give-pancakeswap.com
-gjfgjrwtet.net
 gjfgjrwtet.work
 gkjx168.com
 gl44393333333.rj.r.appspot.com
@@ -2909,7 +2908,6 @@ secure-runescape.xgm.rnp.mybluehost.me
 secure-ssl-cdn.com
 secure-webservice01.duckdns.org
 secure-webservice05.duckdns.org
-secure-webservice07.duckdns.org
 secure.legalmetric.com
 secure.runescape.com-as.cz
 secure.runescape.com-oc.ru
@@ -3733,7 +3731,6 @@ www.amaz-check-info2.pk-11.top
 www.amaz-check-info3.er-5.top
 www.amaz-check.1sopo.buzz
 www.amazcn.jp.co.su694k8.cn
-www.amazon-co-jp.eeu1.co
 www.amazon-co-jp.eeu1s.co
 www.amazon-co-jp.lot-1.co
 www.amazon-co-jp.lot21.co
