@@ -1278,7 +1278,6 @@ https.abuse-privacy-account43128962603390445017.7qngx0feb5-pxr4knlq24gn.p.runclo
 https.abuse-privacy-account47883658214440144791.7qngx0feb5-pxr4knlq24gn.p.runcloud.link
 https.abuse-privacy-account94493761048656853145.7qngx0feb5-pxr4knlq24gn.p.runcloud.link
 https.master-redirect-tomain.7qngx0feb5-pxr4knlq24gn.p.runcloud.link
-httpsloginlive.weebly.com
 htxairnet.com
 hulu-com-activate.sitey.me
 hulu-hulu-com-activate.sitey.me
@@ -1300,6 +1299,7 @@ idam-web-public.aat.platform.hmcts.net
 idcfrmpage.rf.gd
 idealproblemsolver.net
 ideh.tv
+idehoff.ir
 identification.fr-mescomptesv1.cf
 identifiez-vous-avec-votre-compte.yolasite.com
 identifiez-vous598.yolasite.com
@@ -3896,6 +3896,7 @@ viettel-com-dot-c2c01-531c7.uc.r.appspot.com
 viewsnet.jp.npenm.com
 viguohilkasdsd.izwe6g6lyc.workers.dev
 villagepizzavegan.co.uk
+villion2u.com
 vinbpcfatfnkjftetwwkucfqsi-dot-gl44393333333.rj.r.appspot.com
 vinivet.mk
 vipfbtools.com
@@ -4206,7 +4207,6 @@ www.e.mcvfeag.com
 www.e.myjaseob.com
 www.e.myjceasb.com
 www.e.myjeeseb.com
-www.e.sesboeaod.com
 www.ebaystore.shop
 www.echostar.pl
 www.efarms.com.ng
@@ -4301,7 +4301,6 @@ www.learnsdigital.com
 www.leboncoinconnect.ru
 www.lemeiesta.com
 www.letsjumpnj.com
-www.liaoningcn.cn
 www.lloydbank-accountbreach.com
 www.lloydbank-secure-customers.com
 www.lloydbank-support-team.com
@@ -4311,7 +4310,6 @@ www.lydab.com
 www.m.maeseri.com
 www.m.maoerin.com
 www.m.mazeeai.com
-www.m.mcaenir.com
 www.m.myjaseob.com
 www.m.myjceasb.com
 www.m.myjeeseb.com
@@ -4394,7 +4392,6 @@ www.rkt-co-jp.1df0.co
 www.rkt-co-jp.2df0.co
 www.rkt-co-jp.3df0.co
 www.rkt-co-jp.5df0.co
-www.rkt-co-jp.6df0.co
 www.rkt-co-jp.7df0.co
 www.rkt-co-jp.8df0.co
 www.rkt-co-jp.9df0.co
@@ -4493,7 +4490,6 @@ www.workforcerelief.com
 www.ww.bancalnternet.lnterbank.pe.ukhosting.live
 www.ww.bancaweb.interbank.pe.darmatech.ro
 www.wwv.bacnaintrnet-imterbankpe.com
-www.x.sosbeaend.com
 www.xn--94b7bxcfb9av1bcv.xn--54b7fta0cc
 www.xn--gmal-sya.com
 www.yalena.me
@@ -4605,7 +4601,6 @@ zb2-home.web.app
 zee.im
 zepe.io
 zeroquiz.com
-zhuanshunavi.ru
 zhx568.cc
 zimbria.creatorlink.net
 zjzj6688.yihang.ren
