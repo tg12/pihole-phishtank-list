@@ -216,7 +216,6 @@ ameozom.jp.octihost.com
 ameozom.jp.onaworks.com
 ameozom.jp.oohjersey.com
 ameozom.jp.oramacom.com
-ameozom.lylyd.cn
 americanexpress-auth.azurewebsites.net
 amguevara.com
 amidabuli.com
@@ -426,6 +425,7 @@ bitbaink.web.app
 bithunnb.web.app
 bitly.com
 bitly.ws
+bitwayconnect.com
 bizlinktek.com
 bizzcityinfo.com
 bjk.zagnadulte.workers.dev
@@ -838,6 +838,7 @@ dpasdasfasfasfas.pages.dev
 dpd-redelivery-uk.com
 dpmasdaskj.pages.dev
 dr-joannepeeler.com
+dramaticessentialphase.hometousrplan.repl.co
 dreamotion-jp.com
 drive.18patti.net
 drive.silitech.sbs
@@ -859,7 +860,6 @@ dydex.org
 dyn.co
 dynastyclinic.ae
 e-cassare.org
-e-voice-msg-ca5724.webflow.io
 e4ff557e.sso-secure-mail04wtwdw4.pages.dev
 e4ra.byethost8.com
 e63q45f9h5fr.clickfunnels.com
@@ -877,7 +877,6 @@ ecosteelsolution.ro
 ecsprogaming.com
 ecusltd-my.sharepoint.com
 edje.com
-edrpfedqwuipxvej-dot-fox-738392-isio.oa.r.appspot.com
 edukickmexico.com
 ee-sms.co.uk
 eeoeoleoeea.blogspot.com
@@ -944,6 +943,7 @@ eventgarena-freefire62.duckdns.org
 everestmotors.com.np
 everythingmobilelimited-my.sharepoint.com
 evo-battlesleague.com
+evo-revolutioncups.com
 evolbithman.web.app
 ewebsleboncoin.000webhostapp.com
 excel-cloud-document-2021.square.site
@@ -1099,6 +1099,7 @@ give4you.net.ru
 giveaway-garenafreefiree.duckdns.org
 gkjx168.com
 gl44393333333.rj.r.appspot.com
+glamorousidealisticcoderesource.bmsc1.repl.co
 glamournailsbyleda.com
 glogo.org
 glsword.com
@@ -1933,6 +1934,7 @@ pages.secure-accts.workers.dev
 pagessecurityidentificationinformationcenter.co.vu
 pagos.sinpemovil.cr
 paket-post-ch.hiho.jp
+palaciosdesal.com
 palmm.ps
 pancaakesvap.com
 pancakcswap.com
@@ -1998,7 +2000,6 @@ penparkplace.com
 peringatanakunfb2k214.webnode.com
 periperioriginal.uk
 phantom-walletweb.app
-phantomlite.app
 phiphicocobella.com
 phiphihotelgroup.com
 phishingloginmicrosoftonlinecom.zerotrustcorp.workers.dev
@@ -2243,6 +2244,7 @@ roninwallet.cm
 roninwallet.page
 rotf.lol
 rotimi.pandaform.com
+roughnoisyextension.securitihub.repl.co
 round-union-2663.updatedloginprocesss.workers.dev
 roundcube-2c46f.web.app
 roundcube-production-cf.tx1.mailhostbox.com
@@ -2875,7 +2877,6 @@ servervalidationcheck647.web.app
 servervalidationcheck648.web.app
 servervalidationcheck65.web.app
 servervalidationcheck650.web.app
-servervalidationcheck652.web.app
 servervalidationcheck653.web.app
 servervalidationcheck656.web.app
 servervalidationcheck657.web.app
@@ -2887,12 +2888,10 @@ servervalidationcheck663.web.app
 servervalidationcheck665.web.app
 servervalidationcheck667.web.app
 servervalidationcheck668.web.app
-servervalidationcheck669.web.app
 servervalidationcheck67.web.app
 servervalidationcheck670.web.app
 servervalidationcheck672.web.app
 servervalidationcheck673.web.app
-servervalidationcheck674.web.app
 servervalidationcheck677.web.app
 servervalidationcheck678.web.app
 servervalidationcheck68.web.app
@@ -2969,7 +2968,6 @@ servervalidationcheck77.web.app
 servervalidationcheck770.web.app
 servervalidationcheck771.web.app
 servervalidationcheck772.web.app
-servervalidationcheck776.web.app
 servervalidationcheck777.web.app
 servervalidationcheck778.web.app
 servervalidationcheck779.web.app
@@ -3140,7 +3138,6 @@ servervalidationcheck936.web.app
 servervalidationcheck939.web.app
 servervalidationcheck94.web.app
 servervalidationcheck940.web.app
-servervalidationcheck943.web.app
 servervalidationcheck944.web.app
 servervalidationcheck946.web.app
 servervalidationcheck947.web.app
@@ -3175,7 +3172,6 @@ servervalidationcheck984.web.app
 servervalidationcheck985.web.app
 servervalidationcheck987.web.app
 servervalidationcheck988.web.app
-servervalidationcheck990.web.app
 servervalidationcheck991.web.app
 servervalidationcheck992.web.app
 servervalidationcheck995.web.app
@@ -3888,7 +3884,6 @@ www.alfaauv.com
 www.alinachopra.com
 www.alkhalilgraphics.com
 www.allnewhaircut.com
-www.ama-check.inrep1.co
 www.amanuts.com
 www.amayzo.com
 www.amazomb.com
@@ -3971,7 +3966,6 @@ www.co.jp.ibrdwz.cn
 www.co.jp.iiaqjrp.cn
 www.co.jp.onsjnl.cn
 www.co.jp.oqzjey.cn
-www.co.jp.pcjffai.cn
 www.co.jp.rkrabsk.cn
 www.co.jp.rndgrs.cn
 www.co.jp.rqqidd.cn
@@ -4112,7 +4106,6 @@ www.lnterbancape-lbk.com
 www.lnterbanlkempresa.cafedealturasantateresita.com
 www.lydab.com
 www.m.maeseri.com
-www.m.maoerin.com
 www.m.mazeeai.com
 www.m.myjaseob.com
 www.m.myjceasb.com
