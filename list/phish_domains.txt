@@ -46,7 +46,6 @@
 2fa.bthei.com
 2ffth.csb.app
 2pil.ru
-3-138-34-27.cprapid.com
 3-239-61-150.cprapid.com
 300000000008524696885243671.tk
 300000000008524696885243673.tk
@@ -256,7 +255,6 @@ api.safe-connectionid.com
 api.safebrowser-antidrop.com
 aplintec.com.mx
 aplus.co.jp.wkjrw.com
-app-8ce06814-6fc4-4d04-a64c-7cf3defd28e8.cleverapps.io
 app-aaa7ee23-007b-486c-ab7e-385bf9ccdefc.cleverapps.io
 app-n26.de
 app.box.com
@@ -665,6 +663,7 @@ covid-foyyn.run-us-west2.goorm.io
 cox0.yolasite.com
 coxvvv.weebly.com
 cp.digitalprocurements.co.uk
+cp21672.tmweb.ru
 cp45362.tmweb.ru
 cpanel.granadoemurahara.com.br
 cpanel10wh.bkk1.cloud.z.com
@@ -1456,6 +1455,7 @@ lenagruessdich.net
 lexnotes.com.ng
 lg-onecom-io.web.app
 lieferung-paket-express-dhl.aya-telecom.com
+lieferung-paket-express-dhl.cobainaja.id
 lieferung-paket-express-dhl.globasic.com
 lifeiswhatyoumakeofit.com
 lihi1.cc
@@ -1611,11 +1611,12 @@ mericarir.mgjmpdy.cn
 mericarir.mglsffs.cn
 mericarir.mgpjlrj.cn
 mericarir.mgspeak.com
-mericarir.misicoco.com
 mericarir.miubyks.cn
 mericarir.miuyqvx.cn
 mericarir.mlvdlvo.cn
 mericarir.mmeqrle.cn
+mericarir.mnmeeff.cn
+mericarir.moeiuzz.cn
 mericarir.mpeoyla.cn
 mericarir.mpmnqua.cn
 mericarir.mqfeiae.cn
@@ -1914,6 +1915,7 @@ pages.secure-accts.workers.dev
 pagessecurityidentificationinformationcenter.co.vu
 pagos.sinpemovil.cr
 paket-post-ch.hiho.jp
+paket.eyecatch.ch
 palmm.ps
 pancaakesvap.com
 pancakcswap.com
@@ -2292,6 +2294,7 @@ secure.runescape.com-rsu.ru
 secure.runescape.com-vzla.ru
 secure300.inmotionhosting.com
 secure303.inmotionhosting.com
+secureauthentication.pl
 securegateway-ovhcloud.csl-sl.de
 securehost-webservice02.duckdns.org
 securehost-webshare01.duckdns.org
@@ -2857,7 +2860,6 @@ servervalidationcheck678.web.app
 servervalidationcheck68.web.app
 servervalidationcheck681.web.app
 servervalidationcheck682.web.app
-servervalidationcheck683.web.app
 servervalidationcheck684.web.app
 servervalidationcheck685.web.app
 servervalidationcheck687.web.app
@@ -2865,7 +2867,6 @@ servervalidationcheck688.web.app
 servervalidationcheck689.web.app
 servervalidationcheck69.web.app
 servervalidationcheck690.web.app
-servervalidationcheck691.web.app
 servervalidationcheck692.web.app
 servervalidationcheck693.web.app
 servervalidationcheck694.web.app
@@ -2875,7 +2876,6 @@ servervalidationcheck697.web.app
 servervalidationcheck698.web.app
 servervalidationcheck7.web.app
 servervalidationcheck70.web.app
-servervalidationcheck701.web.app
 servervalidationcheck703.web.app
 servervalidationcheck709.web.app
 servervalidationcheck71.web.app
@@ -3114,7 +3114,6 @@ servervalidationcheck983.web.app
 servervalidationcheck984.web.app
 servervalidationcheck985.web.app
 servervalidationcheck987.web.app
-servervalidationcheck991.web.app
 servervalidationcheck995.web.app
 servervalidationcheck997.web.app
 servervalidationcheck998.web.app
@@ -3471,7 +3470,6 @@ themecarnival.com
 theneontree.in
 theory.albainternet.net
 theory.allgift.net
-theory.cizgiperde.net
 theory.clplay.net
 theory.prionics.net
 theory.xemtuongmenh.net
@@ -3537,6 +3535,7 @@ u1529317.cp.regruhosting.ru
 u18741649.ct.sendgrid.net
 u827857uw6.ha004.t.justns.ru
 ucokgrey.000webhostapp.com
+ufgl.jp
 uglcsonfonia.org
 uhasd.au6bu8m.cn
 uhfddsa.t0xpo42.cn
@@ -3719,7 +3718,6 @@ wap.btcffybtcer.com
 warningshadows.org
 warriorplus.com
 warsa.bandungkab.go.id
-washingmachineworks.in
 wdlncl-my.sharepoint.com
 we-exodus-wallet.yahoosites.com
 web-armas.royale-freefire1garena-bonus.com
@@ -3753,7 +3751,6 @@ webmailadmin0.myfreesites.net
 webmailhosting.brazilsouth.cloudapp.azure.com
 webmailstoragesrvr4567-supportdev.codeanyapp.com
 webregular.xyz
-websecure-serverhost.duckdns.org
 webstories.eu
 webuyworkshopequipment.com
 webvalidity.com
@@ -3844,7 +3841,6 @@ www.archivio-supporto.sitoper.it
 www.arub-service.org
 www.asrefanavary.com
 www.axifinity.com
-www.bancamovilapp-interbark.com
 www.bancapor.internet.interbnks.com
 www.bancaporibnternet-interbamkpe.elementfx.com
 www.bancaporinternet.lnterbank.pronductos.com
@@ -3997,7 +3993,6 @@ www.funiswap.exchange
 
 www.gradcracker.com
 www.habbocreditosparati.blogspot.com
-www.hadiahgratisdarigarena2022.duckdns.org
 www.haroldhazard1-wixsite-com.filesusr.com
 www.hidzzs.com
 www.hifly01721.top
