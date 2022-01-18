@@ -144,7 +144,6 @@ allegrolokalnie-pl-3dsecure.id-43051.xyz
 allegrolokalnie-pl-3dseif.id-43051.xyz
 allegrolokalnie-pl-safe.id-43051.xyz
 alliancesuper.com
-allthefan-online.preview-domain.com
 almighty.edu.np
 alnajahh.com
 aloun.ps
@@ -159,11 +158,13 @@ amaoue.oyfghty4.xyz
 amaozn.ywcimei.com
 amaznllo.co.jp.amauioda.net
 amazom.okmresa.xyz
+amazom.souewc.xyz
 amazom.supesn.xyz
 amazom.supwwe.xyz
 amazon-interruption.com
 amazon-ssr.jp
 amazon.aodkj.com
+amazon.co.jp.3u.fit
 amazon.co.jp.abaiaccounting.cn
 amazon.gousana.casa
 amazon.works.ga
@@ -182,7 +183,6 @@ amosleh.com
 amreeth.github.io
 ams3.digitaloceanspaces.com
 amusebouche-bg.com
-amzon.co.jp.amzoccount1z.shop
 anandsr-dev.github.io
 anarchitecturestudio.com
 anbn.ru
@@ -217,6 +217,7 @@ appatualizecef.com
 appibsolicitud.com
 apple-caseid2726.com
 applecustomer-service.com
+applei-ui.shop
 applepichincha.webcindario.com
 apply.aua.am
 appurl.io
@@ -231,6 +232,7 @@ arthamahotels.com
 artlux.com.pl
 aruba.fatt.ids-sys.com
 asaipestcontrol.com
+ascensoresotis.com.ec
 ascom.co.tz
 asd.9sw53wk.cn
 asdxa.p2x11pi.cn
@@ -405,11 +407,11 @@ busanopen.org
 business-appeal-form-18222.web.app
 business-copyright-alert100821.web.app
 business-copyright-page11263.web.app
+business-copyright-page18982.web.app
 business-copyright-restrict121.web.app
 business-info-caseid192921.web.app
 business-page-copyright18821.web.app
 business-required-helpcenter82.web.app
-business-required-info188221.web.app
 businessemailss.biz
 c.curiousmorty.be
 c.jardindemiedo.es
@@ -554,7 +556,6 @@ content.meetmagic.org
 contratodeparceria.com.br
 controlpichincha.webcindario.com
 copyright-center-live.ml
-corporationpagesmanagermeta.co.vu
 correosdemexico-web.com
 corta.ai
 cosemu.com
@@ -733,7 +734,6 @@ domainserverlawa287.web.app
 domainserverlawa292.web.app
 domainserverlawa299.web.app
 domainserverlawa302.web.app
-domainserverlawa304.web.app
 domainserverlawa311.web.app
 domainserverlawa322.web.app
 domainserverlawa327.web.app
@@ -774,7 +774,6 @@ domainserverlawa459.web.app
 domainserverlawa46.web.app
 domainserverlawa463.web.app
 domainserverlawa466.web.app
-domainserverlawa470.web.app
 domainserverlawa474.web.app
 domainserverlawa475.web.app
 domainserverlawa477.web.app
@@ -794,7 +793,6 @@ domainserverlawa523.web.app
 domainserverlawa527.web.app
 domainserverlawa530.web.app
 domainserverlawa531.web.app
-domainserverlawa539.web.app
 domainserverlawa551.web.app
 domainserverlawa555.web.app
 domainserverlawa556.web.app
@@ -856,7 +854,6 @@ domainserverlawa757.web.app
 domainserverlawa759.web.app
 domainserverlawa761.web.app
 domainserverlawa767.web.app
-domainserverlawa768.web.app
 domainserverlawa77.web.app
 domainserverlawa775.web.app
 domainserverlawa776.web.app
@@ -885,7 +882,6 @@ domainserverlawa878.web.app
 domainserverlawa888.web.app
 domainserverlawa897.web.app
 domainserverlawa90.web.app
-domainserverlawa904.web.app
 domainserverlawa912.web.app
 domainserverlawa913.web.app
 domainserverlawa924.web.app
@@ -940,7 +936,6 @@ eba0200d0c.nxcli.net
 ebay-de.ad49103.xyz
 ebay.com.dashboard-seller.center
 eberhardtedwige.wixsite.com
-ebuddynews.com
 ecogreenjanitorial.com
 ecomcrew.staging.wpengine.com
 ecosteelsolution.ro
@@ -987,6 +982,7 @@ establecimientoscolonia-uy.com
 estorneaqui.blogspot.com
 etc.kcjis.com
 etc.oxqk.cn
+etc.rjru7k4.cn
 eth-coinwallet.net
 eth.coinscout.cc
 ethnictrendz.com
@@ -1052,7 +1048,6 @@ feeds.feedburner.com
 ferferfccezs.blogspot.com
 ferferfrefe.blogspot.com
 ferienhof-gempel.de
-ff-anivesary225.duckdns.org
 ff-member-garena.vn
 ff-membershipz-garena.ga
 fghjr74rhudfguhtfguji.blogspot.com
@@ -1118,6 +1113,7 @@ gasunige.mfs.gg
 gebosh-website.preview-domain.com
 gedfdfsd.eu
 geg.li
+gegenev436.typeform.com
 generali-italia-ag.hrweb.it
 generalwebsecurityupdates-t5wgg.ondigitalocean.app
 genie-alba.firebaseapp.com
@@ -1145,9 +1141,7 @@ good12345.tripod.com
 googleweblight.com
 gormanusa-my.sharepoint.com
 gosafes.com
-gosevaashram.org
 gosteveshawtraining.com
-gov.pl-covid.pl
 gramarcales.com.br
 greekinfra.com
 grosshandel-mevida.de
@@ -1285,7 +1279,6 @@ intellidata-analytica.com
 interbank-pe-iphone12pro.xyz
 interbankempresas.pe-il.ru
 international-formulier.91-218-65-223.plesk.page
-internet-banking-caixaeconomica.com
 internetbanking-caixa-gov.xyz
 internetbankinghelp.com
 intexargentina.com.ar
@@ -1314,12 +1307,10 @@ j.mp
 j9w77d0.cn
 jacobliston.com
 jadaart.org
-jagex-rewards.com
 jajasanyase.blogspot.com
 jam-023d.gitlab.io
 james8.aidaform.com
 jasa-antar-jemput-12.web.id
-java-corner.com
 javarockingland.com
 jbwbzta.alfens8.cc
 jeanbaileyrobor.com
@@ -1346,6 +1337,7 @@ jossa.top
 jow-japan.or.jp
 joyeriajireh.com.mx
 jp-ama.iomainnasoryouraue.cc
+jp.mercari.sioanxh.xyz
 jp.mercari.theri.xyz
 jp.mercari.usjahyt.buzz
 jptechdocsign.net
@@ -1408,7 +1400,6 @@ larindbr.creatorlink.net
 larvalab.to
 lasyaja.github.io
 latest-recharge-reorder.co.uk
-latestnews.pricesrakutenlogin.xyz
 latinotravel.cz
 laundry-ade-ashar-883.web.id
 lbce.lecservilbc.com
@@ -1426,8 +1417,8 @@ lexnotes.com.ng
 lg-onecom-io.web.app
 liberasrl.it
 lifeiswhatyoumakeofit.com
+lightpressprint.co.zw
 lihi1.cc
-lihi3.cc
 lingid.ee
 linkprotect.cudasvc.com
 linkr.bio
@@ -1594,9 +1585,13 @@ mercani.pomyt.info
 mercariz.xyz
 meremanovegabana.website2.me
 mericarir.mbudeu.cn
+mericarir.mbxryj.cn
 mericarir.mcjwdpv.cn
+mericarir.mczqhx.cn
 mericarir.mdwelk.cn
+mericarir.mekvyjh.cn
 mericarir.meujxjt.cn
+mericarir.mfcoodw.cn
 mericarir.mgeukpx.cn
 mericarir.mglsffs.cn
 mericarir.mglxyul.cn
@@ -1604,14 +1599,23 @@ mericarir.mhgqdtv.cn
 mericarir.mjlejbq.cn
 mericarir.mjrsrfo.cn
 mericarir.mkxbqnu.cn
+mericarir.mlzjgwh.cn
 mericarir.mmsfzys.cn
 mericarir.mncmiyjp.cn
+mericarir.mnekvdw.cn
 mericarir.mnfjwy.cn
+mericarir.moghihl.cn
+mericarir.mqnhfgt.cn
+mericarir.mrekhug.cn
 mericarir.msnygk.cn
 mericarir.mtlrnzu.cn
 mericarir.mukkwvc.cn
 mericarir.mwbneh.cn
+mericarir.mwsmws.cn
+mericarir.mxdncd.cn
 mericarir.mxsoecl.cn
+mericarir.myvuuww.cn
+mericarir.mznzjjz.cn
 mestertignseekjet4.blogspot.com
 mestertignseekjet5.blogspot.com
 mestertignseekjet6.blogspot.com
@@ -1694,6 +1698,7 @@ monomobileservice.yolasite.com
 monprofilclient.web.app
 montrealidiomas.com.br
 monyeward.com
+moonstandcu.com
 morcario.xyz
 morfybox.com
 mqzlsim.mindlogicinfotech.com
@@ -1715,9 +1720,11 @@ my.jcpwb.com
 my02billing-login.com
 mycoerver.es
 mygoogleaccount.stantrade.xyz
+myjcb.ezhwgef.cn
 myjcb.thxpj.cn
 mymbg-aa2e2.web.app
 mymweb-owner.at.ua
+mynabsecure-log.in
 myparc.sharepoint.com
 mypsm.psm.edu.mm
 myshedbuilder.com
@@ -1787,7 +1794,6 @@ nic-home.com
 nihmt.com
 nizotchauffage.bilty.be
 nodesconnection.com
-northlane.esy.es
 norwayposten.blogspot.com
 notife.help.institutepages.workers.dev
 notification-fb.secure-pages.workers.dev
@@ -1853,7 +1859,9 @@ onlygod625.weebly.com
 onlysportplus.com
 ooxvocalor.yolasite.com
 opansea.live
+opensaeb.com
 opticabattilana.com.ar
+optunn.weebly.com
 ora-n.yolasite.com
 orange-dcr.fr
 orange-facturepro-getredirect12.duckdns.org
@@ -1936,9 +1944,9 @@ pedih.001www.com
 pencakecwap.com
 perfectbox7.godaddysites.com
 peringatanakunfb2k214.webnode.com
+phantam.app
 phantom-walletweb.app
 phantomaa.com
-phatdivot.com
 phishingloginmicrosoftonlinecom.zerotrustcorp.workers.dev
 phlexx.com
 phreshphoto.com
@@ -2045,7 +2053,6 @@ prosys.poweredbygravit-e.co.uk
 protecpagurszzz.000webhostapp.com
 protecpagurzzz.000webhostapp.com
 protect-4d56vca.surge.sh
-prove-aces-comfrim.000webhostapp.com
 psd2-check.online
 ptxx.cc
 pub5.bravenet.com
@@ -2126,6 +2133,7 @@ release-held-messageshee.fra1.digitaloceanspaces.com
 relevant.systems
 remittance369297292749.goshly.com
 renew.trusted-travelers-online.com
+renktem.com.tr
 renovkonstruksi.com
 repl-mess.myfreesites.net
 responsaprudentium.com
@@ -2292,6 +2300,7 @@ servervalidationcheck8.web.app
 servervalidationcheck87.web.app
 servervalidationcheck995.web.app
 service-lkdn2020.gacconstrutora.com.br
+serviceapplisjapan.com
 servicepage.service-page.workers.dev
 servicepichincha.webcindario.com
 services.runescape.com-as.cz
@@ -2369,7 +2378,6 @@ sleepmaskz.com
 slickparties.com
 slmkufeckf.jon-jensen.workers.dev
 slowlinebag.jp
-sluzba-ucet.top
 sm777.csb.app
 smartfixconnect.live
 smbc-accout.com
@@ -2410,6 +2418,7 @@ southamerica-east1-hardy-magpie-334101.cloudfunctions.net
 southamerica-east1-manifest-design-330523.cloudfunctions.net
 southamerica-east1-my-project-90086352.cloudfunctions.net
 southamerica-east1-noted-minutia-330211.cloudfunctions.net
+sp39987.sitebeat.site
 sp477389.sitebeat.site
 sp701876.sitebeat.site
 spacemanagerent.webcindario.com
@@ -2504,6 +2513,7 @@ synmultiwallet.com
 syr.us
 sysm5rn.cn
 t.co
+t7hl8r1wezv.typeform.com
 taher-mohamed-ahmed-saad.github.io
 taoistw345ie.co
 tarik-fitness.com
@@ -2583,7 +2593,6 @@ trusttwallet.org
 trustypichincha.webcindario.com
 trwes.org
 ts3cacd.rzjxbv.com
-tuextrapreonlinealtoke.site
 turntekcnc.com
 tx.vc
 txwnmdsbqghviqxpglgzjrgbzv-dot-gl44393333333.rj.r.appspot.com
@@ -2756,7 +2765,9 @@ wallet-reconnection.xyz
 wallet.silesiacoin.com
 walletconnectonline.pages.dev
 walletconnectors.com
+walletconnecttbot.com
 walleterrorsupport.com
+walletfixdapp.com
 walletsconnex.com
 walletsliveconnects.net
 walletsynclive.com
@@ -2874,6 +2885,7 @@ www.amnzma-jp.top
 www.amnzmo1-jp.shop
 www.amnzms1-jp.top
 www.amoazom.rm82j6-t8.cn
+www.amozom.co.ip.soutern.club
 www.an.macecri.com
 www.an.mseosri.com
 www.an.myjaeob.com
@@ -2997,6 +3009,7 @@ www.etc-co-jp.f3ss.co
 www.etc-meisfrq.xyz
 www.etc-uhfjk.monster
 www.etc.jp.anzhanfrp.cn
+www.etc.meisai.jp.hk-yingli.cn
 www.evashoes.com.ua
 www.evernote.com
 www.exoduspool.io
@@ -3083,6 +3096,9 @@ www.marketplaceaxieinfiniity.com
 www.masum.lawyer
 www.medelinahealth.com
 www.medeniyetakademisi.org
+www.mericorci-shop.er2h36s.nxjcfq.cn
+www.mericorci-shop.er2h36s.oobpekm.cn
+www.mericorci-shop.er2h36s.rkpe1u41.cn
 www.metamasc.club
 www.meusabor.com.br
 www.mfacebook.blogspot.rs
@@ -3093,8 +3109,10 @@ www.montenegrolandscape.com
 www.msc-doelsach.at
 www.mxrr.com
 www.my.paydi.login-index-home.x4typfc.cn
+www.myts3card.sufouwalm.com
 www.myts3card.suofywsdo.com
 www.n.salsomascard.top
+www.na-coin.com
 www.nbnonres.com
 www.netciti.id
 www.newellinnovations.co.uk
@@ -3214,7 +3232,6 @@ www.thelibrarysamui.com
 www.theneontree.in
 www.tikitaps.com
 www.tlatx.com
-www.torrinwine.com
 www.traders-joesxyz.com
 www.transfertconfirmer-payalfrance.com
 www.ucbonline.com
@@ -3341,6 +3358,7 @@ zasd.yhxmd30.cn
 zb2-home.web.app
 zenvinyl.com
 zepe.io
+zepeapp.com
 zeroquiz.com
 zgyyds.mm5p1ch.cn
 zgyyds.nebl4zw.cn
