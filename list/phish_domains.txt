@@ -191,7 +191,6 @@ aolmailukhelplinecustomerservice.blogspot.com.au
 api-freewallet.com
 api.addthis.com
 api.florense.com.br
-aplintec.com.mx
 app-928e4a31-5ecb-44ae-8c1e-5a710ac73f9f.cleverapps.io
 app-bombcrypto-io-login-ab.blogspot.com
 app-d2852d7c-af6a-46f2-a00d-d9fb621cfc47.cleverapps.io
@@ -268,6 +267,7 @@ bakhai.vn
 balajihospital.net
 bamarfoundation.org
 banca-electronica1.odoo.com
+bancapersonal8.agricotoutrs.repl.co
 bancaporinternet-interbark.pcriot.com
 bancaporinternet.interban.pe.magictourscancun.com
 bancaporinternet.interbrnpe.com
@@ -367,8 +367,6 @@ bookfbs.evangsamuelministries.com
 boring-nash.35-200-137-228.plesk.page
 bpl.kr
 br622.teste.website
-bradesco.componentedeseguranca.cf
-bradesco.netempresa.app
 bradesco.pjauxiliaempresas.com
 bre.is
 brooksrunningonline.com
@@ -577,7 +575,6 @@ criticalcarevizag.com
 crypto-support.org
 cryptocars-official-game-paly-site.blogspot.com
 cryptocarsme.com
-currentlyattverify.weebly.com
 currentlyupgrade.mystrikingly.com
 cusnas.366wuv.cn
 cusstomerservicee.blogspot.com
@@ -611,7 +608,6 @@ datos-pichincha.webcindario.com
 davidshopeaz.org
 daycoval.contrato.srv.br
 daycoval.facildepagar.com.br
-db-clienti.gruposilvabr.com.br
 dbesmdcjzturhizszllesbthsn-dot-gl44393333333.rj.r.appspot.com
 dbho7wn.cn
 dbs.limited
@@ -687,7 +683,6 @@ donmainchech116.web.app
 donmainchech120.web.app
 donmainchech122.web.app
 donmainchech123.web.app
-donmainchech127.web.app
 donmainchech13.web.app
 donmainchech130.web.app
 donmainchech131.web.app
@@ -729,7 +724,6 @@ donmainchech25.web.app
 donmainchech250.web.app
 donmainchech254.web.app
 donmainchech256.web.app
-donmainchech258.web.app
 donmainchech260.web.app
 donmainchech263.web.app
 donmainchech264.web.app
@@ -759,7 +753,6 @@ donmainchech343.web.app
 donmainchech348.web.app
 donmainchech349.web.app
 donmainchech353.web.app
-donmainchech354.web.app
 donmainchech358.web.app
 donmainchech36.web.app
 donmainchech363.web.app
@@ -798,7 +791,6 @@ donmainchech498.web.app
 donmainchech499.web.app
 donmainchech50.web.app
 donmainchech508.web.app
-donmainchech513.web.app
 donmainchech515.web.app
 donmainchech516.web.app
 donmainchech519.web.app
@@ -828,7 +820,6 @@ donmainchech582.web.app
 donmainchech591.web.app
 donmainchech592.web.app
 donmainchech599.web.app
-donmainchech6.web.app
 donmainchech600.web.app
 donmainchech601.web.app
 donmainchech611.web.app
@@ -868,13 +859,11 @@ donmainchech72.web.app
 donmainchech727.web.app
 donmainchech735.web.app
 donmainchech736.web.app
-donmainchech741.web.app
 donmainchech743.web.app
 donmainchech746.web.app
 donmainchech747.web.app
 donmainchech75.web.app
 donmainchech757.web.app
-donmainchech758.web.app
 donmainchech759.web.app
 donmainchech761.web.app
 donmainchech77.web.app
@@ -1349,11 +1338,11 @@ i.violationspage.validationspege.workers.dev
 ialvkqkadlmcdltczoqpwoociz-dot-gl44393333333.rj.r.appspot.com
 icloud-map-live.com
 icy.martulangbelulalng.workers.dev
-idblocked.co.vu
 identifiez-vous-avec-votre-compte.yolasite.com
 identifiez-vous598.yolasite.com
 identify.run-us-west2.goorm.io
 idhuman-verification.run-us-west2.goorm.io
+iexa1980pi.temp.swtest.ru
 iframejld.avent-media.fr
 ifyufyujk.quip.com
 ighk.umjlrs7uci2751.workers.dev
@@ -1465,7 +1454,6 @@ jp.mercari.corcoin.xyz
 jp.mercari.exction.xyz
 jp.mercari.forurth.xyz
 jp.mercari.hairand.xyz
-jp.mercari.ropeima.xyz
 jp.mercari.tripod.buzz
 jptechdocsign.net
 jtbtigers.com
@@ -1489,7 +1477,6 @@ kasba.in
 katanaroninchains.com
 kcas.ygvlrlo.cn
 kdhdf34j6dfh.dealerwebsite.com
-kdhsdj3ue.weebly.com
 kdlscaffolding.co.uk
 kecc.com
 kecmanijada.com
@@ -1547,7 +1534,6 @@ learningimpactmodel.com
 leboncoin.delivery01588.icu
 leboncoinpaiement.eu
 leboncoinsecurise.com
-leboncointonpaiement.store
 leboncointonpaiement.website
 lecon.in
 lenagruessdich.net
@@ -1665,15 +1651,12 @@ mailservervalidationr132.web.app
 mailservervalidationr142.web.app
 mailservervalidationr147.web.app
 mailservervalidationr152.web.app
-mailservervalidationr153.web.app
 mailservervalidationr157.web.app
-mailservervalidationr160.web.app
 mailservervalidationr167.web.app
 mailservervalidationr169.web.app
 mailservervalidationr174.web.app
 mailservervalidationr181.web.app
 mailservervalidationr189.web.app
-mailservervalidationr19.web.app
 mailservervalidationr190.web.app
 mailservervalidationr194.web.app
 mailservervalidationr2.web.app
@@ -1683,13 +1666,11 @@ mailservervalidationr27.web.app
 mailservervalidationr3.web.app
 mailservervalidationr35.web.app
 mailservervalidationr36.web.app
-mailservervalidationr38.web.app
 mailservervalidationr44.web.app
 mailservervalidationr50.web.app
 mailservervalidationr54.web.app
 mailservervalidationr57.web.app
 mailservervalidationr58.web.app
-mailservervalidationr60.web.app
 mailservervalidationr63.web.app
 mailservervalidationr65.web.app
 mailservervalidationr66.web.app
@@ -2151,6 +2132,7 @@ paypal-inc-userupdatenuber7925570844.blogspot.com
 paypal-online-2deposits-paymentaccept.tk
 paypalforex.co.ke
 paypay.co.jp.wkhjz.com
+pcbaccomweblogin.bienvenido-a-ea.repl.co
 pdf-cloud-document.weeblysite.com
 pdf-sharefile-doc.weeblysite.com
 pdflogincnvwo.app.link
@@ -2401,7 +2383,6 @@ s-sarfati.co.il
 s.id
 
 s787v.cn
-sad-goldstine.23-148-144-44.plesk.page
 sadervoyages.intnet.mu
 safty.summarycheck.workers.dev
 saimen.kemnar.xyz
@@ -2428,7 +2409,6 @@ satay-secur.reconfimations.pagedisabled.workers.dev
 sateegourmet.com
 satemi.com.ve
 savingsfordentalcare.com
-sbcglobalatt2022update.weebly.com
 sbs-siebanlagen.de
 sdgvsdvsdvs.blogspot.com
 sebat-dhl.blogspot.com
@@ -2511,6 +2491,7 @@ service-lkdn2020.gacconstrutora.com.br
 serviceinfo10.wixsite.com
 servicepage.service-page.workers.dev
 servicepichincha.webcindario.com
+services.byebyecrm.com
 services.runescape.com-as.cz
 services.runescape.com-rse.ru
 servicesbancaire.com
@@ -2707,6 +2688,7 @@ swanholm.net
 swap.elena.finance
 swappauto.staging.lcsolutions.it
 sweet-carson.34-125-14-205.plesk.page
+swiss-poste-9f0297.ingress-daribow.easywp.com
 swisscoat.com.cn
 swisscom.myfreesites.net
 swisscomag.blogspot.com
@@ -2868,7 +2850,6 @@ unnxa.pqpchqo.cn
 unpocodearte.cl
 unregpayee-lb.com
 unsub.listhandlr.com
-updateatttonewversions.weebly.com
 updateinfo-billingo2.com
 updateseason.com
 updatestory2022.co.vu
@@ -2907,6 +2888,7 @@ validacionpichincha.odoo.com
 validate-solana.com
 validator-fzkiy.run-us-west2.goorm.io
 vallion.motiffliterature.me
+vandijkenentertainment.nl
 vcz.gmoqkzu.cn
 velvet.by
 velvish.com
@@ -3239,7 +3221,6 @@ www.lnterbancape-lbk.com
 www.lnterbank.pe.starneonsignsug.com
 www.login.paidy.posixhaaafw.com
 www.lydab.com
-www.m.snnbacord.top
 www.mahikapur.in
 www.marketplaceaxieinfiniity.com
 www.masum.lawyer
@@ -3278,7 +3259,6 @@ www.officialliker.co
 www.ogrodywlochy.pl
 www.orabu.it
 www.osis.world
-www.paidy-login.assuredse.com
 www.paidy-login.smbuaosugsf.com
 www.paypal-opladen.be
 www.paypalforex.co.ke
@@ -3362,6 +3342,7 @@ www.uniswapfinancing.info
 www.uniswaps.net
 www.unitus.mk.ua
 www.usfn.net
+www.ventas.lnterbarnk.pe.esaspetrofund.org
 www.vilaanimalviana.pt
 www.vr-banking-app.de
 www.web-online-sub.com
