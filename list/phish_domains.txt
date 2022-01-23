@@ -10,7 +10,6 @@
 15004083383734.data-store-company.com
 153in.net
 154.30.211.130.bc.googleusercontent.com
-16park.cn
 178.128.108.233.dsl.dyn.forthnet.gr
 18sitedev.com
 190854.8b.io
@@ -317,13 +316,11 @@ bizlinktek.com
 bkolhm.cf
 blackbearcccouk-my.sharepoint.com
 blanchevetements.com
-bloccoacquisto.me
 blockchain-fix.org
 blockchainwallet-tool.com
 blog.booxium.com
 blog.drmostafafouadivf.com
 blog.weiwanjia.com
-blogginonlineshareddocuments.weebly.com
 blowfish-ltd.co.uk
 blslightinginc.com
 bnconacional.odoo.com
@@ -355,7 +352,6 @@ btinternethmoney.weebly.com
 btopenreach-update-bill.com
 bttelecommuniccattion.weebly.com
 bttellecomunication.weebly.com
-bttryeyewerr.weeblysite.com
 buckeye93.weebly.com
 budrimon.xyz
 buecherinploen.de
@@ -634,14 +630,12 @@ donmainchech197.web.app
 donmainchech244.web.app
 donmainchech311.web.app
 donmainchech314.web.app
-donmainchech328.web.app
 donmainchech353.web.app
 donmainchech483.web.app
 donmainchech53.web.app
 donmainchech54.web.app
 donmainchech541.web.app
 donmainchech546.web.app
-donmainchech549.web.app
 donmainchech579.web.app
 donmainchech614.web.app
 donmainchech640.web.app
@@ -748,6 +742,7 @@ emsi-lobo.firebaseapp.com
 en-template-solicito-16414253314897.onepage.website
 encryptdrive.booogle.net
 energyrespond88.co.vu
+eng.rmutk.ac.th
 engcamp.org
 enlinea.recibeloyaenlinea.online
 enoman.fqzsdgtg.cn
@@ -940,7 +935,6 @@ hahdaeupdate.es.tl
 haidaphoto.weebly.com
 halaisabudhabi.com
 halifax-securelink.com
-haliuk-secure-device.com
 han.gl
 handakai.github.io
 hangovertest1.blogspot.com
@@ -1080,7 +1074,6 @@ jflkp.csb.app
 jfovukvysqnglcjghfxncklqih-dot-gl44393333333.rj.r.appspot.com
 jhdd.fjcslad.cn
 jhff.93oe0u9.cn
-jijkatyani.000webhostapp.com
 jindai.us
 jiwanramchemical.com
 jlogine.com
@@ -1270,7 +1263,6 @@ mailplusrolerequestedprivatemailupdates.pages.dev
 mailserver7656566.blob.core.windows.net
 mailservervalidationr121.web.app
 mailservervalidationr169.web.app
-mailservervalidationr174.web.app
 mailservervalidationr194.web.app
 mailservervalidationr50.web.app
 mailservervalidationr65.web.app
@@ -1617,7 +1609,6 @@ palmm.ps
 panc.akeswap.finance
 pancaakesvap.com
 pancake7wop.com
-pancakesfinances.info
 pancakesvvap-finance.org
 pancakeswap.finance.tradechange.in
 pancakeswap.men
@@ -1715,7 +1706,6 @@ poww.6hkjmb.cn
 pplastmart.com
 ppnnttcc.ppcnthsc.me
 ppt.cc
-pqnlsy.cf
 pr0t3ct10nc3nt3r-c0mf1rm4t10n.000webhostapp.com
 preg.dspearhead.com
 preg.marketingvici.com
@@ -1837,6 +1827,7 @@ rizarichempire.com
 rizkyinterior.com
 rkanet.com
 rlink.vn
+rnufg.jp.zhllyw.com
 roadgo.co.uk
 robloxrun.000webhostapp.com
 roccobonheur1-my-cheetah-website-copy.cheetah.builderall.com
@@ -1941,7 +1932,6 @@ servervalidationcheck429.web.app
 servervalidationcheck442.web.app
 servervalidationcheck443.web.app
 servervalidationcheck46.web.app
-servervalidationcheck54.web.app
 servervalidationcheck60.web.app
 servervalidationcheck70.web.app
 servervalidationcheck736.web.app
@@ -1949,7 +1939,6 @@ servervalidationcheck74.web.app
 servervalidationcheck75.web.app
 servervalidationcheck77.web.app
 servervalidationcheck8.web.app
-servervalidationcheck995.web.app
 service-lkdn2020.gacconstrutora.com.br
 service-sms-s-id.de
 serviceinfo10.wixsite.com
@@ -2307,7 +2296,9 @@ verification.fb-page.workers.dev
 verificationmessage.blob.core.windows.net
 verifikasi-akun-anda0011.weeblysite.com
 verifikasi-akun-facebook0022.weeblysite.com
+verifikasi-data-akun6.webnode.page
 verifikasi-identitas028.weebly.com
+verifikasi-pemblokiran-privasi.weebly.com
 verifocaoffa.webcindario.com
 vetrfedsonte.blogspot.com
 viamobte.blogspot.com
@@ -2351,6 +2342,8 @@ vposs-ne-inbexco.jp.h2a6re.skmsceo.cn
 vposs-ne-inbexco.jp.h2a6re.tz96ok5.cn
 vposs-ne-inbexco.jp.h2a6re.wa0fril.cn
 vposs-ne-inbexco.jp.h2a6re.ypqumpe.cn
+vposs-ne-indexco.jp.h2a6re.skmsceo.cn
+vposs-ne-indexs.co.jp.q9wr7.k8lspd3.cn
 vps56290.servconfig.com
 vqwd.soboja1994.workers.dev
 vssvvsbbbbb.000webhostapp.com
@@ -2381,7 +2374,6 @@ walletvalidators.com
 wallieget.com
 wana78420.myfreesites.net
 wangluofuwu.webnode.page
-wannabe1337.page.link
 wap.bitffybtcer.club
 wap.bitffybtcer.xyz
 wap.bitflyer.plus
@@ -2536,7 +2528,6 @@ www.co.jp.eiatphe.cn
 www.co.jp.ghemivv.cn
 www.co.jp.rsczkmd.cn
 www.colorfastinv.com
-www.completelogistic.com.ph
 www.conhecaonlinedigital.com.br
 www.contabilidaderabello.com.br
 www.creativecombat.com
