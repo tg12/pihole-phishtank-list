@@ -358,7 +358,6 @@ builmon.xyz
 bujikena.web.app
 busanopen.org
 business-account-verify182711.web.app
-business-appeal-form-1892758.web.app
 business-copyright-alet189852.web.app
 business-page-settings-192885.web.app
 business-page-verify108581.web.app
@@ -627,10 +626,7 @@ domaincontroller.pmeimg.co.uk
 donmainchech170.web.app
 donmainchech180.web.app
 donmainchech197.web.app
-donmainchech244.web.app
 donmainchech311.web.app
-donmainchech314.web.app
-donmainchech353.web.app
 donmainchech483.web.app
 donmainchech53.web.app
 donmainchech54.web.app
@@ -650,7 +646,6 @@ donmainchech761.web.app
 donmainchech805.web.app
 donmainchech854.web.app
 donmainchech863.web.app
-donmainchech881.web.app
 donmainchech89.web.app
 donmainchech90.web.app
 donmainchech920.web.app
@@ -760,7 +755,6 @@ eusa-lombo.firebaseapp.com
 even-ff-gratisdariekssam2022.duckdns.org
 event-freefire443.duckdns.org
 event-freefiregratis76.duckdns.org
-eventgratisfff.duckdns.org
 everestmotors.com.np
 everythingmobilelimited-my.sharepoint.com
 evo-monstrcups.com
@@ -1156,7 +1150,6 @@ lihi1.cc
 limitlesstechnology.com.au
 link.infini.fr
 link.wizard.id
-linkprotect.cudasvc.com
 linkr.bio
 linktr.ee
 liongear.com
@@ -1273,7 +1266,6 @@ mailupdattee6.web.app
 mailupdattee8.web.app
 mailznetzero-mail-panel.web.app
 mainmobilerectify.live
-mainnetdapps-auth.net
 makavemailincoming12.web.app
 makavemailincoming15.web.app
 makavemailincoming19.web.app
@@ -1283,7 +1275,6 @@ makavemailincoming29.web.app
 makavemailincoming31.web.app
 makavemailincoming45.web.app
 makavemailincoming52.web.app
-makavemailincoming55.web.app
 mala-riba.com
 malaprontaargentina.com.br
 malehaenterprises.com
@@ -1436,6 +1427,7 @@ mymbg-aa2e2.web.app
 mymweb-owner.at.ua
 mynabsecure-log.in
 mypsm.psm.edu.mm
+myredelivery-po.com
 myshedbuilder.com
 mytheamsauthecent.wapgem.com
 myupdates-mynetflix.com
@@ -1540,6 +1532,7 @@ okpwtu.webwave.dev
 olk.us7apye.cn
 olx-pt.pays24.xyz
 omesqiwines.de
+on.spiceworks.com
 oncopharma-ae.com
 one.devicemng.eu
 one.emblem.gr
@@ -2392,6 +2385,7 @@ webstories.eu
 webuyworkshopequipment.com
 webvalidity.com
 weteachbh.com
+wetransfer.com
 whare.100webspace.net
 wheelsofmercy.org
 whitelist-network.com
@@ -2747,7 +2741,6 @@ www2.smeil-etc.jpgfd7ew3gfd8.uohome.cn
 www3.lejournaldugrandparis.fr
 www3.plenainclusion.org
 www89x.com
-wwwdd715.com
 wwwmtc0.com
 xcasd.7vo6bt.cn
 xcvdsd.page.link
