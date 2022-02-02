@@ -4,6 +4,11 @@
 045a3c0.wcomhost.com
 076fce7f.sibforms.com
 08863299.sso-secure-mail0454etr.pages.dev
+08r5iw0lla.wixsite.com
+1000000005774689963254621.tk
+1000000005774689963254622.tk
+1000000005774689963254624.tk
+1000000005774689963254625.tk
 109edc5b.ssdtfgyb09.pages.dev
 112358400702021.biz.id
 13354535588631987973342.my.id
@@ -11,7 +16,6 @@
 15004083383734.data-store-company.com
 153in.net
 154.30.211.130.bc.googleusercontent.com
-178.128.108.233.dsl.dyn.forthnet.gr
 18sitedev.com
 190854.8b.io
 1e3e990a5d753d13050a-80b1319664177f209bdec900ca002520.ssl.cf5.rackcdn.com
@@ -49,7 +53,6 @@
 0
 52292936869418365.web.id
 53vzxcnk6rwp.clickfunnels.com
-56767876823234247.34556756777345l.repl.co
 5b0f6cb9-0485-4fc7-9775-eb74bb45bbf6.htmlcomponentservice.com
 5ddb375f.webmail-srvrssoflm333.pages.dev
 5e841ae2.srvr-cloudmail-srvr6765e7tg.pages.dev
@@ -60,6 +63,9 @@
 656115.selcdn.ru
 6a7zu9he6mqh.clickfunnels.com
 6c7f0acc.sibforms.com
+7000000077458569963265426.tk
+7000000077458569963265427.tk
+7000000077458569963265428.tk
 702212896572923.web.id
 7wr4u.csb.app
 7yu3v.csb.app
@@ -71,6 +77,7 @@
 95daf9a43a.nxcli.net
 9d62cfee-59b3-42a8-9542-4b3a32692792.htmlcomponentservice.com
 9ftytucsh4ph.clickfunnels.com
+SalmonIdealTranslation.pazlai.repl.co
 VolvoCarsKC.us1.list-manage.com
 a.2827e82ca6640ef29594fb288383c901159970954a6ca74d562cd3aa.com
 a.60b7ac265566e3da4341f765b2d2a73200f8f1db57b0b005a1afdc00.com
@@ -248,7 +255,6 @@ asaipestcontrol.com
 asd.9sw53wk.cn
 asgard-ampqy.run-us-west2.goorm.io
 askarmotorluaraclar.com
-asnvoi.heroun.xyz
 assistsecure-dbs.com
 at-t-support-service1.sitey.me
 at-t-yahoo.sitey.me
@@ -321,10 +327,8 @@ bearmybrand.com
 beast-blog.com
 beecham-qgscz.ondigitalocean.app
 befuck.biz
-bellwebmailupgraderegdex.weebly.com
 belovedaroma.com
 bepl727355282528.ultimatefreehost.in
-ber2.xyz
 berketurizm.com
 bethpageonlinecredit.com
 bexwebmailupdate.web.app
@@ -381,6 +385,7 @@ boiteevocale5sw.fr
 boitevocale2022.dorik.io
 boitevocaleorangeweb.kleap.co
 bokgabanesolutions.co.za
+bol.mercantilsantac.repl.co
 boldd.martobang.workers.dev
 bom.so
 bombcrypto.cc
@@ -398,7 +403,6 @@ bt-internet5.godaddysites.com
 bt-internet6.godaddysites.com
 btbusinessbilling.wordpress.com
 btcommsserver.square.site
-btcomserver-106727.square.site
 btconnect-109798.square.site
 btconnectfilesecurebthomelogindropboxinupdatetdropboxpdf-logss.yolasite.com
 btconnectfilesecurebthomelogindropboxlinkupdatetdropboxpdf-logs.yolasite.com
@@ -503,7 +507,6 @@ claro-link.brsafe.com.br
 claus.bz
 clck.ru
 click.message.fruit.com
-clientes-falabbella.web.app
 clientid-h5p8n7f9e6fbmkhbr3i4gbnia7e9zpts4nbk3ebk0zj625t2ol.website.yandexcloud.net
 clientid-ij66191jgbm96ujp40bz1gzmpc8iquhoff3ocmbrzs6g5i89t0.website.yandexcloud.net
 clients.devtux.com
@@ -541,7 +544,6 @@ confirmdetallsnow11.firebaseapp.com
 confirmdetallsnow11.web.app
 confirmdetallsnow12.firebaseapp.com
 confirmdetallsnow12.web.app
-confirmdetallsnow13.firebaseapp.com
 confirmdetallsnow13.web.app
 confirmdetallsnow14.firebaseapp.com
 confirmdetallsnow14.web.app
@@ -553,7 +555,6 @@ confirmdetallsnow17.firebaseapp.com
 confirmdetallsnow17.web.app
 confirmdetallsnow18.firebaseapp.com
 confirmdetallsnow18.web.app
-confirmdetallsnow19.firebaseapp.com
 confirmdetallsnow19.web.app
 confirmdetallsnow2.firebaseapp.com
 confirmdetallsnow2.web.app
@@ -569,7 +570,6 @@ confirmdetallsnow24.web.app
 confirmdetallsnow25.firebaseapp.com
 confirmdetallsnow25.web.app
 confirmdetallsnow26.firebaseapp.com
-confirmdetallsnow26.web.app
 confirmdetallsnow27.firebaseapp.com
 confirmdetallsnow27.web.app
 confirmdetallsnow28.firebaseapp.com
@@ -870,7 +870,6 @@ domaincontroller.pmeimg.co.uk
 domainservererror1.web.app
 domainservererror10.firebaseapp.com
 domainservererror100.firebaseapp.com
-domainservererror11.web.app
 domainservererror12.firebaseapp.com
 domainservererror13.web.app
 domainservererror14.firebaseapp.com
@@ -880,12 +879,10 @@ domainservererror16.web.app
 domainservererror17.firebaseapp.com
 domainservererror17.web.app
 domainservererror18.web.app
-domainservererror19.firebaseapp.com
 domainservererror2.firebaseapp.com
 domainservererror2.web.app
 domainservererror20.firebaseapp.com
 domainservererror20.web.app
-domainservererror21.firebaseapp.com
 domainservererror21.web.app
 domainservererror22.firebaseapp.com
 domainservererror23.web.app
@@ -899,11 +896,8 @@ domainservererror3.firebaseapp.com
 domainservererror3.web.app
 domainservererror31.firebaseapp.com
 domainservererror31.web.app
-domainservererror32.firebaseapp.com
 domainservererror32.web.app
-domainservererror33.firebaseapp.com
 domainservererror33.web.app
-domainservererror34.firebaseapp.com
 domainservererror34.web.app
 domainservererror35.web.app
 domainservererror36.firebaseapp.com
@@ -920,7 +914,6 @@ domainservererror43.firebaseapp.com
 domainservererror45.firebaseapp.com
 domainservererror45.web.app
 domainservererror46.firebaseapp.com
-domainservererror46.web.app
 domainservererror47.firebaseapp.com
 domainservererror47.web.app
 domainservererror48.firebaseapp.com
@@ -942,12 +935,10 @@ domainservererror57.firebaseapp.com
 domainservererror57.web.app
 domainservererror58.firebaseapp.com
 domainservererror58.web.app
-domainservererror59.firebaseapp.com
 domainservererror6.firebaseapp.com
 domainservererror6.web.app
 domainservererror60.web.app
 domainservererror61.firebaseapp.com
-domainservererror61.web.app
 domainservererror62.firebaseapp.com
 domainservererror63.firebaseapp.com
 domainservererror63.web.app
@@ -1204,6 +1195,7 @@ geg.li
 generali-italia-ag.hrweb.it
 genie-alba.firebaseapp.com
 geotilla.sites.google.com
+gestionbacenlinea.com
 get.online-nhs-pass.com
 getapps.vip
 getitapprovedacceptourterms2021.pages.dev
@@ -1227,12 +1219,12 @@ go24link.com
 goldenlasgidi10.web.app
 golkondaresorts.com
 good12345.tripod.com
-goodmaiils4.firebaseapp.com
 goodmaiils57.web.app
 goodmaiils71.firebaseapp.com
 goodmaiils77.firebaseapp.com
 goodmaiils80.firebaseapp.com
 goodtimeforme.net
+google-phishing-page.lenxixbooster.repl.co
 googleweblight.com
 gooqleloqin.000webhostapp.com
 gormanusa-my.sharepoint.com
@@ -1521,7 +1513,6 @@ lovelheree.weebly.com
 lp.vp4.me
 ltdv1signinui.website.yandexcloud.net
 lucent-ade.com
-lucid-visvesvaraya-0cb895.netlify.app
 lucy-walker.com
 lunugrcpujwcfnajuctkojawrh-dot-gl44393333333.rj.r.appspot.com
 lynk.id
@@ -1634,6 +1625,7 @@ meeting-23900123090123.bitbucket.io
 membershipffmax.com
 meow24.cn
 mercani.pomyt.info
+mercantil-santa-cruz.mercantil.repl.co
 meremanovegabana.website2.me
 mericarir-jp.bjehome.cn
 mericarir-jp.edumed.cn
@@ -1727,6 +1719,7 @@ mncxx.qbeepor.cn
 mobiile.systemredirect-pages.qf4owyef2n-xoy4w7wpr6pw.p.runcloud.link
 mobile-orange-forever.yolasite.com
 mobile.hedgesportst.me
+moccasinyellowbetatest.josekkk.repl.co
 moderator-team.com
 molsll.weebly.com
 mon-token.com
@@ -1772,7 +1765,6 @@ nab-www.303.si
 nabverifyhost.com
 nah.uy
 najboljeuslugezavas.betterservicesforyou.com
-namder-online.preview-domain.com
 nanjing.itud167.cn
 napgamelienquan.net
 nasf8877as8fasmfasfa7fiasf.pages.dev
@@ -1803,7 +1795,7 @@ newlink.d1dicrw79twygq.amplifyapp.com
 newrydramafestival.co.uk
 newsletter.pagueonlinebra.com.br
 newsodisha.in
-newyearselitecard.netlify.app
+nexi-assistenzaclientivhost212322.lowhost.ru
 nexoinmobiliario.pe
 nhattinsteel.com
 nhbcd.40ggify.cn
@@ -2002,6 +1994,7 @@ polsd.pa0cpof.cn
 polska-allegrolokalnle.order-id603854.space
 popostdelivrych.com
 post-ch-de.34224.info
+post-global-ca.tempurl.host
 post-sw.web.app
 post-track.ch
 posta-romana.cameleon-digital.ro
@@ -2014,6 +2007,7 @@ ppt.cc
 pr0t3ct10nc3nt3r-c0mf1rm4t10n.000webhostapp.com
 preg.dspearhead.com
 preg.marketingvici.com
+pregutnal.87654567.repl.co
 prepaid-leboncoin.fr
 preppingconfidence.com
 prernaindustries.com
@@ -2080,7 +2074,6 @@ rabofree.blogspot.com
 rabofree.blogspot.li
 racuten.nuef.info
 radhikamd.github.io
-rakoten.potex.info
 randomnfts.herokuapp.com
 raycargo.com
 raydiom.io
@@ -2272,6 +2265,8 @@ simpkk.karanganyarkab.go.id
 siporados15585.blogspot.com
 sirak.se
 sistab.tabalongkab.go.id
+sistema-online--usuariobisavali.repl.co
+sistema-online.usuariobisavali.repl.co
 site-4403463-3995-6112.mystrikingly.com
 site9423623.92.webydo.com
 site9423773.92.webydo.com
@@ -2286,7 +2281,6 @@ sitebuilder154702.dynadot.com
 sitebuilder154829.dynadot.com
 sitebuilder154849.dynadot.com
 sitebuilder155037.dynadot.com
-sitebuilder155051.dynadot.com
 sitebuilder155157.dynadot.com
 sitebuilder155218.dynadot.com
 sitepayements.000webhostapp.com
@@ -2294,7 +2288,6 @@ situs-facebook-resmi21.webnode.com
 situs-layanan-pemulihan4.webnode.com
 situs-pemulihan-resmi0.webnode.com
 skachatdp.000webhostapp.com
-skinget.tk
 skiqthegames.com
 sklepkody.pl
 skradvanidance.business.site
@@ -2396,6 +2389,7 @@ studio-lol.com
 stylelife-orange.duckdns.org
 stylifehomedecors.com
 stz-fmba.ru
+sub.ik-help.com
 subagan.com
 successgroup.org
 sucuvirtcolba.com
@@ -2483,7 +2477,6 @@ thumbwork8.com
 tinyurl.com
 tipografieonline.ro
 titelinedrillingintl.yolasite.com
-tktrailerparts.com
 to-ken.biz
 toanhoc247.edu.vn
 toddler-town.com
@@ -2575,6 +2568,7 @@ us-irs.gov-get-my-economic-impact-payment-en-lang.com
 userboitevocalweb.flazio.com
 userinformationstoreupdatesmail.pages.dev
 users.tpg.com.au
+usuariobisavali.hostfree.pw
 uswowgame.net
 uueer.7jgy5xe.cn
 uuid-validation.run-us-west2.goorm.io
@@ -2714,6 +2708,7 @@ webmail.gourmer.co.in
 webmail.ionos-services.de.gerdiken.com
 webmail.login.access.docs67.live
 webmail.serviceunit.co.uk
+webmail.zimmail.repl.co
 webmailadmin0.myfreesites.net
 webmailencryptconnectpoiass11.firebaseapp.com
 webmailencryptconnectpoiass11.web.app
@@ -2724,6 +2719,7 @@ webmailencryptconnectpoiass33.web.app
 webmailencryptconnectpoiass44.firebaseapp.com
 webmailencryptconnectpoiass44.web.app
 webmailmaster.ml
+webmericabking.mariper159.repl.co
 webregular.xyz
 website2c.com
 websms.cleverapps.io
@@ -2773,6 +2769,7 @@ www.a-q-f.com
 www.adsmarca.com
 www.aeon.co.nuvmsouas.com
 www.airu.co.jp
+www.alexandraph.com
 www.alinachopra.com
 www.alkhalilgraphics.com
 www.amazonhome.sfrmobiles.com
@@ -3050,7 +3047,6 @@ www.traders-joesxyz.com
 www.ucbonline.com
 www.umbrellaclubla.com
 www.umeacademy.com
-www.union.com.bo
 www.unisonsouthayr.org.uk
 www.uniswapfinancing.info
 www.unitus.mk.ua
@@ -3100,11 +3096,9 @@ yahoo%2Eco%2Ejp@uhnxa.q83itv9.cn
 yahoo%2Eco%2Ejp@ujdaa.fn3m4en.cn
 yahoo%2Eco%2Ejp@uyhnxx.urpzkva.cn
 yahoocustomeradmincareservice2022.weebly.com
-yahoowebnaire.weebly.com
 yahuomall.square.site
 yairix.github.io
 yayanti.com
-yhbndd.ryyswjn.cn
 yhddf.vtf23ic.cn
 yiaswqjdtcyeqpvyqthijepeai-dot-gl44393333333.rj.r.appspot.com
 ykm.de
@@ -3119,7 +3113,6 @@ zb2-home.web.app
 zepe.io
 zepeapp.com
 zezea.servehttp.com
-zhrmghgyyds.h0tlexl.cn
 zidazabi22.clickfunnels.com
 zimbriii.000webhostapp.com
 zonmca.hxljatvw.cn
