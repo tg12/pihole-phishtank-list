@@ -76,6 +76,7 @@
 77866f98-29d4-4bf3-9885-3fe91725db0c.id.repl.co
 7wr4u.csb.app
 7yu3v.csb.app
+837465--3434343454544.repl.co
 837465.3434343454544.repl.co
 8391a6c36c.nxcli.net
 87654434566798042.000webhostapp.com
@@ -103,7 +104,6 @@ accidblck.000webhostapp.com
 account.herephyshy.info
 account.verifications.help-page.workers.dev
 accounts-autoscout24.de
-accountverification.duckdns.org
 acessobradesco.digital
 acessoo-bombcrypto.blogspot.com
 ach-centr.ru
@@ -440,6 +440,7 @@ business-appeal-verify12958.web.app
 business-page-active19872111.web.app
 business-page-issues19285.web.app
 business-page-verify192851.web.app
+business-required-appeal129511.web.app
 businessemailss.biz
 busrez.com
 c.curiousmorty.be
@@ -576,7 +577,6 @@ confirmdetallsnow2.firebaseapp.com
 confirmdetallsnow2.web.app
 confirmdetallsnow20.firebaseapp.com
 confirmdetallsnow20.web.app
-confirmdetallsnow21.web.app
 confirmdetallsnow22.firebaseapp.com
 confirmdetallsnow22.web.app
 confirmdetallsnow23.firebaseapp.com
@@ -595,7 +595,6 @@ confirmdetallsnow3.web.app
 confirmdetallsnow30.firebaseapp.com
 confirmdetallsnow30.web.app
 confirmdetallsnow31.firebaseapp.com
-confirmdetallsnow31.web.app
 confirmdetallsnow32.firebaseapp.com
 confirmdetallsnow32.web.app
 confirmdetallsnow33.firebaseapp.com
@@ -655,7 +654,6 @@ confirmdetallsnow6.firebaseapp.com
 confirmdetallsnow6.web.app
 confirmdetallsnow60.firebaseapp.com
 confirmdetallsnow60.web.app
-confirmdetallsnow61.firebaseapp.com
 confirmdetallsnow62.firebaseapp.com
 confirmdetallsnow62.web.app
 confirmdetallsnow63.firebaseapp.com
@@ -665,7 +663,6 @@ confirmdetallsnow65.firebaseapp.com
 confirmdetallsnow65.web.app
 confirmdetallsnow66.firebaseapp.com
 confirmdetallsnow66.web.app
-confirmdetallsnow67.web.app
 confirmdetallsnow68.firebaseapp.com
 confirmdetallsnow68.web.app
 confirmdetallsnow69.firebaseapp.com
@@ -687,7 +684,6 @@ console-chekmailbox1.web.app
 console-chekmailbox10.firebaseapp.com
 console-chekmailbox11.firebaseapp.com
 console-chekmailbox12.firebaseapp.com
-console-chekmailbox12.web.app
 console-chekmailbox13.firebaseapp.com
 console-chekmailbox13.web.app
 console-chekmailbox14.firebaseapp.com
@@ -716,14 +712,12 @@ console-chekmailbox27.firebaseapp.com
 console-chekmailbox27.web.app
 console-chekmailbox28.firebaseapp.com
 console-chekmailbox28.web.app
-console-chekmailbox29.firebaseapp.com
 console-chekmailbox3.firebaseapp.com
 console-chekmailbox3.web.app
 console-chekmailbox30.firebaseapp.com
 console-chekmailbox30.web.app
 console-chekmailbox31.web.app
 console-chekmailbox32.firebaseapp.com
-console-chekmailbox32.web.app
 console-chekmailbox33.web.app
 console-chekmailbox34.web.app
 console-chekmailbox35.web.app
@@ -880,11 +874,9 @@ domainservererror22.firebaseapp.com
 domainservererror23.web.app
 domainservererror25.web.app
 domainservererror26.firebaseapp.com
-domainservererror26.web.app
 domainservererror27.firebaseapp.com
 domainservererror28.web.app
 domainservererror29.firebaseapp.com
-domainservererror3.firebaseapp.com
 domainservererror3.web.app
 domainservererror31.web.app
 domainservererror32.web.app
@@ -919,7 +911,6 @@ domainservererror54.firebaseapp.com
 domainservererror54.web.app
 domainservererror56.web.app
 domainservererror57.web.app
-domainservererror58.firebaseapp.com
 domainservererror6.firebaseapp.com
 domainservererror6.web.app
 domainservererror60.web.app
@@ -932,7 +923,6 @@ domainservererror65.web.app
 domainservererror68.firebaseapp.com
 domainservererror68.web.app
 domainservererror69.web.app
-domainservererror7.firebaseapp.com
 domainservererror7.web.app
 domainservererror70.firebaseapp.com
 domainservererror71.firebaseapp.com
@@ -955,7 +945,6 @@ domainservererror86.firebaseapp.com
 domainservererror89.web.app
 domainservererror9.firebaseapp.com
 domainservererror90.firebaseapp.com
-domainservererror91.firebaseapp.com
 domainservererror91.web.app
 domainservererror93.firebaseapp.com
 domainservererror93.web.app
@@ -1197,8 +1186,6 @@ goldenlasgidi10.web.app
 golkondaresorts.com
 good12345.tripod.com
 goodmaiils57.web.app
-goodmaiils71.firebaseapp.com
-goodmaiils77.firebaseapp.com
 goodmaiils80.firebaseapp.com
 goodtimeforme.net
 google-phishing-page.lenxixbooster.repl.co
@@ -1357,6 +1344,7 @@ jago-attmail.weebly.com
 jam-023d.gitlab.io
 james8.aidaform.com
 jasa-antar-jemput-ade-35.web.id
+jasa-antar-luar-kota-ade-12.web.id
 jasa-antar-luar-kota-ade-125.web.id
 jasa-perjalanan-ade-62.web.id
 jasa-perjalanan-ade-dekat-65765.web.id
@@ -1409,7 +1397,6 @@ kienthucykhoa.org
 kissapps.io
 kivafinance.com
 kjdjwiui.weebly.com
-kjhdda.tetfeec.cn
 klaimff2002.duckdns.org
 klockorochsmycken.se
 kmgc.in
@@ -1491,10 +1478,8 @@ looksrlare.org
 lot-lp-x.web.app
 lp.vp4.me
 ltdv1signinui.website.yandexcloud.net
-lucent-ade.com
 lucijan.hostfree.pw
 lucy-walker.com
-lunugrcpujwcfnajuctkojawrh-dot-gl44393333333.rj.r.appspot.com
 lynk.id
 m.fancy-bush-cf01.marhabitas.workers.dev
 m.help.insecurpage.workers.dev
@@ -1563,7 +1548,6 @@ makavemailincoming212.web.app
 makavemailincoming213.web.app
 makavemailincoming214.firebaseapp.com
 makavemailincoming215.firebaseapp.com
-makavemailincoming216.firebaseapp.com
 makavemailincoming217.firebaseapp.com
 makavemailincoming218.web.app
 makavemailincoming219.web.app
@@ -1699,7 +1683,6 @@ mobile-orange-forever.yolasite.com
 mobile.hedgesportst.me
 moccasinyellowbetatest.josekkk.repl.co
 moderator-team.com
-molsll.weebly.com
 mon-token.com
 monbudri.xyz
 mondrive.xyz
@@ -1772,8 +1755,6 @@ new.tmssouthboston.com
 newlink.d1dicrw79twygq.amplifyapp.com
 newrydramafestival.co.uk
 newsletter.pagueonlinebra.com.br
-newsodisha.in
-nexi-assistenzaclientivhost212322.lowhost.ru
 nexoinmobiliario.pe
 nhattinsteel.com
 nhbcd.40ggify.cn
@@ -1821,7 +1802,6 @@ ohlinsos.com
 oiasasca.asiocsacszc.xyz
 oiazeiuiazolme.blogspot.com
 okayama-tyumonjc.com
-okds.bbtlcve.cn
 okpwtu.webwave.dev
 old.martobang.workers.dev
 olk.us7apye.cn
@@ -2100,7 +2080,6 @@ review-mynew-device.com
 reviewbook.org
 rezunz.quip.com
 rheasarason.com
-riaaraworld-jkjyl.ondigitalocean.app
 riderctposten.blogspot.com
 riotgames-2dsxlt-league-of-legends.000webhostapp.com
 riotgames-e763go-league-of-legends.000webhostapp.com
@@ -2126,7 +2105,6 @@ royalwindsorpub.com
 roygijvhluozwnflsypmewrstt-dot-gl44393333333.rj.r.appspot.com
 rplg.co
 rriwy8.webwave.dev
-rtyuatt.weebly.com
 ruckerstattung789.com
 rust-tve.com
 ruth.martulangbelulalng.workers.dev
@@ -2166,6 +2144,7 @@ sbcglobalnetverification.yolasite.com
 sbs-siebanlagen.de
 scurityverifyyourpageaccountcorrectly.co.vu
 sdgvsdvsdvs.blogspot.com
+seban415844456.ultimatefreehost.in
 sebat-dhl.blogspot.com
 sebene27.github.io
 secure-halifax-device.com
@@ -2278,7 +2257,6 @@ slmkufeckf.jon-jensen.workers.dev
 slowlinebag.jp
 sm777.csb.app
 sman1melaya.sch.id
-smbc.co.jp.rlkfq.com
 smbcwodeqingguoshoujicojp.top
 smeo.org.mx
 smgolamalif.github.io
@@ -2559,7 +2537,6 @@ v3r1f1c4t10n-c3nt3rp4g3.000webhostapp.com
 vah5beciziy.typeform.com
 valax-wallet.com
 valenciaoptometry.com
-valenteplay.com.br
 validacionaccq.webcindario.com
 validacionpichincha.odoo.com
 validator-fzkiy.run-us-west2.goorm.io
@@ -2742,7 +2719,6 @@ www.92.rev.sfr.net.gghost.ru
 www.a-q-f.com
 www.adsmarca.com
 www.aeon.co.nuvmsouas.com
-www.airu.co.jp
 www.alexandraph.com
 www.alinachopra.com
 www.alkhalilgraphics.com
@@ -3022,6 +2998,7 @@ www.tlatx.com
 www.traderjoexyz.info
 www.traders-joesxyz.com
 www.ucbonline.com
+www.ufcrefreshcoco.com
 www.umbrellaclubla.com
 www.umeacademy.com
 www.unisonsouthayr.org.uk
@@ -3097,5 +3074,4 @@ zimbriii.000webhostapp.com
 zonmca.hxljatvw.cn
 zpr.io
 zqq-a02ab2.ingress-comporellon.easywp.com
-zrpagurit.xyz
 vsanalytics.visualsoft.co.uk
