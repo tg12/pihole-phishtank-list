@@ -29,7 +29,6 @@
 23434546456579999--545353454353.repl.co
 23434546456579999.545353454353.repl.co
 23445657678900099--75677657567567.repl.co
-23445657678900099.75677657567567.repl.co
 2344575675674688.324234456456.repl.co
 24611250.sibforms.com
 2482689012.yolasite.com
@@ -46,7 +45,6 @@
 36ced536d7cc441e9bf0a1d27c9b4d59.svc.dynamics.com
 3a10a178.s6t6sj4s46tu4sys54y5.pages.dev
 3ck.me
-3dff806f-4486-4648-b61d-a08f5817f65a.id.repl.co
 3dprintersupplies.com.au
 3ff7c459-86b2-4f6d-b6b0-ba6402ef6cb0.htmlcomponentservice.com
 3j124.csb.app
@@ -57,6 +55,8 @@
 43546465757868798900--345435435.repl.co
 43546465757868798900.345435435.repl.co
 4354656867708908.4534534534.repl.co
+45365464564578888--45353534.repl.co
+45365464564578888.45353534.repl.co
 4a14def9.sibforms.com
 4lxkd.r.ag.d.sendibm3.com
 4r1un.app.link
@@ -463,7 +463,9 @@ caymanreno.com
 cbmonlinegroups.com
 cce.2yq.pa-tarutung.go.id
 ccjrlaw.com
+cd58384.tmweb.ru
 cdn.shopify.com
+ce64488.tmweb.ru
 cedricblossom.com
 celikoglumakina.com
 cema-fossano.it
@@ -571,15 +573,14 @@ confirmdetallsnow43.web.app
 confirmdetallsnow45.firebaseapp.com
 confirmdetallsnow46.web.app
 confirmdetallsnow47.firebaseapp.com
-confirmdetallsnow48.web.app
 confirmdetallsnow52.firebaseapp.com
 confirmdetallsnow53.web.app
 confirmdetallsnow55.web.app
 confirmdetallsnow56.firebaseapp.com
-confirmdetallsnow6.firebaseapp.com
 confirmdetallsnow65.web.app
 confirmdetallsnow66.firebaseapp.com
 confirmdetallsnow68.firebaseapp.com
+confrecov-mtamsk-io.xyz
 congresosba.com.ar
 conhecaonlinedigital.com.br
 connect.au-login.feevictor.com
@@ -694,7 +695,6 @@ dgfoodsnet.myportfolio.com
 dhanushr24.github.io
 dhl-australia.blogspot.com
 dhl-event.app
-dhl.paymentry.site
 die-post-swiss-id-19782635812.psd2any.com
 digi.multiserviciosextrspe.xyz
 diginto.org
@@ -728,7 +728,6 @@ docusign-53c38.web.app
 docusign-lnc.info
 domaincontroller.pmeimg.co.uk
 domainservererror12.firebaseapp.com
-domainservererror2.firebaseapp.com
 domainservererror25.web.app
 domainservererror26.firebaseapp.com
 domainservererror32.web.app
@@ -742,7 +741,6 @@ domainservererror53.firebaseapp.com
 domainservererror6.firebaseapp.com
 domainservererror64.firebaseapp.com
 domainservererror71.firebaseapp.com
-domainservererror76.firebaseapp.com
 domainservererror78.firebaseapp.com
 domainservererror93.firebaseapp.com
 domainservererror93.web.app
@@ -919,6 +917,7 @@ fr-europe564598-com.filesusr.com
 fra1.digitaloceanspaces.com
 framemakers.us
 framer.com
+frandi-xyz.preview-domain.com
 frankfurtertsparkasse.web.app
 frdezeredaresafin.blogspot.com
 fredsamasont.blogspot.com
@@ -946,7 +945,6 @@ garena-xacminhtaikhoan.com
 gastrikov.online
 gateway.login.portal.trespetit.com
 gcct.us
-gebrits.site
 geepada.com
 geg.li
 gemogbogxm.web.app
@@ -954,6 +952,7 @@ generali-italia-ag.hrweb.it
 genie-alba.firebaseapp.com
 geotilla.sites.google.com
 gestionbacenlinea.com
+gestiones-online.hostfree.pw
 get-neww.000webhostapp.com
 get.online-nhs-pass.com
 getapps.vip
@@ -1099,7 +1098,6 @@ interbarnk.counselingwithveronica.com
 interbarnk.makeownpharma.com
 international-formulier.91-218-65-223.plesk.page
 internetbankinghelp.com
-interpersonas.xyz
 intexargentina.com.ar
 inthewildproductions.com
 investpl.work
@@ -1151,10 +1149,12 @@ jour.fr
 jow-japan.or.jp
 joyeriajireh.com.mx
 jp.mercari.efhud.xyz
+jp.mercari.ehuds.xyz
 jp.mercari.saidas.xyz
 jp.mercari.shapir.xyz
 jp.mercari.shapiro.top
 jp.mercari.vedas.top
+jp.mercari.vivuan.xyz
 jptechdocsign.net
 jtbtigers.com
 juandfar.github.io
@@ -1250,7 +1250,6 @@ lloydsbank.secure-personal-device-login.com
 lloyduk-newdevice-registered-online.com
 
 lofon-add.firebaseapp.com
-login-a5x1ir9bkd0dfo9nrbe2akijf3ux35u2gard0djpitipusxxc8.website.yandexcloud.net
 login-live.com-s02.net
 login-np6hh1hdf6csg7hcskopd44b7e7z4clqa8lput68g5abukevka.website.yandexcloud.net
 login-postfinance.com
@@ -1293,7 +1292,6 @@ mail-aol-c3bf8.web.app
 mail-gmxaktualisierung.yolasite.com
 mail-ovhcloud.web.app
 mail-ssocloud-srvr67yhguh.pages.dev
-mail.arsrtu-com.duckdns.org
 mail.enrollmoreclientsbootcamp.com
 mail.hfcfit.com
 mail.ims-fe.com
@@ -1349,6 +1347,7 @@ mchganistore.solofolio.net
 mckennittfamily.com
 mdurucan.com
 me.iveva.org
+me2.do
 me2.kr
 medeniyetakademisi.org
 mednungtanpoudan-acvwe3.ga
@@ -1749,6 +1748,7 @@ privacy.albushra.sd
 priyankasandokar1606.github.io
 pro.icloudremovaltool.com
 procservautomatizacion.com
+profile-irsclaimpayment.com
 programmnewsrus5.xyz
 progresipblocking.my.id
 projectlovewell.com
@@ -1869,7 +1869,6 @@ rust-tve.com
 ruth.martulangbelulalng.workers.dev
 rvbnacion.repl.co
 rysgjikrf.weeblysite.com
-s.block183.net
 s.id
 s3.nl-ams.scw.cloud
 sa34534546575.54645645645654.repl.co
@@ -1896,6 +1895,7 @@ saritapariyar.com.np
 satay-secur.reconfimations.pagedisabled.workers.dev
 sateegourmet.com
 satemi.com.ve
+sattnetznet.weebly.com
 savingsfordentalcare.com
 sbc-109580.weeblysite.com
 sbccctv.com
@@ -2129,6 +2129,7 @@ swanholm.net
 swap.elena.finance
 swappauto.staging.lcsolutions.it
 swiftechdigital.com
+swipeindustry.com
 swiscomome.wpengine.com
 swisscoat.com.cn
 swisscom.myfreesites.net
@@ -2624,6 +2625,7 @@ www.imcreator.com
 www.imxprs.com
 www.inicia-bancalnterbank.com
 www.inked.com.cn
+www.interbanklhomeperu.cup-sat.com
 www.interbanklhomeperu.go-peos.com
 www.internetbankinghelp.com
 www.internetservicetech.com
@@ -2660,7 +2662,6 @@ www.micard.jp.login.gacx21v54.nuwdyag.cn
 www.micard.jp.login.gacx21v54.qdvjtqe.cn
 www.micard.jp.login.gacx21v54.uxmtzsl.cn
 www.micard.jp.login.gacx21v54.xpknzml.cn
-www.micard.jp.logining.ga3yu2i6.chenshisheji.cn
 www.micard.jp.logining.ga3yu2i6.n1fjqce.cn
 www.micard.jp.logining.ga3yu2i6.zhbkgc.cn
 www.micard.login.vbm1n26c.djdjh17.cn
@@ -2775,6 +2776,7 @@ www.xserver-vpsonc.com
 www.yalena.me
 www.yaqoobi.org
 www.yieldguoldi.com
+www.yyuuyu.com
 www.z0massegurabclp1.shreeramwoodindustries.com
 www.zackselectronics.co.zw
 www1.jcbnsocardoka.top
@@ -2800,6 +2802,7 @@ xn--metamsk-lwa.link
 xn--rpondeur-sfr2-bhb.yolasite.com
 xtio.ch
 xtw42.mjt.lu
+xvcvx.weebly.com
 xxx-com-dot-c2c01-531c7.uc.r.appspot.com
 yahoo%2Eco%2Ejp@lkjds.nlmwjta.cn
 yahoo%2Eco%2Ejp@uyhnxx.urpzkva.cn
@@ -2815,7 +2818,6 @@ yma1ll0g0n.odoo.com
 yogeshwarwiremesh.com
 you.myvnc.com
 youknowar.com
-yt65users.weebly.com
 yy69897.amazooncort.vip
 z2qje.codesandbox.io
 zandex--collinsemmanuel.repl.co
