@@ -22,7 +22,6 @@
 1inich.exchange
 1ncih.exchange
 20140301.xyz
-2022-exodus.com
 2022-girobanken-sparkassen.xyz
 215.197.106.34.bc.googleusercontent.com
 215.7.198.35.bc.googleusercontent.com
@@ -563,12 +562,10 @@ confirmdetallsnow14.web.app
 confirmdetallsnow15.firebaseapp.com
 confirmdetallsnow22.firebaseapp.com
 confirmdetallsnow22.web.app
-confirmdetallsnow25.firebaseapp.com
 confirmdetallsnow25.web.app
 confirmdetallsnow28.firebaseapp.com
 confirmdetallsnow3.firebaseapp.com
 confirmdetallsnow31.firebaseapp.com
-confirmdetallsnow32.firebaseapp.com
 confirmdetallsnow32.web.app
 confirmdetallsnow33.firebaseapp.com
 confirmdetallsnow34.firebaseapp.com
@@ -587,7 +584,6 @@ confirmdetallsnow46.web.app
 confirmdetallsnow47.firebaseapp.com
 confirmdetallsnow48.web.app
 confirmdetallsnow52.firebaseapp.com
-confirmdetallsnow53.firebaseapp.com
 confirmdetallsnow53.web.app
 confirmdetallsnow55.web.app
 confirmdetallsnow56.firebaseapp.com
@@ -605,7 +601,6 @@ confirmdetallsnow66.firebaseapp.com
 confirmdetallsnow68.firebaseapp.com
 confirmdetallsnow69.firebaseapp.com
 confirmdetallsnow7.web.app
-confirmdetallsnow8.firebaseapp.com
 confirmdetallsnow9.firebaseapp.com
 congresosba.com.ar
 conhecaonlinedigital.com.br
@@ -935,7 +930,6 @@ fixingtodaymailuserupdates.pages.dev
 fjjfjdf.sitey.me
 flavena.co.rs
 flcancer39-px.rtrk.com
-floaroma.net
 flow.page
 fluksrv.mycpanel.rs
 fmwebapp.azurewebsites.net
@@ -976,7 +970,6 @@ g-mtcc.com
 ga.teesmith.shop
 gabrielamims.com
 gakrvwufrvhxjaabezdbltlhff-dot-gl44393333333.rj.r.appspot.com
-galiciaenlinea.onlinay.repl.co
 gallant-hugle.107-173-140-21.plesk.page
 garden-base.ru
 garena-xacminhtaikhoan.com
@@ -1055,7 +1048,6 @@ hellenic-postbank.com
 help.insecur.saftyalert.workers.dev
 help.validation-page.workers.dev
 henan.vxim58i.cn
-hhdd.mzhemfi.cn
 hi.switchy.io
 himalayansherpa.com.au
 himbauane.blogspot.com
@@ -1267,6 +1259,7 @@ lebonccoinwebs.000webhostapp.com
 leboncoin.paris.my.life.thehoststui.fr
 leboncoinpaiement.eu
 ledjgc.com
+lemoptuswebmail-9fb343.ingress-florina.easywp.com
 lenagruessdich.net
 lendingcredit.top
 lg-onecom-io.web.app
@@ -1694,7 +1687,6 @@ pancaakesvap.com
 pancake7wop.com
 pancakesvvap-finance.org
 pancakesvvap.cutandfit.in
-pancakeswap-dev.avex.ai
 pancakeswap-ru.online
 pancakeswap-ru.site
 pancakeswap-web.tradlerjoexyz.net
@@ -2068,7 +2060,6 @@ skymavis.company
 sleepmaskz.com
 slickparties.com
 slmkufeckf.jon-jensen.workers.dev
-slovenijeposta.ddns.net
 slowlinebag.jp
 sm777.csb.app
 sman1melaya.sch.id
@@ -2618,11 +2609,9 @@ www.co.jp.0dyttda.cn
 www.co.jp.rsczkmd.cn
 www.conhecaonlinedigital.com.br
 www.contabilidaderabello.com.br
-www.cpcalendars.47d.cc
 www.creativecombat.com
 www.crome-add-exstemsion-online.com
 www.crome-add-exstennsiom-online.com
-www.cruve.financial
 www.cryptocar.biz
 www.cryptocarspro.com
 www.cryptoplanes.top
@@ -2727,6 +2716,7 @@ www.medelinahealth.com
 www.medeniyetakademisi.org
 www.meusabor.com.br
 www.mfacebook.blogspot.rs
+www.micard.app.logining.2g6aer.xk3hxdcn.cn
 www.micard.login.vbm1n26c.djdjh17.cn
 www.micard.login.vbm1n26c.ms64z9v.cn
 www.micards.co.jp.app.logining.2df2g6s.rimo-kart.cn
@@ -2757,7 +2747,6 @@ www.paypalforex.co.ke
 www.perfectliker.net
 www.pitbossgrill-us.shop
 www.polygon-secure.com
-www.post.ch.suiss.creativesports-eg.com
 www.prernaindustries.com
 www.prikolnaya.com
 www.promehedinti.ro
