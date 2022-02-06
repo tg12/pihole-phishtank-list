@@ -239,6 +239,7 @@ app.box.com
 app.bydn217.club
 app.fiiber.ca
 app.moneylinecreditcorporation.com
+app.palygon-tehcnoiagy.com
 app.pipefy.com
 app.skiff.org
 app.sugarsync.com
@@ -327,7 +328,6 @@ bc1.paiementervice.com
 bconclutmjy.ru
 bcp-marketing.com
 bcpzonaseguirabeta.com
-bd29uf3xv.s3.us-west-2.amazonaws.com
 be-home.web.do
 bearmybrand.com
 beast-blog.com
@@ -518,6 +518,8 @@ city-of-jazz.de
 cj15347.tmweb.ru
 cl4h7-ms92.firebaseapp.com
 cl4h7-ms92.web.app
+claim-event-2828.duckdns.org
+claim-event-628.duckdns.org
 claims-funds-enczj.run-us-west2.goorm.io
 claimshopee.yolasite.com
 claro-link.brsafe.com.br
@@ -557,7 +559,6 @@ communitychurch-my.sharepoint.com
 confabint.com
 confirmdetallsnow15.firebaseapp.com
 confirmdetallsnow25.web.app
-confirmdetallsnow39.firebaseapp.com
 confirmdetallsnow40.web.app
 confirmdetallsnow46.web.app
 confirmdetallsnow47.firebaseapp.com
@@ -612,7 +613,6 @@ crework.co.jp
 criticalcarevizag.com
 cryptocarsme.com
 crytorectify.net
-ct14462.tmweb.ru
 cu26156.tmweb.ru
 cu61922.tmweb.ru
 cu64854.tmweb.ru
@@ -668,6 +668,7 @@ dgfoodsnet.myportfolio.com
 dhanushr24.github.io
 dhl-australia.blogspot.com
 dhl-event.app
+diamond-allgame-gratis.duckdns.org
 die-post-swiss-id-19782635812.psd2any.com
 diepost.wpengine.com
 diginto.org
@@ -1761,7 +1762,6 @@ r3c0v3ry-bl0ck1ngp4ge3.000webhostapp.com
 r3c0v3ry-c3nt3rp4g3.000webhostapp.com
 r3c31v30n3-1mpr0v1ngp4p3s.000webhostapp.com
 r3g34.fra1.digitaloceanspaces.com
-r44wf.sbs
 rabofree.blogspot.com
 rabofree.blogspot.li
 radhikamd.github.io
@@ -2190,7 +2190,6 @@ tradeswarehouse.com
 train-and-ride.com
 trams.mot.go.th
 transcash-fr-v.blogspot.com
-transfer-dati.com
 triangarena-membership.ga
 tribratanewsbondowoso.com
 tribunbalikpapan.com
@@ -2299,7 +2298,6 @@ vpasss-ne-inbex.co.jp.2hg6jf.pa6699.cn
 vpasss-ne-inbex.co.jp.2hg6jf.rfjo7pa4.cn
 vpasss-ne-index.co.jp.zx52c6.4xbnqca.cn
 vpasss-ne-index.co.jp.zx52c6.5mnlhtv.cn
-vpess-ne-index.co.jp.da6sr1f.negozz0.cn
 vpess-ne-index.co.jp.da6sr1f.phkq8ck.cn
 vpess-ne-index.n2d5cx.q9dq7v7.cn
 vpess-ne-index.n2d5cx.vpv4vvi.cn
@@ -2800,7 +2798,6 @@ youknowar.com
 yy69897.amazooncort.vip
 z2qje.codesandbox.io
 zayhome.com.br
-zazuuoffice365.weebly.com
 zb2-home.web.app
 zepe.io
 zepeapp.com
