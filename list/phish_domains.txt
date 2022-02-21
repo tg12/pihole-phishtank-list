@@ -204,7 +204,6 @@ aiu.kdda.atvtmut.cn
 aiu.kdda.atwvzdg.cn
 aiu.kdda.cbivilo.cn
 aiu.kdda.gcjbusx.cn
-aiu.kdda.ibqgkih.cn
 aiu.kdda.idbbsrc.cn
 aiu.kdda.jfgxljc.cn
 aiu.kdda.kbaahht.cn
@@ -216,11 +215,9 @@ aiu.kdda.otnqknj.cn
 aiu.kdda.pbfvvxg.cn
 aiu.kdda.pgwquwx.cn
 aiu.kdda.riaajxv.cn
-aiu.kdda.rtxllnv.cn
 aiu.kdda.sqkqrqp.cn
 aiu.kdda.uylzqzc.cn
 aiu.kdda.vsgpydq.cn
-aiu.kdda.wrjybtu.cn
 aiu.kdda.xywxsnd.cn
 aiu.kdda.yenygrf.cn
 aiu.kdda.yevbhgu.cn
@@ -325,12 +322,14 @@ amazon.co.jp.hook.ltd
 amazon.co.jp.lf8.shop
 amazon.co.jp.qwxk.com.cn
 amazon.co.jp.snug.ltd
+amazon.co.jp.szasy.cn
 amazon.co.jp.tuqiyi.com
 amazon.co.jp.vipcxvcv.top
 amazon.co.jp.vipmano.top
 amazon.co.jp.vipnomna.top
+amazon.co.jp.yjrbw.cn
+amazon.co.jp.ypmtw.cn
 amazon.co.jp.zbzhzk.com
-amazon.mkxfg.com
 amazon.tjluck.com
 amazon.works.ga
 amazonhome.sfrmobiles.com
@@ -608,6 +607,7 @@ bombomsafar.blogspot.com
 bonomequedoencasa.blogspot.com
 bookfbs.evangsamuelministries.com
 boston-maids.com
+botecodomanolo.blogspot.com
 bpl.kr
 br622.teste.website
 bre.is
@@ -789,6 +789,7 @@ contact2acceptpoilcyverifingyouracceptancemailfullinbox.pages.dev
 contaempresas.com
 contapessoal.digital
 coronahaikus.com
+cosnoesm.nonmesn.xyz
 costarica22.c1.biz
 cottonwooddentalg.nimbusweb.me
 courtcase.co.in
@@ -829,7 +830,6 @@ curve-fi-app.blogspot.com
 cusstomerservicee.blogspot.com
 customerserverice.yolasite.com
 cutt.ly
-cvcvxo.net
 cx94417.tmweb.ru
 cy.tc
 cyclicswitch.org
@@ -1160,10 +1160,8 @@ free-covid-19-stimulus-bonus.nethouse.ru
 free-firecoderedem.blogspot.com
 freefire-codashop2022.duckdns.org
 freefire.pontorecargajogo.com
-freefiree20816.duckdns.org
 freeicon.duckdns.org
 freeroid.com
-freespingrena2022.duckdns.org
 freg-nine.pt
 friendsofnechockey.com
 frontfbrcvrysprt.co.vu
@@ -1255,7 +1253,6 @@ gscommunityspirit.greenschool.org
 gurukanth.com
 gxa1ij.webwave.dev
 gxs.msauthservjusthararyices.nov.ru
-hadiiahgeratesgarenaff.duckdns.org
 hahdaeupdate.es.tl
 hairbymarishka.cuttlefisharts.com
 halaisabudhabi.com
@@ -1278,7 +1275,6 @@ hekimsigorta.com
 hellenic-postbank.com
 help.insecur.saftyalert.workers.dev
 help.validation-page.workers.dev
-helpdesk-security.net
 hesaplievdizayn.com
 hi.switchy.io
 himalayansherpa.com.au
@@ -1363,7 +1359,6 @@ inpost-pl.secure-id498129.xyz
 inps-ep.com
 instagram-b12.pages.dev
 instalacaoguardiaopersonnalite.com
-instastore877.buzz
 institutodelagenerosidad.com
 insttaroreintmazejanpl.web.app
 insurance2019.moneynet.com.tw
@@ -1433,6 +1428,7 @@ jow-japan.or.jp
 joyeriajireh.com.mx
 jp-electroniques.com
 jp.mercari.frithe.xyz
+jp.mercari.schxo.xyz
 jp.mercari.ughte.xyz
 jpamazonremo.linkpc.net
 jpamazonremo.publicvm.com
@@ -2061,7 +2057,6 @@ postalukservice.com
 postch9192.cargo.site
 potlajsnda.atwebpages.com
 powersafeenergia.blogspot.com
-ppp.matchmaker-info.com
 ppt.cc
 pqisus5tyiuzxv6eyqpl6ew.web.app
 preferences.convertkit-mail.com
@@ -2469,8 +2464,10 @@ squaradtowing.com
 srv174551.hoster-test.ru
 srvr-cloudmail-srvr5s5wd3.pages.dev
 ss.xlwljkrmtv7181.workers.dev
+sseeel.nplxfb.net
 ssia.org.sg
 ssisltd.ibuzzgroup.com
+ssjjj987.amazoczaicn.vip
 ssl.dsl.isl.mll.2kdkex.ravishamrah.ir
 sso-garena.com
 ssolanaart.com
@@ -2926,6 +2923,7 @@ www.aeon.co.nuvmsouas.com
 www.alinachopra.com
 www.alkhalilgraphics.com
 www.amaofdg.com
+www.amazon-co-jp.clseo2.top
 www.amazon.rsfsnkjo.win
 www.amazonhome.sfrmobiles.com
 www.ambchagwh.com
@@ -3215,6 +3213,8 @@ www.rabellartz.de
 www.rackenfordlabs.com
 www.rakuten-bank.co.jplogin.tuitongzi.cn
 www.rakuten-bank.co.jplogin.vhcij3.cn
+www.rakutenfj.shop
+www.rakutengh.shop
 www.rakutenm.shop
 www.rakutenpu.shop
 www.ratewatch.net
@@ -3316,6 +3316,8 @@ www.yanzamgrel.cn
 www.yaqoobi.org
 www.yieldguoldi.com
 www.zackselectronics.co.zw
+www2.aeonuser.cyou
+www2.aeonuser.top
 x6mimi.hyperphp.com
 xbvnxm.ml
 xcvdsd.page.link
@@ -3356,7 +3358,6 @@ zahlung-hostpoint-ch-ddiefahrendecoiffeuse.ch.ticoec.pt
 zahlung-hostpoint-ch-dolafeichstaedt.net.ticoec.pt
 zahlung-hostpoint-ch-dquentin-hundeshop.ch.ticoec.pt
 zaibfoundation.fabitcorp.com
-zasdore.host
 zcascas.000webhostapp.com
 zepe.io
 zepeapp.com
