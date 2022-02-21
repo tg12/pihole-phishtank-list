@@ -204,6 +204,7 @@ aiu.kdda.atvtmut.cn
 aiu.kdda.atwvzdg.cn
 aiu.kdda.cbivilo.cn
 aiu.kdda.gcjbusx.cn
+aiu.kdda.ibqgkih.cn
 aiu.kdda.idbbsrc.cn
 aiu.kdda.jfgxljc.cn
 aiu.kdda.kbaahht.cn
@@ -215,7 +216,6 @@ aiu.kdda.otnqknj.cn
 aiu.kdda.pbfvvxg.cn
 aiu.kdda.pgwquwx.cn
 aiu.kdda.riaajxv.cn
-aiu.kdda.sqkqrqp.cn
 aiu.kdda.uylzqzc.cn
 aiu.kdda.vsgpydq.cn
 aiu.kdda.xywxsnd.cn
@@ -1158,7 +1158,6 @@ frdezeredaresafin.blogspot.com
 fredsamasont.blogspot.com
 free-covid-19-stimulus-bonus.nethouse.ru
 free-firecoderedem.blogspot.com
-freefire-codashop2022.duckdns.org
 freefire.pontorecargajogo.com
 freeicon.duckdns.org
 freeroid.com
@@ -1481,7 +1480,6 @@ kidworthy.com
 kienthucykhoa.org
 kissapps.io
 kivafinance.com
-klaimffgratisjj.duckdns.org
 klockorochsmycken.se
 koenisegg.net
 koerich-c-empresarial.com
@@ -2279,8 +2277,6 @@ serialcoder11.firebaseapp.com
 serialcoder13.web.app
 serialcoder2.firebaseapp.com
 serialcoder2.web.app
-serialcoder21.web.app
-serialcoder23.firebaseapp.com
 serialcoder23.web.app
 serialcoder5.firebaseapp.com
 serialfixing3.web.app
@@ -2673,7 +2669,6 @@ uniswap.seal.finance
 uniswap.token.im
 uniswap.trading
 uniswap.v2.testnet.pulsechain.com
-unitus.mk.ua
 unregpayee-lb.com
 unsub.listhandlr.com
 unwico.com
@@ -3216,7 +3211,6 @@ www.rakuten-bank.co.jplogin.vhcij3.cn
 www.rakutenfj.shop
 www.rakutengh.shop
 www.rakutenm.shop
-www.rakutenpu.shop
 www.ratewatch.net
 www.reconfirmpost287846656.us
 www.reglic.in
