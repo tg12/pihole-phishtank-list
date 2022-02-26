@@ -198,7 +198,6 @@ aiu.kadi.geadx.xyz
 aiu.kadi.hrgsd.xyz
 aiu.kadi.jergsd.xyz
 aiu.kadi.jthrg.xyz
-aiu.kadi.qetgx.xyz
 aiu.kadi.rhgef.xyz
 aiu.kdda.uumode.cn
 aizik-whatsapp-firebase-clone.firebaseapp.com
@@ -275,7 +274,6 @@ amaozn.ywcimei.com
 amazon-interruption.com
 amazon.co.ip.hjpzrma.cn
 amazon.co.ip.qjpwmrh.cn
-amazon.co.ip.yjprbhw.cn
 amazon.co.jp.fjpwaaj.cn
 amazon.co.jp.jp2mvh2.cn
 amazon.co.jp.jptdupo.cn
@@ -346,7 +344,6 @@ armitajdesign.ir
 arnaldolanches.blogspot.com
 aromatic.webenliven.in
 arslandach.at
-artemkylevshiola.com
 arthamahotels.com
 as.davofvjprthzjo673.workers.dev
 asdasd.dr2ott.cn
@@ -513,7 +510,6 @@ baritasonte.blogspot.com
 bayc.ink
 bbndaaccrr.ultimatefreehost.in
 bc1.paiementervice.com
-bccmw.com
 bconclutmjy.ru
 bcp-marketing.com
 bcpzonaseguirabeta.com
@@ -633,7 +629,6 @@ c2dcd013.caspio.com
 c3abi347.caspio.com
 c3abp361.caspio.com
 c6ebv708.caspio.com
-cabsiler.com
 cache.nebula.phx3.secureserver.net
 cadeau-orange.fr
 caixainfos.cargo.site
@@ -762,6 +757,7 @@ copy-terra.de
 corblocks.fabitcorp.com
 coronahaikus.com
 cosem.sdfgshjf.xyz
+cosem.sfosdfkjh.xyz
 cottonwooddentalg.nimbusweb.me
 courtcase.co.in
 covid-foyyn.run-us-west2.goorm.io
@@ -831,6 +827,7 @@ dati-ripristino-app.com
 davidshopeaz.org
 daycoval.contrato.srv.br
 daycoval.facildepagar.com.br
+dbssite.com
 dcm1.ae.iwc.static.tungmung.co.id
 dd90001.github.io
 de-servicezentrum-kunden-sicherheit.com
@@ -1346,7 +1343,6 @@ ingaveiculos.creatorlink.net
 injazrest.com
 inkra.co.id
 innovasjon.as
-inp-ost.info-4598.xyz
 inpost-bgif.id-info070.me
 inps-ep.com
 institutodelagenerosidad.com
@@ -2207,6 +2203,7 @@ reurl.cc
 rev.sfr.net.gghost.ru
 review-mynew-device.com
 reviewbook.org
+revisioneinformativaclienti.com
 rezunz.quip.com
 rheasarason.com
 riderctposten.blogspot.com
@@ -2257,12 +2254,16 @@ safetyorlen.biz
 safetyorlen.us
 safty.summarycheck.workers.dev
 saintbarkleyshoes.com
+saisonoara.co.jp.domainn.top
+saisonoard.co.jp.domainn.top
 saitadobrasil.com.br
 saitamaskwallet.net
 sakineiro.com
 saldospc.com
 saliksnas.lojaintegrada.com.br
 salmanfarsi01.github.io
+salsonoara.co.jp.domainn.top
+salsonoard.co.jp.domainn.top
 samirsonte.blogspot.com
 samvision.com.tr
 samvoktor.com
@@ -2962,7 +2963,6 @@ ww.plin.interbank.karnalriceland.com
 ww3243242342342323--3453454353454.repl.co
 wwv-bombcrypto-log.com
 www-aave.org
-www-banc0falabella-cl.thelowerdecklaroma.mx
 www-banc0falabella.cl.pixel8k.com
 www-cursosdigitalesmx-com.filesusr.com
 www-degelyehuda-org-il.filesusr.com
