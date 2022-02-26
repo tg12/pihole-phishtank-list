@@ -195,7 +195,6 @@ aiu.kadi.bgeas.xyz
 aiu.kadi.bsrdv.xyz
 aiu.kadi.eafgs.xyz
 aiu.kadi.geadx.xyz
-aiu.kadi.hrgsd.xyz
 aiu.kadi.jergsd.xyz
 aiu.kadi.jthrg.xyz
 aiu.kadi.rhgef.xyz
@@ -372,7 +371,6 @@ auth-services.tk
 auth-task1-m.web.app
 auth-webmailakeonetcom.yolasite.com
 auth.exodusglobal.network
-authmateurs.com
 authuxeehmutconjxmailssocl.web.app
 autodiscover.ryder-dutton.co.uk
 autoexprs.com
@@ -697,7 +695,6 @@ claimshopee.yolasite.com
 claro-link.brsafe.com.br
 claus.bz
 clck.ru
-clean-pitch-puma.glitch.me
 click.message.fruit.com
 client-100064958628483.com
 clientid-h5p8n7f9e6fbmkhbr3i4gbnia7e9zpts4nbk3ebk0zj625t2ol.website.yandexcloud.net
@@ -1037,6 +1034,7 @@ ezr.pf.rebox.ltd
 ezssausage.com
 f-0lm8.online
 f.ls
+f0639248.xsph.ru
 f2pool.one
 f9w1lned0ruqblxi6jahwotak.filesusr.com
 facebook-accts.pages-recovery.workers.dev
@@ -1344,6 +1342,7 @@ injazrest.com
 inkra.co.id
 innovasjon.as
 inpost-bgif.id-info070.me
+inpost.pl-produkt3.eu
 inps-ep.com
 institutodelagenerosidad.com
 insurance2019.moneynet.com.tw
@@ -1996,7 +1995,6 @@ parchamalzahra.ir
 paribuguncelfirsatlar.ml
 parkmedicalcentre.com
 partakeefoods.com
-particuliers-caissedepargne.xyz
 pasarbta.info
 passionfruit4576261.brizy.site
 path.faithbible.institute
@@ -2018,6 +2016,7 @@ pdfsecured.mystrikingly.com
 pecoranigh.t.justns.ru
 pediasurel.xyz
 pencakecwap.com
+perfecctboxx.weebly.com
 perfectbooxxbt.weebly.com
 perfilcomfotos.000webhostapp.com
 peringatan-pemblokiran532.webnode.com
@@ -2368,7 +2367,6 @@ sidneyfcuorg.freshy.site
 sign-trk.empressmd.com
 signin-gcq7uwojrw58brcckylebjuy39nk2ivt65ol39k6ut6ura94zk.website.yandexcloud.net
 signin-o1jgqfg4jl5rv0fi330kycnxboaoywc6pi71tewsf7i28buon4.website.yandexcloud.net
-siligurifilmfest.in
 simp.ly
 siporados15585.blogspot.com
 sirak.se
@@ -2968,7 +2966,6 @@ www-cursosdigitalesmx-com.filesusr.com
 www-degelyehuda-org-il.filesusr.com
 www-europe564598-com.filesusr.com
 www-europessign-com.filesusr.com
-www-ipkobiznes.com
 www-key-com.test.edgekey.net
 www-lpkobiznes.com
 www.0spg0.spicermediafl.com
@@ -3241,6 +3238,8 @@ www.p0rlnternet.extrachs-lnterbamlkpe.digital
 www.paaidy.icu
 www.paaidy.top
 www.paaildy.top
+www.pacdiy.com
+www.pacdy.icu
 www.pacidy.icu
 www.pacidy.top
 www.pacildey.top
@@ -3249,6 +3248,7 @@ www.pacldy.com
 www.padlockpadu.com
 www.paeidy.icu
 www.pahdy.icu
+www.pakdy.icu
 www.palidy.icu
 www.pancakxechanges.com
 www.panidy.icu
@@ -3257,24 +3257,32 @@ www.paoidy.com
 www.parramattacleaningservices.com.au
 www.pasidy.com
 www.pasildy.top
+www.paudy.icu
+www.paxdy.icu
 www.paypal.com.0.security-confirmation.d72b69c8e37aec662e13e39d929d6e3d.as2.2u.se
 www.paypalforex.co.ke
+www.paytdy.top
 www.pcaidy.icu
 www.peaidy.icu
 www.perfectliker.net
+www.pmady.icu
 www.pmaidy.icu
 www.poaidy.icu
 www.poaidy.top
+www.poaody.icu
 www.poliygon-network.com
 www.polygontehnology.com
+www.posedy.icu
 www.powr.io
 www.praidy.icu
 www.prernaindustries.com
 www.prikolnaya.com
 www.promehedinti.ro
 www.proprofs.com
+www.psady.icu
 www.psaidy.icu
 www.psd2-kunde9678967.info
+www.pssdy.icu
 www.qpayec.com
 www.questimplants.fr
 www.rabellartz.de
@@ -3379,6 +3387,7 @@ www.yieldguoldi.com
 www1-fio-cz.com
 www1.anazonn-jp.click
 www1.aoencntaomcoar.icu
+www1.aoencnuamtonar.icu
 www2.aeongroup.cyou
 www2.aeononline.cyou
 www2.aoencaomcoar.icu
@@ -3386,6 +3395,7 @@ www2.aoencaomcour.icu
 www2.aoencaoncoar.icu
 www2.aoencaoncoer.icu
 www2.aoencntaomcoar.icu
+www2.aoencnuamtonar.icu
 www3.aeononline.icu
 wwwbanc0falabella-cl.kellyloup.nl
 x6mimi.hyperphp.com
@@ -3429,6 +3439,7 @@ yahuomall.square.site
 yairix.github.io
 yal.su
 yayanti.com
+yeantteam-general.sportsontheweb.net
 yhnbbx.mpkgqze.cn
 yhnbcd.smogoaa.cn
 yhnbcda.0y1io3.cn
