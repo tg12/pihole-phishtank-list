@@ -14,7 +14,6 @@
 100000000000000000000596285207.tk
 100000000000000000000596285208.tk
 100000000000000000000596285209.tk
-10000000000000000000478589619.tk
 1000000000000008568525220.tk
 10000000000000085685252202.tk
 10000000000000085685252203.tk
@@ -1538,6 +1537,8 @@ lloydsbank.secure-personal-device-login.com
 lloyduk-newdevice-registered-online.com
 
 lnpost-bglf.id-info070.me
+lnpost-dostarczenie.net
+lnpost-lnfome.delivery-4581.xyz
 lnterexplore.broadpeak.co
 lnx.business
 lnx00.xyz
@@ -2132,7 +2133,6 @@ psd2-kunde44532.info
 psd2-kunde5171.info
 psd2-kunde91827.info
 psd2-kunde923.info
-psd2-kunde94113.info
 psd2-kunde97856.info
 psd2-kunde99772.info
 psd2-kunde9sas0.info
@@ -2876,7 +2876,6 @@ walletchainauthentications.com
 walletconnectsecured.org
 walletconnecttbot.com
 walletconnetvalidator.com
-walletdappconnector.com
 walletdappconnector.net
 walletintoconnect.com
 walletlinking.web.app
@@ -2987,7 +2986,6 @@ www.amazon-co-jp.kzwc1.top
 www.amazonhome.sfrmobiles.com
 www.ambrosecourt.com
 www.amc-training.com
-www.anazonn-jp.click
 www.aolxperience.com
 www.aomyrf.xyz
 www.aproszm.rf.gd
@@ -2996,7 +2994,6 @@ www.arnazon.coffee360.cn
 www.arub-service.org
 www.au.kddi-jp.qdsuper.kidstornado.com
 www.au.kddi-jp.qdsuper.shfuneng.com
-www.au.kddi-jp.qdsuper.whwsf.com
 www.au.kddi-jp.qdsuper.xydrh.com
 www.au.kddi-jp.qdsuper.zkygwj.com
 www.au.kddi-jp.qdsupera.sdjskhb.com
@@ -3425,6 +3422,8 @@ www2.aoencntaomcoar.icu
 www2.aoencnuamtansr.icu
 www2.aoencnuamtonar.icu
 wwwbanc0falabella-cl.kellyloup.nl
+wwwbisacom--bancoebisa.repl.co
+wwwbisacom.bancoebisa.repl.co
 x6mimi.hyperphp.com
 xasd.x0zjsd.cn
 xcasd.pmesuck.cn
