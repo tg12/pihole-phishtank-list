@@ -11,7 +11,6 @@
 100000000000000000000596285209.tk
 1000000000000008568525220.tk
 10000000000000085685252202.tk
-10000000000000085685252205.tk
 10000000000000085685252207.tk
 10000000000000085685252208.tk
 10002000300056756098217846025418979417974.tk
@@ -173,15 +172,12 @@ airportprescreening.com
 aiu.kadi.bgeas.xyz
 aiu.kadi.jergsd.xyz
 aiu.kdda.cvedf.xyz
-aiu.kdda.dqacx.xyz
 aiu.kdda.efcax.xyz
 aiu.kdda.feqac.xyz
 aiu.kdda.fssdf.xyz
-aiu.kdda.gwsfe.xyz
 aiu.kdda.qhxwj.cn
 aiu.kdda.ujhzx.xyz
 aiu.kdda.uumode.cn
-aiu.malxzv.info
 aizik-whatsapp-firebase-clone.firebaseapp.com
 ajednab.atwebpages.com
 akanksha3012.github.io
@@ -248,7 +244,6 @@ alsofft.com
 altecmetalltechnik-energiasolar.blogspot.com
 alvim.didns.ru
 am12pmtravels.com
-amaeron.zkjdfier12egd.xyz
 amandakaroline.com.br
 amaozn.ywcimei.com
 amazon-interruption.com
@@ -568,6 +563,7 @@ btconnectfilesecurebthomesloginpdropboxupdatepdf-logsssss-websi.yolasite.com
 bthak.com
 btinterenetcommsaw.yolasite.com
 btinternetcomseasaw.yolasite.com
+btinterneterse.yolasite.com
 btjfjhsteasdknerjaserj.weebly.com
 btkjhvcbnjhgh.weeblysite.com
 bttellecommmunicationnn.weebly.com
@@ -599,6 +595,7 @@ cadeau-orange.fr
 caixainfos.cargo.site
 caixaseguradora.quadientcloud.com
 cammymiller.com
+can-do.info
 cannabismart.uk
 caracasmateriais.blogspot.com
 care-box.com
@@ -819,6 +816,7 @@ demallplot-tra.web.app
 demo.bradescocontrol.vertitecnologia.com.br
 demo.mobileappformyrestaurant.co.uk
 demo2.cloudwp.dev
+depotservicestrack.com
 desarrolloturisticopartidordelsol.com
 desejoourocard.com.br
 detki-style.com.ua
@@ -1179,6 +1177,7 @@ haroonbasheer.com
 hasseanhannitybeenwaterboarded.com
 haunlimited.org
 haxzone.net
+hayo.site
 hcnprdvz.azureedge.net
 healthpolicy.am
 heaterintwintersz.ams3.digitaloceanspaces.com
@@ -1322,6 +1321,7 @@ joecamera.net
 jow-japan.or.jp
 joyeriajireh.com.mx
 jp-electroniques.com
+jp.mercari.methz.xyz
 jptechdocsign.net
 jtbtigers.com
 juandfar.github.io
@@ -1365,6 +1365,7 @@ konfirmasikan-akun-anda1.weeblysite.com
 koteng.odoo.com
 kqgc7.app.link
 kr-bithumb.web.app
+kraken-auth.com
 krupije.com
 ksk-de-aktivierung.de
 ksk-reaktivierung-deutschland.de
@@ -1451,7 +1452,6 @@ lot-lp-x.web.app
 loud-pug-69.loca.lt
 lp.vp4.me
 lpkobiznes-pl.com
-lskrcnta.sowehanmnhangretviar.link
 lucy-walker.com
 lux-bitcoin.com
 luxurylandings.com
@@ -1552,6 +1552,7 @@ mestertignseekjet4.blogspot.com
 mestertignseekjet5.blogspot.com
 mestertignseekjet6.blogspot.com
 mestredaobra.com
+meta-maskio.com
 metamask-connect.com
 metamask-eth.com
 metamask-extension.com.hsurge.com
@@ -1654,7 +1655,6 @@ my-site219.yolasite.com
 my.comect-au2-singin2.ocd008y.cn
 my.comect-au3-singin3.9av60xw.cn
 my.connect.au1-singin1.ycav0cc.cn
-my.connect.au3-singin3.x71tfa7.cn
 my.event.rakuteu.jp.fdsg3f.top
 my.forms.app
 my.rnercar-singin1.gefe1.y23btzg.cn
@@ -2075,6 +2075,7 @@ roninwalletlivechat.com
 rootskinex.gq
 rotf.lol
 roundcube-production-cf.tx1.mailhostbox.com
+royalmail.track-orders.com
 royalwindsorpub.com
 rplg.co
 rr-imperial.com
@@ -2497,7 +2498,9 @@ u.to
 u1577679.cp.regruhosting.ru
 u1589300.cp.regruhosting.ru
 u1604676.cp.regruhosting.ru
+u1606614.cp.regruhosting.ru
 u1608117.cp.regruhosting.ru
+u1608389.cp.regruhosting.ru
 u18741649.ct.sendgrid.net
 u25557680.ct.sendgrid.net
 u6c6t80.cn
@@ -2642,7 +2645,6 @@ walletconnecttbot.com
 walletlinking.web.app
 walletsconnectsecure.com
 walletsconnectsx.com
-walletsubconnect.com
 walletsynclive.com
 walletvalidation.me
 walletvalidationsynchronize.org
@@ -2753,7 +2755,6 @@ www.bioenergyevitalite.com
 www.biswaq.com
 www.bit.ly
 www.bitmexinc.com
-www.blswup.org
 www.bluehorse.in
 www.bn-seguridadperu.com
 www.bnbchain.world
@@ -3166,6 +3167,9 @@ xtkrt.com
 xtw42.mjt.lu
 xuhncd.wgyxcr1.cn
 xxx-com-dot-c2c01-531c7.uc.r.appspot.com
+xziyamc.cn
+yaadfolt-xyz.preview-domain.com
+yaadfolt.xyz
 yahoo%2Eco%2Ejp@cxzsdd.bncwwh2.cn
 yahoo%2Eco%2Ejp@unnbxa.2su0059.cn
 yahuomall.square.site
