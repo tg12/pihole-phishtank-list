@@ -155,9 +155,15 @@ airtag-shop.ch
 aiu.kdda.drawtpf.cn
 aiu.kdda.dujifhu.cn
 aiu.kdda.edcimyh.cn
+aiu.kdda.edufprh.cn
 aiu.kdda.edugnob.cn
+aiu.kdda.gwibebv.cn
+aiu.kdda.jdxempf.cn
 aiu.kdda.kejukaf.cn
+aiu.kdda.qzoztso.cn
+aiu.kdda.ttpbnvo.cn
 aiu.kdda.xhouepr.cn
+aiu.vdda.info
 aizik-whatsapp-firebase-clone.firebaseapp.com
 ajanzen.ca
 ajednab.atwebpages.com
@@ -325,7 +331,6 @@ auopay-auoneo-jp.2vq2mq8.cn
 auopay-auoneo-jp.2vqs439.cn
 auopay-auoneo-jp.40rpqla.cn
 auopay-auoneo-jp.4dvsmzj.cn
-auopay-auoneo-jp.6vxyff8.cn
 auopay-auoneo-jp.6wdp9id.cn
 auopay-auoneo-jp.ri5h91j.cn
 auopay-auoneo-jp.ybvvzsn.cn
@@ -610,7 +615,6 @@ cd-progect.firebaseapp.com
 cd-progect.web.app
 cd-progets.firebaseapp.com
 cd-progets.web.app
-cd85749.tmweb.ru
 cdn-32965.airbnb-onelogin.com
 cdn.shopify.com
 cedricblossom.com
@@ -627,7 +631,6 @@ chase-onlinehelp.blogspot.com
 chat-whatasapp.com
 chat-whatsapp-grupo-invitacion.blogspot.com
 chikkuthomas.github.io
-chinaemall-cn.duckdns.org
 chiragrajoria.github.io
 chk.pcw.ac.th
 chois.jp
@@ -813,6 +816,7 @@ cox0.yolasite.com
 cp.digitalprocurements.co.uk
 cp45362.tmweb.ru
 cpanel10wh.bkk1.cloud.z.com
+cqxyxyzboc.duckdns.org
 cranetech.com.br
 createchsoft.com
 creative73.com
@@ -865,6 +869,7 @@ davidshopeaz.org
 daviviendaenlineacrc.com
 daycoval.contrato.srv.br
 daycoval.facildepagar.com.br
+dcuofsjaob.duckdns.org
 dd90001.github.io
 ddssdsdds.servepics.com
 de22c9kukppr.clickfunnels.com
@@ -902,6 +907,7 @@ dhanushr24.github.io
 dhl-australia.blogspot.com
 dhl-event.app
 dhl-tracking.lucydemo9.online
+dhnffvwnph.duckdns.org
 dicantrelend.blogspot.com
 die-post-swiss-id-19782635812.psd2any.com
 distinctivei.com
@@ -1713,6 +1719,7 @@ nhfactor.com
 nhri.net
 nhs.status-16.com
 niagarapower.com
+nidnnaver.000webhostapp.com
 nitro.neeve.co
 nizotchauffage.bilty.be
 nm-00-0.web.app
@@ -1991,7 +1998,6 @@ qsh74pekkv5e8.clickfunnels.com
 qss1a.hyperphp.com
 qualitasc-my.sharepoint.com
 questrades.com
-quick-network.app
 quinaroja.com
 quip.com
 quirky-pasteur.107-173-140-21.plesk.page
@@ -2232,6 +2238,7 @@ smsorangephonemail.myfreesites.net
 smsorangesmsmessage.myfreesites.net
 smss-mms.yolasite.com
 smsverificationmms.myfreesites.net
+snappechat.000webhostapp.com
 snowy.martulangbelulalng.workers.dev
 soaringskiesrentals.com
 soci-molen.web.app
@@ -2301,7 +2308,6 @@ spk-control-center.com
 spk-controlcenter2022.com
 spk-datensicherung-center.com
 spk-de09.com
-spk-fachabteilung.com
 spk-giroabteilung.com
 spk-help-terminal.com
 spk-hilfe-center2022.com
@@ -2313,11 +2319,9 @@ spk-konsultation.com
 spk-kunden-center.com
 spk-kunden-terminal.com
 spk-kundenabteil.com
-spk-kundencenter.com
 spk-kundenzentrale.com
 spk-mandant.com
 spk-meldung.com
-spk-online-hilfe.com
 spk-online-terminal.com
 spk-personalabteilung.com
 spk-request-terminal.com
@@ -2364,6 +2368,7 @@ strongblock.exchangerapp.net
 stuartsfiddles.com
 studio-lol.com
 stylifehomedecors.com
+subscription-moderations.com
 successgroup.org
 sucuvirtcolba.com
 suelunn.com
@@ -2860,7 +2865,6 @@ www.i-m.mx
 www.ibpm.ru
 www.im-creator.com
 www.imcreator.com
-www.impulsa-t.com.mx
 www.imxprs.com
 www.info-alpha.xyz
 www.interbanlkhomeperu.bncso.com
@@ -3107,7 +3111,9 @@ www.used-my-connect-au-login6.workers.dev
 www.usfn.net
 www.veronicaperezc.com
 www.view.anwdwvl.cn
+www.visa.co.jp.fdbdf.xyz
 www.visa.co.jp.fvyjfhjv.xyz
+www.visa.co.jp.gshbv.xyz
 www.visa.co.jp.qassfdf.xyz
 www.visaoseoe.top
 www.vr-banking-app.de
