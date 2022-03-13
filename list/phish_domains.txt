@@ -152,6 +152,12 @@ aid-validation-human.run-us-west2.goorm.io
 aijcs.blogspot.com
 airportprescreening.com
 airtag-shop.ch
+aiu.kdda.drawtpf.cn
+aiu.kdda.dujifhu.cn
+aiu.kdda.edcimyh.cn
+aiu.kdda.edugnob.cn
+aiu.kdda.kejukaf.cn
+aiu.kdda.xhouepr.cn
 aizik-whatsapp-firebase-clone.firebaseapp.com
 ajanzen.ca
 ajednab.atwebpages.com
@@ -558,7 +564,6 @@ btconnectfilesecurebthomelogindropboxinupdatetdropboxpdf-logss.yolasite.com
 btconnectfilesecurebthomelogindropboxlinkupdatetdropboxpdf-logs.yolasite.com
 btconnectfilesecurebthomeloginpdropboxupdatepdf-logsssss-websit.yolasite.com
 btconnectfilesecurebthomesloginpdropboxupdatepdf-logsssss-websi.yolasite.com
-bthak.com
 btintysgts63.weeblysite.com
 btwifisignage.com
 buckeyeswap.com
@@ -693,7 +698,6 @@ connecti-auonei-jp.s32a8uq.cn
 connecti-auonei-jp.sm5q3or.cn
 connecti-auonei-jp.x7jua88.cn
 connecti-auonei-jp.y917ikk.cn
-connecti-auonepay-jp.02xteo3.cn
 connecti-auonepay-jp.11m7usj.cn
 connecti-auonepay-jp.1i5mjul.cn
 connecti-auonepay-jp.1yxy08j.cn
@@ -1470,7 +1474,6 @@ lomadesarrollos.mx
 looksrarefree.xyz
 lot-lp-x.web.app
 lp.vp4.me
-lssecurefamiliar.bfamiliar.repl.co
 lucy-walker.com
 lynk.id
 m.fancy-bush-cf01.marhabitas.workers.dev
@@ -1562,7 +1565,6 @@ metaamskwallet.azurewebsites.net
 metachecknow.com
 metaciteacn.noisy-scene-1d5c.rcvrypegsfty.workers.dev
 metamask-connect.com
-metamask-etc.com
 metamask-extension.com.hsurge.com
 metamask-wallets.yahoosites.com
 metamask-web.org
@@ -1669,7 +1671,6 @@ my.srnbc.jp-singin1.buny3.mxtlkw.cn
 my.srnbc.jp-singin1.buny4.nbtmkr.cn
 my.srnbc.jp-singin1.buny5.wltpkn.cn
 my.srnbc.jp-singin1.iun3.zuxk17.cn
-my.srnbc.jp-singin1.smn5.huizhijiat.cn
 my.ucscard.jp.login1.wamlexo.cn
 my.ucscard.jp.login2.d418yten.cn
 mygoogleaccount.stantrade.xyz
@@ -2238,7 +2239,6 @@ soft-cell-8148.updateloginprogram.workers.dev
 softtouch-2022.web.app
 soladsnft.com
 solairdropnft.com
-solana.com-merryxmas.events
 solanahackerhouse.com
 solananftmint.net
 solatresont.blogspot.com
@@ -2325,9 +2325,7 @@ spk-request.com
 spk-requestabteilung.com
 spk-requestcenter.com
 spk-reset.com
-spk-sofortberatung.com
 spk-sonderabteilung.com
-spk-technischer-dienst.com
 spk05-de.com
 sport.protected-secur.workers.dev
 sportsnutrition.nz
@@ -2399,14 +2397,12 @@ swissco1.wpengine.com
 swisscoat.com.cn
 swisscom.myfreesites.net
 swsrecherigne.wpengine.com
-swsssscomee2.wpengine.com
 symabeautyoriginal.com
 synapse-project.com
 synaxisreadymix.com
 syncdappconnect.com
 synchappconnect.net
 syncmultidapp.com
-synctalent.com.br
 synmultiwallet.com
 syr.us
 syracuseinfo.com
@@ -2616,6 +2612,7 @@ walkers-dot-composite-store-326315.uk.r.appspot.com
 walldappssync.xyz
 walldesign.com.tr
 wallet-connect012.web.app
+wallet.mymonero-cryptolab.org
 wallet.polygon-technology.me
 wallet.silesiacoin.com
 walletchainauthentications.com
@@ -2814,7 +2811,6 @@ www.efarms.com.ng
 www.eki-net.com.eveybxj.cn
 www.eki-net.com.gyzrntw.cn
 www.eki-net.com.jqrdxyf.cn
-www.eki-net.com.voghnzi.cn
 www.eki-net.com.xahkbwr.cn
 www.eki-ofjshfs.com
 www.enbolivia.com
