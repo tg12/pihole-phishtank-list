@@ -712,9 +712,7 @@ conf.chuuu.workers.dev
 configuration-safety-100000099557446853522.tk
 configuration-safety-100000099557446853523.tk
 configuration-safety-100000099557446853525.tk
-configuration-safety-100000099557446853526.tk
 configuration-safety-100000099557446853527.tk
-configuration-safety-100000099557446853528.tk
 configuration-safety-100000099557446853529.tk
 configuration-safety-100000099557446853530.tk
 confirmacaowebmail2022.switzerlandnorth.cloudapp.azure.com
@@ -892,7 +890,6 @@ danitraseoexperts.com
 daomaker.ai
 dapp.activationaccess.com
 dappnetsync.com
-dappstetherall.xyz
 dappstokenauthenticator.com
 dasnetsync.com
 data-correction-system.amazonaa.top
@@ -1367,7 +1364,6 @@ is.gd
 isgrioja.com
 it-europe564598-com.filesusr.com
 it.melnikhotels.com
-italtrack.checkitemdelivery.xyz
 itaucomunication.x10.mx
 itausontermats.x10.mx
 its.tikkycloud.com
@@ -1435,7 +1431,6 @@ kddi.aiu.qrsfg.xyz
 kddi.aiu.vcxbn.xyz
 kddi.aiu.xbvcd.xyz
 kddi.aiu.zfshj.xyz
-kddr.aiu.ansmeus.shop
 kdhdf34j6dfh.dealerwebsite.com
 kdlscaffolding.co.uk
 kecc.com
@@ -1488,7 +1483,6 @@ lenagruessdich.net
 lets2020vision.co.uk
 lg-onecom-io.web.app
 liatyaui.hilianthirtewainerla.link
-lieferung-paket.net
 lifeiswhatyoumakeofit.com
 ligoshope8.xyz
 lihi1.cc
@@ -1877,7 +1871,6 @@ page-help-center.my.id
 pageactivationprotection.co.vu
 pageconfirmation104013.co.vu
 pageconfirmation231437.co.vu
-pageconfirmation275157.co.vu
 pageconfirmation773070.co.vu
 pages-community-and-privacy-policy.cf
 pages-community-standart-2022.co
@@ -2809,10 +2802,8 @@ www.anieswap.com
 www.aolxperience.com
 www.app-defikigndoms.com
 www.arnazno-singi2-prime4-jp.workers.dev
-www.articfox.exchange
 www.arub-service.org
 www.at-e.co.jp
-www.atulenterprisesinteriors.com
 www.axllelnfinity.com
 www.azimpiantisrl.com
 www.bancaporinternet.lnterbank.pronductos.com
@@ -3112,7 +3103,6 @@ www.newlifenursery.com
 www.newrydramafestival.co.uk
 www.nextgensoftbd.com
 www.niagarapower.com
-www.nowactiveonline.online
 www.ny989.com
 www.nysetbtck.com
 www.nysethkpd.com
