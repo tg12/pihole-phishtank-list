@@ -78,6 +78,7 @@ a.60b7ac265566e3da4341f765b2d2a73200f8f1db57b0b005a1afdc00.com
 a.dab342ab8887461995aad393cb294948a5ce800ca279cd1027026d47.com
 a.insecurpage.recovery-safty.workers.dev
 a0646873.xsph.ru
+a0646932.xsph.ru
 a4d3b42c.chgmar-d8y.pages.dev
 a71843c1.mailssocloud-srvr65e5rd.pages.dev
 a894ec7f.46t33454t4.pages.dev
@@ -174,11 +175,9 @@ aiu.kdda.tluwxtx.cn
 aiu.kdda.xhouepr.cn
 aiu.kdda.ymtxlro.cn
 aiu.kdda.zwjfovr.cn
-aiu.kdda.zxjbsov.cn
 aiu.laidz.shop
 aiu.madzx.info
 aiu.sgfyr.shop
-aiu.vdda.info
 aizik-whatsapp-firebase-clone.firebaseapp.com
 akanksha3012.github.io
 akawug.com
@@ -299,6 +298,7 @@ app-n26.myvnc.com
 app.bf8520.top
 app.box.com
 app.bydn217.club
+app.cardinalegroup.it
 app.fiiber.ca
 app.formbot.com
 app.moneylinecreditcorporation.com
@@ -809,7 +809,6 @@ connecti-auonepay-jp.ngulepj.cn
 connecti-auonepay-jp.nntftsy.cn
 connecti-auonepay-jp.nuosyre.cn
 connecti-auonepay-jp.nuttled.cn
-connecti-auonepay-jp.otlhuxk.cn
 connecti-auonepay-jp.ow7v76od.cn
 connecti-auonepay-jp.pah1a1yk.cn
 connecti-auonepay-jp.pbtfteg.cn
@@ -817,7 +816,6 @@ connecti-auonepay-jp.pdvvoow.cn
 connecti-auonepay-jp.pfidjjv.cn
 connecti-auonepay-jp.pfvrnzz.cn
 connecti-auonepay-jp.phxvyuj.cn
-connecti-auonepay-jp.pjjzqvq.cn
 connecti-auonepay-jp.plvqjtz.cn
 connecti-auonepay-jp.pq67yx6hl.cn
 connecti-auonepay-jp.pqaxnuu.cn
@@ -1304,7 +1302,6 @@ hdrive200682565419.blob.core.windows.net
 heaterintwintersz.ams3.digitaloceanspaces.com
 hedefpanel.net
 heinthu1.github.io
-heldererersdr.000webhostapp.com
 helepdenaitukbuekpajatu.co.vu
 hellenic-postbank.com
 help.insecur.saftyalert.workers.dev
@@ -1416,7 +1413,6 @@ iptlodz.org
 irs-claim-federal.com
 irs-claim-onlinetax.com
 irs-homeclaimtaxus.com
-irs-tax-online.com
 irs-usatax-profile.com
 irs.profileusa-federal.com
 is.gd
@@ -1508,6 +1504,7 @@ l-123movies.com
 l.o1r.restaurant.decode-lab.com
 l.wl.co
 labornygovonline.bmc-india.com
+ladones-site.preview-domain.com
 laposada.roncesvalles.es
 laposte-swiss.com
 larindbr.creatorlink.net
@@ -1798,6 +1795,7 @@ milanobet301.com
 milashinee.cl
 militaryvehiclerepair.com
 minerlee.topijerami.workers.dev
+minerzbaseprodubanco.com
 mingming20160152.github.io
 miss-paym02.com
 missionshashank.org
@@ -1892,7 +1890,6 @@ n9.cl
 nab-alert.mobi
 nab-www.303.si
 nacional0000.hostfree.pw
-nacionalbncr4.repl.co
 nacionalficr.nacionalbncr4.repl.co
 nah.uy
 najboljeuslugezavas.betterservicesforyou.com
@@ -2047,7 +2044,6 @@ pancake7wop.com
 pancakemobile.com
 pancakesvvap.cutandfit.in
 pancakeswap-cripto.com
-pancakeswap-finance.art
 pancakeswap-finance.pages.dev
 pancakeswap.azurewebsites.net
 pancakeswap.bnbco.in
@@ -2230,6 +2226,7 @@ rabofree.blogspot.com
 rabofree.blogspot.li
 radhikamd.github.io
 rakuten-card.co.jp.pbqqj.com
+ranadar-xyz.preview-domain.com
 raycargo.com
 raydiom.io
 raynau.hyperphp.com
@@ -2367,11 +2364,13 @@ serverde-spk01.de
 servertechnicalnoticeimmestae-reconecting.pages.dev
 service-lkdn2020.gacconstrutora.com.br
 servicepage.service-page.workers.dev
+servicepostch.wpengine.com
 services.runescape.com-as.cz
 servicesbancaire.com
 serviciosbndigitales.com
 servics.validationsecuradm.workers.dev
 servinform.quadientcloud.eu
+setnar-xyz.preview-domain.com
 setupmynorton.square.site
 seul.unilurio.ac.mz
 sevoudryserviciobomail.dudaone.com
@@ -2444,7 +2443,6 @@ slowlinebag.jp
 sm777.csb.app
 smartmom.com.bd
 smarttv.4manuals.cc
-smbc-form.shop
 smbc-kdjf.shop
 smbc.create-vpass.com
 smeo.org.mx
@@ -2658,6 +2656,7 @@ tender-heisenberg.51-255-223-25.plesk.page
 teplonoginsk.ru
 terjalapakkz.topijerami.workers.dev
 terpelsicumple.com
+tesakol-xyz.preview-domain.com
 tesorerialiquidaciongob.mx
 test.bayoucitybadges.org
 test.dxbproductions.com
@@ -2775,7 +2774,6 @@ urwaxy.firebaseapp.com
 userboitevocalweb.flazio.com
 userinformationstoreupdatesmail.pages.dev
 users.tpg.com.au
-usp-reboot.com
 uswowgame.net
 uuid-validation.run-us-west2.goorm.io
 uv09s6357.riggearf.com
@@ -2819,6 +2817,7 @@ vitinhmxc.vn
 vivaterouna.blogspot.com
 vivocrm.ru
 vk.com
+vlnted.productdispatch-471.xyz
 vnikiforov.lv
 vodaupdatepayment.com
 volksbankapps.web.app
@@ -2921,7 +2920,6 @@ www-degelyehuda-org-il.filesusr.com
 www-europe564598-com.filesusr.com
 www-europessign-com.filesusr.com
 www-rovblox.com
-www.201bono-lnterbak.online
 www.20khvylyn.com
 www.228.94.92.rev.sfr.net.gghost.ru
 www.3ho.com.tw
