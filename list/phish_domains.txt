@@ -105,7 +105,6 @@ aeon-integral.ml
 aeon-integral.tk
 aeon.co.jp.doc43.com
 aeon.co.jp.doc67.com
-aeon.co.jp.doc79.com
 aeon.jp.co.360kt-koz9y.cn
 aeoncojapan.nltwkp.cn
 afeadfgc.odoo.com
@@ -265,7 +264,6 @@ ameli-formulairefr.com
 amidabuli.com
 amjhx.cuofany.cn
 amosleh.com
-amrazzan.com
 amreeth.github.io
 ams3.digitaloceanspaces.com
 amtrakaccount.com
@@ -343,7 +341,6 @@ auonepay-jp.iturtyhb.xyz
 auonepay-jp.ksdfdgj.xyz
 auonepay-jp.poiyjg.shop
 auonepay-jp.rtjhssv.shop
-auonepay-jp.sngmfd.shop
 auonepay-jp.vbntjrd.shop
 auonepay-jp.vbxnfg.shop
 auonepay-jp.zcxvbh.shop
@@ -610,6 +607,7 @@ cannabismart.uk
 cantinhodaamazonia.com.br
 caracasmateriais.blogspot.com
 carinsurancequotetoday.com
+cartesi-rewards-claims-erc20-token.my.id
 carwash-bubblestime.com
 cas-polygon.blogspot.com
 casadoborracheiroxx.blogspot.com
@@ -703,7 +701,6 @@ connecti-auonepay-jp.11m7usj.cn
 connecti-auonepay-jp.1yxy08j.cn
 connecti-auonepay-jp.2q953xs-2n9.cn
 connecti-auonepay-jp.4m27nfx.cn
-connecti-auonepay-jp.605gtk6.cn
 connecti-auonepay-jp.70ytguz.cn
 connecti-auonepay-jp.8g3pv5q.cn
 connecti-auonepay-jp.8ykg6qe.cn
@@ -852,6 +849,7 @@ consultagbsbono.xyz
 consultasinterperuibk.xyz
 contact2acceptpoilcyverifingyouracceptancemailfullinbox.pages.dev
 contapessoal.digital
+cool-mud-6271.kahipi17703561.workers.dev
 coradecora.com.br
 corblocks.fabitcorp.com
 corroese47.temp.swtest.ru
@@ -1008,7 +1006,6 @@ editingthatworks.com
 edje.com
 ee-sms.co.uk
 efarms.com.ng
-egift-premium.com
 ehsjxgtoidrkfvvrsymjtukgci-dot-sp50otoot.nn.r.appspot.com
 eki-nnet-oig.club
 electronicanehuen.com
@@ -1212,6 +1209,7 @@ garena-xacminhtaikhoan.com
 garisbiru.xyz
 gbxff.jeinknc.cn
 gc.elin.co.za
+geegegheeheh.co.vu
 geg.li
 genebank62346.webcindario.com
 genie-alba.firebaseapp.com
@@ -1606,6 +1604,7 @@ mala-riba.com
 malaprontaargentina.com.br
 malehaenterprises.com
 mamachicaofeb.clickfunnels.com
+maony.3utilities.com
 mapsa.com.pe
 marcianoscakes.com.au
 marketplace-axieinfinity.io
@@ -1741,6 +1740,7 @@ msofficemessagescenter-1.mfs.gg
 mtb-b.com
 mtngifts2021.blogspot.com
 mudraloans.biz
+muskmetaverse.me
 my-bithumb.web.app
 my-bk-rnufg-jp-singin1.ayemg3f.cn
 my-bk-rnufg-jp-singin1.pl6ubm2q.cn
@@ -1758,6 +1758,7 @@ my.eposcord.co.jp.9092hnc-r42.cn
 my.eposcord.co.jp.tj-jzbxgg.cn
 my.forms.app
 my.heyform.net
+my.packetcord.co.jp.qxznaci.cn
 my.rnufg.jp.login1.tybdpww.cn
 my.rnufg.jp.login2.ltreytq.cn
 my.rnufg.jp.login3.niyicuy.cn
@@ -1766,7 +1767,6 @@ mycompteleboncoin.com
 mygoogleaccount.stantrade.xyz
 myjcb.co.jp.0s3aq18o.cn
 myjcb.co.jp.0u87u0sk.cn
-myjcb.jp.shdcbg.cn
 mylink.today
 mymainnetsync.com
 mymweb-owner.at.ua
@@ -1907,6 +1907,7 @@ package2021.blogspot.com
 page.vilodata.workers.dev
 pageconfirmation077115.co.vu
 pageconfirmation375406.co.vu
+pageconfirmation488388.co.vu
 pages-accounts-verify-social-media.ga
 pages-community-standart-2022.co
 pages-marvelous-project.webflow.io
@@ -2443,7 +2444,6 @@ spk-requestcenter.com
 spk-reset.com
 spkde-srv01.de
 sport.protected-secur.workers.dev
-sportsnutrition.nz
 sportybetpremium.wapka.co
 sprechls.blogspot.com
 spring-pond-62c4.autocreative.workers.dev
@@ -2657,6 +2657,7 @@ userinformationstoreupdatesmail.pages.dev
 users.tpg.com.au
 usp-reboot.com
 uswowgame.net
+utrust-rewards-claims-erc20-token.my.id
 uuid-validation.run-us-west2.goorm.io
 uv09s6357.riggearf.com
 v.ht
@@ -2964,7 +2965,6 @@ www.interbanlkhomeperu.bncso.com
 www.internetbankinghelp.com
 www.internetservicetech.com
 www.isfirsatibul.com
-www.j8561.cn
 www.jax.bz
 www.john-ashley.de
 www.joyeriajireh.com.mx
@@ -3155,6 +3155,7 @@ www.uniswapfinancing.info
 www.uphkdpkd.com
 www.uphkdvz.com
 www.used-my-connect-au-login6.workers.dev
+www.used-pocketcord-jp-login1.workers.dev
 www.usfn.net
 www.veronicaperezc.com
 www.visa-co.jp.loginpasword.xyz
