@@ -94,6 +94,7 @@ account-tmobile.com
 account.verifications.help-page.workers.dev
 acessando-facil-solucoes.com
 acessando-facilmente-solucoes.com
+acessencurt.com
 acessobradesco.digital
 ach-centr.ru
 activartransferenciainternacional.com
@@ -217,7 +218,6 @@ allesvouus19.web.app
 allesvouus20.web.app
 allesvouus24.firebaseapp.com
 allesvouus24.web.app
-allesvouus26.firebaseapp.com
 allesvouus28.firebaseapp.com
 allesvouus28.web.app
 allesvouus29.firebaseapp.com
@@ -475,6 +475,7 @@ banca-sella.eu
 bancaporinternet.interban.pe.magictourscancun.com
 bancaporinternet.interbrnpe.com
 bancaporinternetempresas.banbifperu.site
+bancaporintersnetempresas.bansbif-pe.com
 bancaporlnternetlnterbarnk.aaca9cua.xyz
 bancaporlnternetlnterbarnk.libertycanais.com.br
 bancaporlnternetlnterbarnk.ma0zm8sz.xyz
@@ -674,7 +675,6 @@ cicagri.com
 cihatsaygin.com
 cima4umni.web.app
 cinemaleftech.com
-cinoanjiangbanyakcito.co.vu
 cintasejatidrink.com
 citasbnenlinea.com
 city-of-jazz.de
@@ -740,14 +740,11 @@ connect-auoneo-jp.rxayxzu.cn
 connect-auoneo-jp.snjwjer.cn
 connect-auoneo-jp.snylnua.cn
 connect-auoneo-jp.spwcnkj.cn
-connect-auoneo-jp.tncvpkk.cn
 connect-auoneo-jp.tuuqgej.cn
 connect-auoneo-jp.tznszwy.cn
 connect-auoneo-jp.wqntmke.cn
-connect-auoneo-jp.yqssebj.cn
 connect-auoneo-jp.yuypykz.cn
 connect.collab-land.li
-connecthub.site
 connecti-auonepay-jp.2q953xs-2n9.cn
 connecti-auonepay-jp.95ygzrj.cn
 connecti-auonepay-jp.aeeaxpg.cn
@@ -885,6 +882,8 @@ createchsoft.com
 creative73.com
 creativecombat.com
 creativeingredient.com
+cred-segur027.webcindario.com
+cred-segur436.webcindario.com
 credcloud-object-storage-o9-cos-static-web-hocsd3d.pages.dev
 credicorp-capital.net
 credifinanciera.didacsis.com
@@ -1481,7 +1480,6 @@ jp.mercari.suwoad.xyz
 jptechdocsign.net
 jr-card.permis-a2a.com
 jr-card.sdnjldj.com
-jr-odekake.checkern.shop
 jr-odekake.cytetic.shop
 jr-odekake.euate.shop
 jr-odekake.familyth.shop
@@ -1577,6 +1575,7 @@ live-site.hopto.me
 live.outlook.office365dada.ch.dada.live0wa365.xyz
 lively.marbauttulo.workers.dev
 livenmitac-my.sharepoint.com
+lknbbanprlnternet.com
 lloyds.auth-user-54.com
 lloydsbank.deregister-payee-secure-auth.com
 lloydsbank.secure-online-deregister.com
@@ -1697,7 +1696,6 @@ memberships.altariq.ps
 menunggu.xyz
 mercadopago-onlinebrasil.pagina-oficial.com
 mercarissl.linkpc.net
-mercariuser.publicvm.com
 meremanovegabana.website2.me
 mestertignseekjet4.blogspot.com
 mestertignseekjet5.blogspot.com
@@ -1809,10 +1807,8 @@ mtngifts2021.blogspot.com
 mudraloans.biz
 my-bithumb.web.app
 my-bk-rnufg-jp-singin1.pl6ubm2q.cn
-my-bk-rnufg-jp-singin2.teilil32.cn
 my-site219.yolasite.com
 my.au.com.xckie.com
-my.comect.au.login2.ulgobf.cn
 my.eops.jp.login1.0017zjuq-5h.cn
 my.eops.jp.login2.k3imyhlk.cn
 my.eops.jp.singin1.tgtgpxu.cn
@@ -2131,6 +2127,7 @@ primeone.org
 printtoner.com.mx
 privacy-update-secu-recovry-page-protection-4565544.web.id
 privacy-websession-spk12.xyz
+privatiareabper.000webhostapp.com
 priyankasandokar1606.github.io
 pro.icloudremovaltool.com
 procservautomatizacion.com
@@ -2211,7 +2208,6 @@ redatofadesafe.blogspot.com
 redbysfrgroupebox.myfreesites.net
 redeem-microsoft-code.sitey.me
 redemptioncreatorbusiness.co.vu
-rediecrs-mein-redirectserice.pages.dev
 rediractionid547012016089540218057.blogspot.com
 redirection-b836d.web.app
 reg-3da7f.web.app
@@ -2352,6 +2348,7 @@ setupmynorton.square.site
 seul.unilurio.ac.mz
 sevoudryserviciobomail.dudaone.com
 sfc.com.vn
+sfdev.vshcszx.cn
 sfex12sec.web.app
 sfghdcf.hhlvmke.cn
 sfr-mesfactures.app
@@ -2446,7 +2443,6 @@ smsverificationmms.myfreesites.net
 snowy.martulangbelulalng.workers.dev
 soaringskiesrentals.com
 soci-molen.web.app
-sofbank.vnkm.info
 sofe-firma.firebaseapp.com
 sofisstirosellro.webcindario.com
 soft-cell-8148.updateloginprogram.workers.dev
@@ -2501,9 +2497,7 @@ sparkasse-vereinsbanken.xyz
 sparkasse.agb-zustimmen.sbs
 sparkasse.allgemeine-geschaeftsbedinungen.sbs
 sparkasse.de-psd-abschluss.com
-sparkasse.infoweb-secure-server01.de
 sparkasse.meinegerate.de
-sparkasse.secure-id-server01.de
 sparkasse.webid-secure-server01.de
 sparkasse.webmanager-secure-server01.de
 sparxinteriors.co.zw
@@ -2517,6 +2511,7 @@ spk-befragung.com
 spk-belegschaft.com
 spk-berichtigung.com
 spk-confirmation.com
+spk-daten-abgleichen.com
 spk-datenabteilung.com
 spk-datencenter.com
 spk-datenkorrektur.com
@@ -2631,7 +2626,6 @@ szsmartest.com
 szyszko-budownictwo.pl
 t.co
 taher-mohamed-ahmed-saad.github.io
-talk-webmail-102572.weeblysite.com
 tambunanajaa.martulangsore.workers.dev
 taskmbox493.softr.app
 tax-refund-lrs-government.com
@@ -2766,6 +2760,7 @@ uuid-validation.run-us-west2.goorm.io
 uv09s6357.riggearf.com
 uxs8ti.csb.app
 uyghf.g8umvzjm.cn
+uyigjl.wvjppxg.cn
 v.ht
 v1and1-ionos-info-2hyeo.ondigitalocean.app
 v3rify-c0mfirm4tion-s1te.000webhostapp.com
@@ -2779,8 +2774,7 @@ vcaller236.firebaseapp.com
 vcaller236.web.app
 vcaller237.firebaseapp.com
 vcaller237.web.app
-vcaller238.firebaseapp.com
-vcaller238.web.app
+vefdgv.eysuw0xsc.cn
 velvet.by
 velvish.com
 verification.fb-page.workers.dev
@@ -2923,6 +2917,7 @@ www.8899.jp
 www.a-q-f.com
 www.aavedefi.org
 www.abcsubmit.com
+www.acordecomhillper.com
 www.adsmarca.com
 www.aeon.co.jp.04doc.com
 www.aeon.co.jp.07wenku.com
@@ -2931,6 +2926,15 @@ www.alinachopra.com
 www.alkhalilgraphics.com
 www.ambrosecourt.com
 www.amc-training.com
+www.amoueam.15facai618.cn
+www.amoueam.26facai618.cn
+www.amoueam.28facai618.cn
+www.amoueam.34facai618.cn
+www.amoueam.35facai618.cn
+www.amoueam.43facai618.cn
+www.amoueam.51facai618.cn
+www.amoueam.66facai618.cn
+www.amoueam.86facai618.cn
 www.aolxperience.com
 www.app-defikigndoms.com
 www.armhopodk.info
@@ -3158,7 +3162,6 @@ www.mobiliesnisa.com.aibimi.com
 www.mobiliesnisa.com.xtlbq.com
 www.mobiliesuica.com.hihohu.com
 www.mobiliesuisa.com.svigct.com
-www.mobiliesuisa.com.zainenergy.com
 www.moceoeir.icu
 www.moceoer.icu
 www.montenegrolandscape.com
@@ -3287,7 +3290,7 @@ www.used-pocketcord-jp-login1.workers.dev
 www.usfn.net
 www.velvish.com
 www.veronicaperezc.com
-www.visa.co.jp.ssgbdf.xyz
+www.visa-fo.serviceshop-jp.xyz
 www.visaoseoe.top
 www.vr-banking-app.de
 www.walerting.com
@@ -3317,6 +3320,7 @@ www3.aenocentos.icu
 www3.aenosnetos.icu
 www3.aenosuntos.icu
 xcbvglsiadufwogfgbvnerltuo.cyou
+xcdetg.vxcn1okm4.cn
 xcvdsd.page.link
 xfghygj.thofmyu.cn
 xid-human-validation.run-us-west2.goorm.io
