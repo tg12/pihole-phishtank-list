@@ -380,7 +380,6 @@ auto-notif2022.firebaseapp.com
 auto-notif2022.web.app
 autodiscover.ryder-dutton.co.uk
 autoexprs.com
-autonotificationtodaypo.web.app
 autoranplususeremailprocessingupdate.pages.dev
 autoscurt24.de
 autumn-sun-4a21.paqesads-scure.workers.dev
@@ -491,6 +490,7 @@ banca-sella.eu
 bancaporinternet-interbank-pe.web.app
 bancaporinternet.interbrnpe.com
 bancaporinternetempresas.banblf-pe.com
+bancaporinternetempresas.banrbif.site
 bancaporinternetempresas.bifnetenlinea.pro
 bancaporinternetempresas.netbif.site
 bancaporlnternetlnterbarnk.aaca9cua.xyz
@@ -571,6 +571,7 @@ bnconacional.odoo.com
 bncontacto00982.hostfree.pw
 bncre.odoo.com
 bncrverr9845.atwebpages.com
+bncserviciosperu.com
 bndigitalpersonas.com
 bobuleteam.cz
 bogdonovlerer.com
@@ -868,7 +869,6 @@ connectwallet.me
 consent.clarosgvas.mobicare.com.br
 contact2acceptpoilcyverifingyouracceptancemailfullinbox.pages.dev
 contapessoal.digital
-contatta-center.com
 coradecora.com.br
 cottonwooddentalg.nimbusweb.me
 courtcase.co.in
@@ -966,7 +966,6 @@ dev-nadaj.orlenpaczka.ce5.pl
 dev-www.orlenpaczka.ce5.pl
 dev5924.dxxsgb6hsq3ex.amplifyapp.com
 dev7029.dxxsgb6hsq3ex.amplifyapp.com
-devs-metamask.web.app
 dex-airdrop.com
 dgfbcv.bfqpdmm.cn
 dgffbh.r4h3ol5dl.cn
@@ -1070,7 +1069,6 @@ energymin.gov.lk
 engcamp.org
 enjoyapartments.com
 enoman.fqzsdgtg.cn
-enregistrement-dsp2.com
 ep-2hv.pages.dev
 ersfilter-my.sharepoint.com
 ershamshad.github.io
@@ -1345,6 +1343,7 @@ howsty-takenes-gifts.github.io
 hpplotters.in
 href.li
 ht.ly
+htmlifval.atwebpages.com
 httpeugnerally-wixsite-com.filesusr.com
 https-neu-sparkase-login.xyz
 https-sparkase-2022-login.xyz
@@ -1383,6 +1382,7 @@ ikmcd.rnxsqiu.cn
 il.ink
 illuviunm.com
 im-creator.com
+imatiumstudios.com
 imobiliaria-cardinali-com-br.blogspot.com
 improvproject.com
 in.deraya.org
@@ -1437,7 +1437,6 @@ jam-023d.gitlab.io
 james8.aidaform.com
 jamesstevenpost.com
 janeryder.com
-jar3o.xyz
 jasa-perjalanan-ade-dekat-65333.web.id
 jasa-perjalanan-ade-dekat-65706.web.id
 jasa-perjalanan-anggi-dekat-jauh-23246.web.id
@@ -1552,6 +1551,7 @@ lgofb.yxkexek.cn
 lifeiswhatyoumakeofit.com
 lihi1.cc
 link.pipefy.com
+linkfarmamelody.com
 linkr.bio
 linktr.ee
 linkz.cf
@@ -1643,12 +1643,9 @@ mailserverhosting25.webserverdomain.repl.co
 mailsystem-upgrade00.on.fleek.co
 mailusub.firebaseapp.com
 mailusub.web.app
-makavemailincoming271.firebaseapp.com
 makavemailincoming272.web.app
-makavemailincoming274.web.app
 makavemailincoming275.firebaseapp.com
 makavemailincoming275.web.app
-makavemailincoming278.firebaseapp.com
 makavemailincoming279.firebaseapp.com
 makavemailincoming282.firebaseapp.com
 makavemailincoming283.firebaseapp.com
@@ -1822,7 +1819,6 @@ mypaidy-inform.com
 mysecretwardrobe.com.au
 myshedbuilder.com
 mywalletauth.com
-mywalletvalidation.online
 n-naoko-0319.github.io
 n9.cl
 nab-alert.mobi
@@ -1881,7 +1877,6 @@ nossoatendimentonu.azurewebsites.net
 notatstien2.aplus.co.jp-login.qdmknmi.cn
 notatstien2.aplus.co.jp-login.uqglzmi.cn
 notatstien2.aplus.co.jp-login.uxhouft.cn
-notatstien2.aplus.co.jp-login.xtxiban.cn
 notife.help.institutepages.workers.dev
 notification-fb.secure-pages.workers.dev
 nour-ala-nour.com
@@ -2300,7 +2295,6 @@ sefonta.blogspot.com
 seguranca30horasitau.com
 selector26.gg
 selector28.gg
-sella-bank.com
 sellabanca.co
 semakinsajaa.martulangsore.workers.dev
 sen-manole.firebaseapp.com
@@ -2357,7 +2351,6 @@ siena-area.me
 sign-trk.empressmd.com
 signin-gcq7uwojrw58brcckylebjuy39nk2ivt65ol39k6ut6ura94zk.website.yandexcloud.net
 signin-o1jgqfg4jl5rv0fi330kycnxboaoywc6pi71tewsf7i28buon4.website.yandexcloud.net
-signinattat.weebly.com
 signinattatt.weebly.com
 sigulemada.web.app
 silversteincollection.com
@@ -2520,6 +2513,7 @@ spk-onlinecenter.com
 spk-personenkontrolle.com
 spk-request-terminal.com
 spk-reset.com
+spk-sicherheit.com
 spk-terminal-hilfe.com
 spk-update-terminal.com
 spk-updates.com
@@ -2686,7 +2680,6 @@ trytoshop.com
 ts.my
 tsg-factory.com
 tsoreantor.penayuilgentrioafloawer.link
-tuesanothersharepoint.web.app
 tutor.iqsademo.com
 tuyainiciarcarlo.hostfree.pw
 twibhokiandgraiyakischools.com
@@ -2793,12 +2786,10 @@ verificationbase16.web.app
 verificationbase17.firebaseapp.com
 verificationbase17.web.app
 verificationbase18.web.app
-verificationbase19.firebaseapp.com
 verificationbase19.web.app
 verificationbase2.firebaseapp.com
 verificationbase2.web.app
 verificationbase20.firebaseapp.com
-verificationbase20.web.app
 verificationbase21.firebaseapp.com
 verificationbase21.web.app
 verificationbase22.firebaseapp.com
@@ -2897,6 +2888,7 @@ web-f5547.web.app
 web-f6612.web.app
 web-sand-home.blogspot.com
 web.bredbanque.trans.sylog.co
+web.connectassist.live
 web.logodesign.net
 web.taxicity.cn
 webabonnee.blogspot.com
@@ -2970,7 +2962,6 @@ www.acordecomhillper.com
 www.adsmarca.com
 www.aeon.co.gwhbzn.com
 www.aeon.co.jp.07wenku.com
-www.aeon.co.jp.gwhbzn.com
 www.aeon.jp.co.glasslu.com
 www.aeon.jp.doc79.com
 www.aeon.jp.gwhbzn.com
@@ -3332,7 +3323,6 @@ www.visa.co.jp.fgjfjjhg.xyz
 www.viseasi.com
 www.vr-banking-app.de
 www.walerting.com
-www.wedgatematrimony.net
 www.wholesaleradar.com
 www.wmbeconsultants.com
 www.wpsquid.com
