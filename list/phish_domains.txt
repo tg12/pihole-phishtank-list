@@ -270,7 +270,6 @@ apelive.io
 api.addthis.com
 api.collab-land.li
 api.siasencard.co.jp-auth-screen-atu.fxqfsyl.cn
-api.siasencard.co.jp-auth-screen-atu.hupbpjg.cn
 api.siasencard.co.jp-auth-screen-atu.kwztiqp.cn
 apkfab.com
 apnara.com
@@ -576,6 +575,7 @@ blog.lin.gr.jp
 blog.weiwanjia.com
 blog.zhaimob.com
 blowfish-ltd.co.uk
+blu-raydvdcopy.com
 bnconacional.odoo.com
 bncontacto00982.hostfree.pw
 bncre.odoo.com
@@ -606,6 +606,7 @@ btconnectfilesecurebthomelogindropboxinupdatetdropboxpdf-logss.yolasite.com
 btconnectfilesecurebthomelogindropboxlinkupdatetdropboxpdf-logs.yolasite.com
 btconnectfilesecurebthomeloginpdropboxupdatepdf-logsssss-websit.yolasite.com
 btconnectfilesecurebthomesloginpdropboxupdatepdf-logsssss-websi.yolasite.com
+btinternetmails106977.weeblysite.com
 builmon.xyz
 bujikena.web.app
 bunnybuddy.co
@@ -867,6 +868,7 @@ connectwalletcertification.com
 consent.clarosgvas.mobicare.com.br
 contact2acceptpoilcyverifingyouracceptancemailfullinbox.pages.dev
 contapessoal.digital
+control-unlimited.com
 coradecora.com.br
 cottonwooddentalg.nimbusweb.me
 courtcase.co.in
@@ -939,6 +941,7 @@ decentraa.land
 decentralaond.com
 decerntraland.com
 decorcenter.com.pe
+decostra.com
 defi-aavev3.cloud
 defi-aavev3.link
 defi-ai.me
@@ -1046,7 +1049,6 @@ ellatinodigital.com
 elomo.ro
 elviajeroperuano.com
 email-checkdomainmailbox7.endorsement.repl.co
-email-checkdomainmailbox8.endorsement.repl.co
 email302.com
 emailsettings.webflow.io
 emailwebaccess.co.uk
@@ -1213,7 +1215,6 @@ ftxbusse2.com
 ftxskc.top
 ftxskc.xyz
 ftxskc1.xyz
-ftxskc2.xyz
 ftxskc5.top
 ftxskc6.top
 ftxsupports.com
@@ -1406,6 +1407,7 @@ imobiliaria-cardinali-com-br.blogspot.com
 improvproject.com
 in.deraya.org
 indigoswap.io
+info-auonpay-jp.dtjgfyjtf.shop
 info-login-dkb.vpndns.net
 info-materialse.com
 informations.recovery.confiryourpage.workers.dev
@@ -1507,7 +1509,6 @@ jp.au.kdda.qmlbqbtb.cn
 jp.au.kdda.xxheqj.cn
 jp.au.kdda.zwipih.cn
 jp.mercari.caoska.xyz
-jp.mercari.msoaes.xyz
 jp.mercari.suiwna.xyz
 jp.smui-sietron.cc
 jptechdocsign.net
@@ -1544,6 +1545,7 @@ keepboxactive-msoe3e3-osd2rrf432-d342f4-3f34e32edetferef.pages.dev
 kexpress.co.in
 key-drcp.com
 kghm-invest.web.app
+khalidouhdane.com
 kihigytattcureenlyfiu.weebly.com
 kissapps.io
 kjkhu.a1gw0es37.cn
@@ -1631,6 +1633,7 @@ lomadesarrollos.mx
 lookesrare.com
 lopt7.duckdns.org
 lot-lp-x.web.app
+lovelandfeedandgrain.com
 low-worried-antimony.glitch.me
 lp.vp4.me
 lucy-walker.com
@@ -1845,6 +1848,7 @@ mylink.today
 mymainnetsync.com
 mymweb-owner.at.ua
 myorder1.ru
+mypaidy-informjp.com
 mypaidy-jpinfo.com
 mysecretwardrobe.com.au
 myshedbuilder.com
@@ -2139,7 +2143,6 @@ psd2-kunde6671.info
 psd2-kunde923.info
 psd2-kunde95133.info
 psd2-kunde99772.info
-psd2-kunde9hhd3.info
 pswap.xdapp.xyz
 ptpnxiv.com
 ptxx.cc
@@ -2202,6 +2205,7 @@ reglic.in
 regularsweeps.xyz
 reignbike.com
 reikreitel.blogspot.com
+rekutan.co.jp.amzichiname.shop
 relevant.systems
 renew.trusted-travelers-online.com
 repar.cm
@@ -2278,6 +2282,7 @@ sat-plantaaudigob.mx
 satay-secur.reconfimations.pagedisabled.workers.dev
 sattar.rmiaccountancy.com
 savingsfordentalcare.com
+sbcglobalattupdate.weebly.com
 sbs-siebanlagen.de
 scrty.cold-thunder-d531.siteacn.workers.dev
 sdfedg.my5hhralg.cn
@@ -2457,6 +2462,7 @@ somos-solucao-agora.com
 somos-solucao-facil.com
 sopac.org.py
 sophoravenous.com
+sopogeryuoiyew.scienceontheweb.net
 souaxwaoh.myfreesites.net
 soude-masi.firebaseapp.com
 soufatanse.blogspot.com
@@ -2862,6 +2868,7 @@ widadkamillah.github.io
 wireconfirmation68c10a25442a3e13.blogspot.com
 wires-business-starter.webflow.io
 wirtschaft.baesweiler.de
+wis.pocketcardc.club
 wis.pocketcarde.club
 wis.pocketcardn.club
 wis.pocketcardo.club
@@ -3030,7 +3037,6 @@ www.creativecombat.com
 www.cryptocar.biz
 www.cryptocarspro.com
 www.cryptoplanes.top
-www.csigikes.hu
 www.cubbychase5k10k.org
 www.cutt.ly
 www.czix623.top
