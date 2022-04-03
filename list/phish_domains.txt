@@ -326,7 +326,6 @@ arcqca-secure-doc.cf
 arcqca-secure-doc.ga
 arcqca-secure-doc.gq
 arcqca-secure-doc.tk
-arcqca-secure-docs.ml
 arcqca-secured-doc.cf
 arcqca-secured-doc.gq
 arcqca-secured-doc.tk
@@ -428,6 +427,7 @@ axieinfinily.net
 axieinfinity-supportwallet.com
 axieinfinity.simt.ind.in
 axieinfinityl.com
+axieinfinityorigin.com
 axieinfinityq.com
 axieinfinityrunes.com
 axiinninfinityp.com
@@ -702,7 +702,6 @@ cameback-mordecai.com
 cancel625994-binance-com.firebaseapp.com
 cancel625994-binance-com.web.app
 cancel626196-binance-com.firebaseapp.com
-cancel626196-binance-com.web.app
 cancel626511-binance-com.firebaseapp.com
 cancel627427-binance-com.firebaseapp.com
 cancel627427-binance-com.web.app
@@ -982,7 +981,6 @@ contapessoal.digital
 control-unlimited.com
 controle-solucoes-agora.com
 controlstatut.com
-copyright-case15542.web.app
 coradecora.com.br
 correoargentino.dnsup.net
 correos-es.dk-bau-office.de
@@ -1439,6 +1437,7 @@ ftx38.com
 ftx39.com
 ftx5566.com
 ftx59.com
+ftx60.com
 ftx61.com
 ftx65.com
 ftx666888123ftxapp.com
@@ -1800,7 +1799,6 @@ inof-auoneo-jp.ctfwzbw.cn
 inof-auoneo-jp.gulkwbj.cn
 inof-auoneo-jp.kaiijxl.cn
 inof-auoneo-jp.mxfgady.cn
-inof-auoneo-jp.nsglcek.cn
 inof-auoneo-jp.pimdchp.cn
 inof-auoneo-jp.rirpxbq.cn
 inof-auoneo-jp.shxbqfb.cn
@@ -1862,7 +1860,6 @@ jasa-perjalanan-anggi-dekat-jauh-23246.web.id
 jasa-perjalanan-anggi-dekat-jauh-2387554.web.id
 jasa-perjalanan-anggi-dekat-jauh-29352.web.id
 javarockingland.com
-javierrivas.com
 jdxmail.firebaseapp.com
 jennipricephotography.com
 jetser-electrical-supply.business.site
@@ -1955,7 +1952,6 @@ kone-ali123-mon-site-web-cheetah-5.cheetah.builderall.com
 konto-hispeed-upc.boxmode.io
 koteng.odoo.com
 kr-bithumb.web.app
-kr.pe
 krupije.com
 ksk-de-aktivierung.de
 ksk-reaktivierung-deutschland.de
@@ -2057,7 +2053,6 @@ m3ql.trk.elasticemail.com
 m42club.com
 machineryzoneservice.com
 macst.cc
-mademande-vitale.org
 madens.com.pl
 madrhinoconsulting.com
 madrid-web-home.blogspot.com
@@ -2116,7 +2111,6 @@ markte-auone-jp.kzhjqfa.cn
 marmalamsepicok.kacangkulitrebus.workers.dev
 marsiangpanasx.kacangkulitrebus.workers.dev
 maskconnectmetathree.diskstation.eu
-masuk-grub-whatssap-virall.baru2022.com
 masukgrubsini.duckdns.org
 match-monkeeeeflip102812.codeanyapp.com
 matchoklahoma.com
@@ -2389,6 +2383,7 @@ ooxvocalor.yolasite.com
 open-sea-a4fef.web.app
 opennessindex2016.actionsee.org
 opensea-help.com
+opensea-nfte.ru
 opensea-nfts.ru
 opensea-tools.net
 openseaauth.xyz
@@ -2500,6 +2495,7 @@ pge-scr.firebaseapp.com
 pge-trans.firebaseapp.com
 pgesrecoveriksterms.ga
 pgessstifrecoverissurliteofficial.co.vu
+phantoms-wallet.com
 phanttomwallet.com
 pharmalabworld.com
 phmnb.x1hgt163.cn
@@ -4145,7 +4141,6 @@ unigeol.quip.com
 unionheightsresidental.com
 unisons.store
 uniswap.ch
-uniswap.launch-app.org
 uniswap.openwallet.dev
 uniswap.pages.dev
 uniswap.token.im
@@ -4255,7 +4250,6 @@ vidiovirall211.duckdns.org
 vidiovirall266.duckdns.org
 vidiovirallahha.asli2022.xyz
 vidiovirallterbaruu.duckdns.org
-vidioviralterbaru22.duckdns.org
 vietschi.de
 viettel-com-dot-c2c01-531c7.uc.r.appspot.com
 vipfbtools.com
@@ -4380,7 +4374,6 @@ wpsoar.com
 wv3vajpaeass.com
 wwv-bombcrypto-log.com
 www-bombcrypto-io.com
-www-cr-mufg-jp.billhunterdesign.com
 www-cursosdigitalesmx-com.filesusr.com
 www-degelyehuda-org-il.filesusr.com
 www-europe564598-com.filesusr.com
@@ -4439,7 +4432,6 @@ www.astongrey.nologomedia.in
 www.at-e.co.jp
 www.att-promotions.com
 www.aumentodelimitenubank.com
-www.autoadesivomovel.com
 www.axiesmarketo.cam
 www.azimpiantisrl.com
 www.bancaporinternet.lnterbank.pronductos.com
