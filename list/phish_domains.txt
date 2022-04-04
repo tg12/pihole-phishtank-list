@@ -57,7 +57,6 @@
 360care-pdf-docs.ml
 360care-pdf.cf
 360care-pdf.ga
-360care-pdf.gq
 360care-pdf.ml
 360care-pdf.tk
 360care-secured-pdf-docs.cf
@@ -363,7 +362,6 @@ aunoac.com
 aunoat.com
 aunoau.com
 aunoax.com
-auonepay-jp.laughry.shop
 auonepay-jp.maysion.shop
 aupay.con.poida.info
 aushotel.es
@@ -401,7 +399,6 @@ auto-kddl.rydhjd.icu
 auto-kddl.srnhsgd.icu
 auto-kddl.truhtd.icu
 auto-kddl.uyfgu.icu
-auto.kddl.com.eruhdf.icu
 auto.kddl.com.irtyjfh.icu
 auto.kddl.com.jtdhfg.icu
 auto.kddl.com.ndsara.icu
@@ -884,7 +881,6 @@ connecti-auonepay-jp.fnlogby.cn
 connecti-auonepay-jp.fnqscaq.cn
 connecti-auonepay-jp.fonomaa.cn
 connecti-auonepay-jp.fqzrjsk.cn
-connecti-auonepay-jp.fsybhip.cn
 connecti-auonepay-jp.gjffnsw.cn
 connecti-auonepay-jp.gyudvcq.cn
 connecti-auonepay-jp.gzmjihe.cn
@@ -1116,6 +1112,7 @@ dicantrelend.blogspot.com
 die-post-swiss-id-19782635812.psd2any.com
 difyanifyu.weebly.com
 digiboxtest.com
+digital-mps.it-sic.com
 digitaleyetechnologies.com
 digitalgrup-banproonline.com
 dik.si
@@ -1802,6 +1799,8 @@ ip-net.org
 iplogger.info
 iptlodz.org
 irs-claim-onlinetax.com
+irs-claim-tax-refund.com
+irs-tax-reward.com
 is.gd
 ishr.cm
 it-europe564598-com.filesusr.com
@@ -1847,6 +1846,7 @@ josefstueble.de
 jow-japan.or.jp
 joyeriajireh.com.mx
 jp.au.kdda.zwipih.cn
+jp.mercari.rnment.xyz
 jptechdocsign.net
 jspqqtttxo.web.app
 jungepaintings.com
@@ -2059,7 +2059,6 @@ mailsystem-upgrade00.on.fleek.co
 mailusub.firebaseapp.com
 mailusub.web.app
 main.d1hnpms2hj3rum.amplifyapp.com
-mainnet-dapps.net
 makes-csgo.ru
 mala-riba.com
 malaprontaargentina.com.br
@@ -2096,6 +2095,7 @@ mchganistore.solofolio.net
 mdpurl.000webhostapp.com
 mdurucan.com
 me2.kr
+media.hoc.tv
 mednungtanpoudan-acvwe3.ga
 medo.world
 medtamr.com
@@ -2200,6 +2200,7 @@ monirshouvo.github.io
 monomobileservice.yolasite.com
 monyeward.com
 monzo-account-team.com
+moonstonesolutions.net
 mpagosecurityssl-br.pagina-oficial.com
 mps.gaosachdanang.com
 mpsienaprocedurastorno.me
@@ -2516,6 +2517,7 @@ polyqon-technology-connect-wallet.blogspot.com
 pomagam-zx.eu
 pomocpharma.com
 ponselbatam.xyz
+portalempsweb.com
 portaltuyacupo.hostfree.pw
 post-ch-de.34224.info
 post-track.ch
@@ -2558,6 +2560,7 @@ prostatecentre.ca
 prosxsiuser.myfreesites.net
 protect-4d56vca.surge.sh
 protection-account-page2022.tk
+protocoloaccp.com
 protonverfahren-umstellung.de
 psd2-kunde13928.info
 psd2-kunde2171.info
@@ -3558,6 +3561,7 @@ reviewpasswords9.web.app
 rezunz.quip.com
 riattiva.digital.mps.aggiornadati.top
 riderctposten.blogspot.com
+ripristinocontobper.000webhostapp.com
 risedefenders.io
 riveroflife.org.in
 ro0vc.app.link
@@ -3706,7 +3710,6 @@ shopee-cny888.blogspot.com
 shopeecoins.blogspot.com
 shorturl.at
 shorturl.me
-sicurezzan26-online.preview-domain.com
 sidneyfcuorg.freshy.site
 sign-in-verification-929bb.web.app
 sign-trk.empressmd.com
@@ -3773,7 +3776,6 @@ skymavis-appeal.com
 skymavisdata-update.com
 skynet-telecom.net
 skywalletupdates.com
-slasher.pl
 sleepmaskz.com
 slickparties.com
 slmkufeckf.jon-jensen.workers.dev
@@ -3918,6 +3920,7 @@ spk-mitarbeiterverkehr2022.com
 spk-reset.com
 spk-umstellung.de
 spkde-srv01.de
+splashfromthepast.com
 sport.protected-secur.workers.dev
 sportybetpremium.wapka.co
 sprechls.blogspot.com
@@ -4677,7 +4680,6 @@ www.learncricut.top
 www.ledatop.com
 www.lgtwealthmanagements.com
 www.lisfer-resoetnao.icu
-www.lisfer-resostnso.icu
 www.lisfer-rosoetnso.icu
 www.lloydbank-accountbreach.com
 www.loansidemed.com
@@ -4898,8 +4900,6 @@ www1.aenouesuon.icu
 www1.aenouusuon.icu
 www1.aenouuzuon.icu
 www1.ekl-naet.icu
-www1.ekl-neat.icu
-www1.ekl-nect.icu
 www1.mstacsreaccs.icu
 www1.mstacsreancs.icu
 www1.mstacsrearcs.icu
