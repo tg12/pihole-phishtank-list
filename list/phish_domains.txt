@@ -103,6 +103,7 @@ a.60b7ac265566e3da4341f765b2d2a73200f8f1db57b0b005a1afdc00.com
 a.dab342ab8887461995aad393cb294948a5ce800ca279cd1027026d47.com
 a.insecurpage.recovery-safty.workers.dev
 a0655401.xsph.ru
+a0657179.xsph.ru
 a4d3b42c.chgmar-d8y.pages.dev
 a71843c1.mailssocloud-srvr65e5rd.pages.dev
 a894ec7f.46t33454t4.pages.dev
@@ -536,7 +537,6 @@ banbifemprsas.com
 banca-electronica1.odoo.com
 bancainternet-interbank-pe.web.app
 bancaporinternet.interbrnpe.com
-bancaporlnternetempresas.banbifipe.com
 bancaporlnternetlnterbarnk.aaca9cua.xyz
 bancaporlnternetlnterbarnk.fg5xn1b7.xyz
 bancaporlnternetlnterbarnk.libertycanais.com.br
@@ -846,7 +846,6 @@ cancel626552-binance-com.web.app
 cancel626826-binance-com.firebaseapp.com
 cancel626826-binance-com.web.app
 cancel626870-binance-com.web.app
-cancel626878-binance-com.web.app
 cancel626900-binance-com.firebaseapp.com
 cancel626900-binance-com.web.app
 cancel626949-binance-com.firebaseapp.com
@@ -1085,7 +1084,6 @@ cner283829.odoo.com
 cnfrmacn.hprusak.workers.dev
 co84916.tmweb.ru
 codepasta.app
-cofinaowcs.firebaseapp.com
 cofinaowcs.web.app
 coinnavigationapp.com
 collab-land.net
@@ -1368,7 +1366,6 @@ dealmegood.com
 deborahholland.net
 debuil.xyz
 decentdarkvioletrepo.bgeneralfw5com.repl.co
-decenterall.games
 decentraa.land
 decentral-game.site
 decentral-games.info
@@ -1717,7 +1714,6 @@ enricpalomar.com
 ep-2hv.pages.dev
 epsilon.developmentpreviews.com
 eqwasw2434.firebaseapp.com
-eqwasw2434.web.app
 errye.c2mhcqdi.cn
 ersfilter-my.sharepoint.com
 ershamshad.github.io
@@ -2309,7 +2305,6 @@ inof-auoneo-jp.zmnpczo.cn
 inovaretrento.com.br
 inpost-pl-zai.accept8145.me
 inpost-rghl.2584902.me
-inpost-swnp.order8885.info
 inpost.pl@payshpment.xyz
 inps-ep.com
 inshchckdomainmailj.firebaseapp.com
@@ -2517,7 +2512,6 @@ kddio-fsi-com.xgmyjyu.cn
 kddio-fsi-com.xlxzyyy.cn
 kddio-fsi-com.xrsrmyy.cn
 kddio-fsi-com.xxsrmyy.cn
-kddio-fsi-com.ysnamwy.cn
 kddio-fsi-com.yvawcre.cn
 kddio-fsi-com.zsskxsz.cn
 kddl.auto-co-jp.nytrfg.club
@@ -2616,11 +2610,9 @@ liusanchuan.github.io
 live-site.hopto.me
 lively.marbauttulo.workers.dev
 livenmitac-my.sharepoint.com
-lkmiibinter.weebly.com
 llilll.web.app
 lloyds.auth-user-54.com
 lloydsbank.deregister-payee-secure-auth.com
-lloydsbank.secure-online-deregister.com
 lloydsbank.secure-personal-device-login.com
 lloyduk-newdevice-registered-online.com
 
@@ -2645,6 +2637,7 @@ login.xfinity.meculinkvolt.com
 login1.sitelio.me
 loginprim2.sslblindado.com
 lokmanyainstitute.in
+lollli.s3.us-south.cloud-object-storage.appdomain.cloud
 lolosamarte.blogspot.com
 lomadesarrollos.mx
 loneoaklawn.mycustomerconnect.com
@@ -3050,6 +3043,7 @@ my-site-silahkan-konfirmas-akun-anda088.weeblysite.com
 my-site219.yolasite.com
 my.forms.app
 my.heyform.net
+mybrhost.com
 mydpd.update-724930.co.uk
 mygoogleaccount.stantrade.xyz
 myjcb.co.jp.0u87u0sk.cn
@@ -3141,7 +3135,6 @@ nyjobs.longislandsolutions.org
 nzservers.net
 o2-updatebillingvia.com
 o2billingauth-update.com
-ob-secteur.cmail19.com
 objectstorage.us-phoenix-1.oraclecloud.com
 obrot-pge.online
 oceantires.com
@@ -3179,7 +3172,6 @@ olx.sewakpay.xyz
 omicronnhs.com
 oncopharma-ae.com
 onecreator.info
-onedriv-eauthorize.firebaseapp.com
 onedriv-eauthorize.web.app
 onedrive.live.com
 onedrive.zhaoge.workers.dev
@@ -3198,7 +3190,6 @@ onlysportplus.com
 onyx77.net
 ooxvocalor.yolasite.com
 open-sea-a4fef.web.app
-open-sea.co.uk
 open-token.sale
 opensea-help.com
 opensea-nfte.ru
@@ -3265,7 +3256,6 @@ pancake7wop.com
 pancakefinance.pro
 pancakemobile.com
 pancakeswap-cripto.com
-pancakeswap-finance.pages.dev
 pancakeswap.direct-reward.com
 pancakeswap.finance.tradechange.in
 pancakeswap.financial
@@ -4562,7 +4552,6 @@ secure-runescape.xgm.rnp.mybluehost.me
 secure.oldschool.com-fi.xyz
 secure.runescape.com-as.cz
 secure303.inmotionhosting.com
-securebtsecurebusinessbt.weebly.com
 securegateway-ovhcloud.csl-sl.de
 securemeverify02.duckdns.org
 securit26-online.preview-domain.com
@@ -6126,7 +6115,6 @@ www.yonwani.shop
 www1.aenouesuon.icu
 www1.aenouuzuon.icu
 www1.mstacsreaccs.icu
-www1.mstacsreancs.icu
 www1.mstacsuearcs.icu
 www1.mstacsuraeccs.icu
 www2.aenouesuon.icu
