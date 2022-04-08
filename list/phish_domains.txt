@@ -147,7 +147,6 @@ admin-formserviceupdates.weeblysite.com
 admin-provk.ru
 admin.fifoundry.net
 admin.venhub.co.uk
-adobe-ca663.firebaseapp.com
 adobe-ca663.web.app
 adpunemploymentclaims.sharefile.com
 aefdsf.okmbyxq.cn
@@ -824,7 +823,6 @@ cancel626042-binance-com.firebaseapp.com
 cancel626042-binance-com.web.app
 cancel626076-binance-com.web.app
 cancel626190-binance-com.firebaseapp.com
-cancel626190-binance-com.web.app
 cancel626332-binance-com.firebaseapp.com
 cancel626332-binance-com.web.app
 cancel626337-binance-com.firebaseapp.com
@@ -1084,7 +1082,6 @@ cloudshareexcel-documents5565.web.app
 clt1419287.bmetrack.com
 cltjamais-com-br.aurebeshtranslator.net
 clubeamigosdopedrosegundo.com.br
-cmr-promociones-wev.web.app
 cncselect.com
 cner283829.odoo.com
 cnfrmacn.hprusak.workers.dev
@@ -1258,6 +1255,7 @@ control-unlimited.com
 control0403943403.firebaseapp.com
 control0403943403.web.app
 controle-solucoes-agora.com
+controlla-dispositivo.com
 controlstatut.com
 coradecora.com.br
 correeos.whole.delivery
@@ -1411,7 +1409,6 @@ dev5924.dxxsgb6hsq3ex.amplifyapp.com
 dev7029.dxxsgb6hsq3ex.amplifyapp.com
 development-admin-1000200030004000500012326.tk
 development-admin-1000200030004000500012337.tk
-development-admin-1000200030004000500012338.tk
 development-admin-1000200030004000500012339.tk
 development-admin-1000200030004000500012342.tk
 development-admin-1000200030004000500012345.tk
@@ -2613,6 +2610,7 @@ linkbokepindo-luar2022.duckdns.org
 linkr.bio
 linktr.ee
 lionscoworking.com.br
+lita-assitenza-cli-com.preview-domain.com
 little-wood-23ca.abssupdatedlogin.workers.dev
 liusanchuan.github.io
 live-site.hopto.me
@@ -3305,6 +3303,7 @@ pdf-sharefile-doc.weeblysite.com
 pdfgdfh.fzp6xbst.cn
 pdflogincnvwo.app.link
 pdfsecured.mystrikingly.com
+peaghil-xyz.preview-domain.com
 peanutssnort.net
 pecoranigh.t.justns.ru
 pedantic-williams.23-235-199-64.plesk.page
@@ -3491,6 +3490,7 @@ quirky-liskov-f29b62.netlify.app
 quizzical-mcnulty.185-194-219-163.plesk.page
 qwadf.zpingvh.cn
 qwwfsg.hakxtuvwq.cn
+qwzstylecollection.com
 qyeuhdhk745.firebaseapp.com
 rabobank-international.com
 rabofree.blogspot.com
@@ -4525,6 +4525,7 @@ sandert12.blogspot.com
 sanjilkumar.com
 sanjuantrujillo.edu.pe
 sankyo-rz.com
+sanrising-online.preview-domain.com
 santan.auth-user-10.com
 santander-card-cancel.com
 santander.auth-user-13.com
@@ -4870,7 +4871,6 @@ spk-mitarbeiterkontakt.com
 spk-mitarbeiternummer.com
 spk-mitarbeiterportal2022.com
 spk-mitarbeiterverkehr.com
-spk-mitarbeiterverkehr2022.com
 spk-umstellung.de
 spkde-srv01.de
 splashfromthepast.com
@@ -5039,6 +5039,7 @@ thirdeye-art.com
 three-retail-live.devicetradein.co.uk
 thumbwork666.com
 thumbwork8.com
+tiadfere.xyz
 tiny.one
 tinyurl.com
 tipografieonline.ro
@@ -6170,9 +6171,7 @@ xj45g.mjt.lu
 xj45o.mjt.lu
 xj4og.mjt.lu
 xjmr7.mjt.lu
-xn--ltappen-80a.se
 xn--metamsk-lwa.link
-xnxnnxnxxn.duckdns.org
 xsas.ugyjoad.cn
 xssck-xym.com
 xtio.ch
