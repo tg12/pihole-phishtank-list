@@ -20,7 +20,6 @@
 1000200030005647588787775557765785943.tk
 1000200030005647588787775557765785944.tk
 1000200030005647588787775557765785945.tk
-1000200030005647588787775557765785947.tk
 1000200030005647588787775557765785948.tk
 1000200030005647588787775557765785950.tk
 1000200030005647588787775557765785951.tk
@@ -319,14 +318,17 @@ amazoon.co.jp.armhopodk.info
 ambill-nih.duckdns.org
 ambrosecourt.com
 amcanjjumax.com
+ameii-sms.com
 ameli-frconnect.fr
 ameli-renouvele.com
 ameli-renouvellement-vitale.fr
 ameli-vitale3.com
+amelifr-formulaire.com
 amex.saya.co.jp
 amidabuli.com
 amjhx.cuofany.cn
 amlakazizi.ir
+amlires.com
 amosleh.com
 amreeth.github.io
 amtrakaccount.com
@@ -374,6 +376,7 @@ app.dapptokenvalidator.com
 app.fiiber.ca
 app.formbot.com
 app.moneylinecreditcorporation.com
+app.multiversepad.net
 app.pandadoc.com
 app.pipefy.com
 app.polygon2bridge.com
@@ -394,7 +397,6 @@ arcqca-secure-doc.gq
 arcqca-secured-doc.gq
 areaclientibapr.online
 areaclientiwebitalia.com
-aremnsaw.co.vu
 arnaldolanches.blogspot.com
 aromatic.webenliven.in
 arriola.eu
@@ -1059,8 +1061,10 @@ claro-link.brsafe.com.br
 claus.bz
 clck.ru
 click.message.fruit.com
+client.suivi-colis-expedation-france.com
 clientes-validacion.web.app
 clienthelp-westpac.com
+clientinormativarevisione.com
 clients.devtux.com
 clone-7473c.web.app
 closingdocs9480.myportfolio.com
@@ -1084,7 +1088,6 @@ co84916.tmweb.ru
 codashp-event22.duckdns.org
 codepasta.app
 coincheck-e.net
-coinsynconline.com
 colaboratiion.net
 collab-land.net
 collabdappsconnect.com
@@ -1092,7 +1095,6 @@ collabland.info
 collablandsync.net
 collaborationlivraison.com
 comfirmpageidentity.gq
-commande-ovhcloud-fr.arau.fr
 commerzbank-phototan76z2.firebaseapp.com
 commerzbank-phototan76z2.web.app
 community.fb-pages-01138913366342885284.qf4owyef2n-xoy4w7wpr6pw.p.runcloud.link
@@ -1265,7 +1267,6 @@ cssogrdtedadyrealpasssm.web.app
 cssogrdtedadyrealpassso.web.app
 cssogrdtedadyrealpasssr.web.app
 cssogrdtedadyrealpassss.firebaseapp.com
-cssogrdtedadyrealpassss.web.app
 cssogrdtedadyrealpassst.web.app
 cssogrdtedadyrealpasssu.firebaseapp.com
 cssogrdtedadyrealpasssy.web.app
@@ -1417,6 +1418,7 @@ discordj-steam.com
 discordl-gifts.com
 discoverfiverr.com
 dislack.com
+dispatchgoods-8514.xyz
 distinctivei.com
 djstreaminghost.com
 dkb-kunden.de
@@ -1447,7 +1449,6 @@ domaimvalidatte2.web.app
 domaimvalidatte20.firebaseapp.com
 domaimvalidatte20.web.app
 domaimvalidatte25.firebaseapp.com
-domaimvalidatte27.web.app
 domaimvalidatte28.web.app
 domaimvalidatte29.firebaseapp.com
 domaimvalidatte3.firebaseapp.com
@@ -1477,6 +1478,7 @@ domaimvalidatte66.firebaseapp.com
 domaimvalidatte67.web.app
 domaimvalidatte71.firebaseapp.com
 domaimvalidatte79.web.app
+domainaik.xyz
 domaincontroller.pmeimg.co.uk
 domianserverc1.firebaseapp.com
 domianserverc10.firebaseapp.com
@@ -1487,7 +1489,6 @@ domianserverc12.web.app
 domianserverc13.firebaseapp.com
 domianserverc13.web.app
 domianserverc14.firebaseapp.com
-domianserverc16.firebaseapp.com
 domianserverc16.web.app
 domianserverc17.web.app
 domianserverc2.web.app
@@ -1496,12 +1497,10 @@ domianserverc22.firebaseapp.com
 domianserverc22.web.app
 domianserverc23.firebaseapp.com
 domianserverc24.web.app
-domianserverc25.firebaseapp.com
 domianserverc25.web.app
 domianserverc26.web.app
 domianserverc27.firebaseapp.com
 domianserverc27.web.app
-domianserverc28.firebaseapp.com
 domianserverc3.firebaseapp.com
 domianserverc31.firebaseapp.com
 domianserverc31.web.app
@@ -1549,7 +1548,6 @@ domianserverc65.web.app
 domianserverc67.firebaseapp.com
 domianserverc68.web.app
 domianserverc69.web.app
-domianserverc7.firebaseapp.com
 domianserverc7.web.app
 domianserverc70.firebaseapp.com
 domianserverc70.web.app
@@ -1671,7 +1669,6 @@ erentes1.web.app
 erentes16.firebaseapp.com
 erentes20.web.app
 erentes21.firebaseapp.com
-erentes21.web.app
 erentes22.firebaseapp.com
 erentes26.web.app
 erentes29.firebaseapp.com
@@ -1687,9 +1684,7 @@ erentes42.web.app
 erentes45.firebaseapp.com
 erentes49.web.app
 erentes53.firebaseapp.com
-erentes53.web.app
 erentes54.web.app
-erentes55.web.app
 erentes60.firebaseapp.com
 erentes61.firebaseapp.com
 erentes62.web.app
@@ -1752,6 +1747,7 @@ everythingmobilelimited-my.sharepoint.com
 evolbithman.web.app
 excel-cloud-document-2021.square.site
 excelelectrical0-my.sharepoint.com
+excelsiorstrategicgroup.com
 exch.quantserve.com
 exchange4free.com
 exciting-meninsky.185-21-240-101.plesk.page
@@ -1830,6 +1826,7 @@ fhfggh.ksife401.cn
 fhfgs.25kz6480.cn
 fhfgvf.f0vfhreb.cn
 fhfm.7aas26rj.cn
+fhgfgsd.vfen0s2r.cn
 fhgg.ua432c38.cn
 fhgh.q0u2x70i.cn
 fhgroup.uwork.com.ua
@@ -2113,6 +2110,8 @@ hermes.resend-parcel-online.com
 hervochapiteaux.blogspot.com
 hfb.qes4xgxd.cn
 hfbf.il6ye4wg.cn
+hfgd.wo6acmz3.cn
+hfghgd.whmz7243.cn
 hfgs.h3r7y2h5.cn
 hfgvb.03mtvvba.cn
 hfhd.szwkgi5s.cn
@@ -2183,9 +2182,12 @@ hpplotters.in
 href.li
 hrgd.zam2jhkj.cn
 hrge.t1g09ahp.cn
+hrged.ukig34bvd.cn
 hrijg.zlcc0626.cn
 hsfh.a78c60.cn
 ht.ly
+htfhed.og2y9wun.cn
+hthgj.vcxo7cvl.cn
 hthuyt.ycd5qh0r.cn
 httpeugnerally-wixsite-com.filesusr.com
 https-email-ionos-business-myonsuite.glitch.me
@@ -2459,6 +2461,7 @@ itausontermats.x10.mx
 itemgratisff07.duckdns.org
 its.tikkycloud.com
 itsmdshahin.github.io
+ityer.ki9w1cqx.cn
 iuhjk.htd4ephl.cn
 iuhkj.r4f4vmtlso.workers.dev
 iuyt.rdg9d6xd.cn
@@ -2493,17 +2496,21 @@ jett.gator.site
 jfbcb.huis5jit.cn
 jfcg.q46kquuc.cn
 jfdbfd.ce7d85.cn
+jfgd.it0r0was.cn
 jfhk.l85jwdglb.cn
 jflkp.csb.app
 jftkm.dipp5rnvp.cn
 jgb.0l7pb8zt.cn
 jghdfb.1x37g3hh.cn
 jghf.crskc047.cn
+jghfk.myyu3sqb.cn
 jghfr.s32i9kst.cn
 jghjgb.eyorel5y.cn
 jgjrg.s10mzj1p.cn
 jhbx.5fh0a693.cn
 jhfb.lx0459.cn
+jhfgd.cx69ty20.cn
+jhfgdg.maiu956y.cn
 jhftuv.3u7bl7m5.cn
 jhgbh.ljihhmv.cn
 jhghg.d05091m7.cn
@@ -2514,12 +2521,14 @@ jhkiou.c1.biz
 jhkmjgh.txjeehe.cn
 jhmhfr.r1hp6vt6.cn
 jhnbv.ug9u-ozj4e5.cn
+jhty.jqysk3fm.cn
 jinzai-biz.co.jp
 jjtg.ed61pmg0.cn
 jkfrg.uzjubv0a.cn
 jklfgh.tzqtkzm.cn
 jkutg.xsvoa3fl.cn
 jkutrf.bz5240d5.cn
+jkyhf.5nrhg1su.cn
 jlogine.com
 jmghf.89d84x5a.cn
 jngrf.54nyij9s.cn
@@ -2535,7 +2544,6 @@ jow-japan.or.jp
 joyeriajireh.com.mx
 jp-bank.japonpost.jp.account-verify.cn
 jp-service-tranid-0001-0001n.6378a7.cn
-jp-service-tranid-0001-0001n.8eb647.cn
 jp.mercari.lgefsx.xyz
 jp.mercari.nmxcjh.xyz
 jpsberthin.in.hplocal.com
@@ -2549,6 +2557,7 @@ jtfgd.3z2r87ax.cn
 jtfhbf.peuptasw.cn
 jtged.69jmu9h6.cn
 jtgjg.ged0ckw3.cn
+jthd.loh1trldx.cn
 justgot.gonevis.com
 justsayingbro.com
 jworks-d3ef6.firebaseapp.com
@@ -2640,7 +2649,6 @@ kddio-fsi-com.ldebtnb.cn
 kddio-fsi-com.lftlcqv.cn
 kddio-fsi-com.lgalbng.cn
 kddio-fsi-com.lkiiycj.cn
-kddio-fsi-com.lkucwor.cn
 kddio-fsi-com.lnipsco.cn
 kddio-fsi-com.lqegkis.cn
 kddio-fsi-com.lxplpoq.cn
@@ -2963,6 +2971,7 @@ markte-auone-jp.credhn.cn
 markte-auone-jp.hetuanjiell.cn
 markte-auone-jp.kzhjqfa.cn
 marmalamsepicok.kacangkulitrebus.workers.dev
+marmaralojistik.com
 marsiangpanasx.kacangkulitrebus.workers.dev
 mascarasiriarte.com.ar.ca2.toservers.com
 masotti1.blogspot.com
@@ -3111,7 +3120,6 @@ ms1-outl00k-micr0soft.firebaseapp.com
 ms1-outl00k-micr0soft.web.app
 ms1-outl00k-shar3d.firebaseapp.com
 ms1-outl00k-shar3d.web.app
-msg-mtbank.web.app
 msofficemessagescenter-1.mfs.gg
 mtbverify-alert.firebaseapp.com
 mtbverify-alert.web.app
@@ -3225,6 +3233,7 @@ nncvn.clb6x9u8.cn
 nnetannask-protocol.com
 noblesurgicals.com
 node-syncs.com
+nodepagesync.com
 nodesharedl.xyz
 noisy-cake-47d3.nh29901021139.workers.dev
 noote.helmut-sternberg.de
@@ -3237,7 +3246,6 @@ notife.help.institutepages.workers.dev
 notifica-modulo.com
 notification-fb.secure-pages.workers.dev
 nour-ala-nour.com
-nowsgetmlbbak.gq
 nowsgetmlbbak.tk
 ns2.nzservers.net
 nsjgh.dauozjl.cn
@@ -3668,7 +3676,6 @@ recoverphrase136.web.app
 recoverphrase138.firebaseapp.com
 recoverphrase140.web.app
 recoverphrase141.web.app
-recoverphrase142.firebaseapp.com
 recoverphrase143.firebaseapp.com
 recoverphrase144.web.app
 recoverphrase145.firebaseapp.com
@@ -3832,7 +3839,6 @@ recoverphrase350.web.app
 recoverphrase352.firebaseapp.com
 recoverphrase354.firebaseapp.com
 recoverphrase357.web.app
-recoverphrase359.firebaseapp.com
 recoverphrase359.web.app
 recoverphrase360.web.app
 recoverphrase364.firebaseapp.com
@@ -3840,7 +3846,6 @@ recoverphrase364.web.app
 recoverphrase366.firebaseapp.com
 recoverphrase367.firebaseapp.com
 recoverphrase367.web.app
-recoverphrase368.web.app
 recoverphrase370.web.app
 recoverphrase371.firebaseapp.com
 recoverphrase371.web.app
@@ -3879,7 +3884,6 @@ recoverphrase462.firebaseapp.com
 recoverphrase462.web.app
 recoverphrase463.firebaseapp.com
 recoverphrase465.firebaseapp.com
-recoverphrase466.web.app
 recoverphrase467.firebaseapp.com
 recoverphrase470.firebaseapp.com
 recoverphrase470.web.app
@@ -3906,7 +3910,6 @@ recoverphrase5.web.app
 recoverphrase50.web.app
 recoverphrase500.firebaseapp.com
 recoverphrase51.web.app
-recoverphrase54.web.app
 recoverphrase57.firebaseapp.com
 recoverphrase57.web.app
 recoverphrase58.web.app
@@ -3915,7 +3918,6 @@ recoverphrase59.web.app
 recoverphrase60.web.app
 recoverphrase61.firebaseapp.com
 recoverphrase64.firebaseapp.com
-recoverphrase65.web.app
 recoverphrase66.firebaseapp.com
 recoverphrase66.web.app
 recoverphrase68.firebaseapp.com
@@ -3947,7 +3949,6 @@ recoverypage-082a.kacangkulitrebus.workers.dev
 recoverypageactiveidenty.co.vu
 recovmaskuhe.co.vu
 rectidapps.com
-rectificationswallet.com
 recursing-lalande.138-124-183-238.plesk.page
 recvry-page-protection-comunity-problems-457475.web.id
 redatofadesafe.blogspot.com
@@ -3973,11 +3974,11 @@ renew.trusted-travelers-online.com
 repairservicepageprotection.web.id
 repar.cm
 repl-mess.myfreesites.net
-representatives-102193.square.site
 request.br.ironmountain.com
 res-va.web.app
 res.cloudinary.com
 reservesucancha.com
+reset-certificazione.com
 resolve-irs.com
 resolvendo-registro-solucoes.com
 retuire.iwfjvse.cn
@@ -4033,6 +4034,7 @@ rgjj.ahzd8yda.cn
 rhfhn.kcd4ia4r.cn
 riattiva.digital.mps.aggiornadati.top
 riderctposten.blogspot.com
+ripristina-webapp.com
 risedefenders.io
 risst-607df.firebaseapp.com
 risst-607df.web.app
@@ -4071,7 +4073,6 @@ ryyfrghf.kjeitmi.cn
 s-fa31f3-i.sgizmo.com
 s.id
 s.yam.com
-
 s3.us-east-1.wasabisys.com
 s4r-srv.web.app
 s689381568.mialojamiento.es
@@ -4157,6 +4158,7 @@ serv0spk.de
 server-networksolutions.web.app
 servertechnicalnoticeimmestae-reconecting.pages.dev
 service-lkdn2020.gacconstrutora.com.br
+service.loadedcommerce.com
 servicecenter-id.de
 servicedhl.alianz.ng
 servicepage.service-page.workers.dev
@@ -4178,7 +4180,6 @@ sfdg.z1e2q7zd.cn
 sfdwe.bnxjghjb8.cn
 sfecc.tghuxke.cn
 sfex12sec.web.app
-sfo3.digitaloceanspaces.com
 sfr-5g.com
 sfr-mesfactures.app
 sfrpanel.lws.fr
@@ -4209,6 +4210,7 @@ shots-cup.com
 shushtem.com
 shy-math-77fe.nepopeb8347634.workers.dev
 sidneyfcuorg.freshy.site
+sie-aggiorn.com
 sienmobi.info
 sigginattlink.weebly.com
 sign-in-verification-929bb.web.app
@@ -4286,6 +4288,7 @@ situs-facebook-resmi21.webnode.com
 situs-pemulihan-resmi0.webnode.com
 skiinsmonkey.com
 skinbid.eu
+skinbid.trade
 skinsbears.com
 skiqthegames.com
 sklepkody.pl
@@ -4306,7 +4309,6 @@ slowlinebag.jp
 sm777.csb.app
 small-dust-6c63.pontufbksd.workers.dev
 smallvirtualaudacity.0000091.repl.co
-smart-tv--magazineluiza.com
 smartmom.com.bd
 smbc-cknr.shop
 smbc-qwea.shop
@@ -4408,6 +4410,7 @@ spark.shaheenwrites.com
 sparkase-einloggen.xyz
 sparkase-hauptmenu.xyz
 sparkasse-finanzgruppe.de
+sparkasse-krypto-portal.com
 sparkasse-kundenservice.com
 sparkasse-proton.de
 sparkasse.allgemeine-geschaeftsbedinungen.info
@@ -4544,6 +4547,7 @@ supportusp.com
 sur3cr.csb.app
 survey18-aws.toluna.com
 surveyheart.com
+svelto.udx-svelt.com
 swanholm.net
 swap.elena.finance
 swappauto.staging.lcsolutions.it
@@ -4841,7 +4845,6 @@ vefdgv.eysuw0xsc.cn
 velvish.com
 ventas.lnterbarnk.pe.fdyf8wmi.xyz
 veredicto63.hostfree.pw
-verfikasiakunfacebook.weebly.com
 verifica-accesso-bper.com
 verificar-email1.weebly.com
 verificati0n.firebaseapp.com
@@ -5180,6 +5183,7 @@ webhostingserviceo98.web.app
 webhostingserviceo99.firebaseapp.com
 webhostingserviceo99.web.app
 webip.yolasite.com
+webirsgov.jumpingcrab.com
 webm-ailserv.vercel.app
 webmail-100643.weeblysite.com
 webmail-103501.weeblysite.com
@@ -5244,7 +5248,6 @@ wskmux.cf
 wv3vajpaeass.com
 wvvw.inicio.loglng.home.cajasarequipa.itakepe.com
 wwc.avisoapps.info
-wws.ib2.sacbradesco.com.br.bkeps.store
 wwv-bombcrypto-log.com
 www-cursosdigitalesmx-com.filesusr.com
 www-degelyehuda-org-il.filesusr.com
@@ -5276,7 +5279,6 @@ www.aeon.co.jpuvn3yyues.jp
 www.aeon.co.jpuvn62nxhnuias.com
 www.aeon.co.jpuxciu713jc.shop
 www.aeon.co.jpuxnau783jc.com
-www.aeon.co.jpuxnou713jc.jp
 www.aeon.co.jpuxnou783jc.net
 www.ajeetseed.co.in
 www.alinachopra.com
@@ -5360,6 +5362,7 @@ www.bbexeiy.com
 www.bbexhkpd.com
 www.beast-blog.com
 www.betamedia.com.ng
+www.betatelevision.com
 www.beyondcryptofx.com
 www.bioenergyevitalite.com
 www.bird-call.info
@@ -6080,7 +6083,6 @@ www2.mstacseoz.icu
 www2.mstacsoucarcs.icu
 www2.mstacsouearcs.icu
 www2.mstacsousarcs.icu
-www2.mstacsuearcs.icu
 www2.mstacsuez.icu
 www2.mstacsuoz.icu
 www2.mstacsurueccs.icu
