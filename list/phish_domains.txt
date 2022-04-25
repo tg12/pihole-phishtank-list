@@ -11,6 +11,7 @@
 0448acf.netsolhost.com
 08863299.sso-secure-mail0454etr.pages.dev
 0a70f8b5e29482619.temporary.link
+0aa9124efa9473118.temporary.link
 0ffice-365-admin-l0gin.square.site
 0web.pages.dev
 1000000000074558557412569836454.tk
@@ -835,7 +836,6 @@ bcp-marketing.com
 be-home.web.do
 beacon.marylands.workers.dev
 beacons.ai
-beanz-azuki.cc
 beanz-azuki.org
 beanz.garden
 beanzofficial.org
@@ -983,7 +983,6 @@ bujikena.web.app
 bund-de.lojaintegrada.com.br
 buralenergiasolar.blogspot.com
 busanopen.org
-business-case-appeal0992.web.app
 business-case-appeal99823984.web.app
 business-page-appeal-125132-26.web.app
 business-page-appeal-1256126-2.web.app
@@ -1010,7 +1009,6 @@ caixainfos.cargo.site
 caixaregularize.blogspot.com
 caixaseguradora.quadientcloud.com
 cajarequipaserv.com
-camm-media.com
 caracasmateriais.blogspot.com
 cas-polygon.blogspot.com
 casadoborracheiroxx.blogspot.com
@@ -1076,7 +1074,6 @@ chasebk7514.firebaseapp.com
 chasebk7515.firebaseapp.com
 chasebk7515.web.app
 chasebk7516.web.app
-chasebk7517.firebaseapp.com
 chasebk7517.web.app
 chasebk7518.web.app
 chasebk7519.firebaseapp.com
@@ -1118,14 +1115,12 @@ chasebz4611.firebaseapp.com
 chasebz4611.web.app
 chasebz4612.firebaseapp.com
 chasebz4612.web.app
-chasebz4613.firebaseapp.com
 chasebz4613.web.app
 chasebz4614.firebaseapp.com
 chasebz4614.web.app
 chasebz4615.web.app
 chasebz4616.firebaseapp.com
 chasebz4616.web.app
-chasebz4617.firebaseapp.com
 chasebz4617.web.app
 chasebz4618.firebaseapp.com
 chasebz4618.web.app
@@ -1141,7 +1136,6 @@ chasebz4623.firebaseapp.com
 chasebz4623.web.app
 chasebz4624.firebaseapp.com
 chasebz4624.web.app
-chasebz4625.firebaseapp.com
 chasebz4625.web.app
 chasebz4626.firebaseapp.com
 chasebz4626.web.app
@@ -1190,18 +1184,15 @@ chasecs1923.web.app
 chasecs1924.firebaseapp.com
 chasecs1924.web.app
 chasecs1926.firebaseapp.com
-chasecs1927.firebaseapp.com
 chasecs1927.web.app
 chasecs1928.firebaseapp.com
 chasecs1928.web.app
 chasecs1929.firebaseapp.com
 chasecs1929.web.app
 chasecs193.firebaseapp.com
-chasecs194.firebaseapp.com
 chasecs194.web.app
 chasecs195.firebaseapp.com
 chasecs195.web.app
-chasecs196.firebaseapp.com
 chasecs197.firebaseapp.com
 chasecs197.web.app
 chasecs198.firebaseapp.com
@@ -1211,14 +1202,12 @@ chasecs199.web.app
 chasegg750.firebaseapp.com
 chasegg750.web.app
 chasegg751.firebaseapp.com
-chasegg7510.firebaseapp.com
 chasegg7510.web.app
 chasegg7511.firebaseapp.com
 chasegg7513.firebaseapp.com
 chasegg7513.web.app
 chasegg7514.firebaseapp.com
 chasegg7514.web.app
-chasegg7515.firebaseapp.com
 chasegg7516.firebaseapp.com
 chasegg7516.web.app
 chasegg7517.web.app
@@ -1250,7 +1239,6 @@ chasegg757.firebaseapp.com
 chasegg757.web.app
 chasegg758.firebaseapp.com
 chasegg759.firebaseapp.com
-chaseiq250.firebaseapp.com
 chaseiq251.firebaseapp.com
 chaseiq251.web.app
 chaseiq2510.web.app
@@ -1260,7 +1248,6 @@ chaseiq2514.web.app
 chaseiq2515.web.app
 chaseiq2516.firebaseapp.com
 chaseiq2517.web.app
-chaseiq2518.web.app
 chaseiq2519.firebaseapp.com
 chaseiq2519.web.app
 chaseiq2520.firebaseapp.com
@@ -1332,7 +1319,6 @@ chasekm814.web.app
 chasekm815.firebaseapp.com
 chasekm815.web.app
 chasekm816.firebaseapp.com
-chasekm816.web.app
 chasekm817.firebaseapp.com
 chasekm817.web.app
 chasekm818.firebaseapp.com
@@ -1349,7 +1335,6 @@ chasels4812.firebaseapp.com
 chasels4813.firebaseapp.com
 chasels4813.web.app
 chasels4814.firebaseapp.com
-chasels4815.firebaseapp.com
 chasels4815.web.app
 chasels4816.web.app
 chasels4817.web.app
@@ -1360,7 +1345,6 @@ chasels4819.web.app
 chasels482.firebaseapp.com
 chasels482.web.app
 chasels4820.firebaseapp.com
-chasels4821.firebaseapp.com
 chasels4821.web.app
 chasels4822.firebaseapp.com
 chasels4822.web.app
@@ -1396,7 +1380,6 @@ chaseog7413.firebaseapp.com
 chaseog7413.web.app
 chaseog7414.web.app
 chaseog7415.firebaseapp.com
-chaseog7415.web.app
 chaseog7416.firebaseapp.com
 chaseog7416.web.app
 chaseog7417.firebaseapp.com
@@ -1862,7 +1845,6 @@ desejoourocard.com.br
 detailed-local-scar.glitch.me
 dev-bellco-credit-union.pantheonsite.io
 dev-nadaj.orlenpaczka.ce5.pl
-dev-wall-ethconnect.pantheonsite.io
 dev-wnaxa.pantheonsite.io
 dev.apcdfoundation.org
 dev.procaregroup.com.au
@@ -2079,7 +2061,6 @@ espacecliensddfqtimots.americommerce.com
 espaceclientorange1.americommerce.com
 espaciopasscar.wpengine.com
 essentialcosmeticshop.com
-estatepartner.co.uk
 etatrecharge.com
 eth-bigevents.com
 eth-waet.com
@@ -2212,6 +2193,7 @@ fiatermsnua.minjetriomolagraciusferto.link
 fichodsu2442.125mb.com
 ficohsa-honduras.000webhostapp.com
 ficohsa0009.atwebpages.com
+ficohsaentrar.operacione.repl.co
 ficohsahome5460.125mb.com
 ficohssa9899.atwebpages.com
 ficolhsa.com
@@ -2221,6 +2203,7 @@ ficoza-fi001.atwebpages.com
 fidelitybank-mn.net
 fidelitybank-ng.online
 fighting40s.com
+fiicoohsa.125mb.com
 fikcohs-asfhn.125mb.com
 filixlightings.com
 finabeleza.com
@@ -2235,6 +2218,7 @@ fire.martobang.workers.dev
 firmador-digital-six.vercel.app
 firstsourcesbus.com
 fiscoshann.125mb.com
+fisocerhnduera.125mb.com
 fiverr.review-with-ak.com
 fix-blockchain.com
 fixdapps.xyz
@@ -2873,6 +2857,7 @@ irs.get-paymentfederal.com
 irsprofile-taxmanage.com
 irsprofile-taxmanageehome.com
 is-industrie.co.th
+is.gd
 ishr.cm
 islandsforum.eu
 israpunes.com
@@ -2960,7 +2945,6 @@ joannschreiber.com
 job-type.com
 jodo.app
 joecamera.net
-join-group-bokepviral2022.duckdns.org
 join-groupp165.duckdns.org
 joingrupxnx18.duckdns.org
 jolly-sabaa.topijerami.workers.dev
@@ -3427,7 +3411,6 @@ menunggu.xyz
 mercadopago-ptbrssl.pagina-oficial.com
 mercadopago-sslbr.pagina-oficial.com
 mercarri2.cc
-mersik.online
 message-webapp2242022-1311426938.cos.ap-nanjing.myqcloud.com
 messagerie-orange-mail1.yolasite.com
 messagerie-orange210.yolasite.com
@@ -3460,7 +3443,6 @@ metamask.io-toleuhfi.ru
 metamask.io-vpnqlrx.ru
 metamask.io-vpnqlry.ru
 metamask.lt
-metamask.manyuak.com
 metamask.ms
 metamask.rent
 metamask004.com
@@ -3475,7 +3457,6 @@ metamaskn.net
 metamaskreset.com
 metamasks.vip
 metamaskt.vip
-metamaskwebwallet.io
 metapoly.org
 meufgts.app.br
 mfacebook.blogspot.com.cy
@@ -3500,6 +3481,7 @@ minerlee.topijerami.workers.dev
 minerusdt.cc
 mingming20160152.github.io
 minheiexi.atwebpages.com
+minialco.eu
 mining8.vip
 mintsolanadrop.com
 miraa.xyz
@@ -3798,6 +3780,7 @@ okankaracan.com
 okayama-tyumonjc.com
 okljmn.sev2o3i5.cn
 okpwtu.webwave.dev
+oksiafhfico.125mb.com
 old-file-surf-978b.theattdrops6111.workers.dev
 old.martobang.workers.dev
 olx-pl-xhp.accept8145.me
@@ -3821,7 +3804,6 @@ online.visual-paradigm.com
 onlinecasinospark.com
 onlinehelpchase.blogspot.com
 onlineservicealert1.000webhostapp.com
-onlineservies-redeemsupport.com
 onlinesmartapps.com
 onlysportplus.com
 onyx77.net
@@ -3881,6 +3863,7 @@ package2021.blogspot.bg
 package2021.blogspot.com
 padelmania.ro
 page-community-support2022.gq
+page-repair-service.com
 page.vilodata.workers.dev
 pagecommunityreviewproblem.co.vu
 pagecommunitysupport2022.com
@@ -4011,6 +3994,15 @@ plg-polygon-tecnology.blogspot.com
 plugmailextraexpiredoldpolicynotificationscenter.pages.dev
 poc-rewards-program-c2dfc.web.app
 pocyeir.com
+point-next-33300057485269965845321.tk
+point-next-33300057485269965845322.tk
+point-next-33300057485269965845325.tk
+point-next-33300057485269965845326.tk
+point-next-33300057485269965845327.tk
+point-next-33300057485269965845328.tk
+point-next-33300057485269965845329.tk
+point-next-33300057485269965845330.tk
+point-next-33300057485269965845331.tk
 pokajca.web.app
 pokemoney.info
 polaris-ad6895.ingress-alpha.easywp.com
@@ -4042,7 +4034,6 @@ posb-admin.com
 post-ch.payment-eu.shop
 postalfees-uk.com
 postch9192.cargo.site
-poste.newloyalstudio.com
 postoffice-help.co
 potlajsnda.atwebpages.com
 powersafeenergia.blogspot.com
@@ -4455,7 +4446,6 @@ securedwalletsvals.com
 securegateway-ovhcloud.csl-sl.de
 secureofficjehby78jsibt.weebly.com
 securetoken.su
-securewywtfrsbusinessconnectejebt.weebly.com
 security-page-community-standards.blogspot.com
 securityexit.260mb.net
 seedify-fund.org
@@ -4642,7 +4632,6 @@ sm777.csb.app
 smal.lu
 small-dust-6c63.pontufbksd.workers.dev
 smartmom.com.bd
-smb.creative10-ten.com
 smbcm.com
 sme-elec.com
 smeo.org.mx
@@ -4739,7 +4728,6 @@ spark.shaheenwrites.com
 sparkase-einloggen.xyz
 sparkase-hauptmenu.xyz
 sparkasse-kundenservice.com
-sparkasse-management.info
 sparkasse-proton.de
 sparkasse.allgemeine-geschaeftsbedinungen.info
 sparkasse.de-agb-aktiv-zustimmen.info
@@ -5244,6 +5232,7 @@ viettel-com-dot-c2c01-531c7.uc.r.appspot.com
 view-fileshare-kennugent-coa.firebaseapp.com
 view-fileshare-kennugent-coa.web.app
 viewingonlinepdf.000webhostapp.com
+vimglass.azurewebsites.net
 vintage2gold.com
 vinted-pl.zamowid06743016.shop
 vinted-pl.zamowid06947376.life
@@ -5581,10 +5570,10 @@ webvalidator.co
 webverif.yolasite.com
 webwalletauthntication.com
 wegds.fv7plq1n.cn
+wehogaypride.com
 weiterleitung.click
 wepanel-usersemaillogin7876.web.app
 wertgd.9xbyb9jq.cn
-west-tender-industry.glitch.me
 westa.kr
 weteachbh.com
 wetransfe-f5044.firebaseapp.com
@@ -6338,7 +6327,6 @@ www.duo-ange.com
 www.dwedw973.top
 www.dwedw985.top
 www.edgecryptoxt.com
-www.eki-account.jp.co.wvphrmt.cn
 www.eki-update.jp.co.klfqyij.cn
 www.en.dapps-secure-connect.com
 www.enbolivia.com
@@ -6801,7 +6789,6 @@ www.moseaeoecri.icu
 www.motprokod.com
 www.mpdwe2fe.top
 www.msc-doelsach.at
-www.mscevecr.icu
 www.mxrr.com
 www.my-arnazno-prime6-singin6.workers.dev
 www.mywalletpolygon.technology
@@ -7005,11 +6992,9 @@ www2.aenouezn.icu
 www2.aenouszn.icu
 www2.au-kddi.login.an5on3.shop
 www2.au-kddi.login.an5on4.shop
-www2.au-kddi.login.an5on8.shop
 www2.au-kddi.login.an6on3.shop
 www2.au-kddi.login.an6on5.shop
 www2.au-kddi.login.an7on1.shop
-www2.au-kddi.login.an7on3.shop
 www2.au-kddi.login.an7on6.shop
 www2.etc-meisai.jp.yumo1858.com
 www2.jacecasd.icu
