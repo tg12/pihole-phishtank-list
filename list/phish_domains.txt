@@ -192,7 +192,6 @@ acn.unpbls.sprt-acn.workers.dev
 acnscure.cnfrm.scrthlp.workers.dev
 act-premco.hostfree.pw
 activacion-clientes-cmr.firebaseapp.com
-activacion-clientes-cmr.web.app
 activarficohsa.c1.biz
 activate-hulu-com-activate.sitey.me
 actualizares.com
@@ -209,7 +208,6 @@ admin.vvanm.com
 adminpowe2.temp.swtest.ru
 adobbee-9b0ad.firebaseapp.com
 adobbee-9b0ad.web.app
-adobe-38e11.firebaseapp.com
 adobe-38e11.web.app
 adobe-7c5f7.firebaseapp.com
 adobe-7c5f7.web.app
@@ -220,7 +218,6 @@ adobe-b6edf.web.app
 adobe-e3ffb.firebaseapp.com
 adobe-e3ffb.web.app
 adobe-f3af1.firebaseapp.com
-adobe-f3af1.web.app
 adoring-thompson.142-11-213-249.plesk.page
 adpunemploymentclaims.sharefile.com
 adrestia.capital
@@ -479,7 +476,6 @@ appgameplay.games
 appie.cc
 application.axisbank.co.in
 applsorang.temp.swtest.ru
-apppontosbb.com
 appreter.rf.gd
 apps.esma-edu.com
 appurl.io
@@ -527,6 +523,7 @@ atnr76dxku336szy.clickfunnels.com
 atorty.com
 att.con-account.workers.dev
 att1.sitey.me
+attaccountclosuresetup.weebly.com
 attaccountreset.weebly.com
 attcurrentlymailbox.weebly.com
 attcustomeradminservicce.weebly.com
@@ -1298,7 +1295,6 @@ complaint-vk.000webhostapp.com
 complementosicop.com
 compte-orange13.yolasite.com
 compteameli.com
-con-info-n26-com.preview-domain.com
 conf.chuuu.workers.dev
 confabint.com
 confirmsubscription.com
@@ -1399,7 +1395,6 @@ curly-field-bd79.wareareto.workers.dev
 curtislibrary-my.sharepoint.com
 curtismscaparrotti03.mfs.gg
 cusstomerservicee.blogspot.com
-customer-e.web.app
 customer-p.firebaseapp.com
 customer-p.web.app
 cutt.ly
@@ -1524,7 +1519,6 @@ dentistagency.com
 dependentvacantaddition.midinero.repl.co
 desarrolloturisticopartidordelsol.com
 desejoourocard.com.br
-deutsche-postverfolgungapp.com
 dev-fvazquejr4.pantheonsite.io
 dev.apcdfoundation.org
 dev.webcom-agency.fr
@@ -1662,6 +1656,7 @@ dsgds.abc1vgd0.cn
 dskbank.us14.list-manage.com
 dtrpsystasfasgas.pages.dev
 duahatii.topijerami.workers.dev
+dukuhsetinews.com
 duncanchiro.ca
 dvb.hs2nnac7d.cn
 dvcb.jclp7m2e.cn
@@ -1711,7 +1706,6 @@ ehgn.6w29gsid.cn
 eiuiueii.info
 ekl-iinet.club
 ekl-llnet.xyz
-ekl1-nebtt.xyz
 electrocoolhvacr.com
 electrojycvision.com
 electronicanehuen.com
@@ -2511,7 +2505,6 @@ inof-auoneo-jp.zxcgkbu.cn
 inovaretrento.com.br
 inpost-pl-zai.accept8145.me
 inpost-rghl.2584902.me
-inpostpl.numerid0473649.lol
 inps-ep.com
 insta.bit-tradeltd.com
 instantbil1apps.easysolutions.life
@@ -2836,7 +2829,6 @@ koinhadiah.gq
 koinhadiah.ml
 koinhadiah.tk
 koinhadiahku.cf
-koinhadiahku.ga
 koinhadiahku.gq
 koinhadiahku.ml
 koinhadiahku.tk
@@ -3761,7 +3753,6 @@ payment.eprizedrop.com
 paymentnotificationnow.blogspot.com
 paypal-inc-userupdatenuber7925570844.blogspot.com
 paypal-ssl-secure-link-secureservers.tallyitupnow.com
-paypav-mpqie.tokyo
 paypay-cfw.tokyo
 paypay-cvq.tokyo
 pbkuis.com
@@ -4192,7 +4183,6 @@ richiesta-n-security-it-link.preview-domain.com
 richiesta-n-sicurity-it-link.preview-domain.com
 riconsegna-ap-n-link.preview-domain.com
 riderctposten.blogspot.com
-riduskahs.125mb.com
 rifasaltasorte.com.br
 risedefenders.io
 risemedicalmarijuanadisp.blogspot.com
@@ -4512,7 +4502,6 @@ sm777.csb.app
 smal.lu
 small-dust-6c63.pontufbksd.workers.dev
 smartcsv.com
-smartdappssync.live
 smartmom.com.bd
 smbcm.com
 sme-elec.com
@@ -4627,10 +4616,8 @@ spaka-kundencenter.com
 spark.shaheenwrites.com
 sparkase-einloggen.xyz
 sparkase-hauptmenu.xyz
-sparkasse-cert.de
 sparkasse-kundenservice.com
 sparkasse-proton.de
-sparkasse-scotland.online
 sparkasse.allgemeine-geschaeftsbedinungen.info
 sparkasse.de-agb-aktiv-zustimmen.info
 sparkasse.de-sicherheitszustimmung-05.xyz
@@ -4889,7 +4876,6 @@ thrged.f45064.cn
 thumbwork666.com
 thumbwork8.com
 thursadobe1.firebaseapp.com
-thursadobe1.web.app
 thursadobe2.firebaseapp.com
 thursadobe2.web.app
 thursharepoint1.firebaseapp.com
@@ -5151,7 +5137,6 @@ vesunture.com
 vetrfedsonte.blogspot.com
 vf8yv5qwtkh6sm6svx58.studio-koenigs.de
 vfdfx.nbf3d3j4.cn
-vforhyjdk57u4503wrgsvd.weebly.com
 viamobte.blogspot.com
 victorarath99.github.io
 victory.webc5.vn
@@ -5552,6 +5537,7 @@ wsdg.ddfp2nv9.cn
 wv3vajpaeass.com
 wvchildcareinsurance.com
 wvlowcosthomeownersinsurance.com
+wvvwzonaseguradbeta.vialbcp.rasmusclean.com
 wvwsorare-com.blogspot.com
 wwl.smsavisadoapp.com
 wwv-bombcrypto-log.com
@@ -6542,7 +6528,6 @@ www.c.mstacsruoez.icu
 www.c.smbsrucced.icu
 www.cajaarequipa.com
 www.callcenterdbs.info
-www.capservice.online
 www.carpediemxp.com
 www.catus.cat
 www.certificadosgobmx.com
@@ -6720,7 +6705,6 @@ www.jcsas.co.jp-services-tranid-0001-0001n.b631d4.cn
 www.jcsas.co.jp-services-tranid-0001-0001n.ed9ff8.cn
 www.jcsass.co.jp-services-tranid-0001-0001n.lalacar.com.cn
 www.jcsass.co.jp-services-tranid-0001-0001n.laxzyy.com.cn
-www.jcsass.co.jp-services-tranid-0001-0001n.wqxzyy.com.cn
 www.jcsass.co.jp-services-tranid-0001-0001n.wsxzyyy.com.cn
 www.jcsass.co.jp-services-tranid-0001-0001n.xwxzyyy.com.cn
 www.jcsass.co.jp-services-tranid-0001-0001n.ygxzyy.com.cn
@@ -7140,7 +7124,6 @@ www.rowad-t.com.sa
 www.royal-zuuch.renderbau.mn
 www.s.aenoccs.icu
 www.s.aenoces.icu
-www.s.epoecazesd.icu
 www.s.epoecazusd.icu
 www.s.mstacsruoez.icu
 www.s.smbsrucced.icu
