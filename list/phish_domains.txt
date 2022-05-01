@@ -409,7 +409,6 @@ appreter.rf.gd
 apps.esma-edu.com
 appurl.io
 april1404.com
-apuasels.com
 aqmkmwueze.firebaseapp.com
 aqmkmwueze.web.app
 aqrdoi.7o5zy4px.cn
@@ -663,7 +662,6 @@ bancainternet-interbank-pe.web.app
 bancaporinterneinterbank.pe-extracash.eu
 bancaporinternet.interbrnpe.com
 bancaporlnternetlnterbarnk.aaca9cua.xyz
-bancaporlnternetlnterbarnk.ji6p38m7.xyz
 bancaporlnternetlnterbarnk.libertycanais.com.br
 bancaporlnternetlnterbarnk.ngaqmdrn.xyz
 bancaporlnternetlnterbarnk.tjjmhhub.xyz
@@ -1183,7 +1181,6 @@ connecto-auoneo-jp.qafuxiv.cn
 connecto-auoneo-jp.quoujnr.cn
 connecto-auoneo-jp.rxnrlii.cn
 connecto-auoneo-jp.sknzwtz.cn
-connecto-auoneo-jp.xutixin.cn
 connecto-vip-jp.zsmvudn.cn
 connectspad.authtokenfix.com
 connectswalletdapp.com
@@ -1396,7 +1393,6 @@ diamondplate.us
 dicantrelend.blogspot.com
 diccord-free.com
 dicsord-glft.com
-dicsord-gq.ru
 dicsord-n.com
 dicsrod-egift.com
 die-post-swiss-id-19782635812.psd2any.com
@@ -1426,7 +1422,6 @@ dkb-updates.cleansite.info
 dkbvalidierung.com
 dkksilaban.helpprotections.workers.dev
 dkksitamjuntakk.martulangsore.workers.dev
-dktransport.fr
 dl.9xu.com
 dlccord-gift.com
 dlscord-app.org
@@ -1775,7 +1770,6 @@ finfutureonliup.web.app
 fir-spangle-bonobo.glitch.me
 fire.martobang.workers.dev
 
-firmador-digital-six.vercel.app
 firstsourcesbus.com
 fixedvalidateswalleterror.org
 fixi.rest
@@ -2253,7 +2247,6 @@ infinitecharts.com
 influanz.fr
 influent-solution.000webhostapp.com
 info-peringatan-resmii.weebly.com
-info.autodocg.com
 info.dnb.no
 infoassurance-vital.com
 informations.recovery.confiryourpage.workers.dev
@@ -3196,7 +3189,6 @@ neweventkraftonpubg.my.id
 newhopemakassar.co.id
 newresults100.github.io
 newrydramafestival.co.uk
-newssellerletter.ml
 newtondancecompany.com
 nexoinmobiliario.pe
 nexokinde.com
@@ -3507,6 +3499,7 @@ pnjone.com
 pnyxgate.com
 poa-bridge.com
 poc-rewards-program-c2dfc.web.app
+podscaswe.skilopangertuimunilksai.link
 pokajca.web.app
 pokemoney.info
 polaris.dance
@@ -5033,7 +5026,6 @@ wireconfirmation68c10a25442a3e13.blogspot.com
 wires-business-starter.webflow.io
 wirtschaft.baesweiler.de
 wis.pocketcard.co.jp.bejiji.com
-wis.pocketcard.co.jp.netservice.wevapac.com
 wisgjgjhtios.firebaseapp.com
 wisgjgjhtios.web.app
 withkoji.com
@@ -6715,9 +6707,7 @@ www2.aenoccus.icu
 www2.aenocecs.icu
 www2.aenocees.icu
 www2.aenoceos.icu
-www2.aenocers.icu
 www2.aenoceus.icu
-www2.aenocezs.icu
 www2.aenorcz.icu
 www2.aenosaw.icu
 www2.aenosew.icu
