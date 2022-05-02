@@ -401,6 +401,7 @@ app.pipefy.com
 app.sugarsync.com
 app.waiverforever.com
 app.webwalletsauthenticate.com
+app.xn--spher-fsa.finance
 appgameplay.games
 appie.cc
 application.axisbank.co.in
@@ -581,6 +582,7 @@ azul257.com
 b.com.0cdb6084fc320a42a6418192753f5960.laremolonarestaurante.com
 b059c86968a6427389952025bcee9886.svc.dynamics.com
 b0727732.sibforms.com
+b1d8bb27.sibforms.com
 b4e921f0.sso-mailsrvr-4344e5teed.pages.dev
 b8bft.000webhostapp.com
 b97bca39.srvr-cloudmail-srvr6754e5rte.pages.dev
@@ -1297,6 +1299,7 @@ damp-f43e.recovery-page-secur.workers.dev
 dangol-v2.web.app
 dapp-connect.co
 dapp.busta.gg
+dapp.squarespace.com
 dapp.swaplibra.com
 dappbuilder.org
 dappnetsync.com
@@ -1367,14 +1370,12 @@ dev5924.dxxsgb6hsq3ex.amplifyapp.com
 dev7029.dxxsgb6hsq3ex.amplifyapp.com
 devlog.studentwire.in
 dferwfwf.weebly.com
-dfg.87rag361.cn
 dfgds.stqn2c1r.cn
 dfghfrtyuytyughghj.weeblysite.com
 dfghjl.12caef.cn
 dfgryh.ljoqj33.cn
 dfsfge.anir0nds.cn
 dftojc.web.app
-dftx.vip
 dgfoodsnet.myportfolio.com
 dghhj.nyap3o41.cn
 dgu9g3a2kzqx2.cloudfront.net
@@ -1382,7 +1383,6 @@ dgvds.eie6902e.cn
 dgw.soundestlink.com
 dgwer.op3c2ojq.cn
 dhanushr24.github.io
-dhjj.nosa8a2j.cn
 dhl-event.app
 dhl.order-finished.info
 dhlparcel.sps-ocs.co.uk
@@ -1633,7 +1633,6 @@ excelelectrical0-my.sharepoint.com
 exch.quantserve.com
 exchange4free.com
 exito-validation.260mb.net
-exito2grupo.atwebpages.com
 exitotuyapayfmw.hostfree.pw
 exitsecutt.260mb.net
 exodlus.net
@@ -3656,7 +3655,6 @@ reg-3da7f.web.app
 reg.chaindaohang.com
 reg123r.web.app
 regionalezeknozoyda.flazio.com
-regiontechnologies.com
 registrando-solucoes-agora.com
 reglic.in
 regme.us
@@ -3730,6 +3728,7 @@ rhfhn.kcd4ia4r.cn
 riazcatering.ca
 richmond.arihantmarbles.in
 riderctposten.blogspot.com
+rionty.com
 risedefenders.io
 risemedicalmarijuanadisp.blogspot.com
 risst-607df.firebaseapp.com
@@ -3825,6 +3824,7 @@ santander.auth-user-34.com
 santander.auth-user-57.com
 santanew.wpengine.com
 sante-ameli.com
+sants.id-31.com
 sarahandlockie.com
 saritapariyar.com.np
 sarsportal.formstack.com
@@ -4286,6 +4286,7 @@ syncauthentication.com
 syncdaaps.link
 syncdappconnect.com
 syncnftslink.live
+syncs-dapptool.com
 syr.us
 syracuseinfo.com
 sys-xfinitysupport0-21.000webhostapp.com
@@ -4298,7 +4299,6 @@ szsmartest.com
 t.co
 t.raptorsmartadvisor.com
 taher-mohamed-ahmed-saad.github.io
-takipcihilesix.cf
 tall-fireant-16.loca.lt
 tambunanajaa.martulangsore.workers.dev
 tamraz.net
@@ -4432,7 +4432,6 @@ tryingpanel.xyz
 trytoshop.com
 ts.my
 ttilll.web.app
-ttmilitaria.com
 tubukids.com.au
 tucarem.com
 tural.gurcanozturk.com
@@ -4613,7 +4612,6 @@ vivaterouna.blogspot.com
 vivocrm.ru
 vk.com
 vkontakte.app
-vmrentalmaine.com
 vnikiforov.lv
 vodaupdatepayment.com
 voirmaligne033.yolasite.com
@@ -4629,6 +4627,7 @@ vtxmail2018.myfreesites.net
 vugik.mecil33784.workers.dev
 vulcanizare-cazanesti.ro
 vxdse.myfreesites.net
+vys05cuth.dns04.com
 w2.deraya.org
 w32ykk.firebaseapp.com
 w32ykk.web.app
@@ -4892,7 +4891,6 @@ webhostingserviceo98.web.app
 webhostingserviceo99.firebaseapp.com
 webhostingserviceo99.web.app
 webip.yolasite.com
-webmail-107867.weeblysite.com
 webmail-aruba-it.formetindoor.com
 webmail-cisco.firebaseapp.com
 webmail-cisco.web.app
@@ -5922,7 +5920,6 @@ www.erinandmatthew2018.com
 www.esftx.com
 www.estetikway.com
 www.etc-meisfrq.xyz
-www.eticaretkurulum.com
 www.evernote.com
 www.exitoytuya.com
 www.explorebathurst.com.au
@@ -6375,7 +6372,6 @@ www.obadan.net
 www.office365-verification.sitorueda.com
 www.officialliker.co
 www.officialsolnft.info
-www.ogkdjgks.com
 www.onelife-v.com
 www.optydistribution.ca
 www.padlockpadu.com
@@ -6415,7 +6411,6 @@ www.reglic.in
 www.retiro.cl
 www.reviewus.co.in
 www.rowad-t.com.sa
-www.s.aenoces.icu
 www.s.aenoczon.icu
 www.s.aenorzcn.icu
 www.s.aenosecn.icu
@@ -6442,13 +6437,10 @@ www.slickparties.com
 www.slowlinebag.jp
 www.smartscapesinc.com
 www.smitheatonrealestate.com
-www.snnlucyminn.com
 www.solana187.com
 www.solana407.com
-www.solana546.com
 www.solana791.com
 www.solana913.com
-www.solana924.com
 www.solanafreenft.com
 www.solanakelton.com
 www.solanalaings.com
