@@ -18,6 +18,12 @@
 1000000000074558557412569836457.tk
 1000000000074558557412569836458.tk
 1000000000454156841005641658-gq.tk
+100000000075641210654897413-gq.tk
+100000000075641210654897415-gq.tk
+100000000075641210654897416-gq.tk
+100000000075641210654897417-gq.tk
+100000000075641210654897419-gq.tk
+100000000075641210654897420-gq.tk
 106f76a5.sibforms.com
 109edc5b.ssdtfgyb09.pages.dev
 10e20o30u37.260mb.net
@@ -1390,7 +1396,6 @@ dev.webcom-agency.fr
 dev5924.dxxsgb6hsq3ex.amplifyapp.com
 dev7029.dxxsgb6hsq3ex.amplifyapp.com
 development-admin-10002000300040005000678911.tk
-development-admin-10002000300040005000678916.tk
 dfgds.stqn2c1r.cn
 dfghjl.12caef.cn
 dfgryh.ljoqj33.cn
@@ -2252,7 +2257,6 @@ ingbehome-74dcd.firebaseapp.com
 ingbehome-77b9a.web.app
 ingbehome-bf198.web.app
 ingbehome-fea9e.web.app
-ingbehome99afe.firebaseapp.com
 injazrest.com
 inmobiliariaalfa.cl
 innovation-evotik.web.app
@@ -2738,7 +2742,6 @@ mail-account-verify-a9a19.firebaseapp.com
 mail-account-verify-a9a19.web.app
 mail-account-verify-ebcdf.firebaseapp.com
 mail-account-verify-ebcdf.web.app
-mail-gmxaktualisierung.yolasite.com
 mail-ovhcloud.web.app
 mail-ssocloud-srvr67yhguh.pages.dev
 mail.7dias.com.do
@@ -2762,7 +2765,6 @@ main.d38bhwh6bpkjf0.amplifyapp.com
 mainnetdappbot.net
 mainnetdappbots.net
 malaprontaargentina.com.br
-malignemobile022.yolasite.com
 malignemobile060.yolasite.com
 mamachicaofeb.clickfunnels.com
 manageinformationfordataupdate.co.vu
@@ -2959,7 +2961,6 @@ mobile-orange-forever.yolasite.com
 mobios.lk
 mocat.net.au
 moderator-form-discord.com
-modetextileindustries.com
 molarentcar.com
 momentouswork.com
 momo.io.momoverse.live
@@ -3196,6 +3197,7 @@ nytrotech-net.batoota.pk
 o2billingauth-update.com
 oaklandsglobal.co.uk
 ocioturismogalicia.com
+odcc.sa
 odiasamaj.net
 ofertassoriana.com
 offa-8a87d.firebaseapp.com
@@ -4154,7 +4156,6 @@ soft-ban.com
 soft-cell-8148.updateloginprogram.workers.dev
 soft-safety.com
 soft.vijayshriengineers.com
-softbank.nov-jp.com
 softstn.com
 solana404.com
 solana826.com
@@ -4420,7 +4421,6 @@ the-arenaa.blogspot.com
 thebeachleague.com
 thechillipicklecanteen.com
 thedefiantsnft.com
-thedefipairedapps.online
 thedigirocket.com
 thefoodmantra.in
 theinvestorsclub.in
@@ -4613,6 +4613,7 @@ valarqss.hyperphp.com
 valenciaoptometry.com
 validacionpichincha.odoo.com
 validatesecurredwallets.com
+valleyeastdays.com
 valuesfordailyliving.com
 vapescleans.sgp1.digitaloceanspaces.com
 vbdf.y57x539m.cn
@@ -5021,7 +5022,6 @@ wp-login.azurewebsites.net
 wp-znojemskabeseda-dev.azurewebsites.net
 wpsoar.com
 wqfddf.yrd992xy0.cn
-writhingswiftconditional.ficohsaversion0.repl.co
 wsdcv.h77o2kc7.cn
 wsqfd.sfknqv6b1.cn
 wszxfv.p2q7933lu.cn
@@ -5030,6 +5030,7 @@ wvchildcareinsurance.com
 wvlowcosthomeownersinsurance.com
 wvwsorare-com.blogspot.com
 ww11.lbk-personas.website
+ww2-popularlimear.serveirc.com
 ww24.acessoseguro.digital
 wws.ib4.sacbradesco.com.br.wlqo.store
 wwv-bombcrypto-log.com
@@ -5509,7 +5510,6 @@ www.au-caeon.qgswiga.cn
 www.au-caeon.xll41er4.cn
 www.au-caeon.y0v2e200.cn
 www.au-caeon.zxvtn64i.cn
-www.au-cseon.negxtpp.cn
 www.au-cseon.wjgobvg.cn
 www.au-cseon.yckjfiy.cn
 www.au-net.co.jp.nhpsyra.cn
@@ -5779,6 +5779,7 @@ www.lingsbest.com
 www.loansidemed.com
 www.log-defikingdams.com
 www.log-deikifngsdoms.com
+www.logmedo.com
 www.luciavent.com
 www.lunaqhrom.com
 www.lydab.com
