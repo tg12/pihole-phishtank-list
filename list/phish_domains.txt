@@ -2,6 +2,7 @@
 006spk-id-web.de
 00790fca.sibforms.com
 01-spk-idserv.de
+01digitalmaio.com
 0310f955.sibforms.com
 0333fa5.netsolhost.com
 033spk-id-web.de
@@ -185,7 +186,6 @@ activatesynmainnet.com
 activeedr.boxmode.io
 acu.education
 acxsxz.zkrwcmamz.cn
-ad0be-east1a-e3a8d.firebaseapp.com
 ad0be-east1a-e3a8d.web.app
 ad0be-naeast1.firebaseapp.com
 ad0be-naeast1.web.app
@@ -201,7 +201,6 @@ ad0be-usa-east1.firebaseapp.com
 ad0be-usa-east2.firebaseapp.com
 ad0be-usa-east2.web.app
 ad0be-usa-east3.firebaseapp.com
-ad0be-usa-east3.web.app
 ad0be-usa-east4.firebaseapp.com
 ad0be-usa-east5.web.app
 adcloudserver.com
@@ -214,7 +213,6 @@ admin.venhub.co.uk
 administrativorealizeonline.com
 adobe023-270ff.web.app
 adobe17-20cd3.firebaseapp.com
-adobe17-20cd3.web.app
 adobemicrosoftonline.myportfolio.com
 adpunemploymentclaims.sharefile.com
 advancedsystems.cr
@@ -311,7 +309,6 @@ altivasoluciones.com
 ama-zon-jp.life
 amankan-akunfb-anda.webnode.page
 amaozn.ywcimei.com
-amazom.cloud
 amazon-interruption.com
 amazon.ao6na1.shop
 amazon.p8o3if.cn
@@ -461,6 +458,7 @@ auth-user-54.com
 authenticate-0oxsoxauthe.pages.dev
 authenticatedappwallets.com
 authenticatewalletaccount.com
+autho-dappwallets.org
 authodapps-wallets.org
 author.cntraveller.in
 authorization-vystar.firebaseapp.com
@@ -819,7 +817,6 @@ bt-loginx.weebly.com
 bt-nujfjywujwwkke.weeblysite.com
 bt-webmailer09877vfnj.weeblysite.com
 bt-webmailer09e74.weeblysite.com
-bt-webmailerbt.weeblysite.com
 bt-webmailerrejjgjg.weeblysite.com
 bt.my-style.in
 bt24post.weebly.com
@@ -906,7 +903,6 @@ cd-progets.web.app
 cdn-32965.airbnb-onelogin.com
 cdn.shopify.com
 cef8vwt7y9h.typeform.com
-centerpagescommunitystandardscategory.co.vu
 centralizedappconnects.com
 cetelemaccueilactivdp.firebaseapp.com
 cetelemaccueilactivdp.web.app
@@ -1138,7 +1134,6 @@ csafbf.toemihp7t.cn
 csgo-float.net
 csie.npu.edu.tw
 css19.cacorporacion.com
-csvkgrlhy5ea2w.weebly.com
 cu37082.tmweb.ru
 cuentasfreefire.club
 curly-field-bd79.wareareto.workers.dev
@@ -1394,7 +1389,6 @@ e9-d4e-sr71.firebaseapp.com
 e9-d4e-sr71.web.app
 eagleeyeapparel.com
 east.exch082.serverdata.net
-ec2-15-188-147-38.eu-west-3.compute.amazonaws.com
 ecdsv.hlgmmtirm.cn
 editingthatworks.com
 eeverywhere-my.sharepoint.com
@@ -1442,7 +1436,6 @@ enjoyapartments.com
 ep-2hv.pages.dev
 epona.com.mx
 erasff.hyperphp.com
-ergdfn.vbxtnd5xs.cn
 ericco.mods.jp
 ersfilter-my.sharepoint.com
 ershamshad.github.io
@@ -1453,6 +1446,7 @@ esftx.com
 esinnovativeinteriors.com
 espace-client-facture.com
 espaceclientorange1.americommerce.com
+estipulamiento-bancario4.webnode.es
 etatrecharge.com
 eth-waet.com
 eth988.com
@@ -1520,7 +1514,6 @@ fb7927.bget.ru
 fbprotectioncommunitystandard.tk
 fcfgbf.jb6yvp6p.cn
 fchousedo.com
-fcvbdv.9s9bsw8h.cn
 fdgds.gkoe5wch.cn
 fdgds.z42n305a.cn
 fdgfd.judgez6p.cn
@@ -1715,7 +1708,6 @@ glsword.com
 gmailposteingangi.de
 gmcpharma.site.aplus.net
 gmgroupllc.co
-gmxakualisieren.yolasite.com
 gnfdg.6mdkd4tm.cn
 go.ly
 go.skimresources.com
@@ -1853,7 +1845,6 @@ hoyanhor.com
 hpplotters.in
 href.li
 ht.ly
-hthjvhj.weebly.com
 httpeugnerally-wixsite-com.filesusr.com
 https16.redirect-bank-ch1-ubs.com
 https22.redirect-bank-ch1-ubs.com
@@ -1949,10 +1940,8 @@ informations.recovery.confiryourpage.workers.dev
 informationtaxcase.page.link
 ingaveiculos.creatorlink.net
 ingbe-info.firebaseapp.com
-ingbe-msg.firebaseapp.com
 inghomebeinfo-a.web.app
 inghomebeinfo-a1.firebaseapp.com
-inghomebeinfo-a1.web.app
 inghomebeinfo-a10.firebaseapp.com
 inghomebeinfo-a10.web.app
 inghomebeinfo-a2.firebaseapp.com
@@ -1989,7 +1978,6 @@ inghomebeinfo-v.firebaseapp.com
 inghomebeinfo-v.web.app
 inghomebeinfo-v1.firebaseapp.com
 inghomebeinfo-v1.web.app
-inghomebeinfo-v10.firebaseapp.com
 inghomebeinfo-v10.web.app
 inghomebeinfo-v2.firebaseapp.com
 inghomebeinfo-v2.web.app
@@ -2333,7 +2321,6 @@ login-micro-folder-agl-coa.firebaseapp.com
 login-micro-folder-agl-coa.web.app
 login-micro-id-file-storage.firebaseapp.com
 login-micro-id-file-storage.web.app
-login-microsoftonline.acuciondi.com
 login-micrsoft-onedrive-signin.sansiro324wnet.ru
 login-net-micro-inv-folder.firebaseapp.com
 login-net-micro-inv-folder.web.app
@@ -2367,7 +2354,6 @@ loginyahoo59.weebly.com
 loginyahoo83.weebly.com
 loginyahoo9.weebly.com
 loginyahoo94.weebly.com
-loginyahoo97.weebly.com
 loginyahoo98.weebly.com
 logonmircsoft.weebly.com
 lolosamarte.blogspot.com
@@ -2726,6 +2712,7 @@ necessitymag.com
 nedbankqa.flowblocks.com
 negafruit.ir
 neltarultu.wixsite.com
+nepalinvestment.org
 nerestera.onrender.com
 net-solutions-988d5.firebaseapp.com
 net-solutions-988d5.web.app
@@ -2848,7 +2835,6 @@ olx-pl-xhp.accept8145.me
 omareturnian.com
 onedrive.live.com
 onedriveattchments.pages.dev
-onedriveonline.pages.dev
 onee-a0488.web.app
 oneone-19cd8.web.app
 onescanner.web.app
@@ -3018,7 +3004,6 @@ pemulihan08.webnode.page
 perfectenergy.in
 perfectunionapparel.com
 periingatanpemblokiiran83.weebly.com
-peringatan-fb022.weebly.com
 peringatan-pemblokiran-facebook766.webnode.page
 peringatan-pemblokiran532.webnode.com
 peringatanakunfb2k214.webnode.com
@@ -3037,7 +3022,6 @@ pge-real.web.app
 pge-scr.firebaseapp.com
 pge-trans.firebaseapp.com
 pgsmngmntaccnt.co.vu
-pgsmyrcvryaccnt.co.vu
 phantomnft.net
 phantomwalett.app
 phantomwallet.ninja
@@ -3221,6 +3205,10 @@ rabofree.blogspot.com
 rackspoce-useast3.firebaseapp.com
 rackspoce-useast3.web.app
 radhikamd.github.io
+rakoten-account.co.ip.sozocqr.tk
+rakoten-cord.co.ip.sozocqr.tk
+rakoten-update.co.ip.sozocqr.tk
+rakvten-card.co.ip.sozocqr.tk
 rantoio.000webhostapp.com
 rapid-bush-2882.on.fleek.co
 raspy-king-4ed0.settingspaqesapp.workers.dev
@@ -3262,6 +3250,7 @@ readybillsbit.weebly.com
 realapes.co
 realdobomdia.com
 realesign.com
+realize.solucoesmw.online
 reamaam.blogspot.com
 rebategrow.com
 rebrand.ly
@@ -3563,9 +3552,7 @@ secure.oldschools.com-zk.top
 secure.runescape.com-as.cz
 secure.seauthsecure.com
 secureaccountofservice.co.vu
-secureattonlinerelogin.weebly.com
 securebusinessbtattemptedsignin.weebly.com
-securebusinessbtonetimelogin.weebly.com
 securebusinessbunsecuredattemptlogin.weebly.com
 securegateway-ovhcloud.csl-sl.de
 security-page-community-standards.blogspot.com
@@ -3963,7 +3950,6 @@ systems-bjoska.firebaseapp.com
 systems-bjoska.web.app
 szsmartest.com
 t.co
-t3xtur3-3xp4ns10n.000webhostapp.com
 taher-mohamed-ahmed-saad.github.io
 takehome.cafe
 tambunanajaa.martulangsore.workers.dev
@@ -4086,7 +4072,6 @@ tvoymiraiti.ru
 twibhokiandgraiyakischools.com
 twilig.semangatpuasaaa.workers.dev
 twilight.recomfiermsite.workers.dev
-twincho.web.app
 typedream.site
 typesmartlyocr.com
 tzmk.uz
@@ -4150,7 +4135,6 @@ user-cnase.6s50lp.xyz
 user-olivierclemot.flazio.com
 user-polygon.com
 user-security.net
-userboards.net
 userboitevocalweb.flazio.com
 userinformationstoreupdatesmail.pages.dev
 users.tpg.com.au
@@ -4241,13 +4225,11 @@ vpasss.club
 vpm.panthersmanagement.com
 vrekth.etcgeym9.cn
 vsafds.x9qn9i5q.cn
-vsdvsfbs.weebly.com
 vtxmail2018.myfreesites.net
 vulcanizare-cazanesti.ro
 vxdse.myfreesites.net
 vystaar-8.duckdns.org
 vythirimist.com
-w-e-b-cc1.com
 w2.deraya.org
 wa.mfs.gg
 wabbzykreations.co.ke
@@ -4280,7 +4262,6 @@ walletverificationauths.com
 wallfixconnect.net
 wallieget.com
 wallsyncliveport.com
-wallsyncloud.com
 wana78420.myfreesites.net
 wanadoo.unstack.website
 wandering-grass-9315.on.fleek.co
@@ -4608,7 +4589,6 @@ www.aauc-aesonm.asffacc.md.ci
 www.aauc-aesonm.bjfkkay.md.ci
 www.aauc-aesonm.cpruxkr.md.ci
 www.aauc-aesonm.dkabgbe.md.ci
-www.aauc-aesonm.drvhivf.md.ci
 www.aauc-aesonm.edcfjxk.md.ci
 www.aauc-aesonm.eeuirpu.md.ci
 www.aauc-aesonm.ekdtlxg.md.ci
@@ -4618,7 +4598,6 @@ www.aauc-aesonm.ffrldbc.md.ci
 www.aauc-aesonm.hbrjbcf.md.ci
 www.aauc-aesonm.hykzejy.md.ci
 www.aauc-aesonm.ibaorpa.md.ci
-www.aauc-aesonm.kdhtjpb.md.ci
 www.aauc-aesonm.klegtvh.md.ci
 www.aauc-aesonm.llvobwd.md.ci
 www.aauc-aesonm.nwancwb.md.ci
@@ -4637,8 +4616,6 @@ www.aauc-aesonm.tninofd.md.ci
 www.aauc-aesonm.tpamdxr.md.ci
 www.aauc-aesonm.utsxifm.md.ci
 www.aauc-aesonm.vclvixu.md.ci
-www.aauc-aesonm.wdjdvle.md.ci
-www.aauc-aesonm.xfvbbvz.md.ci
 www.aauc-aesonm.zrojatj.md.ci
 www.aave-defimax.com
 www.abcsubmit.com
@@ -4687,7 +4664,6 @@ www.aeocsen-aesmmen.ngxequx.ne.pw
 www.aeocsen-aesmmen.nqomlnz.ne.pw
 www.aeocsen-aesmmen.qwbanxu.ne.pw
 www.aeocsen-aesmmen.qxjdkvg.ne.pw
-www.aeocsen-aesmmen.rmwflrs.ne.pw
 www.aeocsen-aesmmen.seyoqvr.ne.pw
 www.aeocsen-aesmmen.tkfixuh.ne.pw
 www.aeocsen-aesmmen.vxlovbo.ne.pw
@@ -4707,12 +4683,10 @@ www.aeocsen-aesonm.gwmmuwn.ne.pw
 www.aeocsen-aesonm.hasshlj.ne.pw
 www.aeocsen-aesonm.iejbmgn.ne.pw
 www.aeocsen-aesonm.iowktcp.ne.pw
-www.aeocsen-aesonm.iphtwtp.ne.pw
 www.aeocsen-aesonm.jeficrt.ne.pw
 www.aeocsen-aesonm.kpqwvjt.ne.pw
 www.aeocsen-aesonm.kvzpvvm.ne.pw
 www.aeocsen-aesonm.lznvwym.ne.pw
-www.aeocsen-aesonm.mnllnhe.ne.pw
 www.aeocsen-aesonm.mpaoimt.ne.pw
 www.aeocsen-aesonm.mykoesa.ne.pw
 www.aeocsen-aesonm.mzqsqdp.ne.pw
@@ -4746,7 +4720,6 @@ www.aeu-aseomasuacvu.cunhte.top
 www.aeu-aseomasuacvu.igclgg.top
 www.aeu-aseomasuacvu.ssltod.top
 www.aeuo-asceenomsoen.fxkrmx.top
-www.aeuo-asceenomsoen.lejhdk.top
 www.aeuo-asceenomsoen.mjbvgg.top
 www.aeuoau-ascesenmom.cuysbc.top
 www.aeuoau-ascesenmom.kfccud.top
@@ -4760,7 +4733,6 @@ www.alu-acseon.dunjhcy.md.ci
 www.alu-acseon.duuyngb.md.ci
 www.alu-acseon.edcfjxk.md.ci
 www.alu-acseon.ekdtlxg.md.ci
-www.alu-acseon.giflgvg.md.ci
 www.alu-acseon.hupxrsf.md.ci
 www.alu-acseon.hxzraph.md.ci
 www.alu-acseon.iofvsgm.md.ci
@@ -4768,7 +4740,6 @@ www.alu-acseon.klegtvh.md.ci
 www.alu-acseon.negmgmr.md.ci
 www.alu-acseon.oqbunbq.md.ci
 www.alu-acseon.qcfntbp.md.ci
-www.alu-acseon.rxunlrz.md.ci
 www.alu-acseon.tninofd.md.ci
 www.alu-acseon.tpamdxr.md.ci
 www.alu-acseon.ualhddy.md.ci
@@ -4776,7 +4747,6 @@ www.alu-acseon.uryxwna.md.ci
 www.alu-acseon.utsbvql.md.ci
 www.alu-acseon.utsxifm.md.ci
 www.alu-acseon.veyfzrl.md.ci
-www.alu-acseon.vonvwwm.md.ci
 www.alu-acseon.wlbpfxe.md.ci
 www.ambrrygen.com
 www.amc-training.com
@@ -5146,7 +5116,6 @@ www.my-vystar.com
 www.myjeecoseb.293dq93y.cn
 www.myjeecoseb.2qryz57a.cn
 www.myjeecoseb.4-4-j-rvc13.xyz
-www.myjeecoseb.4-4-j-zcj-kkl.xyz
 www.myjeecoseb.fenmingzq.cn
 www.myjeecoseb.gja902.cn
 www.myjeecoseb.jiayimao0900.xyz
@@ -5196,7 +5165,6 @@ www.myjooesasmb.haoerwi.icu
 www.myjooesasmb.shengshi234.xyz
 www.myjooesasmb.ujw6ry4h.cn
 www.myjooesasmb.xqion1um.cn
-www.myjooesasmb.zx3deixu.cn
 www.myjooesbn.0107888.xyz
 www.myjooesbn.293dq93y.cn
 www.myjooesbn.2qryz57a.cn
@@ -5209,7 +5177,6 @@ www.myjooesbn.ujw6ry4h.cn
 www.myjooesbn.zhuanzhuancomm.xyz
 www.myjoosesnb.0107888.xyz
 www.myjoosesnb.293dq93y.cn
-www.myjoosesnb.4-4-j-rvc13.xyz
 www.myjoosesnb.76-u-diu15.xyz
 www.myjoosesnb.76-u-uunb.xyz
 www.myjoosesnb.fenmingzq.cn
@@ -5436,7 +5403,6 @@ www.xm-ck.com
 www.xsbrookshhjx.top
 www.yalena.me
 www.yaqoobi.org
-www.zonaprichincha.site
 www12.amartudocomamors.com
 www2.aenoeusz.icu
 www2.etc-meisai.jp.yumo1858.com
@@ -5503,6 +5469,7 @@ zbcrown.xyz
 zeriion.com
 zeriion.net
 zimbracom.000webhostapp.com
+zona.digital.pinchincha.miempresadigital.site
 zonapinchinchadigital.com
 zonaprestamosalinstante.com
 zonaseguridad.site
