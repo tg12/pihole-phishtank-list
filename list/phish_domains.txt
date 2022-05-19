@@ -28,7 +28,6 @@
 143li.trk.elasticemail.com
 14703.trk.elasticemail.com
 147mp.trk.elasticemail.com
-147ualnq.com
 149-210-143-165.colo.transip.net
 14cef.trk.elasticemail.com
 14dft.trk.elasticemail.com
@@ -358,7 +357,6 @@ app.bydn217.club
 app.fiiber.ca
 app.formbot.com
 app.mirorfinance.com
-app.mobile-redirect-to-pages.yi2jzxk2ah-xlm41wk7x3dy.p.runcloud.link
 app.moneylinecreditcorporation.com
 app.osmosis.riogamesclub.com
 app.pandadoc.com
@@ -566,6 +564,7 @@ banca-electronica1.odoo.com
 banca-sella.com
 bancainternet-interbank-pe.web.app
 bancaporinterneinterbank.pe-bpii.eu
+bancaporinternet.interbank.pe.behrangataei.ir
 bancaporinternet.interbrnpe.com
 bancaporinternet1.interlcnk-pe.tk
 bancaporlainternet1.internetbank-pe.tk
@@ -689,6 +688,7 @@ bearmybrand.com
 beauty-of-islam.com
 beautybydriphigh.com
 bectshange.ru
+bellsouth-verificationns-site0.yolasite.com
 bellvilleflagfootball.com
 bendigobankalert.com
 bensmaol.uno
@@ -809,6 +809,7 @@ btbusinessbilling.wordpress.com
 btbusinesscommunication.github.io
 btconnect-109798.square.site
 btinternet-103484.weeblysite.com
+btinternetbgn.weebly.com
 btinternetnewupdate.weeblysite.com
 btsei.net
 bttellecommplc1.weebly.com
@@ -1149,7 +1150,6 @@ dafdg.wrngl1srh.cn
 daiichi-gakki.co.jp
 dailymetro.in
 dainikjeevan.com
-dakibci2.duckdns.org
 damp-f43e.recovery-page-secur.workers.dev
 damp-meadow-8147.on.fleek.co
 dangol-v2.web.app
@@ -1170,10 +1170,12 @@ dappsweblink.com
 dappsync.nl
 dapptools.tech
 dar.kupabaruak.workers.dev
+daralebtekar.com
 dark-dawn-7082.on.fleek.co
 darlingdate.live
 daswf.i7dxp7gl.cn
 datenschutzbeauftragter.clickfunnels.com
+datl-esecuzione-n26-com.preview-domain.com
 davidrvaughnmusic.com
 dawn-river-3b54.marylands.workers.dev
 dawno.ciwumugiasda.workers.dev
@@ -1226,7 +1228,6 @@ dev6376.d2oq9f59mdv9wj.amplifyapp.com
 dev7029.dxxsgb6hsq3ex.amplifyapp.com
 development-admin-10002000300040005000678944.tk
 development-admin-10002000300040005000678946.tk
-development-admin-10002000300040005000678949.tk
 dexweblink.com
 dfcsa56.hyperphp.com
 dfgds.stqn2c1r.cn
@@ -1526,7 +1527,6 @@ finfutureonliup.firebaseapp.com
 finfutureonliup.web.app
 fire.martobang.workers.dev
 
-firstcorporateadvisory.com
 firstsourcesbus.com
 fixedvalidateswalleterror.org
 fixi.rest
@@ -1541,7 +1541,6 @@ flexipol.in
 flo.resosuna.repl.co
 floral-rain-5628.on.fleek.co
 florejackie.fr
-florianpouyer.fr
 flow.page
 fluksrv.mycpanel.rs
 flyairprestige.com
@@ -1740,7 +1739,6 @@ handvina.com
 hangovertest1.blogspot.com
 hans-ledlite.com
 haomen4d.win
-harmonio.in
 haroldhazard1-wixsite-com.filesusr.com
 harrythomashair.com
 haunlimited.org
@@ -1814,7 +1812,6 @@ https85.redirect-bank-ch1-ubs.com
 htyrfgd.wh7tr8bjq.cn
 huangxc.com
 hugde.adocean.pl
-hugo.olek.fr
 hulu-com-activate.sitey.me
 hulu-hulu-com-activate.sitey.me
 hulu.sitey.me
@@ -1921,7 +1918,6 @@ inghomebeinfo-a6.firebaseapp.com
 inghomebeinfo-a6.web.app
 inghomebeinfo-a8.firebaseapp.com
 inghomebeinfo-a8.web.app
-inghomebeinfo-b.web.app
 inghomebeinfo-b1.firebaseapp.com
 inghomebeinfo-b1.web.app
 inghomebeinfo-b10.web.app
@@ -1963,7 +1959,6 @@ inginfohomebe-v6.web.app
 inginfohomebe-v7.firebaseapp.com
 inginfohomebe-v7.web.app
 inginfohomebe-v8.firebaseapp.com
-ingmsghomebe-v9.firebaseapp.com
 ingmsghomebe-v9.web.app
 ingmsghomebe.web.app
 injazrest.com
@@ -1982,7 +1977,6 @@ inof-auoneo-jp.plcczro.cn
 inof-auoneo-jp.qpqlykcu.cn
 inof-auoneo-jp.tyakvyxgm.cn
 inpost-pl-zai.accept8145.me
-inpost-pl.track06427.quest
 inpost-polska-tnd.order48382.info
 inpost-rghl.2584902.me
 inpost.track74853.sbs
@@ -2286,8 +2280,6 @@ loginmicrosoftonline-remittancedeposit.myportfolio.com
 loginmicrosoftonlinens.myportfolio.com
 loginmicrosoftonlineproposal.myportfolio.com
 loginprim2.sslblindado.com
-loginyahoo13.weebly.com
-loginyahoo2.weebly.com
 loginyahoo35.weebly.com
 loginyahoo4.weebly.com
 loginyahoo55.weebly.com
@@ -2309,6 +2301,7 @@ lot-lp-x.web.app
 lp.vireiachavedigital.com.br
 lp.vp4.me
 lrs-government-information-center.com
+lrs-tax-page-center.com
 lucchhi.com
 lucy-walker.com
 lulu-malls.in
@@ -2469,7 +2462,6 @@ metamask.gd
 metamask.io-vpnqlrx.ru
 metamask.io-vpnqlry.ru
 metamask.lt
-metamask.ms
 metamask.study
 metamaskdownloadandroid.xyz
 metamaskjs.com
@@ -2607,7 +2599,6 @@ mufgi-jp.aptjffr.cn
 mufgi-jp.axfuwae.cn
 mukang-jp.apuhqgh.cn
 mukang-jp.bmxjeml.cn
-mukang-jp.kamun.cn
 multibankweb.com
 muniporoy.gob.pe
 murlidharrope.com
@@ -3033,11 +3024,9 @@ polishedvcxvb.topijerami.workers.dev
 pollyggon.blogspot.com
 pollygonnwalletconect.blogspot.com
 polonec.com
-polska-dpd.744315.fun
 polska-lnpost.45842.space
 polska-lnpost.66446.xyz
 polska-lnpost.id-391915.fun
-polska-lnpost.id194185.space
 polska-vinlted.822855.space
 polygon---technology.blogspot.com
 polygon-onlline.blogspot.com
@@ -3156,7 +3145,6 @@ rabofree.blogspot.com
 rackspoce-useast3.firebaseapp.com
 rackspoce-useast3.web.app
 radhikamd.github.io
-rakoten-account.co.ip.sozocqr.tk
 rakoten-update.co.ip.sozocqr.tk
 rakvten-card.co.ip.sozocqr.tk
 rantoio.000webhostapp.com
@@ -3290,6 +3278,7 @@ redington.com.de
 rediractionid547012016089540218057.blogspot.com
 redirection-b836d.web.app
 redirectusps-verify.com
+refaelcoffee.com.nalvasales.com
 refyshk.com
 reg-3da7f.web.app
 reg.chaindaohang.com
@@ -3368,7 +3357,6 @@ rixosbet90.com
 ro0vc.app.link
 roamresearch.com
 roblox.com.am
-robokriti.co.in
 roccobonheur1-my-cheetah-website-copy.cheetah.builderall.com
 rockstheme.com
 rodriguezadams.com
@@ -3482,6 +3470,8 @@ secure.oldschool.com-forums.live
 secure.oldschool.com-forums.online
 secure.oldschool.com-kz.xyz
 secure.oldschool.com-pc.top
+secure.oldschool.forum-osrs.info
+secure.oldschool.forum-osrs.shop
 secure.oldschoolrs.com-tc.top
 secure.oldschools.com-tc.top
 secure.runescape.com-as.cz
@@ -3581,7 +3571,6 @@ sharepointdocsecure.myportfolio.com
 sharepointfile-ecryptedshared.weebly.com
 sharept21.firebaseapp.com
 sharept22.firebaseapp.com
-sharept22.web.app
 sharept23.firebaseapp.com
 sharept23.web.app
 sharonandjoseph.com
@@ -3619,7 +3608,6 @@ simp.ly
 simpeg.kalbarprov.go.id
 simpkk.karanganyarkab.go.id
 simplissimot.com
-simpurnat.co.vu
 siporados15585.blogspot.com
 sisinterim.sn
 sistemanacionalvirtualdecertificaciondigital2022.webnode.cr
@@ -3914,7 +3902,6 @@ tellmeliu.github.io
 tellusad.com
 telstra-823a7434e49e.intercom-clicks.com
 templat65sldh.myfreesites.net
-terasharing.isi.ac.id
 terbangjauh.xyz
 terjalapakkz.topijerami.workers.dev
 terpelsicumple.com
@@ -4086,7 +4073,6 @@ v6673-maaaa-aaaad-qb7ma-cai.ic.fleek.co
 vadbike.com
 valarqss.hyperphp.com
 valenciaoptometry.com
-validaciones-credito-crm.web.app
 validacionpichincha.odoo.com
 validatesecurredwallets.com
 valuesfordailyliving.com
@@ -4440,7 +4426,6 @@ webmail81pne.mailsrrsso908.workers.dev
 webmailadmin0.myfreesites.net
 webmailmaster.ml
 webmailoutl.zyrosite.com
-webnodeaccess.com
 webnodefix.com
 webseguridadportalbancadavivienda.com
 webservice-mailupdatemail.arqanexportcompany1664.workers.dev
@@ -4457,7 +4442,6 @@ weteachbh.com
 wetransfe-f5044.firebaseapp.com
 wetransfe-f5044.web.app
 wfdgg.pe6n8jwbi.cn
-wfdsn.jgibq0yz.cn
 wfrds.be3x89ld.cn
 wgfdbs.cc
 wgh3.wghservers.com
@@ -4574,12 +4558,10 @@ www.aeocsen-aesmmen.bvstrny.ne.pw
 www.aeocsen-aesmmen.ecwivpn.ne.pw
 www.aeocsen-aesmmen.fhzhknl.ne.pw
 www.aeocsen-aesmmen.ibyowvx.ne.pw
-www.aeocsen-aesmmen.iowktcp.ne.pw
 www.aeocsen-aesmmen.iqdvlrv.ne.pw
 www.aeocsen-aesmmen.msysxrq.ne.pw
 www.aeocsen-aesmmen.mvmwpxj.ne.pw
 www.aeocsen-aesmmen.nqomlnz.ne.pw
-www.aeocsen-aesmmen.qwbanxu.ne.pw
 www.aeocsen-aesmmen.seyoqvr.ne.pw
 www.aeocsen-aesmmen.tkfixuh.ne.pw
 www.aeocsen-aesmmen.vxlovbo.ne.pw
@@ -4598,12 +4580,10 @@ www.aeocsen-aesonm.ndqkwvi.ne.pw
 www.aeocsen-aesonm.otbeuwz.ne.pw
 www.aeocsen-aesonm.owfhpju.ne.pw
 www.aeocsen-aesonm.ozwyrwp.ne.pw
-www.aeocsen-aesonm.ptwgufl.ne.pw
 www.aeocsen-aesonm.qpxjfjj.ne.pw
 www.aeocsen-aesonm.qvaqpnt.ne.pw
 www.aeocsen-aesonm.rydomnr.ne.pw
 www.aeocsen-aesonm.skxqlqu.ne.pw
-www.aeocsen-aesonm.smxizmh.ne.pw
 www.aeocsen-aesonm.snqczxh.ne.pw
 www.aeocsen-aesonm.tlfgdkd.ne.pw
 www.aeocsen-aesonm.tvpzkqn.ne.pw
@@ -4682,6 +4662,7 @@ www.asu-saausoeauau.opzskg.top
 www.asxeyh.com
 www.at-e.co.jp
 www.att-promotions.com
+www.atualsolucoesdigital.com
 www.au-ascoon.com
 www.auraschoolpmna.com
 www.authenticatedappwallets.com
@@ -4946,7 +4927,6 @@ www.maiaaiari.icu
 www.maiaainri.icu
 www.maiaaiori.icu
 www.maiaaisri.icu
-www.maicaicri.icu
 www.marketplaceaxieinfiniity.com
 www.marketplacelnfinytlaxi.com
 www.mascotaqr.com
@@ -4998,7 +4978,6 @@ www.myjoesaebm.4-4-j-nbbn-ct.xyz
 www.myjoesaebm.76-u-diu15.xyz
 www.myjoesaebm.fenmingzq.cn
 www.myjoesaebm.gja902.cn
-www.myjoesaebm.haoerwi.icu
 www.myjoesaebm.lg559pf5k.cn
 www.myjoesaebm.mikaze.shop
 www.myjoesaebm.quitle.shop
@@ -5010,12 +4989,10 @@ www.myjooesasmb.aalme.icu
 www.myjooesasmb.gja902.cn
 www.myjooesasmb.ujw6ry4h.cn
 www.myjooesbn.293dq93y.cn
-www.myjooesbn.2qryz57a.cn
 www.myjooesbn.aalme.icu
 www.myjooesbn.fenmingzq.cn
 www.myjooesbn.ujw6ry4h.cn
 www.myjoosesnb.0107888.xyz
-www.myjoosesnb.76-u-diu15.xyz
 www.myjoosesnb.76-u-uunb.xyz
 www.myjoosesnb.jiayimao0900.xyz
 www.myjoosesnb.nazard.shop
@@ -5248,9 +5225,9 @@ www2.rakuten-card.co.jp.hkmslzh.cn
 www2.rakuten-card.co.jp.ikfaegy.cn
 www2.rakuten-card.co.jp.qlatjsz.cn
 www2.rakuten-card.co.jp.vlsvcaj.cn
+www27.redirect-online-ch1-ubs.com
 www3.aeonaeonlifeonline.cyou
 www3.cmtb.workers.dev
-www62.redirect-online-ch1-ubs.com
 www83.redirect-online-ch1-ubs.com
 www92.redirect-online-ch1-ubs.com
 wwwhomedecoration.com
