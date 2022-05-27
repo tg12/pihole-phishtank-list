@@ -139,6 +139,7 @@ aab.santriidn.com
 aave-eth.net
 aave.com
 aavebin.net
+aavee.net
 aaves.info
 abc.alkawthar.edu.sa
 abeillesdusahel.org
@@ -1046,6 +1047,7 @@ dainikjeevan.com
 damp-f43e.recovery-page-secur.workers.dev
 damp-meadow-8147.on.fleek.co
 dangol-v2.web.app
+dao-marketplace.store
 dapp-connect.co
 dapp.accessactivationbot.com
 dapp.activationaccess.com
@@ -1449,7 +1451,6 @@ fxhalifax.com
 fyndiqaq.cc
 g-mtcc.com
 g2-case.ru
-g44ghrhtrjytrjyew.000webhostapp.com
 galsinsights.com
 game.hicage.com
 gamesspectrum.com
@@ -1521,7 +1522,6 @@ gsergrad.ru
 gsjhsvydkfe.weeblysite.com
 gtigrovvs.com
 gurukanth.com
-gvsgcdgt3.weeblysite.com
 gxa1ij.webwave.dev
 h4rb0ur4g3-43g1s3812.000webhostapp.com
 h5.biupsdfe.cc
@@ -1564,7 +1564,6 @@ healthsomenutrition.com
 hedefpanel.net
 heinthu1.github.io
 hellenic-postbank.com
-help-opensea.com
 help-vystarcu.com
 help.insecur.saftyalert.workers.dev
 help.validation-page.workers.dev
@@ -2120,6 +2119,7 @@ metamaskreset.com
 metamasks.ca
 metamasks.vip
 metamaskwalle.top
+metamesk.world
 metarnesk.com
 meufgts.app.br
 mewscc09.pages.dev
@@ -2970,7 +2970,6 @@ secure.oldschool.com-aq.xyz
 secure.oldschool.com-ks.xyz
 secure.oldschool.com-rs.cz
 secure.oldschool.com-tm.xyz
-secure.oldschool.com-x.xyz
 secure.runescape.com-as.cz
 secure.seauthsecure.com
 secured-att-mail-sync.webflow.io
@@ -3438,7 +3437,6 @@ tutor.iqsademo.com
 tuyainiciarcarlo.hostfree.pw
 tuyarvadsghdfdg.great-site.net
 tuyatargetone.ihostfull.com
-tvoymiraiti.ru
 twibhokiandgraiyakischools.com
 twilig.semangatpuasaaa.workers.dev
 twilight.recomfiermsite.workers.dev
@@ -3831,7 +3829,6 @@ webhostingserviceo99.firebaseapp.com
 webhostingserviceo99.web.app
 webionos.d30pcwre8vifdk.amplifyapp.com
 webmail-100734.weeblysite.com
-webmail-102643.weeblysite.com
 webmail-102806.weeblysite.com
 webmail-103376.weeblysite.com
 webmail-104685.weeblysite.com
@@ -4409,7 +4406,6 @@ www.itauseguranca.com
 www.jappening.cl
 www.jetim.app
 www.joyeriajireh.com.mx
-www.jxqp037.com
 www.kangaroopunchclub.com
 www.katanaroninchains.com
 www.kbstitchdesigns.com
@@ -4965,8 +4961,6 @@ www.usfn.net
 www.uverdnes.cz
 www.vicsevseinmi.njqlkix.ne.pw
 www.vietgahp.com
-www.visaeis-vsiaoeod.qkahvif.presse.ci
-www.visaeis-vsiaoeod.znjmlut.presse.ci
 www.viscoenmaen.dywvqxv.ne.pw
 www.viscoenmaen.ortgovd.ne.pw
 www.vondar.shop
@@ -4997,7 +4991,6 @@ xn----ctbeu0aamfekp0m.xn--p1ai
 xn--80aa8bbcehc.xn--p1ai
 xn--allgrolokalnie-x4b.pl
 xn--conta-atualiza-o-snb5e.weebly.com
-xn--pensea-2wa.net
 xn--renner-servio-fatu-jvb.com
 xob.lomt.xyz
 xpubcalculation.info
@@ -5033,6 +5026,7 @@ zambostays.com
 zastak-xyz.preview-domain.com
 zazaza.yahoosites.com
 zbcrown.xyz
+zerions.icu
 zimbracom.000webhostapp.com
 zonapinchinchadigital.com
 zonaprestamosalinstante.com
