@@ -320,7 +320,6 @@ app.formbot.com
 app.metricool.com
 app.mirorfinance.com
 app.moneylinecreditcorporation.com
-app.osmosis.riogamesclub.com
 app.pandadoc.com
 app.qpointsurvey.com
 app.smartappslive.com
@@ -428,7 +427,6 @@ azuki-110716005.vercel.app
 azuki-mint-connect.web.app
 b.com.0cdb6084fc320a42a6418192753f5960.laremolonarestaurante.com
 b059c86968a6427389952025bcee9886.svc.dynamics.com
-b1bb8380.sibforms.com
 b1d8bb27.sibforms.com
 b4e921f0.sso-mailsrvr-4344e5teed.pages.dev
 b4kuingchekt.webcindario.com
@@ -1011,7 +1009,6 @@ dappbuilder.org
 dappnetsync.com
 dappnodeconnect.net
 dapps-accesstool.com
-dapps.web3nodes.org
 dappsolutionindex.com
 dappssynch.win
 dappsync.nl
@@ -3757,7 +3754,6 @@ www.acoueu-aoseomsneno.jduawld.md.ci
 www.adevntinternationals.com
 www.admissionsdirect.com
 www.aeon--info09.shop
-www.aeon-co-jp-d3fn4vrf7n46l3o4b9oen5.vwewetwdtt.tk
 www.aeouu-aoesmsomeosuuu.guagwbv.ne.pw
 www.aeouu-aoesmsomeosuuu.jigeffd.ne.pw
 www.aeouu-aoesmsomeosuuu.pdppkuj.ne.pw
@@ -3996,7 +3992,6 @@ www.amcb-caed.zwezuoo.presse.ci
 www.amm-uni.com
 www.annazoon.cn
 www.aocuu-aaoesoauoemasouu.kurhxkn.presse.ci
-www.aocuu-aaosoemsomeusmuu.idhakze.ne.pw
 www.aocuu-aaosoemsomeusmuu.koaxtzt.ne.pw
 www.aocuu-aaosoemsomeusmuu.mnjxuuz.ne.pw
 www.aocuu-aaosoemsomeusmuu.pzidjku.ne.pw
@@ -4775,7 +4770,6 @@ www2.epos-card.co.jp.tj16o4rd.cn
 www2.epos-card.co.jp.tvxwsfsr.cn
 www2.epos-card.co.jp.txdwqx.cn
 www2.epos-card.co.jp.u0d17fcv.cn
-www2.epos-card.co.jp.u9wfgo1v.cn
 www2.epos-card.co.jp.uqsj0w1c.cn
 www2.epos-card.co.jp.x3zy0b7c.cn
 www2.etc-meisai.jp.yumo1858.com
