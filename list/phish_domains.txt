@@ -1,6 +1,5 @@
 005spk-id-online.de
 006spk-id-web.de
-00790fca.sibforms.com
 01-spk-idserv.de
 0310f955.sibforms.com
 033spk-id-web.de
@@ -167,7 +166,6 @@ about-au-pay.ipwycghc.cn
 about-au-pay.iwlmcwaa.cn
 about-au-pay.jbhdmmy.cn
 about-au-pay.jopmkdto.cn
-about-au-pay.kbdphgwj.cn
 about-au-pay.kemlnmca.cn
 about-au-pay.kzcdgmd.cn
 about-au-pay.lziahwaj.cn
@@ -179,7 +177,6 @@ about-au-pay.ntwlagmc.cn
 about-au-pay.pczfnery.cn
 about-au-pay.pfyjegyi.cn
 about-au-pay.pkcicfnd.cn
-about-au-pay.porysmkc.cn
 about-au-pay.rcwgfyrl.cn
 about-au-pay.ryfmizjc.cn
 about-au-pay.skaicbsj.cn
@@ -208,7 +205,6 @@ account-restriction-1000548.web.app
 account-restriction-10056791.web.app
 account.update-info.3479.top
 account.update-info.4608.top
-account.update-info.4614.top
 account.update-info.hhbnn.shop
 account.update-info.uzvwdb.shop
 account.update-info.wvkbza.shop
@@ -307,7 +303,6 @@ albel.intnet.mu
 albertoliviera014.outgrow.us
 aldana.in
 alerts.department.improvement.workers.dev
-alevilla.travisjohnson17.repl.co
 alfarouk-consulting.com
 algotextil.com.br
 alialinedssc.com
@@ -332,7 +327,6 @@ alsofft.com
 altecmetalltechnik-energiasolar.blogspot.com
 altivasoluciones.com
 aluno10cg.agenciawebmedia.com.br
-am.suzune.net
 ama-zon-jp.life
 amankan-akunfb-anda.webnode.page
 amaozn.ywcimei.com
@@ -1002,7 +996,6 @@ cleannsmart.com
 cleargalaxy.net
 click.message.fruit.com
 client-servicessupport-uspspostsrvices.oznemedya.com
-cliente.grazdesign.com.br
 clients.devtux.com
 clik.rip
 clockurl.com
@@ -1220,10 +1213,8 @@ dev7029.dxxsgb6hsq3ex.amplifyapp.com
 development-admin-1000200030004567891022.tk
 development-admin-1000200030004567891026.tk
 development-admin-1000200030004567891028.tk
-development-admin-1000200030004567891029.tk
 development-admin-1000200030004567891037.tk
 development-admin-1000200030004567891043.tk
-development-admin-1000200030004567891046.tk
 dfcsa56.hyperphp.com
 dfs.mw
 dftojc.web.app
@@ -1501,7 +1492,6 @@ facebookpolicy04.ddns.net
 facebookpolicy05.ddns.net
 facebookpolicy06.ddns.net
 facebookpolicy10.ddnsking.com
-facebookpolicy5.ddnsking.com
 facenboollogin.blogspot.com
 facilrapidoseguro.8tz5pxem.site
 faizankhan0408.github.io
@@ -1531,7 +1521,6 @@ feedback.digiresponse.in
 feeds.feedburner.com
 feelbons.com
 ferns0987.wixsite.com
-ferreteriamamut.gustavocoker.repl.co
 ferrumtransport.com
 ff-member-gareza.com
 fghdskjhgjhkljg.ihostfull.com
@@ -2088,7 +2077,6 @@ little-wood-23ca.abssupdatedlogin.workers.dev
 liufgh.sdc3fubnb.cn
 liusanchuan.github.io
 live-site.hopto.me
-livelmk1.eastus2.cloudapp.azure.com
 livelopontobb.online
 lively.marbauttulo.workers.dev
 livenmitac-my.sharepoint.com
@@ -2289,7 +2277,6 @@ mchganistore.solofolio.net
 mckennittfamily.com
 mcsr.co
 md-3.whb.tempwebhost.net
-mdmtphlworld.com
 mdurucan.com
 mdzxpodz.com
 me2.do
@@ -2344,6 +2331,7 @@ metamasks-validate.fsynth.org
 metamasks.ca
 metamasks.vip
 metamaskwalle.top
+metamaskwallet.world
 metamesk.world
 metarnesk.com
 metasecurity.co.vu
@@ -2463,7 +2451,6 @@ mudd.marpuasanotice.workers.dev
 muddy-ayya.topijerami.workers.dev
 muddy-field-2693.on.fleek.co
 muddy-frost-9584.on.fleek.co
-muddy-mouse-0318.on.fleek.co
 mueslisvvap.firebaseapp.com
 mueslisvvap.web.app
 muniporoy.gob.pe
@@ -3462,7 +3449,6 @@ solatresont.blogspot.com
 solicitudprestamoalinstante-lbkperu.com
 solitar.tempetahu.workers.dev
 solnft.gift
-solscan.space
 solucao-para-todos.com
 solucaodigitalmaio.com
 solucionesach.com
@@ -3754,7 +3740,6 @@ ukrt1s.hyperphp.com
 ukrverifikaciyaakkaunta.godaddysites.com
 umbrellas-ksa.com
 ume.la
-umenasl.win
 umu.link
 unam.myfreesites.net
 unazzlxjvh.duckdns.org
@@ -3953,7 +3938,6 @@ web.prodepo.com.tr
 web.taxicity.cn
 web3coi.web.app
 web3dexconnect.com
-webcollabland.com
 webconnectappsync.com
 webdatamltrainingdiag842.blob.core.windows.net
 webdesecure.clickfunnels.com
@@ -5195,7 +5179,6 @@ www.myjseacb-msyaospmejb.tvrnzyo.presse.ci
 www.myjseacb-msyaospmejb.ufetjkm.presse.ci
 www.myjseacb-msyaospmejb.ulhkksi.presse.ci
 www.myjseacb-msyaospmejb.uozkcck.presse.ci
-www.myjseacb-msyaospmejb.wfovagl.presse.ci
 www.myjseacb-msyaospmejb.wjsyesd.presse.ci
 www.myjseacb-msyaospmejb.wjwjssq.presse.ci
 www.myjseacb-msyaospmejb.yeiiacy.presse.ci
@@ -5491,7 +5474,6 @@ www.xsbrookshhjx.top
 www.yalena.me
 www.yaqoobi.org
 www.yuanghex.com
-www.yv.hawreui.presse.ci
 www.zhvibtksa.lnlyyie.presse.ci
 www1.micaridi.co.jp.ipcdy.xyz
 www2.aeno-sean.icu
@@ -5570,6 +5552,7 @@ ywxo.mjt.lu
 zamanime-ce56d.web.app
 zamelas.xyz
 zazaza.yahoosites.com
+zeiron.net.in
 zerion.co.in
 zerion.net.in
 zerione.io
