@@ -357,7 +357,6 @@ app.sugarsync.com
 app.swap-biswap.org
 app.waiverforever.com
 app.walletdappfixed.net
-app.webswalletconnect.com
 app.webwalletsauthenticate.com
 app42.host
 appie.cc
@@ -376,6 +375,7 @@ arizaymarin.com
 arlindovsky.net
 arnaldolanches.blogspot.com
 arthamahotels.com
+arubamaine.temp.swtest.ru
 as9192030.liveblog365.com
 asaoffice.jp
 asdrewd.hostfree.pw
@@ -383,6 +383,7 @@ ash1ash2sh.com
 askarmotorluaraclar.com
 askeloj.cluster031.hosting.ovh.net
 asonrisa.cl
+assetsrestore.org
 assurance-maladie-amelie.com
 asuka-kohsan.co.jp
 aswandi.santriidn.com
@@ -921,7 +922,6 @@ bonomequedoencasa.blogspot.com
 bonsaitopics.com
 boomslor-xyz.preview-domain.com
 boredapeyachtclub.special-mint.com
-bosoejmeiz.duckdns.org
 botecodomanolo.blogspot.com
 boxypty.com
 bp.swany.net
@@ -1178,7 +1178,6 @@ cirrilla-stripe-form.firebaseapp.com
 cirrilla-stripe-form.web.app
 cisteodpady.cz
 citizenbank0nline111.dns05.com
-citizenseclient.serveirc.com
 citrus-berry.com
 citsa.co.za
 citusr5b.com
@@ -1288,6 +1287,7 @@ credit.za.net
 creditagricole-sudrhonealpes.blogspot.ba
 creditagricole-sudrhonealpes.blogspot.com
 creditagricole-sudrhonealpes.blogspot.ro
+creditagricoleweb-com.preview-domain.com
 creditiperhabbogratissicuro100.blogspot.com
 creditiperhabbogratissicuro100.blogspot.it
 credt-agcole-fr-v.web.app
@@ -1432,6 +1432,7 @@ dgw.soundestlink.com
 dhanushr24.github.io
 dhlparcel.sps-ocs.co.uk
 diamondplate.us
+diannedejjong.wixsite.com
 diascomhiper31.com
 dicantrelend.blogspot.com
 dicsord-one.ru
@@ -1964,7 +1965,6 @@ elncaptcha10.ml
 elncaptcha11.ml
 elncaptcha12.ml
 elncaptcha13.ml
-elncaptcha14.ml
 elncaptcha15.ml
 elncaptcha2.ml
 elncaptcha3.ml
@@ -2005,6 +2005,7 @@ enlinea.onlinebrou.repl.co
 enquiry.geeta.edu.in
 ent-mtask.firebaseapp.com
 ent-mtask.web.app
+enter-data-com.preview-domain.com
 enviosslpainel.cloud
 envirofesttn.org
 ep-2hv.pages.dev
@@ -2299,6 +2300,7 @@ giveaway-senspark.com
 globovidrosss.blogspot.com
 glogo.org
 glsword.com
+glwanapps.com
 gmailposteingangi.de
 gmcpharma.site.aplus.net
 gmgroupllc.co
@@ -2653,6 +2655,7 @@ interbankempresahomeweb.gemsaweb.com
 interbranks.prepa55.mx
 international-c.hostfree.pw
 internationaldealscompany.com
+internet-n-sblocco-com.preview-domain.com
 intexargentina.com.ar
 inthewildproductions.com
 ionos-mein.webmail.de.flick-fix.de
@@ -2974,7 +2977,6 @@ mail.maderkit.com.co
 mail.mksc.co.tz
 mail.newcourses.co.il
 mail.pdc13.com
-mail.securechasevef.duckdns.org
 mail.tourdeguide.com
 mail_ukrnet.godaddysites.com
 mailbtinternet.github.io
@@ -3075,6 +3077,7 @@ metamask.io-vwuhrunb.ru
 metamask.io.walletphrase.io
 metamask.lv
 metamask.study
+metamask.updatewallet.xyz
 metamask004.com
 metamaskdownloadandroid.xyz
 metamaskey.com
@@ -3188,6 +3191,7 @@ monzo.cancel-replacement-card.com
 moonfusionrestaurant.it
 moonlit-pastelito-925de3.netlify.app
 morning-glitter-2e87.filedownjs.workers.dev
+mostangmpz.com
 moveislojinha-app.blogspot.com
 mpj.servehalflife.com
 mps-areaclient.com
@@ -3211,6 +3215,7 @@ murlidharrope.com
 mvcas.com
 mxxgmx2022.yolasite.com
 my-bithumb.web.app
+my-bt-bill.webflow.io
 my-bt.webflow.io
 my-gmail.ir
 my-site-silahkan-konfirmas-akun-anda088.weeblysite.com
@@ -3235,6 +3240,7 @@ mytoshop.com
 n-naoko-0319.github.io
 n.yovaa.repl.co
 n26-websi-com.preview-domain.com
+n26webap-com.preview-domain.com
 n4t1f1c4t3d035-l0g841nt0.000webhostapp.com
 n9.cl
 nab-alert.mobi
@@ -3325,7 +3331,6 @@ novaaprints.com
 npocafe.f-npon.jp
 nr122bradatt.com
 nt.embluemail.com
-nuevolinemascercamx.site
 nuevoo365tuya01.hostfree.pw
 nuevoo365tuya120.hostfree.pw
 nuevoo365tuyya1.hostfree.pw
@@ -3953,6 +3958,7 @@ saritapariyar.com.np
 satay-secur.reconfimations.pagedisabled.workers.dev
 saudemj.com
 savingsfordentalcare.com
+sbcglobalverification13.yolasite.com
 sbs-siebanlagen.de
 sc-01111000.ihostfull.com
 schmittner.us
@@ -3978,7 +3984,6 @@ secure.runescape.com-as.cz
 securebroadbandbiusinessbtmothlybill.weebly.com
 securedwells27271.net
 securegateway-ovhcloud.csl-sl.de
-securemyinternetbillstoday002.weebly.com
 securepublicchain.com
 secures-ameli.com
 securesmybillssummarynow002.weebly.com
@@ -4940,6 +4945,7 @@ white-dust-0723.on.fleek.co
 whitetzfx.com
 widadkamillah.github.io
 widget-dot-lbk-asistente-pre-principal.appspot.com
+widiba.app
 wiki.signals.ca
 wild-star-f174.4882sddxshaee.workers.dev
 wilpfnigeria.wilpfnigeria.org
@@ -5667,6 +5673,7 @@ www.journalofbusinessstrategy.com
 www.joyeriajireh.com.mx
 www.jp-amazon.iop-co.top
 www.kangaroopunchclub.com
+www.karllagerfeldshop.com
 www.katanaroninchains.com
 www.kbstitchdesigns.com
 www.kencoin.info
@@ -5827,6 +5834,7 @@ www.medelinahealth.com
 www.mens.vn
 www.meta-verify.io-yxzyyxzz.xyz
 www.metamask-phrase.io-xzyyxz.xyz
+www.metamask.allwallut.xyz
 www.metamask.app-yxyxy.xyz
 www.metamask.io-bsy.site
 www.meusabor.com.br
@@ -5866,7 +5874,6 @@ www.myjacsesb-msjansyajb.ytsuhmh.presse.ci
 www.myjacsesb-msjansyajb.zgrhhet.presse.ci
 www.myjasccseob.szmfghv.presse.ci
 www.myjasccseob.tcstvwp.presse.ci
-www.myjasccsoenb.jsuqeuh.presse.ci
 www.myjascoeb.elpmwtq.presse.ci
 www.myjascoeb.ohkmjgg.presse.ci
 www.myjascoeb.tdusric.presse.ci
@@ -6253,7 +6260,6 @@ www.vicvcosaoossn.bkoubir.presse.ci
 www.vicvsaosn.azjkcbc.presse.ci
 www.vieirasadvogados.com
 www.vietgahp.com
-www.viscvseon.nlabyph.presse.ci
 www.vivscsoei.bzxemtn.presse.ci
 www.vivscsoei.crrdmjt.presse.ci
 www.vivscsoei.jssivgg.presse.ci
@@ -6302,7 +6308,6 @@ www.yaqoobi.org
 www.yuanghex.com
 www.zojmaqb.top
 www1.micaridi.co.jp.ipcdy.xyz
-www2-micaridi.co.jp.indaor.xyz
 www2.aeno-sean.icu
 www2.aeno-snen.icu
 www2.aeno-sosn.icu
@@ -6365,11 +6370,20 @@ yespsourcing.com
 yip.su
 yishopee.com
 yma1ll0g0n.odoo.com
+yobudashi.bhyier.com
 yobudashi.focen.cn
+yobudashi.ma-man.com
+yobudashi.nunla.cn
+yobudashi.paxgn.cn
+yobudashi.shejw.cn
 yobudashi.sikany.com
+yobudashi.wenei.cn
+yobudashi.ztaiot.com
+yobudashi.zuhei.cn
 yogini-polygonbc.blogspot.com
 youn.bxxnskkdkdkrkrnfnf.workers.dev
 yousee-refusion.web.app
+yslookrire.com
 yted23.hyperphp.com
 ytjyhegf.byethost32.com
 yuan-jp.fkgzehw0.cn
