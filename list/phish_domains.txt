@@ -178,6 +178,7 @@ account-restriction-10056791.web.app
 account.update-info.wvkbza.shop
 account.verifications.help-page.workers.dev
 account.yaanhnoo.xyz
+account.yaanhoon.xyz
 accounts-info.com
 accueilcetelemconfirmamobile.firebaseapp.com
 accueilcetelemconfirmamobile.web.app
@@ -300,6 +301,7 @@ amankan-akunfb-anda.webnode.page
 amaozn.ywcimei.com
 amaqdex.vyhnsd9.top
 amauznej.jntdow.top
+amaznn.co.jp.zmaeqg.shop
 amazon-doma-jp.shop
 amazon-interruption.com
 amazon.co.jp.amzenmemberverify.club
@@ -1258,7 +1260,6 @@ cner283829.odoo.com
 cnfrmacn.hprusak.workers.dev
 cny-shopee.blogspot.com
 co-d.jp
-co.jp.mtebuyingnow.website
 co.jp.qxxbuyingnow.website
 codepasta.app
 cogbvbcsaqu2lteumzgbakabaqabacabaqsclientgwswiz.weebly.com
@@ -1426,7 +1427,6 @@ dawno.ciwumugiasda.workers.dev
 daycoval.contrato.srv.br
 daycoval.facildepagar.com.br
 dbs-11cb7.web.app
-dbs-digibanking.com
 dbs-sg2d0.firebaseapp.com
 dbs-sg2d0.web.app
 dbs.com.im
@@ -1770,7 +1770,6 @@ domain-authenticator20.firebaseapp.com
 domain-authenticator20.web.app
 domain-authenticator200.firebaseapp.com
 domain-authenticator200.web.app
-domain-authenticator21.firebaseapp.com
 domain-authenticator21.web.app
 domain-authenticator22.firebaseapp.com
 domain-authenticator22.web.app
@@ -2017,7 +2016,6 @@ elncaptcha13.ml
 elncaptcha15.ml
 elomo.ro
 elurfpawgo.duckdns.org
-em.servehalflife.com
 email302.com
 emailauthorization.weebly.com
 emailonedriveab5c802a62d5173498c6fff3674005c8ab5c802a62d5173498.newonemail2.workers.dev
@@ -2144,6 +2142,7 @@ exodusweb-pro.com
 extracash.inter.pe.training.natunakab.go.id
 extracloud.com.au
 exttspmt-demlt.web.app
+exudtdnjge.duckdns.org
 exzoduzs.com
 ezssausage.com
 f2pool.one
@@ -2175,10 +2174,12 @@ faxdocument1.weebly.com
 fb-case-id-28031803-fcdc-48af.web.app
 fb-pages.proteksion-help.workers.dev
 fb7927.bget.ru
+fbmjlupbxg.duckdns.org
 fbnoticehlprcvry01.co.vu
 fbprotectioncommunitystandard.tk
 fbptties.ml
 fcdas.adck1o.cn
+fcuxargkcs.duckdns.org
 fdsdfghng44.webcindario.com
 fdx17.hyperphp.com
 federales.validacionoficial.com
@@ -3238,7 +3239,6 @@ microsoft-outlook365.myportfolio.com
 microsoft2210.yolasite.com
 microsoftoffice365credentials.myportfolio.com
 microsoftofficesecure.myportfolio.com
-microsoftonline.outlookfilesauthentication.com
 microsoftonlineonedrive.myportfolio.com
 microsoftonlinescan-doculinksupport.questionpro.com
 microsoftsharepointportal.myportfolio.com
@@ -3495,7 +3495,6 @@ omareturnian.com
 omth.in
 onedrive.live.com
 onee-a0488.web.app
-onelandguide.com
 oneone-19cd8.web.app
 onescanner.web.app
 online-helpchase.blogspot.com
@@ -4365,7 +4364,6 @@ solatresont.blogspot.com
 solicitudprestamoalinstante-lbkperu.com
 solitar.tempetahu.workers.dev
 solnft.gift
-solscan.tech
 solucao-para-todos.com
 solucaodigitalmaio.com
 solucionesach.com
@@ -4533,7 +4531,6 @@ tcoe.in
 tdsecurities.firebaseapp.com
 tdsecurities.web.app
 teamgoogle125590.psee.ly
-teaseifyouplease.com
 tebapit.com
 tecmachine.com.br
 tecnoluce.cl
@@ -4640,7 +4637,6 @@ twibhokiandgraiyakischools.com
 twilig.semangatpuasaaa.workers.dev
 twilight.recomfiermsite.workers.dev
 tyaprtlahsbj.hostfree.pw
-tyi.butlersmow.com
 typedream.site
 u.to
 u14511627.ct.sendgrid.net
@@ -7255,7 +7251,6 @@ www.inxfo-aasuo-jp.xnndqnp.presse.ci
 www.inzfo-aaoeuu-jp.aitdhfw.presse.ci
 www.inzfo-aaoeuu-jp.eyjjdow.presse.ci
 www.inzfo-aaoeuu-jp.rinatbn.presse.ci
-www.inzfo-aaoeuu-jp.rvesdhs.presse.ci
 www.inzfo-aaoeuu-jp.ustaeff.presse.ci
 www.inzfo-aaoeuu-jp.yleuzus.presse.ci
 www.itauseguranca.com
@@ -9768,6 +9763,7 @@ www2.aenosnsu.icu
 www2.aenoszsu.icu
 www2.eposcard.co.jp.fuueqxy.cn
 www2.eposcard.co.jp.gklkmiq.cn
+www2.miicard.co.jp.cceeomr.top
 www2.mobilesuica.com.5lt90yc8.cn
 www2.mobilesuica.com.ppdhr40a.cn
 www3.cmtb.workers.dev
@@ -9849,7 +9845,6 @@ zerion.net.in
 zerion.network
 zerione.io
 zetkai.com
-zimbradesk11001.weebly.com
 zmaflab.com
 zonapinchinchadigital.com
 zonasegura-cajapiura.bcomercioperu.site
