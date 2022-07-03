@@ -16,7 +16,6 @@
 0pensea.com
 0range.godaddysites.com
 0ut100k-docdrive-sharep01ntt.firebaseapp.com
-0ut100k-shar3-p01nt-1rd.web.app
 0ut100k-shar3-p01nt-2nd.web.app
 0vq4v.hyperphp.com
 0web.pages.dev
@@ -469,7 +468,6 @@ au-pay-auoneo.curjfka.cn
 au-pay-auoneo.cwahfgt.cn
 au-pay-auoneo.cwytiyo.cn
 au-pay-auoneo.czihzaw.cn
-au-pay-auoneo.dbscrm.cn
 au-pay-auoneo.descrm.cn
 au-pay-auoneo.dfvskmf.cn
 au-pay-auoneo.dgmuhdn.cn
@@ -1001,12 +999,10 @@ azuki-110716005.vercel.app
 azuki-mint-connect.web.app
 azuki.com.co
 b.com.0cdb6084fc320a42a6418192753f5960.laremolonarestaurante.com
-b.it-bitkoinprosystem.xyz
 b059c86968a6427389952025bcee9886.svc.dynamics.com
 b4e921f0.sso-mailsrvr-4344e5teed.pages.dev
 b4kuingchekt.webcindario.com
 b97bca39.srvr-cloudmail-srvr6754e5rte.pages.dev
-backend.amcoinmkgw.top
 backend.avatrademkdw.top
 backend.b2bxmkgw.top
 backend.bahif9042.xyz
@@ -1034,7 +1030,6 @@ backend.coppermkdw.top
 backend.cwgtmkgw.top
 backend.dcgobmyh.top
 backend.madridfrlh.top
-backend.qtrademkdw.top
 backend.transabmyh.top
 bacpayee.contactin.bio
 bacsegurity.webcindario.com
@@ -2445,6 +2440,8 @@ facebook-accts.pages-recovery.workers.dev
 facebook-issues.fbdatamanager.click
 facebook-issues1.fbdatamanager.click
 facebook-issues2.fbdatamanager.click
+facebook-issues3.fbdatamanager.click
+facebook-issues4.fbdatamanager.click
 facebook-issues5.fbdatamanager.click
 facebook-policyform10.tk
 facebook-policyform28.tk
@@ -2479,6 +2476,7 @@ fb-pageappeal.business
 fb-pages.proteksion-help.workers.dev
 fb22.lawpwheq4b-rz83yll8e4d7.p.runcloud.link
 fb7927.bget.ru
+fbdatamanager.click
 fbfcca.ekauprp.cn
 fbfs.vxrlhph.cn
 fdbvfg.tujwpyy.cn
@@ -2715,6 +2713,7 @@ getscurytaccountsidentitys.co.vu
 gfdcb.ombwaoe.cn
 gfdcbv.ipdwddq.cn
 gfdcsbv.qzgtlms.cn
+gfdcvx.w5jo9x.cn
 gfdcxs.gfcqyv.cn
 gfdcxs.jjgkjhr.cn
 gfdcxz.tzf0hp.cn
@@ -3595,6 +3594,7 @@ kjigh.yetcfn.cn
 kjubv.fuuxcwi.cn
 kjufgh.upncumm.cn
 kjuvcf.wbkscpj.cn
+klhjbf.vftiijm.cn
 klhjcv.uhpkhxu.cn
 kljfdtstrlnnv.hostfree.pw
 kljhcv.jnvyaet.cn
@@ -4354,7 +4354,6 @@ neivaecosta.adv.br
 nerestera.onrender.com
 netflix-tv.cf
 netflix.com.fr.icsi.asia
-netflix.fr-verification.flerr.com
 netflixguiltless-guide.surge.sh
 netorg3850966-my.sharepoint.com
 netorg6600800-my.sharepoint.com
@@ -4581,7 +4580,6 @@ ovh-link.firebaseapp.com
 ovh-link.web.app
 ovhh-0.web.app
 ovhh-19f4a.web.app
-owa1002.firebaseapp.com
 owa10030.web.app
 owa2fhgfdghb.web.app
 owaa1001.web.app
@@ -4796,7 +4794,6 @@ powiadomienia-allegro.42356.net
 powiadomienia-allegro.73463.net
 poypolusa.geeosftservices.net
 ppt.cc
-ppwfthuklu.duckdns.org
 pqxnjkmirh.duckdns.org
 pra-voce-solucoes.com
 preferences.convertkit-mail.com
@@ -5125,7 +5122,6 @@ secure3434.pages.dev
 securedisneyplus.com
 securedwells27271.net
 securegateway-ovhcloud.csl-sl.de
-security-management100935.web.app
 security-metamask.com
 security-page-community-standards.blogspot.com
 securityexit.260mb.net
@@ -5261,7 +5257,6 @@ shopping-misstore.jp.login.uvqtfed.cn
 shopping-misstore.jp.login.wp5s2.cn
 shopping-misstore.jp.login.wp857.cn
 shopping-misstore.jp.login.xinwangmoju.cn
-shopping-misstore.jp.uvqtfed.cn
 shopping-misstore.jp.verf.cn
 shopping-misstore.jp.verr.cn
 shopping-misstore.jp.waty.cn
@@ -5823,7 +5818,6 @@ ucmo0-my.sharepoint.com
 uconn-edu-online.weebly.com
 udbetaling-sygeforsikring.web.app
 uek.kon.mybluehost.me
-ufbfhfu.firebaseapp.com
 ugyftdraq.hostfree.pw
 uid-checkpoint-10000258746937.tk
 uid-checkpoint-10000258746939.tk
@@ -6431,6 +6425,7 @@ www.aosouu-assoeosnuu-jp.nrtitml.md.ci
 www.aquarelle.es
 www.araktamir.ir
 www.arfada.org
+www.arkapress.com
 www.artinmoveiis.com
 www.arub-service.org
 www.asoceosmon.aasesceosmn.cenben.com.cn
@@ -8719,7 +8714,6 @@ www.mscasoserd.maccasased.07jmpe0s.com.cn
 www.mscasoserd.maccasased.2icng1zt.com.cn
 www.mscasoserd.maccasased.cengzhe.com.cn
 www.mscasoserd.maccasased.flintcg.com.cn
-www.mscasoserd.maccasased.huangcui.com.cn
 www.mscasoserd.maccasased.m15m7jfb.com.cn
 www.mscasoserd.maccasased.mgm741.com.cn
 www.mscasoserd.maccasased.missjto.com.cn
@@ -9963,7 +9957,6 @@ www.myjsaesob.myaasb.banglia.com.cn
 www.myjsaesob.myaasb.chunou.com.cn
 www.myjsaesob.myaasb.fangpen.com.cn
 www.myjsaesob.myaasb.hensuo.com.cn
-www.myjsaesob.myaasb.kepie.com.cn
 www.myjsaesob.myaasb.m15m7jfb.com.cn
 www.myjsaesob.myaasb.maozhui.com.cn
 www.myjsaesob.myaasb.toulun.com.cn
@@ -10469,7 +10462,6 @@ www.shopping-misstore.jplogin.shru.cn
 www.shopping-misstore.jplogin.sipy.cn
 www.shopping-misstore.jplogin.ssaf.cn
 www.shopping-misstore.jplogin.waty.cn
-www.shopping-misstore.jplogin.wotd.cn
 www.shopping-misstore.jplogin.yree.cn
 www.shopping-misstore.jplogin.yuit.cn
 www.shoppingtrolleyhandlewrap.com
@@ -10635,7 +10627,6 @@ www.stevemaddencanadashoes.com
 www.stevemaddenshoe.net
 www.stevencrews.com
 www.steveporterentertainment.com
-www.stexports.com
 www.stolizaparketa.ru
 www.storenike365.top
 www.strugglestokids.com
@@ -10650,8 +10641,6 @@ www.suica-co-jp-g3fh4vrf7n46l3foo34nof5.aofjnndr.tk
 www.suica-co-jp-g3fh4vrf7n46l3foo34nof5.dkonbortljh.cf
 www.suica-co-jp-g3fh4vrf7n46l3foo34nof5.dkonbortljh.ga
 www.suica-co-jp-g3fh4vrf7n46l3foo34nof5.dkonbpakf.ga
-www.suica-co-jp-g3fh4vrf7n46l3foo34nof5.dkonbpakf.ml
-www.suica-co-jp-g3fh4vrf7n46l3foo34nof5.dkonbpakf.tk
 www.suica-co-jp-g3fh4vrf7n46l3foo34nof5.dodfoetttgy.ml
 www.suica-co-jp-g3fh4vrf7n46l3foo34nof5.nvoberrue.ml
 www.suica-co-jp-g3fh4vrf7n46l3foo34nof5.nvoberrue.tk
@@ -10948,7 +10937,6 @@ www.visvevsevsasei.visievcccasesaoe.pwnqil.top
 www.visvevsevsasei.visievcccasesaoe.qvpsgp.top
 www.visvevsevsasei.visievcccasesaoe.vhyyuk.top
 www.visvevsevsasei.visievcccasesaoe.wnmoss.top
-www.vivcsvasoeon.vvsceseon.lyrlzy.com.cn
 www.vivcsvasoeon.vvsceseon.vyiqjfc.com.cn
 www.vivcvvsai.visscaseon.48irel3a.com.cn
 www.vivcvvsai.visscaseon.668trip.com.cn
