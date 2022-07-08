@@ -49,10 +49,10 @@
 169874.com
 180110116028.clickfunnels.com
 190854.8b.io
-1bper.com
 1bperr.com
 1drv.ms
 1inch-io-stage-app-euc1.s3-website.eu-central-1.amazonaws.com
+1inch.crypto2c.beget.tech
 1inchcoin.com
 1lnnch.com
 1monxt.csb.app
@@ -413,7 +413,6 @@ assistancepaiementsecurise.com
 asuka-kohsan.co.jp
 aswwwa12121.wixsite.com
 at-service.recoveryatt.workers.dev
-at-t-currently-com.webflow.io
 at-t-support-service1.sitey.me
 at-t-yahoo.sitey.me
 at0.srev.workers.dev
@@ -1098,7 +1097,6 @@ bafybeibwteteysxljum4owlusptthmqqik3h6r3tce7sx23duelarphxgu.ipfs.nftstorage.link
 bafybeicp3x52jgy3qhsrwaioemeck7vhnryq2i2dgodkakkixuzruo54wa.ipfs.nftstorage.link
 bafybeidrh56vohkluey3kp3firhbnvl2vutctx5cgdnjnipjj4sgyfs5vq.ipfs.infura-ipfs.io
 bafybeie3bxfcyzvvftadqheqymuo3vpfadnptlhm63piv4e3f35ffv7akq.ipfs.nftstorage.link
-bafybeiegrefcxhme2af4mjfdak7md2qsa4bhccwssssa5pgbojacgixpmq.ipfs.nftstorage.link
 bafybeiexhhfrj2e7perd5epep3mogqk3go2zlalrl6ftuttuxunh7hhlf4.ipfs.nftstorage.link
 bafybeifhsjjusavaqlm3dbhe2tpkwv4hfynw3hulvrccrl6kyh3tr5qpbi.ipfs.nftstorage.link
 bafybeifubevrjvnbqhqvgmvcm3kgwuwmfk6557djsuy524yrr2kdonrbsm.ipfs.nftstorage.link
@@ -2232,7 +2230,6 @@ domain-authenticator50.web.app
 domain-authenticator51.firebaseapp.com
 domain-authenticator51.web.app
 domain-authenticator52.firebaseapp.com
-domain-authenticator52.web.app
 domain-authenticator53.firebaseapp.com
 domain-authenticator53.web.app
 domain-authenticator54.firebaseapp.com
@@ -3807,7 +3804,6 @@ kmctartskuttippuram.org
 kmghv.xmpfhrm.cn
 kmyuhjhtf.6kjnzz.cn
 know-paths.com
-knowledge.eris.co.in
 kobe-denki.co.jp
 koerich-c-empresarial.com
 koijub.vfgnuxz.cn
@@ -3892,11 +3888,9 @@ lieux.in
 life-aid.in
 liff-gateway.lineml.jp
 lihjvc.ewpywgx.cn
-like-sulfuric-silica.glitch.me
 limit-orders-v2.onrender.com
 linio.applytojob.com
 liniomarkets.com
-link-appeal-39024.herokuapp.com
 link.gmreg5.net
 linkebak.com
 linkedin.com
@@ -4881,6 +4875,7 @@ pancakemobile.com
 pancakesvvap.financial
 pancakeswa-p.com
 pancakeswap-cripto.com
+pancakeswap-web.us
 pancakeswap.diamondhandsnetwork.app
 pancakeswap.finance.tradechange.in
 pancakeswap.himotechglobal.com
@@ -5177,7 +5172,6 @@ realizotudesmbolsojvlio.shop
 realsaude.pt
 realtymeets.com
 reamaam.blogspot.com
-reazutazs.ga
 rebategrow.com
 rebrand.ly
 rechnunge.wpengine.com
@@ -5466,9 +5460,7 @@ shanky0.github.io
 share-eu1.hsforms.com
 share-file-folder-crisk-coa.firebaseapp.com
 share-file-folder-crisk-coa.web.app
-share-file-folder-kopp-lip.web.app
 share-file-folder-sliz-coa.firebaseapp.com
-share-file-folder-sliz-coa.web.app
 share-file-location-pdf-file.firebaseapp.com
 share-file-login-pdf.firebaseapp.com
 share-file-login-pdf.web.app
@@ -5594,7 +5586,6 @@ simplissimot.com
 simplybeyoutiful.org
 simranarts.com
 singin.eki.uet.zhongbei.top
-singin.vpass.co.jp.366388.xyz
 sip.vedita.ru
 siporados15585.blogspot.com
 sirfifuck.monster
@@ -6133,7 +6124,6 @@ uek.kon.mybluehost.me
 ugbfocwnry.duckdns.org
 ugvhtxlxjj.duckdns.org
 ugyftdraq.hostfree.pw
-uid-checkpoint-10000258746937.tk
 uid-checkpoint-10000258746939.tk
 uikf.utgwqax.cn
 uiyh.fqeccqx.cn
@@ -6191,7 +6181,6 @@ uploads.codesandbox.io
 upotive.link
 upset-papers-give-3-89-31-11.loca.lt
 uqvexilftp.firebaseapp.com
-uqvexilftp.web.app
 uri.im
 url.dscdut.com
 url.emailprotection.link
@@ -6302,7 +6291,6 @@ vis-stort.github.io
 visanew.com
 visioncenterss.blogspot.com
 vivaterouna.blogspot.com
-vixefthijy.duckdns.org
 vk.com
 vkmatka.in
 vkontakte.app
@@ -6315,6 +6303,7 @@ vodaupdatepayment.com
 voiceacademy.international
 vokala.co
 vouchere-astrazeneca.totemsoftware.ro
+vstehn.ru
 vtrblbluewin01.ukit.me
 vtrq51.hyperphp.com
 vtxmail2018.myfreesites.net
@@ -10568,7 +10557,6 @@ www.serviceclient-abonnement.com
 www.setagaya-hkm.com
 www.shipment-post-at.apolline-voyance.com
 www.shopping-misstore.jp.hngzcloud.cn
-www.shopping-misstore.jp.login.megardenpad.cn
 www.shopping-misstore.jp.login.osur.cn
 www.shopping-misstore.jp.login.qhbfw.cn
 www.shopping-misstore.jp.login.ying-shang.cn
