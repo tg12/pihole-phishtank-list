@@ -872,7 +872,6 @@ authenticator-email46.web.app
 authenticator-email48.firebaseapp.com
 authenticator-email48.web.app
 authenticator-email49.firebaseapp.com
-authenticator-email5.firebaseapp.com
 authenticator-email50.firebaseapp.com
 authenticator-email50.web.app
 authenticator-email51.firebaseapp.com
@@ -899,7 +898,6 @@ authenticator-email62.firebaseapp.com
 authenticator-email63.firebaseapp.com
 authenticator-email63.web.app
 authenticator-email64.firebaseapp.com
-authenticator-email66.firebaseapp.com
 authenticator-email67.firebaseapp.com
 authenticator-email67.web.app
 authenticator-email69.firebaseapp.com
@@ -957,7 +955,6 @@ authenticator-email96.firebaseapp.com
 authenticator-email96.web.app
 authenticator-email98.firebaseapp.com
 authenticator-email98.web.app
-authenticator-email99.web.app
 authentificationpaiement-servicesecurise.ru
 authorise-west-pac.web.app
 authuxeehmutconjxmailssocl.web.app
@@ -1765,7 +1762,6 @@ dev-ksocietegenerale.pantheonsite.io
 dev-soporte-online.pantheonsite.io
 dev-ttmvcdes.pantheonsite.io
 dev-ultravasttechgroup.pantheonsite.io
-dev-websocietegenerale.pantheonsite.io
 dev.technotackle.com
 dev4694.d14x3qkarvh46z.amplifyapp.com
 dev5924.dxxsgb6hsq3ex.amplifyapp.com
@@ -2423,7 +2419,6 @@ eth-waet.com
 eth988.com
 ethbass.com
 ethbw.net
-etherealmen.com
 ethereum-18miningarea.com
 ethereum2pool.live
 ethhardfork.com
@@ -3383,7 +3378,6 @@ interbankempresahomeweb.gemsaweb.com
 international-c.hostfree.pw
 internationaldealscompany.com
 intriguing-expensive-soy.glitch.me
-inutprecabictai.tk
 invoicing.18thtechnology.com
 inx.lv
 ionos-mein.webmail.de.flick-fix.de
@@ -3903,7 +3897,6 @@ logn-visa.co-jp.zdafacg.top
 logosinfotech.com
 logoutcomontelekom.weebly.com
 lojasmagalu.com
-lojasvirtualvendas.com
 lolosamarte.blogspot.com
 lomadesarrollos.mx
 lomksrare.org
@@ -4742,7 +4735,6 @@ otpsecure.fr
 outlok.formaloo.net
 outlook1541489.webcindario.com
 outlookadminsupport.softr.app
-outlookdrive.z13.web.core.windows.net
 outlookonline.myportfolio.com
 outlookowa.myportfolio.com
 outlookowalive.myportfolio.com
@@ -5655,7 +5647,6 @@ ssenclave.org
 sso-garena.com
 ssowebsrr435546.srvrwwalker.workers.dev
 sssogdadadymailpass.firebaseapp.com
-staemcommunlty-nltro.ru
 stage.vannaryfowler.com
 staging-app.1inch.io.s3-website-us-west-1.amazonaws.com
 staging.aisecureme.com
@@ -6079,7 +6070,6 @@ veefriends-nft-giveaway.firebaseapp.com
 veefriends-nft-giveaway.web.app
 veeraja.com
 vektrofoods.com
-vented.id-dostawa93024.buzz
 ver-2ji.pages.dev
 veranope.wwwaz1-ss44.a2hosted.com
 veraodeoportunidades.com
@@ -7600,7 +7590,6 @@ www.ete-maiesiai.wizpri.top
 www.ete-maiesiai.wmpeil.top
 www.ete-maiesiai.wnmoss.top
 www.ete-maiesiai.wpgcrt.top
-www.ete-mcaieisai.lfedqf.top
 www.ete-mcaieisai.lsjtuz.top
 www.ete-mcaieisai.mdwaqw.top
 www.ete-mcaieisai.mmhexw.top
