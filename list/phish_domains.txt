@@ -1955,7 +1955,6 @@ domain-authenticator13.web.app
 domain-authenticator130.web.app
 domain-authenticator131.firebaseapp.com
 domain-authenticator131.web.app
-domain-authenticator132.web.app
 domain-authenticator133.firebaseapp.com
 domain-authenticator133.web.app
 domain-authenticator134.firebaseapp.com
@@ -3616,7 +3615,6 @@ kghcvf.kvnruld.cn
 kghcvx.lwjdp.cn
 kghcvx.pvjwjjv.cn
 kghcx.utqirhb.cn
-kghcxv.zkilea.cn
 kghdf.ijheaqt.cn
 kghfd.malbovf.cn
 kghm-invest.web.app
@@ -4573,7 +4571,6 @@ notification-fb.secure-pages.workers.dev
 notify-me.link
 nour-ala-nour.com
 nourayatravel.com
-nowobanco.fun
 nroedreamcare.com
 nt.embluemail.com
 nuevo-tuya-2.hostfree.pw
@@ -14094,7 +14091,6 @@ xjfdgdfhgdhu.hostfree.pw
 xkqeererrs.duckdns.org
 xlkdejqaki.duckdns.org
 xn----ctbeu0aamfekp0m.xn--p1ai
-xn--80aa8bbcehc.xn--p1ai
 xn--allgrolokalnie-x4b.pl
 xn--conta-atualiza-o-snb5e.weebly.com
 xn--realizzerapiidaasoluao-j7b.com
