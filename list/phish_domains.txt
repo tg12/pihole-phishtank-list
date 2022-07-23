@@ -616,7 +616,6 @@ authenticator-email19.firebaseapp.com
 authenticator-email2.web.app
 authenticator-email21.firebaseapp.com
 authenticator-email21.web.app
-authenticator-email26.firebaseapp.com
 authenticator-email26.web.app
 authenticator-email35.firebaseapp.com
 authenticator-email35.web.app
@@ -627,7 +626,6 @@ authenticator-email42.web.app
 authenticator-email44.firebaseapp.com
 authenticator-email44.web.app
 authenticator-email45.firebaseapp.com
-authenticator-email46.firebaseapp.com
 authenticator-email51.web.app
 authenticator-email55.firebaseapp.com
 authenticator-email58.web.app
@@ -767,6 +765,7 @@ bcp-marketing.com
 bdfds.skfv0ob.cn
 bdrive-0utlook-datastorage.firebaseapp.com
 bdrive-0utlook-datastorage.web.app
+be-sessie-g9m1na.xyz
 be34r5thg-b0j345e-0rg-0ehwrg-09h5eg.obs.ap-southeast-2.myhuaweicloud.com
 beachhead-solutions.com
 beacon.marylands.workers.dev
@@ -915,7 +914,6 @@ bt-102263.weeblysite.com
 bt-103029.weeblysite.com
 bt-105906.weeblysite.com
 bt-108413.weeblysite.com
-bt-108902.weeblysite.com
 bt-billi.webflow.io
 bt-billingpayment-3d7138.webflow.io
 bt-billingpayment-fa4cff.webflow.io
@@ -1523,7 +1521,6 @@ direx.is-great.net
 dirgold.easy.co
 discojd-gift.ru
 discorcl-drop.ru
-discord-free-nitro.org
 discord-information-acc.ru
 discordclients.com
 discordgift.com.ru
@@ -1653,7 +1650,6 @@ domain-authenticator70.firebaseapp.com
 domain-authenticator78.firebaseapp.com
 domain-authenticator82.firebaseapp.com
 domain-authenticator85.firebaseapp.com
-domain-authenticator86.web.app
 domain-authenticator88.web.app
 domain-authenticator89.web.app
 domain-authenticator9.web.app
@@ -2103,6 +2099,7 @@ flat-tree-7a42.julie6462.workers.dev
 flawlessbeautybyangela.com
 flawlessvegan.com
 flcancer39-px.rtrk.com
+flipmyequip.com
 flkr66.hyperphp.com
 florejackie.fr
 floridaglobaltrade.agroavance.com
@@ -2124,7 +2121,6 @@ for-giveaway.com
 force5itaulogk3--forc3editaulogk.repl.co
 forcemilperu.com
 forextradingtruth.com
-form.brassbearbrewing.com
 form.jotform.com
 formez-vous.eligibilite-web.com
 forms.formium.io
@@ -2227,6 +2223,7 @@ general.general-auth.workers.dev
 generator.discordnitrogift.com
 genie-alba.firebaseapp.com
 gentl.bibirkumaumeletus.workers.dev
+george.four19agency.com
 gerberyapi.com
 gesmaer.space
 gesolutionsca.com
@@ -2390,7 +2387,6 @@ gruppbper-com.preview-domain.com
 grvcb.mwfahek.cn
 grxdvc.owkqtvr.cn
 gsaulikt-pon-au.top
-gsffreedcr.duckdns.org
 gsrl90.hyperphp.com
 gtigrovvs.com
 guprosselecto.hostfree.pw
@@ -2663,7 +2659,6 @@ hiahhfghjrjehs3.firebaseapp.com
 hiahhfghjrjehs4.firebaseapp.com
 hiahhfghjrjehs6.firebaseapp.com
 hiahhfghjrjehs6.web.app
-hiahhfghjrjehs9.firebaseapp.com
 hidden-mud-9b49.offiice.workers.dev
 higherselfdevelopment.com
 hillslogistics.com.au
@@ -2793,7 +2788,6 @@ hoshahfd14.web.app
 hoshahfd17.firebaseapp.com
 hoshahfd17.web.app
 hoshahfd18.firebaseapp.com
-hoshahfd18.web.app
 hoshahfd2.firebaseapp.com
 hoshahfd20.firebaseapp.com
 hoshahfd24.firebaseapp.com
@@ -2919,6 +2913,7 @@ imeca.com.ve
 imitoken.club
 immersivetech.sg
 imobiliaria-cardinali-com-br.blogspot.com
+impbadalavane.com
 importvalidator.org
 impotsgouv-france.com
 imsj.cn
@@ -3596,6 +3591,7 @@ legacynutritionandtraining.com
 leilaopatiodetran-sp.org
 lenil.academy
 lenkaspares.com
+lensarc.com.au
 lestarispareparts.com
 lets-shorten-this-url.herokuapp.com
 leviathandesign.com.au
@@ -4025,7 +4021,6 @@ minargamerbd.com
 mindfree.co.za
 minerlee.topijerami.workers.dev
 mingming20160152.github.io
-miniurl.ws
 mintbymia.com
 mintnft-cheap.com
 mintnft-cheapest.com
@@ -4243,6 +4238,7 @@ netflixvalidz.duckdns.org
 netorg3850966-my.sharepoint.com
 netorg6600800-my.sharepoint.com
 netp001.temp.swtest.ru
+netstation2-aplus-co-jp.thrivingad.cn
 networkdebug.net
 networksolutions-fd.firebaseapp.com
 networksolutions-fd.web.app
@@ -4783,7 +4779,6 @@ psd2-kunde923.info
 psd2-kunde95133.info
 psd2-kunde99772.info
 psd2-online.com
-psd2-online.net
 psdbacau.ro
 psp-lessen-marian.nl
 psqisoe2.ga
@@ -4796,6 +4791,7 @@ purrfectbookkeeping.visionwebdev.com
 puzzled-mink.w5.wpsandbox.pro
 pxlme.me
 pychain.io
+q.yubjax.top
 qaulink-alin-au.top
 qbocd.csb.app
 qermaris291123.liveblog365.com
@@ -5363,6 +5359,7 @@ southamerica-east1-noted-minutia-330211.cloudfunctions.net
 sp477389.sitebeat.site
 spaceforyou.com.au
 spark.shaheenwrites.com
+sparka-finanzierung-der-kunden.com
 sparka-finanzinstitut.com
 sparka-it-center.com
 sparka-itcenter.com
@@ -5373,6 +5370,7 @@ sparka-kunden-abteilung.com
 sparka-kunden-anfrage.com
 sparka-kunden-center.com
 sparka-kundenanfrage.com
+sparka-kundenveri.com
 sparka-sparen-leicht.com
 sparka-ssl-login.com
 sparka-stressfrei-verifizieren.com
@@ -6409,7 +6407,6 @@ www.aeeosn.aseosocn.nytsha.top
 www.aeeosn.aseosocn.ovbfsv.top
 www.aeeosn.aseosocn.pdmvfc.top
 www.aeeosn.aseosocn.pheudi.top
-www.aeeosn.aseosocn.rabbhw.top
 www.aeon.co-jp.1230351.com
 www.aeoseno.aessoeon.jaubvr.top
 www.aeoseno.aessoeon.jcxaec.top
@@ -8014,6 +8011,17 @@ www.italianswingdanceacademy.com
 www.itauseguranca.com
 www.itoscop.com
 www.jappening.cl
+www.jcb-card.mmcasu.shop
+www.jcb-card.mtlhkb.shop
+www.jcb-card.nzwvaq.shop
+www.jcb-card.oagltl.shop
+www.jcb-card.osdopr.shop
+www.jcb-card.owxsqt.shop
+www.jcb-card.pavxqi.shop
+www.jcb-card.qgmggx.shop
+www.jcb-card.qkdwzg.shop
+www.jcb-card.qnfmyh.shop
+www.jcb-card.slcmcl.shop
 www.jckfirs.punctulcentral.org
 www.jinchangwg.com
 www.karllagerfeldshop.com
@@ -8078,7 +8086,6 @@ www.maccsasred.mcaaserd.ypznyd.top
 www.maccsasred.mcaaserd.ywmdmi.top
 www.maccsasred.mcaaserd.zbfpbu.top
 www.maccsasred.mcaaserd.zbomvh.top
-www.maccsasred.mcaaserd.zfeixc.top
 www.maccsasred.mcaaserd.zhxqym.top
 www.maccsasred.mcaaserd.zlrrpi.top
 www.macsscsrd-asosamsnsrd.chenmanqi.top
@@ -8239,7 +8246,6 @@ www.masceaesnccsaaserd.masecocsaaosearescoooseccsoerd.xfcxny.top
 www.masceaesnccsaaserd.masecocsaaosearescoooseccsoerd.xrrtvf.top
 www.masceaesnccsaaserd.masecocsaaosearescoooseerd.1978777.xyz
 www.masceaesnccsaaserd.masecocsaaosearescoooseerd.3123978.xyz
-www.masceaesnccsaaserd.masecocsaaosearescoooseerd.3978487.xyz
 www.masceaesnccsaaserd.masecocsaaosearescoooseerd.3987845.xyz
 www.masceaesnccsaaserd.masecocsaaosearescoooseerd.3997887.xyz
 www.masceaesnccsaaserd.masecocsaaosearescoooseerd.aehkez.top
@@ -8468,7 +8474,6 @@ www.masceanccaserd.macosasascoseerd.bgjjoi.top
 www.masceanccaserd.macosasascoseerd.coinwallet.top
 www.masceanccaserd.macosasascoseerd.dkfrva.top
 www.masceanccaserd.macosasascoseerd.drqelj.top
-www.masceanccaserd.macosasascoseerd.gwrrdx.top
 www.masceanccaserd.macosasascoseerd.hzwrnd.top
 www.masceanccaserd.macosasascoseerd.kobagq.top
 www.masceanccaserd.macosasascoseerd.kvivli.top
@@ -8899,7 +8904,6 @@ www.mascecaeosncsaaserd.masecocaorarsoasoceosed.1239978.icu
 www.mascecaeosncsaaserd.masecocaorarsoasoceosed.1366778.icu
 www.mascecaeosncsaaserd.masecocaorarsoasoceosed.3667884.icu
 www.mascecaeosncsaaserd.masecocaorarsoasoceosed.7786945.icu
-www.mascecaeosncsaaserd.masecocaorarsoasoceosed.9978754.icu
 www.mascecaeosncsaaserd.masecocaorarsoasoceosed.blyqdj.icu
 www.mascecaeosncsaaserd.masecocaorarsoasoceosed.eaosey.icu
 www.mascecaeosncsaaserd.masecocaorarsoasoceosed.janbl.icu
@@ -9069,7 +9073,6 @@ www.mascecaesncsaaserd.masecocaosarsoasocoseccsoerd.fzcvxp.space
 www.mascecaesncsaaserd.masecocaosarsoasocoseccsoerd.hdivud.icu
 www.mascecaesncsaaserd.masecocaosarsoasocoseccsoerd.hgzklt.icu
 www.mascecaesncsaaserd.masecocaosarsoasocoseccsoerd.ilblz.icu
-www.mascecaesncsaaserd.masecocaosarsoasocoseccsoerd.loqjz.icu
 www.mascecaesncsaaserd.masecocaosarsoasocoseccsoerd.neqnpg.space
 www.mascecaesncsaaserd.masecocaosarsoasocoseccsoerd.rfygke.icu
 www.mascecaesncsaaserd.masecocaosarsoasocoseccsoerd.vkzpru.space
@@ -9945,7 +9948,6 @@ www.masorseacsrd.masorcceasrd.wangcaitongbao6.net
 www.masorseacsrd.masorcceasrd.wangcaitongbao7.net
 www.masorseacsrd.masorcceasrd.wechain.top
 www.masorseacsrd.masorcceasrd.wiot.top
-www.masorseacsrd.masorcceasrd.xiaomi8.shop
 www.masorseacsrd.masorcceasrd.yingjikuaijie1.net
 www.masorseacsrd.masorcceasrd.yingjikuaijie2.net
 www.masorseacsrd.masorcceasrd.yingjikuaijie3.net
@@ -10114,7 +10116,6 @@ www.my.jeb.co-jp-myjasaocnsb.tigafcj.mobi.tt
 www.my.job.co-jp-myjascaoseb.iwkdlfm.mobi.tt
 www.my.job.co-jp-myjascaoseb.jquzmcm.mobi.tt
 www.my.job.co-jp-myjascaoseb.kzjioix.mobi.tt
-www.my.job.co-jp-myjascaoseb.odevgmu.mobi.tt
 www.my.job.co-jp-myjascaoseb.vylmxgy.mobi.tt
 www.my.job.co-jp-myjascaosseb.oxtcwle.mobi.tt
 www.my.job.co-jp-myjascaosseb.qyfiqci.mobi.tt
@@ -10993,7 +10994,6 @@ www.myjaoscseooeb.myejcaoseeseb.xnmxnb.top
 www.myjaoscseooeb.myejcaoseeseb.xomjfi.top
 www.myjaoscseooeb.myejcaoseeseb.zdqjhg.top
 www.myjascceosocsaaseseb.mseyccaojarsoasoceoseaascsoeb.12380978.icu
-www.myjascceosocsaaseseb.mseyccaojarsoasoceoseaascsoeb.1239978.icu
 www.myjascceosocsaaseseb.mseyccaojarsoasoceoseaascsoeb.6978458.icu
 www.myjascceosocsaaseseb.mseyccaojarsoasoceoseaascsoeb.7786945.icu
 www.myjascceosocsaaseseb.mseyccaojarsoasoceoseaascsoeb.7997845.icu
@@ -11141,7 +11141,6 @@ www.myjasccesocsaaseseb.mseyccaojarsoasocoseaascsoeb.239978.icu
 www.myjasccesocsaaseseb.mseyccaojarsoasocoseaascsoeb.6945785.icu
 www.myjasccesocsaaseseb.mseyccaojarsoasocoseaascsoeb.8676455.icu
 www.myjasccesocsaaseseb.mseyccaojarsoasocoseaascsoeb.9784585.icu
-www.myjasccesocsaaseseb.mseyccaojarsoasocoseaascsoeb.eaosey.icu
 www.myjasccesocsaaseseb.mseyccaojarsoasocoseaascsoeb.hdjyfur.site
 www.myjasccesocsaaseseb.mseyccaojarsoasocoseaascsoeb.ijhojg.icu
 www.myjasccesocsaaseseb.mseyccaojarsoasocoseaascsoeb.loqjz.icu
@@ -11162,7 +11161,6 @@ www.myjasccesocsaaseseb.mseyccaojarsoasocoseacsoeb.1366778.icu
 www.myjasccesocsaaseseb.mseyccaojarsoasocoseacsoeb.239978.icu
 www.myjasccesocsaaseseb.mseyccaojarsoasocoseacsoeb.4687957.icu
 www.myjasccesocsaaseseb.mseyccaojarsoasocoseacsoeb.6378791.icu
-www.myjasccesocsaaseseb.mseyccaojarsoasocoseacsoeb.6945785.icu
 www.myjasccesocsaaseseb.mseyccaojarsoasocoseacsoeb.6978458.icu
 www.myjasccesocsaaseseb.mseyccaojarsoasocoseacsoeb.93544117.icu
 www.myjasccesocsaaseseb.mseyccaojarsoasocoseacsoeb.ilqmcz.space
@@ -11680,7 +11678,6 @@ www.myjascoccaseseb.myjacsascoseccsooeb.xjdpgi.top
 www.myjascoccaseseb.myjacsascoseccsooeb.xvlbws.top
 www.myjascoccaseseb.myjacsascoseccsooeb.yagtso.top
 www.myjascoccaseseb.myjacsascoseccsooeb.yalpuh.top
-www.myjascoccaseseb.myjacsascoseccsooeb.yifpgd.top
 www.myjascoccaseseb.myjacsascoseccsooeb.yxpfzh.top
 www.myjascoccaseseb.myjacsascoseccsooeb.zhhqjx.top
 www.myjascoccaseseb.myjacsascoseoeb.1444588.xyz
@@ -12113,7 +12110,6 @@ www.myjcoeeocsb.omyjaceb.gpghar.top
 www.myjcoeesoscbo.mcyjaceb.cpssxk.top
 www.myjcoeesoscbo.mcyjaceb.duogfk.top
 www.myjcoeesoscbo.mcyjaceb.fpmrgv.top
-www.myjcoeesoscbo.mcyjaceb.gimhld.top
 www.myjcoeesoscbo.mcyjaceb.gpghar.top
 www.myjcoeesoscbo.mcyjaceb.hlztae.top
 www.myjcoeesoscbo.mcyjaceb.hndvyf.top
@@ -13052,7 +13048,6 @@ www.sacaivseseoncassed.ascccasesord.prjsxv.top
 www.sacaivseseoncassed.ascccasesord.raqgoh.top
 www.sacaivseseoncassed.ascccasesord.rmpqkw.top
 www.sacaivseseoncassed.ascccasesord.slucdk.top
-www.sacaivseseoncassed.ascccasesord.syrdtj.top
 www.sacaivseseoncassed.ascccasesord.tsmhjl.top
 www.sacaivseseoncassed.ascccasesord.wnmoss.top
 www.sacaivseseosncasseid.cccaseasocsord.ofuhhs.top
@@ -13163,7 +13158,6 @@ www.sasaion.sacasison.cbmikk.top
 www.sasaion.sacasison.chgskm.top
 www.sasaion.sacasison.cyzemc.top
 www.sasaion.sacasison.dborfs.top
-www.sasaion.sacasison.dqbskq.top
 www.sasaion.sacasison.dxjcrq.top
 www.sasaion.sacasison.ejxxpq.top
 www.sasaion.sacasison.erxemo.top
@@ -13241,7 +13235,6 @@ www.smbs-cozx.icu
 www.smcb-ccamd.4-4-j-xcs4.xyz
 www.smcb-ccamd.5634633.xyz
 www.smcb-ccamd.76-u-gbf8.xyz
-www.smcb-ccamd.76-u-zxcv.xyz
 www.smcb-ccamd.eoewz.top
 www.smcb-ccamd.ronzm.top
 www.smcb-ccamd.scvau.top
@@ -13329,7 +13322,6 @@ www.visaceoan-vvsasoensi.ydpssl.top
 www.visaceoan-vvsasoensi.yeceku.top
 www.visaceoan-vvsasoensi.yfnvfr.top
 www.visaceoan-vvsasoensi.ytbspo.top
-www.visaceoan-vvsasoensi.yyyuwr.top
 www.visaceoan-vvsasoensi.zohlkk.top
 www.visaceoan-vvsasoensi.zpirok.top
 www.visaceoan-vvsasoensi.zusrue.top
@@ -15251,7 +15243,6 @@ www.vivsesaccase.vsicvsaicascosecso.dsyqit.top
 www.vivsesaccase.vsicvsaicascosecso.duppjc.top
 www.vivsesaccase.vsicvsaicascosecso.exqkjx.top
 www.vivsesaccase.vsicvsaicascosecso.jtpyia.top
-www.vivsesaccase.vsicvsaicascosecso.kzstoc.top
 www.vivsesaccase.vsicvsaicascosecso.ojfyvi.top
 www.vivsesaccase.vsicvsaicascosecso.owbxts.top
 www.vivsesaccase.vsicvsaicascosecso.qqwfas.top
@@ -15677,8 +15668,10 @@ yogalife.com.np
 yogdarshan.com
 yogicpa.com
 yogini-polygonbc.blogspot.com
+yoump.se
 youn.bxxnskkdkdkrkrnfnf.workers.dev
 young-salad-b064.dealtrap5421683.workers.dev
+yourhealthepartner.com
 yourkidsheart.ca
 yournaturalcanvas.com
 yousee-refusion.web.app
