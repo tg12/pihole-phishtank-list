@@ -65,6 +65,7 @@
 199102481445514444.42web.io
 1contaconline1.webcindario.com
 1drv.ms
+1inch-chinese.com
 1inch-io-stage-app-euc1.s3-website.eu-central-1.amazonaws.com
 1inch.dev.symbiosis.finance
 1inchcoin.com
@@ -108,7 +109,6 @@
 3dw.in
 3ff7c459-86b2-4f6d-b6b0-ba6402ef6cb0.htmlcomponentservice.com
 3j124.csb.app
-3mtalerts-2-7a94f5.ingress-daribow.ewp.live
 3rdstreetmarket.com
 400cgpe9ftgophh71dks1uopj54felhbrbg9iv21eagktj8435lmdp8.siasky.net
 419gbmuab-d4195.conagopareimbabura.gob.ec
@@ -436,6 +436,7 @@ app-ipnn.zmzkvciqo0-yjr3odykr61m.p.runcloud.link
 app-poly-g0nwebsite.blogspot.com
 app-sushi-swap.com
 app-susshi.com
+app.1inch.io
 app.assessmentgenerator.com
 app.box.com
 app.formbuilder.ai
@@ -508,6 +509,7 @@ athensgoldandsilver.gr
 atlanticbbd.com
 atm-i.com
 atnr76dxku336szy.clickfunnels.com
+att-106293.square.site
 att-account.com
 att-expired-4de4.att-expiredms1.workers.dev
 att-login-prodx.com
@@ -748,7 +750,6 @@ bestcnanges.com
 bestethuisstudie.nl
 betasegura-viabcp.movil-sms.com
 betsiteleri2022.com
-betsouthmailing.weebly.com
 better.com.np
 beumkxenhq.duckdns.org
 bewqsx.hyperphp.com
@@ -865,7 +866,6 @@ bn01928712.ultimatefreehost.in
 bnacion-onli.webcindario.com
 bnacrinform.webcindario.com
 bnacrsalogin0333.webcindario.com
-bnamhdiahhdiaondha4.web.app
 bnb-pancake.finance
 bnb-pancake.org
 bncas72376332.webcindario.com
@@ -960,6 +960,7 @@ bt-email-login-page-108143.weeblysite.com
 bt-email-login-page-108515.weeblysite.com
 bt-home-page-webmailhwehj.weeblysite.com
 bt-internet-103082.weeblysite.com
+bt-service-2022.weeblysite.com
 bt.my-style.in
 btbit.vip
 btbusinessbilling.wordpress.com
@@ -973,11 +974,13 @@ btfdn.ly4yanr.cn
 btghqdrtth-100638.weeblysite.com
 btghwqygddh.weeblysite.com
 btgt.jjmmj.cn
+btinternetmail-102344.weeblysite.com
 btjj.learnyou.cn
 btjyk.juzhongchuang.cn
 btlyrgh.mfs.gg
 btqptpx.cf
 btsei.net
+btuserserice.weeblysite.com
 btyk.gezhao0421.cn
 bukidnonmockpolls.com
 bullettrainbtn2.blogspot.com
@@ -1179,7 +1182,6 @@ chkredirects.ml
 chois.jp
 chronopostvalidation.blogspot.com
 chutlincrapo.web.app
-ci18200.tmweb.ru
 ci3.googleusercontent.com
 ci4.googleusercontent.com
 cielegwwq.hyperphp.com
@@ -1481,6 +1483,7 @@ defi-aavev3.club
 defi-aavev3.info
 defi-connector.info
 defi-go.me
+defi-mining.live
 defiblockchain-node.com
 deficonnects.net
 defiportal.alphaacetech.com
@@ -1702,7 +1705,6 @@ document2c-4de73.firebaseapp.com
 document2c-4de73.web.app
 document2c-f4e80.firebaseapp.com
 document2c-f4e80.web.app
-document2d-70ee1.web.app
 document3e-e09ee.firebaseapp.com
 document3e-e09ee.web.app
 documentoprotetto.filedicondivisione-909524fb9aa348b230295a2b7a842c21.workers.dev
@@ -2100,7 +2102,6 @@ fax07032022doc1-1310019602.cos.na-siliconvalley.myqcloud.com
 fax07042022fax498apps58-1310726006.cos.ap-seoul.myqcloud.com
 fb-case-id-28031803-fcdc-48af.web.app
 fb-help-restrictioncase-4b2e2.web.app
-fb-help-restrictioncase-a12b8.firebaseapp.com
 fb-help-restrictioncase-a12b8.web.app
 fb-pages.proteksion-help.workers.dev
 fb.community.guidelines1000315.com
@@ -2350,7 +2351,6 @@ freim-regulation.hostfree.pw
 frghb.taosbao.cn
 frhty.cenegx.cn
 friendsofnechockey.com
-frill-carnation-hollyhock.glitch.me
 friss.com.ec
 frnhbj.coiplba.cn
 frontier-airlinesreservations.com
@@ -2423,6 +2423,7 @@ gbhn.iiddi.cn
 gbhn.wanyiwl6.cn
 gbvfd.npsadu.cn
 gc.elin.co.za
+gcdxb.gongshuban.cn
 gcdxb.nthtgjg.cn
 gcdxb.rfppnr.cn
 gcdxb.ruv6loj.cn
@@ -3118,6 +3119,7 @@ irefeepostoffice.com
 irelandsissuesmagazine.com
 irs-claim-onlinetax.com
 irs-financial-stats-profile.ocry.com
+irs-financialtaxsfederal.americanunfinished.com
 irs-manage-financial.duckdns.org
 irs-manage-profile-financial.com
 irs-management-tax-financial.com
@@ -3264,6 +3266,7 @@ jghfb.xzpslnr.cn
 jghjasfxjahxgkvy.hostfree.pw
 jghvbc.cgivuui.cn
 jghvc.vghdnwv.cn
+jhahnews.com
 jhakdjdjx92.ydns.eu
 jhfgb.n93a78q.cn
 jhfgv.9xhno6w.cn
@@ -3435,7 +3438,6 @@ kjhbfc.vrafelz.cn
 kjhbv.cbdikwc.cn
 kjhbvg.shgjjjye.cn
 kjhcv.hyow0ef.cn
-kjhfcx.hyptftl.cn
 kjhfg.4shfsxm.cn
 kjhfg.yjcdyt.cn
 kjhgb.xuuneek.cn
@@ -3765,7 +3767,6 @@ malaprontaargentina.com.br
 mamavapes.com
 mamifoundation.org
 mamkefu.kanuomei.com
-managerchswiss.wpengine.com
 managerp4463sauth0rservid.co.vu
 managesaas.com
 mancataconsegnacard.com
@@ -4474,6 +4475,7 @@ package2021.blogspot.ba
 package2021.blogspot.bg
 package2021.blogspot.com
 padlet-uploads.
+page-104592.weeblysite.com
 page-recovery-identity2022.com
 page.appmobilepages.workers.dev
 pageidentity2022.com
@@ -4719,7 +4721,6 @@ project-preview-shared.grand-oauth.workers.dev
 project-shared-pdf.shared-securee.workers.dev
 project-sheet-doc.assign-sec.workers.dev
 project1-3-7.com
-project10d-1a89b.firebaseapp.com
 project11a-8cd2d.firebaseapp.com
 project11a-8cd2d.web.app
 project9c-ed771.firebaseapp.com
@@ -4868,7 +4869,6 @@ redtailfriday0004.web.app
 redtailfriday0005.firebaseapp.com
 redtailfriday0006.firebaseapp.com
 redtailfriday0006.web.app
-redtailfriday0007.firebaseapp.com
 redtailfriday0007.web.app
 redtailfriday0008.firebaseapp.com
 redtailfriday0009.firebaseapp.com
@@ -4988,7 +4988,6 @@ roydium.io
 rpbanssffr.duckdns.org
 rplg.co
 rreygiteem.duckdns.org
-rrfdaes.lcuouqr.cn
 rrffssjwiv.duckdns.org
 rriwy8.webwave.dev
 rtefgv.ph7j3ix.cn
@@ -5090,7 +5089,6 @@ seal-app-k2wcm.ondigitalocean.app
 sebat-dhl.blogspot.com
 sebene27.github.io
 sec0-mtbalerts-veri0.com
-secu-amfc.web.app
 secure-alpha-497da0be515757web.gidiagents.com
 secure-code-project.reseeoniwean.workers.dev
 secure-dashlane.com
@@ -6541,7 +6539,6 @@ www.aesocen.asecosoeone.fashions.show
 www.aesocen.asecosoeone.ipangxin.cc
 www.aesocen.asecosoeone.iyouqiu.cc
 www.aesocen.asecosoeone.pens.ltd
-www.aesocen.asecosoeone.uayuxc.top
 www.aesocen.asecosoeone.wetot.beer
 www.aesocen.asecosoeone.wetot.cc
 www.aesocen.asecosoeone.wetot.cloud
@@ -6651,7 +6648,6 @@ www.aesooesn.aseoseseaccn.vxttxa.top
 www.aesoosesn.aseoseesceacn.lwmhpl.top
 www.aesoosesn.aseoseesceacn.njsfqn.top
 www.aesoosesn.aseoseesceacn.nyebgi.top
-www.aesoosesn.aseoseesceacn.olknwk.top
 www.aesoosesn.aseoseesceacn.pqjxit.top
 www.aesoosesn.aseoseesceacn.prwqcf.top
 www.aesoosesn.aseoseesceacn.pwrmpr.top
@@ -6687,7 +6683,6 @@ www.aesosn.aoeesccone.fashions.show
 www.aesosn.aoeesccone.guochanhua.cc
 www.aesosn.aoeesccone.ijzy.cc
 www.aesosn.aoeesccone.ilechun.cc
-www.aesosn.aoeesccone.jiazicloud.cc
 www.aesosn.aoeesccone.txiwjf.top
 www.aesosn.aoeesccone.wetot.email
 www.aesosn.aoeesccone.zaweli.top
@@ -7117,7 +7112,6 @@ www.mascoosoerd.mascesccrerd.vwqsly.top
 www.mascosoerd.mascescrerd.mecozi.top
 www.mascosoerd.mascescrerd.mgjuxa.top
 www.mascosoerd.mascescrerd.msnwrh.top
-www.mascosoerd.mascescrerd.ohglfp.top
 www.mascosoerd.mascescrerd.olknwk.top
 www.mascosoerd.mascescrerd.ovfxfm.top
 www.mascosoerd.mascescrerd.pwrmpr.top
@@ -7130,7 +7124,6 @@ www.mascosoerd.mascescrerd.sindqc.top
 www.mascosoerd.mascescrerd.sqltjt.top
 www.mascosoerd.mascescrerd.stjjjj.top
 www.mascosoerd.mascescrerd.tfiaai.top
-www.mascosoerd.mascescrerd.tnklun.top
 www.mascosoerd.mascescrerd.tozwza.top
 www.mascosoerd.mascescrerd.tsskwx.top
 www.mascosoerd.mascescrerd.vgdyzu.top
@@ -7196,7 +7189,6 @@ www.maseeseosiceosrcoercdse.mieoasocensaseocceueoccesoessccrerd.wari.co
 www.maseeseosicesorcsoecrsed.ieomsocenaaseocseueoccesoesccescrerd.basw.co
 www.maseeseosicesorcsoecrsed.ieomsocenaaseocseueoccesoesccescrerd.ccle.co
 www.maseeseosicesorcsoecrsed.ieomsocenaaseocseueoccesoesccescrerd.cueq.co
-www.maseeseosicesorcsoecrsed.ieomsocenaaseocseueoccesoesccescrerd.fudds.co
 www.maseeseosicesorcsoecrsed.ieomsocenaaseocseueoccesoesccescrerd.ilts2.co
 www.maseeseosicesorcsoecrsed.ieomsocenaaseocseueoccesoesccescrerd.jumb.co
 www.maseeseosicesorcsoecrsed.ieomsocenaaseocseueoccesoesccescrerd.ktiv.co
@@ -7212,7 +7204,6 @@ www.masoresesrd.masorecocsrd.jiami.ltd
 www.masoresesrd.masorecocsrd.wechain.top
 www.masoresesrd.masorecosrd.6997887.xyz
 www.masoresesrd.masorecosrd.bitpay.top
-www.masoresesrd.masorecosrd.dchain.top
 www.masoresesrd.masorecosrd.yingjikuaijie1.net
 www.masorseacsrd.masorcceasrd.6997887.xyz
 www.masorseacsrd.masorceasrd.bitpay.top
@@ -7284,7 +7275,6 @@ www.myjaioscseooeb.miyejcaoseeseb.phpump.top
 www.myjaioscseooeb.miyejcaoseeseb.rnsjyy.top
 www.myjaioscseooeb.miyejcaoseeseb.rpuhhh.top
 www.myjaioscseooeb.miyejcaoseeseb.rrbbvy.top
-www.myjaioscseooeb.miyejcaoseeseb.viwiqc.top
 www.myjaioscseooeb.miyejcaoseeseb.vlbitu.top
 www.myjaioscseooeb.miyejcaoseeseb.vtmcgz.top
 www.myjaioscseooeb.miyejcaoseeseb.vxttxa.top
@@ -7355,7 +7345,6 @@ www.myjascoseb.myjacsoeb.ahibtgs.top
 www.myjascoseb.myjacsoeb.ohvcp.top
 www.myjascoseb.myjacsoeb.ojpih.top
 www.myjascoseb.myjacsoeb.ylbde.top
-www.myjascoseb.myjacsoeb.zdhku.top
 www.myjascseooeb.myejaoseeseb.mstcly.top
 www.myjascseooeb.myejaoseeseb.njsfqn.top
 www.myjascseooeb.myejaoseeseb.nnsbbm.top
@@ -7418,6 +7407,7 @@ www.nwss419.top
 www.nysestarts.com
 www.nysethkpd.com
 www.oasisworkz.com
+www.officeoffice365.c1.biz
 www.officialliker.co
 www.okdlxjg.top
 www.onlinencom.com
@@ -11070,7 +11060,6 @@ www.viseeseosieeocrcai.cvsescieossocenaaseoceeuioccesoesscoc.ssbo.co
 www.viseeseosieescrcai.cvsescieossocenaaseoceeueoccesoesicso.cafr.co
 www.viseeseosieescrcai.cvsescieossocenaaseoceeueoccesoesicso.ftec.co
 www.viseeseosieescrcai.cvsescieossocenaaseoceeueoccesoesicso.gpel.co
-www.viseeseosieescrcai.cvsescieossocenaaseoceeueoccesoesicso.hahki.co
 www.viseeseosieescrcai.cvsescieossocenaaseoceeueoccesoesicso.ooih.co
 www.viseeseosieescrcai.cvsescieossocenaaseoceeueoccesoesicso.rawqq.co
 www.viseeseosieescrcai.cvsescieossocenaaseoceeueoccesoesicso.rfuq.co
@@ -11097,7 +11086,6 @@ www.viseioscai.vscsaieeicso.mizduc.top
 www.viseioscai.vscsaieeicso.pfrbje.top
 www.viseioscai.vscsaieeicso.qandgf.top
 www.viseioscai.vscsaieeicso.qmfrae.top
-www.viseioscai.vscsaieeicso.rrbbvy.top
 www.viseioscai.vscsaieeicso.sacgjb.top
 www.viseioscai.vscsaieeicso.spdzvq.top
 www.viseioscai.vscsaieeicso.stjjjj.top
@@ -13789,7 +13777,6 @@ www.vivsiecaiecsn.viscaieaeeivsei.ctcg.com.cn
 www.vivsiecaiecsn.viscaieaeeivsei.ctopfi.top
 www.vivsiecaiecsn.viscaieaeeivsei.cukfdu.top
 www.vivsiecaiecsn.viscaieaeeivsei.cxlzdq.top
-www.vivsiecaiecsn.viscaieaeeivsei.dsxrmyy.com.cn
 www.vivsiecaiecsn.viscaieaeeivsei.hnxzyy.com.cn
 www.vivsiecaiecsn.viscaieaeeivsei.iedd.com.cn
 www.vivsiecaiecsn.viscaieaeeivsei.itwt.com.cn
@@ -13860,7 +13847,6 @@ www.vivsiecicesn.visacaeeeivsei.aacugi.top
 www.vivsiecicesn.visacaeeeivsei.anufwe.top
 www.vivsiecicesn.visacaeeeivsei.bdgnpu.top
 www.vivsiecicesn.visacaeeeivsei.byoipl.top
-www.vivsiecicesn.visacaeeeivsei.chwtye.top
 www.vivsiecicesn.visacaeeeivsei.cmetgn.top
 www.vivsiecicesn.visacaeeeivsei.ctxd.com.cn
 www.vivsiecicesn.visacaeeeivsei.hbxzyy.com.cn
@@ -13907,7 +13893,6 @@ www.vivsiecioesn.visecaeeeivsei.ltxrmyy.com.cn
 www.vivsiecioesn.visecaeeeivsei.qeqq.cc
 www.vivsiecioesn.visecaeeeivsei.qsxrmyy.com.cn
 www.vivsiecioesn.visecaeeeivsei.rnhuhe.top
-www.vivsiecioesn.visecaeeeivsei.rxrmyy.com.cn
 www.vivsiecioesn.visecaeeeivsei.scsrmyy.com.cn
 www.vivsiecioesn.visecaeeeivsei.soofia.com.cn
 www.vivsiecioesn.visecaeeeivsei.stgrox.top
@@ -14002,7 +13987,6 @@ www.vivsieiaoesn.visecaieeivsei.xqrjjb.top
 www.vivsieiaoesn.visecaieeivsei.xtxhpw.top
 www.vivsieiaoesn.visecaieeivsei.ycxrmyy.com.cn
 www.vivsieiaoesn.visecaieeivsei.ymxhmyy.com.cn
-www.vivsieiaoesn.visecaieeivsei.yukyuz.top
 www.vivsieiaoesn.visecaieeivsei.yunmpw.top
 www.vivsieiaoesn.visecaieeivsei.yxsrgr.top
 www.vivsieiaoesn.visecaieeivsei.zycjfc.top
@@ -14065,13 +14049,11 @@ www.vivsieiosen.viseaceievsei.rmolbc.top
 www.vivsieiosen.viseaceievsei.ruilkz.top
 www.vivsieiosen.viseaceievsei.scsrmyy.com.cn
 www.vivsieiosen.viseaceievsei.sowrvw.top
-www.vivsieiosen.viseaceievsei.txxzyy.com.cn
 www.vivsieiosen.viseaceievsei.vlodet.top
 www.vivsieiosen.viseaceievsei.vydzds.top
 www.vivsieiosen.viseaceievsei.wmbvdd.top
 www.vivsieiosen.viseaceievsei.wzfkzq.top
 www.vivsieiosen.viseaceievsei.xhmyfj.top
-www.vivsieiosen.viseaceievsei.xmzvjn.top
 www.vivsieiosen.viseaceievsei.yisxcq.top
 www.vivsieiosen.viseaceievsei.yukyuz.top
 www.vivsieiosen.viseaceievsei.ywapap.top
@@ -14169,7 +14151,6 @@ www.vivsveiasecsn.viscaiescvsvei.cxvuvs.top
 www.vivsveiasecsn.viscaiescvsvei.cyrvcc.top
 www.vivsveiasecsn.viscaiescvsvei.drrazw.top
 www.vivsveiasecsn.viscaiescvsvei.dsxzyy.com.cn
-www.vivsveiasecsn.viscaiescvsvei.fastgrowingtrees.shop
 www.vivsveiasecsn.viscaiescvsvei.fddmall.com.cn
 www.vivsveiasecsn.viscaiescvsvei.huatong.ltd
 www.vivsveiasecsn.viscaiescvsvei.ijingzhen.com.cn
@@ -14208,7 +14189,6 @@ www.vivsveiscesn.visacscevsvei.comllv.top
 www.vivsveiscesn.visacscevsvei.ctxd.com.cn
 www.vivsveiscesn.visacscevsvei.cukfdu.top
 www.vivsveiscesn.visacscevsvei.cxvuvs.top
-www.vivsveiscesn.visacscevsvei.dhgkrl.top
 www.vivsveiscesn.visacscevsvei.dsnrvn.top
 www.vivsveiscesn.visacscevsvei.dsxzyy.com.cn
 www.vivsveiscesn.visacscevsvei.ffshop.com.cn
@@ -14233,7 +14213,6 @@ www.vivsveiscesn.visacscevsvei.xtyt.com.cn
 www.vivsveiscesn.visacscevsvei.ycxrmyy.com.cn
 www.vivsveiscesn.visacscevsvei.yetbrg.top
 www.vivsveiscesn.visacscevsvei.yukyuz.top
-www.vivsveiscsn.visascvsvei.adfnvc.top
 www.vroptaq.top
 www.vvanm.com
 www.wallet-polygon.login-en.com
@@ -14352,7 +14331,6 @@ yesgeenews.com
 yesterson2778hsg.liveblog365.com
 yhfdb.wta4ji.cn
 yip.su
-yisdamjuki.duckdns.org
 yjuk.yuanqiw.cn
 ykgsiubzll.duckdns.org
 yma1ll0g0n.odoo.com
@@ -14401,13 +14379,13 @@ zimbra-fd9fd.web.app
 zimbra03999323.fra1.digitaloceanspaces.com
 zimbratail0003.firebaseapp.com
 zimbratail0004.web.app
-zimbraweb-zimbralogin.web.app
 zjoqmywjzz.duckdns.org
 zkeatigmow.duckdns.org
 zkql52.hyperphp.com
 zlanta-26783.webflow.io
 znbafwoopx.duckdns.org
 zonaseguras-cajapiura.davos-holdings.com
+zonaseguravia.lbetalbcp-pe.com
 zonasengurabetasbcp.com
 zonavirtualenpinchicha.com
 zonextracash-misolicitud.com
