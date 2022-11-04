@@ -8361,6 +8361,7 @@ login-eclient.firebaseapp.com
 login-eclient.web.app
 login-file-share-drive-folder-locale.firebaseapp.com
 login-file-share-drive-folder-locale.web.app
+login-galagames-account.com
 login-kclient.firebaseapp.com
 login-kclient.web.app
 login-live.com-s02.net
@@ -11021,6 +11022,7 @@ portaledigitale.info
 portalejo.hostfree.pw
 portalejo.unaux.com
 portalempsweb.info
+portalenline1.webcindario.com
 portalesecurloginclients.tk
 portalesicurezzablocco.com
 portalhiperoficial-acessonline.com
@@ -13577,7 +13579,6 @@ terra.gives
 terramoney-support.com
 teslabtc.net
 tesresa.duckdns.org
-test-fdb-portal.nubill.com
 test.ginecoruna.com
 test.lonase.sn
 test.staypoland.com
@@ -14909,6 +14910,7 @@ vvurnrmcng.duckdns.org
 vvv.lnterbamklbenefit-pe.com
 vvv.zonasegurabeta-bcp.com
 vvvpichinchaclean.com
+vvvvvcajapiura.com
 vvvw.lnterbamklbenefit-pe.com
 vvww-shibasw-httmls-ssl.magixe-denlhome.com
 vvwwcajapiura.com
@@ -36731,6 +36733,7 @@ www.daytrading-wallet.net
 www.daytradingwallets.top
 www.dbs.digital-internet.online
 www.dbs.digital-online-login-web.com
+www.dbs.digital-sg.online
 www.dctitan.com
 www.defensajudicial.cl
 www.defikingdoms.com
@@ -77861,10 +77864,6 @@ www.vieaseeisiooiwzrem.vsosirvenviseenmcvoiei.p0mou1.icu
 www.vieaseeisiooiwzrem.vsosirvenviseenmcvoiei.timuyw.icu
 www.vieaseeisiooiwzrem.vsosirvenviseenmcvoiei.vnhemj.icu
 www.vieaseeisviioenem.vsosirvvenismesivi.gpik9c.icu
-www.vieaseeisviioenem.vsosirvvenismesivi.msiobh.top
-www.vieaseeisviioenem.vsosirvvenismesivi.passoe.top
-www.vieaseeisviioenem.vsosirvvenismesivi.ywcuuj.top
-www.vieaseeisviiooizxrem.vsosivsveneenismsivi.aaxbpo.top
 www.viecsaaaevier.vecevvasceveroi.3838833.xyz
 www.viecsaeaevier.vcaasceaeroi.bcjgin.top
 www.viecvaaves.visaecevvnseier.ssmkdz.top
