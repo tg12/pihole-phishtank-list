@@ -79,3 +79,13 @@ Consider Whitelisting the following domains
     Uniswap 			0x664E7894e697323786D953008F3558B564E74A71
     Wrapped Bitcoin 		0x89AfC69bB4a1275E24603764d7737a670553e5F3
     XRP 				rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg
+
+## Support
+
+If you find this project useful, consider supporting it:
+
+| Currency | Address |
+|----------|---------|
+| **Bitcoin (BTC)** | `3QjWqhQbHdHgWeYHTpmorP8Pe1wgDjJy54` |
+| **Ethereum (ETH)** | `0x5851e6145F4773d1585b8686095FB16E368a4dA1` |
+| **ZCash (ZEC)** | `t1KSR5YkNPbjqRSCoLKo5AddFWdm9Kzxh1B` |
